@@ -1915,9 +1915,50 @@ This Section is to be construed:
 
 Where any ambiguity exists as to whether an amendment is "adverse" within the meaning of Section 14.2, that ambiguity shall be resolved **in favor of the citizen and against the proposed amendment**.
 
-### 14.7 Effect on Federal Law
+### 14.7 Effect on Federal Law; Greater Protection Controls Within Utah; Improper Federal Nullification Reachable Under This Act
 
-Nothing in this Section purports to amend the United States Constitution or federal law. Where federal law preempts or supersedes a provision of this Act, that federal law controls. Where this Act provides **greater protection** than federal law, this Act controls within the State of Utah.
+**Nothing in this Section purports to amend the United States Constitution or federal law.** Federal law controls where it **actually preempts** a provision of this Act under the Supremacy Clause (Article VI, Clause 2 of the U.S. Constitution).
+
+**Greater Protection Within Utah:**
+
+> Where this Act provides **greater protection** to citizens than federal law — through enhanced abrogation of immunity, broader Citizen-Council jurisdiction, expanded protected rights, more rigorous accountability for government actors, or otherwise — **this Act controls within the State of Utah**. The provision of greater state-level protections to citizens is **not a conflict** with federal law and does **not** require federal preemption analysis to resolve. It is the long-recognized prerogative of states to grant rights and protections **beyond** the federal floor.
+
+The U.S. Supreme Court has repeatedly recognized that state law may provide **more** protection to citizens than federal law guarantees, without thereby being preempted by federal law. See, e.g., *PruneYard Shopping Center v. Robins*, 447 U.S. 74 (1980) (state constitution can grant rights of access exceeding federal First Amendment); *California v. Greenwood*, 486 U.S. 35 (1988) (state constitution may grant Fourth Amendment-style protections beyond the federal floor); and the long line of cases in which state constitutional and statutory protections of greater scope have been held compatible with the Supremacy Clause.
+
+**Improper Federal Nullification — Reachable Under This Act:**
+
+> A federal judge sitting in or having jurisdiction over the State of Utah who **nullifies, sets aside, or refuses to give effect to** a provision of this Act — **without identifying an actual, specific provision of federal law that preempts the challenged provision** — is **acting outside the law**, and the conduct is reachable under this Act.
+
+Such conduct may be charged, depending on the elements established, as one or more of the following offenses under this title:
+
+- **§1.10 Anarchy** — acting completely outside the law where no actual preemption exists (the judge invokes federal authority but lacks any statutory or constitutional basis for the nullification)
+- **§1.1.4 Reckless Prosecution** — issuing a ruling without engaging on the merits or providing reasoning sufficient to identify the supposedly preemptive federal provision
+- **§1.18 Judicial Duty to Engage on the Merits** — failing to engage with the substance of the Act and the actual federal-state legal framework
+- **§1.20 Judicial Duty to Apply Mandatory Rules and Correct Errors** — failing to apply the constitutional principles that distinguish actual preemption from a state's grant of greater protection
+- **§1.6 Cabalism** — where the improper nullification is the result of small-group coordination of judicial actors producing unjust outcomes for Utah citizens
+- **§1.7 Government Racketeering** — where the nullification is part of a coordinated pattern or scheme using federal judicial authority to extract benefit, punish, or coerce citizens
+- **§1.9 Treason** — where the improper nullification rises to **constitutional warfare** under §1.9: a sustained or coordinated attempt to subvert the Utah Constitution and the protection of Utah citizens by an actor sworn to uphold both that Constitution and the U.S. Constitution
+
+**No Judicial Immunity for Improper Nullification:**
+
+Consistent with **Section 4.1.1**, the doctrine of judicial immunity (including federal judicial immunity built on *Bradley v. Fisher*, *Pierson v. Ray*, *Stump v. Sparkman*, and *Mireles v. Waco*) **does not apply** to violations of this Act. A federal judge who improperly nullifies this Act is **personally liable, civilly and criminally**, under the relevant offense provisions.
+
+**Citizen Council Jurisdiction Over Improper Federal Nullification:**
+
+A Citizen Council under Section 8 may investigate and issue a Joint Declaration of Prosecution against a federal judge for conduct under this subsection. Routing follows the federal-crime path of **Section 8.10(a)** — filing with the United States Attorney for the district where the judge sits and presenting the matter to a **federal grand jury** for consideration of indictment.
+
+**Distinction from Legitimate Preemption Analysis:**
+
+This subsection does **not** reach a federal judge who, after engaging with the substance of the Act and the actual federal-state legal framework, identifies a specific provision of federal law that genuinely preempts a specific provision of this Act and rules accordingly. Legitimate preemption analysis — undertaken in good faith, with reasoning sufficient to permit appellate review, identifying the precise federal provision relied upon and the specific state provision preempted — is the exercise of legitimate federal judicial authority and is **not** reachable under this subsection.
+
+**Construction:**
+
+This subsection shall be construed:
+
+- **In favor** of preserving Utah's authority to grant **greater protection** to its citizens than the federal floor
+- **Against** any federal nullification of this Act that does not rest on an actual, specific, and reasoned preemption analysis
+- **In favor** of distinguishing between (a) legitimate federal preemption (which is preserved) and (b) improper nullification on inadequate or non-existent federal grounds (which is reachable)
+- Consistent with the Statement of Intent's binding rules of construction, particularly the principle favoring the average citizen and against any interpretation that would shield those who substitute power for truth
 
 ---
 
