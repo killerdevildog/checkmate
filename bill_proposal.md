@@ -134,7 +134,7 @@ For purposes of this title, **"government actor"** means any individual acting u
 **Catch-all:**
 
 - Any agent, contractor, deputized private individual, or designee exercising state power over a citizen
-- Any person acting under color of any law, statute, ordinance, regulation, custom, or usage of any jurisdiction
+- Any person acting under color of any law, statute, ordinance, regulation, **policy**, custom, or usage of any jurisdiction
 - Any private entity or individual performing a traditionally governmental function under contract, deputization, or delegation
 
 ### 1.1.1 Collective Bodies and Conspiracy Enhancement
