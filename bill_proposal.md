@@ -1183,6 +1183,44 @@ Consistent with Sections 1.10, 3.1, 4.1, and 4.2:
 - For civil actions at the negligence level (Section 2.3), the claimant must establish the elements by a **preponderance of the evidence**
 - Construction-in-favor-of-the-citizen under Section 1.5.2 applies to ambiguity about which mental state level the conduct meets, **except** that ambiguity in favor of finding a **lower** mental state for purposes of liability — and a higher one for purposes of defense — is not the rule; rather, the trier of fact assesses the evidence and finds the level supported
 
+### 2.10 Construction of "Knowingly" and Cognate Terms
+
+> Wherever the words **"knowingly,"** **"knew,"** **"knowing,"** **"with knowledge,"** **"should have known,"** or any cognate term appears anywhere in this Act, the term shall be construed broadly to include **each** of the following five conditions:
+>
+> **(a) Actual knowledge** — the actor in fact knew the relevant fact or circumstance;
+> **(b) Reckless knowledge** — the actor consciously disregarded a substantial and unjustifiable risk that the relevant fact or circumstance was true (per §2.2) — i.e., **knowingly with disregard**;
+> **(c) Intentional knowledge** — the actor's conscious objective was to engage in the conduct, with awareness with substantial certainty that the relevant fact or circumstance was true or would result (per §2.4) — i.e., **intentional knowing**;
+> **(d) Malicious knowledge** — actual or reckless knowledge **plus** ill will, hatred, evil motive, or a desire to inflict harm on a citizen (per §2.5) — i.e., **maliciously knowing**;
+> **(e) Constructive knowledge** — the actor **should have known**, in that a reasonable government actor in the actor's position, with the actor's training, access to information, and duties of office, would have known the relevant fact or circumstance.
+
+**No "Subjective Ignorance" Defense:**
+
+It is **not a defense** to any offense under this Act in which "knowingly" or a cognate term is an element that the actor lacked subjective certainty of the relevant fact or circumstance. The prosecution may prove the "knowingly" element by establishing **any one** of conditions (a) through (e) above, by the standard of proof set out in §2.9.
+
+**Effect on Classification — Mapping to §§2.2 through 2.5:**
+
+The five conditions above operate as **gateway** conditions to liability. The **classification** at which the offense is then prosecuted maps back to the mens rea framework as follows:
+
+| Gateway Condition Established | Classification Tier |
+|---|---|
+| (b) Reckless knowledge **or** (e) Constructive knowledge | **Reckless tier** (per §2.2) — the default felony floor of the offense |
+| (a) Actual knowledge **or** (c) Intentional knowledge | **Intent tier** (per §2.4) — one-class elevation |
+| (d) Malicious knowledge | **Malice tier** (per §2.5) — two-class elevation; maximum aggravation |
+
+In other words: the **gateway** to liability under any "knowingly"-element offense in this Act is broad — any of conditions (a) through (e). The **severity** at which the offense is then charged is set by which condition is established.
+
+**Construction:**
+
+This subsection shall be construed:
+
+- **Broadly in favor of the citizen** harmed by official conduct, consistent with §1.5.2 and the binding rules of construction in the Statement of Intent
+- **Against** any reading that would permit a government actor to escape liability for a "knowingly" element by claiming subjective ignorance where a reasonable actor in the position would have known
+- Consistent with the principle that a government actor's **duty to know** the relevant facts of their official conduct is part of the duty of office itself — the failure to know what the office requires the actor to know is independently reachable under §16.5 (Gross Dereliction of Public Duty) and §16.7 (Oath Negligence)
+
+**Application — Existing "Knowingly" and Cognate Formulations:**
+
+This construction applies to every appearance of "knowingly" and cognate terms throughout this Act, including without limitation those in §§1.1.3, 1.6, 1.8, 1.9, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.18, 1.19, 1.20, 15.1, 15.3, 16.4, 16.6, 16.9, 16.10, 16.19, 16.20, and 16.25. Where any provision in this Act states a more specific formulation — including the recurring phrase "**knew, or in reckless disregard of clear evidence should have known**" — this subsection's definition is **incorporated by reference** and supplements, rather than displaces, the formulation in the specific provision. Where the specific provision is silent on which conditions satisfy "knowingly," all five conditions of subsection (a) through (e) above apply.
+
 ---
 
 ## Section 3 — Supremacy of Law Over Policy
@@ -2052,6 +2090,526 @@ This Section shall be construed:
 - **Against** government instruments that purport to compel surrender of rights protected under §1.5
 - Consistent with the binding rules of construction in the Statement of Intent
 - In recognition that the principle that **"a law repugnant to the Constitution is void"** is a foundational principle of American constitutional law established in **Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)** — and that this Section codifies and operationalizes that principle for **all** government instruments, not statutes alone
+
+---
+
+## Section 16 — Role-Specific Public Official Offenses
+
+This Section catalogues additional offenses applicable to government actors by role — general public officials, police, judicial officers, and legislative or regulatory officials. It **supplements** Section 1 and does not displace any offense already defined therein. Where a substantive offense in this Section overlaps with an offense already defined elsewhere in this Act, the prosecuting office may charge under either or both, **cumulatively**, consistent with §1.1.1 and the Statement of Intent's binding rules of construction.
+
+The four-level mens rea framework of **Section 2** governs each offense in this Section. The penalty enhancements of **Section 6** apply in full. The Citizen Council activation, investigation, and prosecution mechanisms of **Section 8** apply without modification. The no-immunity rule of **Section 4.1** applies to every offense in this Section.
+
+**Cross-References to Existing Offenses (Not Re-Defined Here):**
+
+| Concept | Defined At |
+|---|---|
+| Official Intimidation | §1.13 |
+| Color of Authority Assault | §1.2 (Assault — Government Context) |
+| Civil Rights Battery | §1.3 (Battery — Government Context) |
+| Selective Enforcement of Law | §1.8 (Obstruction of Justice — Selective Non-Prosecution) |
+| Procedural Suppression | §1.14 (Disclose Adverse Evidence) + §1.18 (Engage on the Merits) |
+| Authority Abuse Under Color of Court | §1.7 (Government Racketeering) + §1.13 (Official Intimidation) |
+
+---
+
+### Subpart A — General Public Official Offenses
+
+The offenses of Subpart A apply to **all government actors** as defined in §1.1 — including, without limitation, police officers, judges, prosecutors, regulators, elected officials, city and county council members, public administrators, and government employees acting under public authority.
+
+### 16.1 Civic Breach of Trust
+
+> A government actor commits **civic breach of trust** where the actor materially violates a duty of trust attached to government office, resulting in measurable harm to one or more citizens, to constitutional rights, or to public resources.
+
+**Elements:**
+
+- The actor is a government actor
+- The actor materially violated a duty of trust attached to public office (whether arising from statute, ordinance, regulation, oath, fiduciary obligation, or this Act)
+- The violation produced measurable harm to one or more citizens, to constitutional rights, or to public resources
+
+**Classification:**
+
+- Negligent breach: **civil only** (per §2.3), with restitution and structural remedies
+- Reckless breach: **Class 3 felony**
+- Intentional breach: Class 2 felony per §2.4
+- Malicious breach: Class 1 felony per §2.5
+- Penalty enhancements under Section 6 apply
+
+### 16.2 Institutional Retaliation
+
+> A government actor commits **institutional retaliation** where the actor takes, directs, or facilitates adverse action against a citizen — directly, indirectly, formally, or informally — because of the citizen's status or conduct as a whistleblower, journalist, complainant, critic, political opponent, or person otherwise exercising a right protected under §1.5.
+
+**Elements:**
+
+- The actor is a government actor
+- The actor took, directed, or facilitated adverse action against a citizen
+- The action was caused by, motivated by, or substantially influenced by the citizen's protected status or protected activity
+
+**Classification:**
+
+- **Class 2 felony** (Class 1 felony where committed with malice or as part of a coordinated pattern)
+- Where the retaliation targets a Citizen Council member, declarant, or witness under Section 8, the offense is also reachable under §8.6, **cumulatively**
+- Where the retaliation is part of a pattern or coordinated by multiple actors, charge cumulatively under §1.6 (Cabalism), §1.7 (Government Racketeering), or §1.9 (Treason — procedural-warfare prong)
+
+### 16.3 Reckless Rights Endangerment
+
+> A government actor commits **reckless rights endangerment** where the actor, while performing official duties, acts with reckless disregard toward the constitutional or civil rights of one or more citizens, whether or not actual deprivation results.
+
+**Elements:**
+
+- The actor is a government actor
+- The conduct was performed under color of authority
+- The actor acted with reckless disregard (per §2.2) toward a right protected under §1.5
+- The conduct created a substantial and unjustifiable risk of rights deprivation
+
+**Classification:**
+
+- **Class 3 felony** by default
+- Where actual deprivation results, charge cumulatively under §1.3 (Battery)
+- Penalty enhancements under Section 6 apply
+
+### 16.4 Deliberate Record Distortion
+
+> A government actor commits **deliberate record distortion** where the actor knowingly falsifies, omits, manipulates, or misrepresents official records, proceedings, evidence, reports, or documentation.
+
+**Elements:**
+
+- The actor is a government actor
+- The record at issue is an official record (any document, recording, log, report, evidence, or proceeding generated, maintained, or relied upon in the exercise of public office)
+- The actor knowingly falsified, omitted, manipulated, or misrepresented the record
+- The conduct was material — capable of affecting an investigation, prosecution, regulatory action, public report, budget, contract, or other official matter
+
+**Classification:**
+
+- **Class 2 felony** (Class 1 felony where committed with malice, or where the distortion affected a criminal prosecution against a citizen)
+- Where the distortion contributed to a wrongful conviction, charge cumulatively under §1.1.3 (Wrongful Conviction as Conspiracy)
+- Where committed by a prosecutor, may also be charged under §1.14
+- Where committed by a judge or court personnel, may also be charged under §1.20
+- Penalty enhancements under Section 6 apply
+
+### 16.5 Gross Dereliction of Public Duty
+
+> A government actor commits **gross dereliction of public duty** where the actor extremely fails to perform a required public duty, and that failure causes, or is a substantial factor in, foreseeable public harm.
+
+**Elements:**
+
+- The actor is a government actor
+- A specific duty is attached to the actor's office (by statute, ordinance, regulation, oath, or this Act)
+- The actor's failure to perform was extreme — a substantial departure from what a reasonable government actor in the position would do
+- The failure caused, or was a substantial factor in, foreseeable harm to the public or to identifiable citizens
+
+**Classification:**
+
+- Negligent failure: **civil only**
+- Reckless failure: **Class 3 felony**
+- Intentional failure: Class 2 felony per §2.4
+- Penalty enhancements under Section 6 apply
+
+### 16.6 Public Trust Fraud
+
+> A government actor commits **public trust fraud** where the actor knowingly makes, or knowingly procures the publication of, a materially false official statement intended to mislead the public regarding law, budgets, investigations, policy, emergencies, or constitutional powers.
+
+**Elements:**
+
+- The actor is a government actor acting in official capacity
+- The actor made or procured a public statement
+- The statement was materially false
+- The actor knew the statement was false, or acted in reckless disregard of clear evidence of falsity
+- The statement was intended to mislead, or a reasonable actor would have foreseen that it would mislead, the public
+
+**Classification:**
+
+- **Class 2 felony**
+- **Class 1 felony** where the false statement affected an emergency response, an election, a criminal prosecution, or a financial obligation falling on citizens
+- Where part of a coordinated pattern, charge cumulatively under §1.6 (Cabalism) or §1.7 (Government Racketeering)
+- Penalty enhancements under Section 6 apply
+
+### 16.7 Oath Negligence
+
+> A government actor commits **oath negligence** where the actor fails to maintain working knowledge of the constitutional oath attached to their office, or of the substantive constitutional protections that the oath obligates them to uphold.
+
+**Classification:**
+
+- **Civil infraction** — administrative fine of up to one thousand dollars ($1,000)
+- **Mandatory remedial constitutional training** as a condition of continued service
+- **Repeat oath negligence** within twenty-four (24) months: **Class A misdemeanor** and ineligibility for office until satisfactory completion of remedial training and re-administration of the oath
+
+### 16.8 Oath Verification Citation
+
+> Any citizen may, while a government actor is engaged in the performance of public duties and identifiable as acting in an official capacity, request that the actor verbally recite the oath of office relevant to their position.
+
+**Procedure:**
+
+- The citizen states the request clearly and identifies it as an oath verification request under this section
+- The actor shall, within a reasonable time and at the next non-urgent break in the actor's duties, **substantially recite** the oath of office
+- "Substantially recite" means stating the operative substance of the oath — not necessarily verbatim
+- The request and response shall, where practicable, be recorded by the citizen, the actor, or both
+
+**Failure to Substantially Recite:**
+
+A failure to substantially recite the oath, after a reasonable opportunity to do so, results in:
+
+- A **civil citation** under this section
+- A **mandatory administrative fine of three hundred dollars ($300)**, payable to a citizen-rights education fund (or successor account designated by statute)
+- **Mandatory remedial constitutional training** as a condition of continued service
+
+**Limitations:**
+
+- Not more than **once per interaction** between the same citizen and the same actor
+- Shall not be invoked in a manner that **obstructs an active emergency response** — including active medical emergency, active pursuit, active rescue, active fire suppression, or other immediate life-safety operation
+- Applies only while the actor is **identifiable as acting in an official capacity** (uniform, badge, marked vehicle, official identification, or self-identification as an official)
+- Does not apply where the actor is performing a function that, by law, requires no oath
+
+**Defenses Limited:**
+
+- Lack of recent rehearsal of the oath is **not** a defense
+- The fact that the oath is "on file" or otherwise documented is **not** a defense to the recital obligation
+- A claim that the actor was "too busy" is not a defense where no active emergency response was in progress
+
+### 16.9 Failure of Transparency
+
+> A government actor commits **failure of transparency** where the actor knowingly obstructs reasonable public access to budgets, official records, proceedings, contracts, or official decisions, where disclosure is legally required.
+
+**Includes, without limitation:**
+
+- Refusing or delaying lawful records requests beyond statutory or reasonable timeframes
+- Imposing fees, procedural burdens, or formats designed to discourage access
+- Redacting beyond what the law permits, or asserting overbroad exemption claims
+- Closing meetings or proceedings that the law requires to be open
+- Concealing contracts, decisions, or expenditures from required public reporting
+
+**Classification:**
+
+- **Civil infraction** — administrative fine up to five thousand dollars ($5,000) per violation
+- **Class A misdemeanor** where the obstruction is intentional and sustained
+- **Class 3 felony** where the obstruction is part of a pattern, or designed to conceal misconduct otherwise reachable under this Act — and the underlying misconduct may be charged cumulatively under §1.8 (Obstruction) or §1.6 (Cabalism)
+
+### 16.10 Abuse Under Color of Office
+
+> A government actor commits **abuse under color of office** where the actor uses official office for personal, political, ideological, relational, or financial gain outside any legitimate governmental purpose.
+
+**Elements:**
+
+- The actor is a government actor
+- The actor exercised, invoked, or traded on the authority or the perception of public office
+- The exercise was for personal, political, ideological, relational, or financial benefit — to the actor, or to a person with whom the actor has a personal, political, financial, or ideological relationship
+- The benefit sought or obtained was outside any legitimate governmental purpose
+
+**Classification:**
+
+- **Class 2 felony** (Class 1 felony where committed with malice or as part of a pattern)
+- Where multiple officials participated, charge cumulatively as conspiracy under §1.1.1 and as Cabalism under §1.6 or Government Racketeering under §1.7
+
+---
+
+### Subpart B — Police-Specific Offenses
+
+The offenses of Subpart B apply, **in addition to** the offenses of Subpart A and the offenses of Section 1, to **peace officers, sheriffs' deputies, federal agents, corrections officers, and any other government actor exercising police authority**.
+
+### 16.11 Badge Coercion
+
+> A peace officer commits **badge coercion** where the officer uses police identity or police authority for non-lawful personal leverage — including, without limitation, to obtain sexual contact, money, property, employment-related benefits, or compliance with personal demands unrelated to any legitimate police function.
+
+**Classification:**
+
+- **Sexual badge coercion** — leveraging police authority to obtain sexual contact — is **per se** a **Class 1 felony**, chargeable cumulatively under generally applicable sexual-assault and rape statutes; no immunity defense applies (per §4.1)
+- All other badge coercion: **Class 2 felony** by default, elevated per §2.4 / §2.5
+- Where a pattern exists, charge cumulatively under §1.7 (Government Racketeering) and §1.13 (Official Intimidation)
+
+### 16.12 Escalation Misconduct
+
+> A peace officer commits **escalation misconduct** where the officer unnecessarily increases tension, danger, or force in a citizen encounter, where reasonable de-escalation alternatives were available and apparent under the circumstances.
+
+**Elements:**
+
+- The officer was engaged in a citizen encounter
+- A reasonable, less-confrontational alternative was available and apparent under the circumstances
+- The officer chose escalation over de-escalation
+- The escalation was unnecessary to achieve any legitimate police objective
+
+**Classification:**
+
+- **Class 3 felony** (Class 2 where injury or rights deprivation results)
+- Where escalation produces use of force, charge cumulatively under §16.15 and §1.3 (Battery) as applicable
+- Penalty enhancements under Section 6 apply, particularly the long-term-deprivation-of-rights, family-welfare-anxiety, and psychological-harm enhancements
+
+### 16.13 Investigative Negligence
+
+> A peace officer commits **investigative negligence** where the officer fails to preserve evidence, document events honestly, or follow legally required investigative procedures.
+
+**Includes, without limitation:**
+
+- Failure to preserve scene evidence
+- Failure to record statements where law or policy requires recording
+- Failure to document exculpatory information
+- Selective documentation that omits material facts
+- Failure to follow required chain-of-custody procedures
+- Failure to disclose investigative material to the prosecutor's office where required
+
+**Classification:**
+
+- Negligent failure: **civil only** (per §2.3)
+- Reckless failure: **Class 3 felony**
+- Intentional failure (including intentional omission of exculpatory material): **Class 2 felony**, and may be charged cumulatively under §16.4 (Deliberate Record Distortion) and §1.14 (where the prosecutor's downstream Brady duty is implicated)
+
+### 16.14 Enforcement Without Articulable Basis
+
+> A peace officer commits **enforcement without articulable basis** where the officer detains, searches, cites, or threatens enforcement against a citizen without reasonably articulable legal grounds.
+
+**Distinction from §1.10 (Anarchy):**
+
+- **§1.10 Anarchy** reaches conduct that has **no lawful basis whatsoever** — no statute, regulation, or constitutional authority authorizes it
+- **This section** reaches conduct that purports to operate within a recognized legal framework but **lacks the articulable predicate** that the framework requires (e.g., reasonable suspicion, probable cause, or analogous standards)
+
+**Classification:**
+
+- **Class 3 felony** (Class 2 where conducted in reckless disregard of the citizen's clearly established rights, per §2.2)
+- Penalty enhancements under Section 6 apply
+- Where actual deprivation of rights results, charge cumulatively under §1.3 (Battery)
+
+### 16.15 Reckless Force Deployment
+
+> A peace officer commits **reckless force deployment** where the officer uses force with reckless disregard toward proportionality or foreseeable harm.
+
+**Elements:**
+
+- The officer used force against a citizen
+- A reasonable officer in the position would have recognized that the force was disproportionate, or foreseeably more harmful than necessary
+- The officer used the force with conscious disregard of that risk (per §2.2)
+
+**Classification:**
+
+- **Class 2 felony**
+- **Class 1 felony** where serious bodily injury results
+- Where death results: chargeable as homicide under generally applicable law, and as a capital offense under Section 11 where the elements are met
+- May be charged cumulatively with §1.3 (Battery), §16.12 (Escalation Misconduct), and §1.12 (Terrorism) as applicable
+
+---
+
+### Subpart C — Judicial Offenses
+
+The offense of Subpart C applies to judges and other judicial officers (§1.1), in addition to the duties imposed on judges under §§1.17 through 1.20.
+
+### 16.16 Judicial Recklessness
+
+> A judge commits **judicial recklessness** where the judge issues a ruling or order with gross disregard for clearly established law, the rights protected under §1.5, or the evidence in the record of the case before them.
+
+**Elements:**
+
+- The actor is a judge or other judicial officer (§1.1)
+- The ruling or order at issue departed grossly from clearly established law, the rights protected under §1.5, or the evidence in the record
+- The judge was aware, or in reckless disregard of clear evidence should have been aware, of the departure
+
+**Distinction from Other Judicial Duties:**
+
+- **§1.18 (Engage on the Merits)** focuses on the failure to engage and to issue a reasoned ruling
+- **§1.20 (Apply Mandatory Rules and Correct Errors)** focuses on the failure to apply mandatory rules and correct errors when discovered
+- **This section** reaches the substantive content of rulings that, even with engagement and rule-application, still depart grossly from clearly established law, the rights of the parties, or the evidence
+
+**Classification:**
+
+- **Class 2 felony** (Class 1 felony where part of a pattern, or where the ruling produced a wrongful conviction or sustained deprivation of rights)
+- Judicial immunity does not apply, consistent with §4.1
+- May be charged cumulatively with §§1.18 and 1.20, and where applicable §1.1.3 (Wrongful Conviction as Conspiracy) and §1.6 (Cabalism)
+
+---
+
+### Subpart D — Legislative, Council, and Regulatory Offenses
+
+The offenses of Subpart D apply to **state legislators, county council members, city council members, mayors, executive-branch officials, regulatory commissioners, and any government actor with budget, contracting, or regulatory authority**. Subpart D shall be read together with the dissenting-member carve-out of §1.1.1 — a member who voted against, formally objected to, or publicly dissociated from the offending action on the record is not liable under this Subpart for that action.
+
+### 16.17 Reckless Public Expenditure
+
+> A government actor with budget or appropriations authority commits **reckless public expenditure** where the actor approves spending with gross disregard toward fiscal sustainability, taxpayer impact, foreseeable financial harm, or public necessity.
+
+**Classification:**
+
+- Negligent: **civil only**, with restitution and structural remedies
+- Reckless: **Class 4 felony** where measurable harm results; **Class A misdemeanor** where harm is incipient
+- Intentional: Class 3 felony per §2.4
+- Penalty enhancements under Section 6 apply
+
+### 16.18 Fiduciary Negligence in Office
+
+> A government actor with stewardship over public resources commits **fiduciary negligence in office** where the actor fails to exercise reasonable care over those resources, where a reasonable actor in the position would have done otherwise.
+
+**Classification:**
+
+- Negligent failure: **civil infraction** with restitution
+- Reckless failure: **Class A misdemeanor** (Class 4 felony where the loss exceeds fifty thousand dollars ($50,000) or where loss recurs in a pattern)
+- Intentional failure: **Class 3 felony**
+
+### 16.19 Municipal Waste Misconduct
+
+> A government actor commits **municipal waste misconduct** where the actor knowingly approves expenditures serving political image, favoritism, or private interests while materially harming public finances.
+
+**Classification:**
+
+- **Class 3 felony** (Class 2 felony where committed with malice or as part of a pattern)
+- May be charged cumulatively with §1.7 (Government Racketeering) and §16.21 (Preferential Contracting Abuse)
+
+### 16.20 Deliberate Budget Concealment
+
+> A government actor commits **deliberate budget concealment** where the actor knowingly hides liabilities, deficits, long-term obligations, project overruns, or fiscal risks from the public or from oversight bodies.
+
+**Classification:**
+
+- **Class 2 felony**
+- **Class 1 felony** where the concealed obligation exceeds one percent (1%) of the affected entity's annual budget, or where the concealment caused officials, oversight bodies, or voters to act on materially false information
+- May be charged cumulatively with §16.6 (Public Trust Fraud) and §16.9 (Failure of Transparency)
+
+### 16.21 Preferential Contracting Abuse
+
+> A government actor commits **preferential contracting abuse** where the actor approves a public contract primarily due to favoritism, personal or familial relationships, political support, or indirect personal benefit, rather than on the merits of the bid or proposal.
+
+**Classification:**
+
+- **Class 2 felony** (Class 1 felony where the contract value exceeds one hundred thousand dollars ($100,000), or where the actor or a person within the actor's household received indirect personal benefit)
+- May be charged cumulatively with §1.6 (Cabalism), §1.7 (Government Racketeering), and §1.8 (Obstruction)
+
+### 16.22 Negligent Debt Expansion
+
+> A government actor commits **negligent debt expansion** where the actor approves substantial public debt obligations without reasonable analysis of repayment feasibility or long-term municipal impact.
+
+**"Substantial" defined:** Any debt obligation exceeding **five percent (5%)** of the affected entity's annual operating budget, or exceeding **one million dollars ($1,000,000)**, whichever is less.
+
+**Classification:**
+
+- Negligent: **civil only**, with restitution and the forfeiture remedies of Section 10
+- Reckless: **Class 3 felony**
+- Intentional (where the actor knew the debt could not realistically be repaid by the affected entity without burdening citizens beyond reasonable foreseeability): **Class 2 felony**, and may be charged cumulatively under §1.9 (Treason — financial-warfare prong)
+
+### 16.23 Regulatory Weaponization
+
+> A government actor commits **regulatory weaponization** where the actor uses regulations, licensing, inspections, or agency authority selectively against disfavored persons or groups.
+
+**Distinction from §1.9 (Treason — regulatory-warfare prong):**
+
+- **§1.9** requires sustained or coordinated regulatory warfare against citizens collectively, the U.S. Constitution, or the Utah Constitution
+- **This section** reaches isolated or smaller-pattern selective regulatory action against a person or group, below the Treason threshold
+
+**Classification:**
+
+- **Class 2 felony** (Class 1 felony where part of a pattern)
+- May be charged cumulatively under §1.7 (Government Racketeering), §1.8 (Obstruction), §1.13 (Official Intimidation), and where applicable §1.9 (Treason)
+
+### 16.24 Emergency Power Abuse
+
+> A government actor commits **emergency power abuse** where the actor invokes emergency powers, emergency procurement mechanisms, or emergency procedural shortcuts in the absence of genuine necessity, in order to bypass oversight or accountability.
+
+**Classification:**
+
+- **Class 2 felony**
+- **Class 1 felony** where invoked to suppress rights protected under §1.5, to bypass Section 8 Citizen Council mechanisms, or to procure contracts in violation of §16.21
+- May be charged cumulatively with §1.10 (Anarchy) where the emergency invocation lacked any lawful basis
+
+---
+
+### Subpart E — Obstruction of Utah's Federal Representatives Through Misleading Testimony
+
+The offense of Subpart E reaches a class of conduct that occurs outside Utah's borders but inflicts measurable harm on Utah citizens: the knowing misleading of, or obstruction of the truth-finding function of, a Utah United States Senator or Utah United States Representative during testimony before any committee, subcommittee, hearing, briefing, deposition, or interview of the United States Congress.
+
+When a witness — whether a federal official, a corporate executive, an industry official, an agency employee, a contractor, or any other person — appears before Congress and knowingly misleads, the legislative judgments that Utah's representatives subsequently reach are necessarily based on something less than the truth. **Utah citizens are then misrepresented in Congress, because the votes their representatives cast were procured by deception.** That harm is reachable under this Act consistent with §14.7 and the dual-sovereignty principles cited therein.
+
+### 16.25 Misleading Testimony to Utah's Federal Representatives
+
+> Any person who, while testifying or providing information to the United States Congress in any committee hearing, subcommittee hearing, briefing, deposition, interview, or other official proceeding (whether public or private), **knowingly makes a materially misleading statement, knowingly gives an evasive non-answer to a clear question, or knowingly obstructs the truth-finding function of a Utah United States Senator or Utah United States Representative**, commits a **Class 2 felony** under this title.
+
+**Elements:**
+
+- The actor (witness, executive, official, employee, contractor, or other person) was providing testimony, information, or response to a question to the United States Congress
+- A Utah United States Senator or Utah United States Representative was the questioner, a member of the committee or subcommittee, or otherwise a participant in the proceeding — or the testimony was made part of a record on which Utah's federal representatives subsequently relied or were expected to rely
+- The actor **knowingly** made a materially misleading statement, knowingly gave an evasive non-answer to a clear question, or knowingly obstructed the truth-finding function of the proceeding
+- The misleading statement, evasive non-answer, or obstruction was material to a matter of legitimate congressional inquiry
+
+**"Knowingly Misleading" — Defined:**
+
+For purposes of this section, knowingly misleading conduct includes, without limitation:
+
+- Statements that are **technically true but framed to mislead**
+- **Strategic or calculated non-answers** — e.g., "we follow the law," "users agreed to our terms of service," "I am not familiar with that terminology" — given in response to a direct question that called for a substantive factual answer
+- Pleading **ignorance of facts** that the actor in fact knew or in reckless disregard of clear evidence should have known
+- **Deferring to legal documents** — terms of service, end-user license agreements, privacy policies, warranty disclaimers, or similar adhesion documents — as a substitute for an honest factual answer about the substance of the conduct under inquiry
+- "**Least untruthful**" answers — answers calibrated to be technically defensible while concealing the substance from the questioner
+- **Refusing to define common terms** in good faith, in order to avoid answering the question
+- **Running out the clock** — extended preambles, irrelevant background, or procedural objections used to consume the questioner's allotted time without answering
+
+**Illustrative Examples (Drawn From the Public Record):**
+
+The following are real, public examples of the **type of conduct** this section reaches. They are provided for guidance and to make the elements above concrete; they are not adjudicated findings under this Act:
+
+**1. Tobacco Industry Chief Executives — April 14, 1994.** In a hearing before the U.S. House Subcommittee on Health and the Environment chaired by Rep. Henry Waxman, the chief executives of the seven largest U.S. tobacco companies each testified under oath that they did not believe nicotine was addictive. Internal company documents later produced through litigation established that the companies had long known that nicotine was addictive. *See* "Regulation of Tobacco Products," Hearings before the Subcommittee on Health and the Environment, House Committee on Energy and Commerce, 103d Cong., 2d Sess. (Apr. 14, 1994).
+
+**2. Director of National Intelligence — March 12, 2013.** In a hearing before the Senate Select Committee on Intelligence on worldwide threats, Senator Ron Wyden asked the then-Director of National Intelligence: *"Does the NSA collect any type of data at all on millions or hundreds of millions of Americans?"* The Director answered: *"No, sir. ... Not wittingly."* Documents disclosed approximately three months later established that the National Security Agency had been collecting such data on a mass scale. The Director subsequently described his answer as the *"least untruthful"* answer he believed he could give in an unclassified setting. The exchange illustrates the "least untruthful" form of obstruction expressly reached by this section.
+
+**3. Social-Media Chief Executive — April 10–11, 2018.** In hearings before the Senate Committees on the Judiciary and on Commerce, Science, and Transportation (April 10) and the House Committee on Energy and Commerce (April 11) following the Cambridge Analytica disclosures, the chief executive of a major social-media company was asked, repeatedly and in various forms, about (a) what data the company collected from users and from non-users, (b) what the company did with that data, and (c) what control users actually had over collection. The witness repeatedly deferred to "**users have control over their information**," "**users agree to our terms of service**," and similar phrasings, in lieu of substantive factual answers. When asked about so-called "shadow profiles" of persons who had never consented to any agreement with the company, the witness professed unfamiliarity with the term itself. The pattern illustrates the "**deferring to a user agreement as a substitute for a factual answer**" form of obstruction expressly reached by this section. *A user agreement is not a contract in any meaningful sense in the consumer context; it cannot consent on behalf of a non-user; and invoking it in lieu of a direct answer is itself a form of obstruction under this section.*
+
+**4. Search-and-Mobile-Platform Chief Executive — December 11, 2018.** In a hearing before the U.S. House Committee on the Judiciary, the chief executive of a major search-and-mobile-platform company was asked whether the company tracked the location of users of its mobile operating system **after the user had disabled location-tracking settings**. The responses were technically framed and did not directly resolve the question. Subsequent investigations by independent journalists and researchers established that location data continued to be collected and transmitted in such circumstances. The pattern illustrates the "**technically true but framed to mislead**" form of obstruction expressly reached by this section.
+
+**5. Bank Chief Executive — September 20, 2016.** In a hearing before the Senate Committee on Banking, Housing, and Urban Affairs regarding the opening of millions of unauthorized customer accounts, the bank's chief executive repeatedly deflected questions about senior-management awareness of the practice. Subsequent disclosures established that senior executives, including the witness, had been aware of the practice for years. The pattern illustrates the "**pleading ignorance of facts the witness in fact knew**" form of obstruction expressly reached by this section.
+
+**Why These Examples Matter Under This Act:**
+
+In each of the foregoing instances, **Utah's federal representatives were members of the bodies in question, or were subsequently required to legislate on the basis of the testimony given**. Where Utah's federal representatives were misled, the votes they cast on subsequent legislation, appropriations, regulations, and oversight matters were procured by deception — and **Utah citizens were misrepresented in Congress**. That harm is the harm this section addresses.
+
+**Classification:**
+
+- **Class 2 felony** by default
+- **Class 1 felony** where:
+  - The misleading testimony related to a matter of national security, public health, financial stability, election integrity, or the constitutional rights of citizens; or
+  - The testimony was given **under oath or affirmation**, even where the strict perjury threshold of literal falsehood is not met because the statement was technically true but materially misleading; or
+  - The conduct produced subsequent congressional action (legislation, appropriation, regulation, or non-action) on the basis of the misleading record
+- Where the conduct is part of a coordinated effort by an industry, agency, organization, or other group to mislead Congress, charge **cumulatively** under §1.6 (Cabalism), §1.7 (Government Racketeering), and where the elements are met §1.9 (Treason — information-warfare prong)
+- Where the witness is a federal official acting under color of federal authority, the doctrine of *In re Neagle* and analogous federal-officer immunities are abrogated in this state consistent with §14.7
+- Penalty enhancements under Section 6 apply
+
+**Defenses Limited:**
+
+- A claim that the testimony was "**literally true**" or "**technically accurate**" is **not** a defense where the testimony was knowingly framed to mislead the questioner
+- A claim that the questioner could have asked a different or follow-up question is **not** a defense
+- **Reliance on a "user agreement," "terms of service," "end-user license agreement," "privacy policy," or other unilaterally-imposed adhesion document** as a substitute for a substantive factual answer is **not** a defense — such instruments are not contracts in any meaningful sense in the consumer context, they cannot consent on behalf of non-parties, and invoking them in lieu of a direct answer is itself a form of obstruction reachable under this section
+- A claim of attorney-client privilege, deliberative-process privilege, executive privilege, trade-secret privilege, or other privilege does **not** excuse a knowingly misleading answer; the proper response is to **assert the privilege explicitly**, on the record, with specificity sufficient for the questioner to evaluate it — not to mislead
+- A claim that the testimony was given in another jurisdiction (e.g., Washington, D.C.) rather than within Utah is **not** a defense; the harm is to Utah's representation in Congress and therefore to Utah citizens, and this Act reaches that harm consistent with Section 14.7
+- The fact that a federal perjury statute did not result in prosecution is **not** a defense; this section operates independently of the federal perjury statute and reaches conduct (technically true misleading, evasive non-answers, ignorance-pleading, agreement-deferral) that the federal perjury statute does not reach
+
+**Jurisdictional Reach:**
+
+This section applies to any person who knowingly engages in the conduct described, without regard to:
+
+- Whether the person is a Utah resident
+- Where the testimony was physically given
+- Whether the person is a government actor under §1.1
+- Whether the person was under oath or affirmation at the time of the testimony
+
+Jurisdiction rests on the **harm to Utah citizens** through the misleading of their elected federal representatives. A person sufficiently connected to Utah by economic, regulatory, or political activity — including any business that operates in Utah, any federal agency whose conduct affects Utahns, and any official whose testimony shapes federal policy applicable in Utah — is reachable under this Act.
+
+---
+
+### 16.26 Penalty Structure (Cross-Reference)
+
+The classifications above operate against the four-level mens rea framework of **Section 2** and the existing penalty classifications of this title. For convenience, the relationship between mental state and offense classification under this Section is summarized as follows:
+
+| Mental State | Default Outcome Under This Section |
+|---|---|
+| **Negligence** (§2.1, §2.3) | Civil infraction, with restitution and structural remedies; criminal liability only where this Section expressly so provides |
+| **Recklessness** (§2.1, §2.2) | Misdemeanor or felony as designated; default felony floor for substantive abuses of authority |
+| **Intent** (§2.1, §2.4) | One-class elevation from the reckless baseline |
+| **Malice** (§2.1, §2.5) | Maximum classification within the statutory range; presumptive felony |
+
+This Section does not displace any classification specified in Section 1 or elsewhere in this Act; where two classifications apply to the same conduct, the **higher** controls.
+
+### 16.26 Aggravating Factors (Cross-Reference)
+
+The penalty enhancements of **Section 6** apply in full to every offense under this Section. In addition to the enhancements enumerated at §6, conduct under this Section is subject to enhanced penalty where:
+
+- The conduct was repeated
+- Vulnerable populations were harmed
+- Constitutional rights were knowingly violated
+- Evidence was concealed
+- Retaliation occurred (also independently chargeable under §16.2)
+- Harm affected large numbers of citizens
+- The actor was acting under sworn-oath authority at the time of the conduct
+
+These factors are read together with §6. To the extent a factor is already enumerated at §6, this Section does not duplicate the enhancement; it identifies the factor for clarity in the role-specific contexts addressed by Subparts A through D.
 
 ---
 
