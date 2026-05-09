@@ -158,8 +158,9 @@ Questions, edits, or feedback on the draft are welcome at the same address with 
 **Community-specific guides:**
 
 - **[`lgbtq.md`](lgbtq.md)** — why LGBTQ+ citizens have specific reasons to support this bill, with documented patterns of government abuse the bill addresses (selective enforcement, custody/family-court targeting, workplace retaliation, police failure to protect, pre-*Lawrence* convictions, HIV criminalization, threats against children) and the corresponding bill provisions.
+- **[`blacklivesmatter.md`](blacklivesmatter.md)** — why Black citizens have specific reasons to support this bill, with documented cases (George Floyd, Breonna Taylor, Tamir Rice, Atatiana Jefferson, Botham Jean, Walter McMillian, Anthony Ray Hinton, the Central Park Five, *Floyd v. City of New York* stop-and-frisk litigation) and the bill provisions that reach each pattern. Also notes that the foundational *"color of law"* cases (*Classic*, *Screws*, *Monroe*) were all Black-civil-rights cases — this bill picks up where they left off.
 
-If you'd like to write a community-specific guide for another group (veterans, parents, small-business owners, religious communities, etc.), please open a pull request — these guides are how the bill becomes accessible to the people it protects.
+If you'd like to write a community-specific guide for another group (veterans, parents, small-business owners, religious communities, immigrants, the disability community, etc.), please open a pull request — these guides are how the bill becomes accessible to the people it protects.
 
 **Questions, feedback, and contributions:**
 
