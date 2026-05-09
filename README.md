@@ -4,6 +4,24 @@
 
 ---
 
+## Talk to an AI about this bill
+
+Want to understand how this bill applies to **your** life — or how it could help **fix the legal system and protect America from corruption**? **Have a conversation with an AI about it.**
+
+Open a new chat with [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI assistant. Then copy the contents of **[`AI_chat.md`](AI_chat.md)** and paste it into the new chat as your first message. The AI will read the entire bill (it's bundled into that one file) and be ready to:
+
+- Explain the bill in plain language — no legalese
+- **Apply it to your situation** — *"I had this happen to me; how would the bill have changed that?"*
+- Discuss how the bill could **fix the legal system** and **protect against corruption** — honestly, including trade-offs and limitations
+- **Help you draft a GitHub issue or pull request** if you spot something missing, unclear, or needing improvement
+- **Help you draft an email** to the project if you have questions or feedback
+
+Then ask anything — about the bill itself, about your specific situation, about why you should or shouldn't support it. AI doesn't replace reading the actual bill, but it makes the bill accessible regardless of your legal background.
+
+If your AI complains the message is too long, paste [`bill_proposal.md`](bill_proposal.md) directly instead — same result.
+
+---
+
 ## In one paragraph
 
 When someone in government — a judge, a cop, a prosecutor, a politician, a school official, a code inspector — uses their power to harm a citizen, **they should face real consequences**. Not just policy reviews. Not just paid leave. Real civil and criminal accountability, the same way you or I would face it if we broke the law. **Operation Checkmate** closes the gap that currently lets officials act outside the law — sometimes maliciously — without ever being held accountable. And it gives ordinary citizens, not the political class, the means to enforce that accountability.
@@ -130,6 +148,7 @@ Questions, edits, or feedback on the draft are welcome at the same address with 
 **Read the bill:**
 
 - **[`bill_proposal.md`](bill_proposal.md)** — the full bill text. Long, but it's the real thing.
+- **[`AI_chat.md`](AI_chat.md)** — a single bundled prompt you can paste into ChatGPT / Claude / Grok / Gemini to chat with the bill (see the *"Talk to an AI"* section above).
 - **[`advanced_readme.md`](advanced_readme.md)** — a section-by-section overview with section numbers, classifications, and cross-references.
 - **[`dictionary.md`](dictionary.md)** — plain-language definitions of legal terms (color of law, judicial immunity, qualified immunity, etc.) with citations to the controlling Supreme Court cases.
 - **[GitHub Releases](https://github.com/killerdevildog/checkmate/releases)** — milestone PDF snapshots for distribution and review.

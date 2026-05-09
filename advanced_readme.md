@@ -10,6 +10,8 @@ The bill text lives in **[`bill_proposal.md`](bill_proposal.md)** — a single, 
 
 A reference dictionary of key terms and phrases used in the bill is maintained at **[`dictionary.md`](dictionary.md)** (alphabetical, with citations to controlling case law where applicable).
 
+Citizens who prefer to engage with the bill through an AI assistant can copy **[`AI_chat.md`](AI_chat.md)** into a new ChatGPT / Claude / Grok / Gemini chat — it's a single bundled prompt with the full bill, dictionary, and instructions to the AI on how to help.
+
 ---
 
 ## What This Bill Introduces
