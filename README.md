@@ -49,6 +49,8 @@ The biggest shifts:
 
 8. **Citizens can correct unjust convictions.** A unanimous Council of **64 citizens** can nullify a conviction, reduce it, spare a person from the death penalty, or extend public forgiveness — restoring civil and political rights. A parallel safeguard for cases the appellate system has failed to correct.
 
+9. **The presumption of innocence becomes operational.** Prosecutors now have **affirmative, criminally enforceable duties** that protect the presumption of innocence: (a) to disclose evidence that undermines their case **directly to the jury** in open court — failure is obstruction of justice; (b) to **stop prosecuting** when they know or recklessly disregard evidence that the accused is innocent — continuing to push forward is malicious prosecution; and (c) to **seek reduction or dismissal** when evidence (even years after conviction) shows the charge doesn't fit — failure is a Class 3 felony. Where any of this conduct results in the citizen's death (carried-out capital sentence, death in custody, or suicide), it is elevated to a capital offense.
+
 ---
 
 ## Why it's called "Checkmate"

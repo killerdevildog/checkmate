@@ -873,6 +873,120 @@ The Act recognizes a graduated set of offenses for government-actor conduct that
 
 ---
 
+#### Prosecutorial Duties — Protecting the Presumption of Innocence
+
+The following three sections (§§ 1.14, 1.15, and 1.16) impose **affirmative duties on prosecutors**. Their purpose is to make the **presumption of innocence operational, not aspirational**.
+
+The presumption of innocence is foundational to American criminal law, but in practice it is too often a courtroom slogan rather than a binding constraint. A prosecutor who hides exculpatory evidence, who pushes a case forward while knowing or recklessly disregarding clear evidence that the accused is innocent, or who refuses to seek dismissal when the evidence has collapsed, treats the presumption as a hurdle to overcome rather than a guarantee to honor.
+
+> The presumption of innocence is the **citizen's right**, not the prosecutor's gift. A prosecutor who acts as if the accused must prove innocence — rather than as if the prosecution must prove guilt — acts against the foundation of the system itself, and is reachable under this title.
+
+The sections that follow attach **personal civil and criminal liability** to that conduct. They operate together with **Section 1.1.4 (Mandatory Juror Documentation)**, which requires the trier of fact to engage with each piece of evidence — including the exculpatory evidence the prosecutor is required to surface under §1.14.
+
+---
+
+### 1.14 Prosecutorial Duty to Disclose Adverse Evidence
+
+> A prosecutor in any criminal proceeding has an **affirmative and continuing duty** to disclose **to the trier of fact (judge or jury)** all evidence in the prosecutor's possession or control that:
+>
+> **(a)** Would tend to **render any of the prosecution's claims false** in any material respect;
+> **(b)** Tends to **establish the innocence** of the accused;
+> **(c)** Tends to **mitigate** the offense charged, support a lesser included offense, or undermine any element as charged; or
+> **(d)** Bears materially on the **credibility** of any witness the prosecution intends to call or has called.
+
+**Manner of Disclosure:**
+
+- Disclosure shall be made **in open court before the jury** (or trier of fact in bench trials), with sufficient explanation that a reasonable juror can understand the evidence's relevance to guilt or innocence
+- Disclosure to defense counsel alone, or in pretrial filings without explanation to the jury, is **not sufficient** under this section where the evidence has not been independently presented to the jury during trial
+- The duty is **continuous**: evidence that comes into the prosecutor's possession at any point — before, during, or after trial — must be disclosed without delay
+
+**Failure to Disclose — Obstruction of Justice:**
+
+> A prosecutor's failure to disclose adverse evidence to the jury, where the prosecutor knew or should have known the evidence would tend to undermine the prosecution's claim or establish innocence, is **Obstruction of Justice** under this title.
+
+- Charging follows the framework of Section 1.8: the **class of the obstruction mirrors the class of the offense being prosecuted**, with a **Class 2 felony floor**
+- Where the failure is intentional, penalty enhancements under Section 6 apply
+- Where the failure is committed with malice (intent to obtain a conviction the prosecutor knows or recklessly disregards as wrongful), the conduct is also chargeable as **Malicious Prosecution under Section 1.15**
+
+**Note on *Brady v. Maryland*:**
+
+This subsection codifies and **expands** the duty recognized in *Brady v. Maryland*, 373 U.S. 83 (1963), and its progeny. It goes beyond *Brady* by:
+
+- Requiring **affirmative disclosure to the jury**, not merely to defense counsel
+- Attaching **criminal liability** to violations, rather than only the remedy of vacatur on appeal
+- Treating disclosure as a **continuing duty** that follows the evidence, not a one-time pretrial obligation
+
+### 1.15 Malicious Prosecution
+
+> A prosecutor commits **malicious prosecution** under this title where the prosecutor **continues to prosecute** a citizen for an offense after the prosecutor **knows, or in reckless disregard of clear evidence should know, that the citizen is innocent** of the offense charged.
+
+**Elements:**
+
+- The actor is a prosecutor with charging or trial authority
+- The actor is actively prosecuting (or continues to prosecute) a citizen
+- The actor knows, or in reckless disregard of clear evidence should know, that the citizen is innocent of the offense charged
+- The actor nonetheless **continues** the prosecution
+
+**Includes, but is not limited to:**
+
+- Continued prosecution after exculpatory evidence has come to the prosecutor's attention
+- Continued prosecution after a witness has recanted material testimony
+- Continued prosecution after a co-defendant or third party has confessed
+- Continued prosecution for political, personal, financial, or institutional reasons unrelated to the truth of the charges
+- Refusal to seek dismissal where the available evidence no longer supports the elements of the charged offense
+
+**Classification:**
+
+- Malicious Prosecution is a **Class 1 felony** under this title (consistent with the mens rea framework of Section 2.5, where malice elevates the underlying offense by two tiers)
+- Where the malicious prosecution resulted in a **conviction**, the prosecutor is also liable as a co-conspirator under Section 1.1.1 with any jurors found liable under Section 1.1.3 (wrongful conviction by jury)
+- Where the malicious prosecution resulted in the citizen's **death** — capital sentence carried out, death in custody, or suicide consistent with Section 11.1 — the conduct is **a capital offense** under this title
+- Penalty enhancements under Section 6 apply at maximum severity, including suicidal-ideation, family-anxiety, and long-term-deprivation enhancements
+
+**Defenses Limited:**
+
+- The doctrine of **prosecutorial immunity does not apply**, consistent with Section 4.1.1 (abrogating *Imbler v. Pachtman*)
+- "Professional courtesy" or institutional policy is **not** a defense
+- "Following orders" / acting on a supervisor's recommendation is **not** a defense (consistent with Section 4.2)
+- A belief that the citizen is "probably guilty of something else" is **not** a defense to prosecution for the actual offense charged
+
+### 1.16 Duty to Seek Reduction or Dismissal
+
+> A prosecutor has an **affirmative and continuing duty** — at any point before, during, or after trial, **including after conviction** — to seek **reduction of charges** or **dismissal** when the available evidence establishes that:
+>
+> **(a)** The original charge **does not fit the evidence** (e.g., the conduct was a lesser included offense, or no offense at all);
+> **(b)** The accused is **factually innocent** of the offense charged or of any greater offense within it;
+> **(c)** **Material evidence has changed** such that the prosecution's claim is no longer supportable.
+
+**Specific Triggers:**
+
+- Discovery of new exculpatory evidence (DNA, witness recantation, alibi, contemporaneous record, etc.)
+- Confession by a third party
+- Recognition that material elements of the charge are not supported by the evidence
+- Emergence of facts indicating the conduct was not criminal (e.g., a legal defense applies, or the claimed harm did not occur)
+- Subsequent legal developments rendering the charged conduct non-criminal
+
+**Failure to Seek Reduction or Dismissal:**
+
+> Where a prosecutor knows of facts that would warrant reduction or dismissal under this subsection and **fails to seek** such reduction or dismissal, the prosecutor commits a **Class 3 felony** under this title.
+
+- The failure is reachable whether the case is **pre-trial, mid-trial, post-trial, or post-conviction** (including years after conviction)
+- Where the failure was intentional, penalty enhancements under Section 6 apply, and the conduct may be elevated to **Malicious Prosecution (§1.15)** or charged cumulatively
+- Where the failure causes the citizen to suffer continuing incarceration or other deprivation of rights, the long-term-deprivation enhancement of Section 6 applies
+- Where the failure causes the citizen's death — carried out capital sentence, death in custody, or suicide consistent with Section 11.1 — the conduct is elevated to a **capital offense**
+
+**Continuing Nature:**
+
+- This duty is **continuous** — it does not end with conviction or with the original prosecutor's involvement in the case
+- The duty applies to any prosecutor in the office of record, including **successors** who inherit a case after the original prosecutor has moved on
+- The duty is **independently chargeable** from any other failure; ordinary appellate or post-conviction relief by the defense is **not** a substitute for the prosecutor's affirmative duty
+- A Citizen Council under Section 8 may investigate and file a Joint Declaration of Prosecution against any prosecutor for failure under this section
+
+**Construction:**
+
+This subsection shall be construed broadly in favor of the accused and convicted person, consistent with Section 1.5.2. The prosecutor's duty runs to the **truth**, not to the conviction; failure to act on the truth, when known, is itself reachable conduct under this title.
+
+---
+
 ## Section 2 — Mental State (Mens Rea)
 
 ### 2.1 Four Levels of Mental State
