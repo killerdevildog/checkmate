@@ -8,9 +8,9 @@ A draft accountability statute for government actors — written to make those c
 
 The bill text lives in **[`bill_proposal.md`](bill_proposal.md)** — a single, continuously evolving draft. Earlier drafts are preserved in the git history of this repository.
 
-A reference dictionary of key terms and phrases used in the bill is maintained at **[`dictionary.md`](dictionary.md)** (alphabetical, with citations to controlling case law where applicable).
+A reference dictionary of key terms and phrases used in the bill is now part of the bill itself — see **Section D (Dictionary of Terms)** in [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
 
-Citizens who prefer to engage with the bill through an AI assistant can copy **[`AI_chat.md`](AI_chat.md)** into a new ChatGPT / Claude / Grok / Gemini chat — it's a single bundled prompt with the full bill, dictionary, and instructions to the AI on how to help.
+Citizens who prefer to engage with the bill through an AI assistant can copy **[`AI_chat.md`](AI_chat.md)** into a new ChatGPT / Claude / Grok / Gemini chat — it's a single bundled prompt with the full bill (including the dictionary in Section D and case authorities in Section L) and instructions to the AI on how to help.
 
 ---
 
