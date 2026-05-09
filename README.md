@@ -8,7 +8,7 @@
 
 Want to understand how this bill applies to **your** life — or how it could help **fix the legal system and protect America from corruption**? **Have a conversation with an AI about it.**
 
-Open a new chat with [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI assistant. Then copy the contents of **[`AI_chat.md`](AI_chat.md)** and paste it into the new chat as your first message. The AI will read the entire bill (it's bundled into that one file) and be ready to:
+Open a new chat with [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI assistant. Then copy the contents of **[`AI_chat.md`](AI_chat.md)** and paste it into the new chat as your first message. It's a short prompt that tells the AI to fetch the full bill from this repo and act as your guide. The AI will then be ready to:
 
 - Explain the bill in plain language — no legalese
 - **Apply it to your situation** — *"I had this happen to me; how would the bill have changed that?"*
@@ -18,7 +18,7 @@ Open a new chat with [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai)
 
 Then ask anything — about the bill itself, about your specific situation, about why you should or shouldn't support it. AI doesn't replace reading the actual bill, but it makes the bill accessible regardless of your legal background.
 
-If your AI complains the message is too long, paste [`bill_proposal.md`](bill_proposal.md) directly instead — same result.
+If your AI doesn't have web access and can't fetch the bill, it will tell you so — paste [`bill_proposal.md`](bill_proposal.md) directly into the chat as a follow-up message and the AI can work from there.
 
 ---
 
@@ -150,7 +150,7 @@ Questions, edits, or feedback on the draft are welcome at the same address with 
 **Read the bill:**
 
 - **[`bill_proposal.md`](bill_proposal.md)** — the full bill text. Long, but it's the real thing.
-- **[`AI_chat.md`](AI_chat.md)** — a single bundled prompt you can paste into ChatGPT / Claude / Grok / Gemini to chat with the bill (see the *"Talk to an AI"* section above).
+- **[`AI_chat.md`](AI_chat.md)** — a short prompt you can paste into ChatGPT / Claude / Grok / Gemini that tells the AI to fetch the bill from this repo and act as your guide (see the *"Talk to an AI"* section above).
 - **[`advanced_readme.md`](advanced_readme.md)** — a section-by-section overview with section numbers, classifications, and cross-references.
 - **Dictionary of legal terms (Section D)** — plain-language definitions of legal terms (color of law, judicial immunity, qualified immunity, etc.) inside [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
 - **[GitHub Releases](https://github.com/killerdevildog/checkmate/releases)** — milestone PDF snapshots for distribution and review.
