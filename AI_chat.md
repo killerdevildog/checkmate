@@ -1947,6 +1947,33 @@ Consistent with **Section 4.1.1**, the doctrine of judicial immunity (including 
 
 A Citizen Council under Section 8 may investigate and issue a Joint Declaration of Prosecution against a federal judge for conduct under this subsection. Routing follows the federal-crime path of **Section 8.10(a)** — filing with the United States Attorney for the district where the judge sits and presenting the matter to a **federal grand jury** for consideration of indictment.
 
+**Dual Liability — Federal Grand Jury and Utah Criminal Code Concurrently:**
+
+> A federal judge whose conduct within Utah constitutes both a federal offense and a violation of this Act is **liable concurrently** under both jurisdictions. Routing the matter to a federal grand jury for federal-law indictment **does not** displace, satisfy, or substitute for the federal judge's separate liability under the Utah criminal code (this Act).
+
+Specifically, a Citizen Council may, for the same course of conduct, file:
+
+- **(a)** A **Joint Declaration of Prosecution** with the **United States Attorney** for the district, for presentation to a **federal grand jury**, addressing any applicable federal offense (e.g., 18 U.S.C. §§ 241–242, deprivation of rights under color of law); **and concurrently**
+- **(b)** A **Joint Declaration of Prosecution** with the **Utah County Prosecutor's Office** or, where applicable, the **Office of the Governor** under Section 8.5, addressing the federal judge's violations of the substantive offenses of this Act (Anarchy under §1.10, Cabalism under §1.6, Government Racketeering under §1.7, Treason under §1.9, the Judicial Duty offenses of §§1.17–1.20, etc., as the elements may be established)
+
+Both filings may proceed **simultaneously and independently**. Disposition or declination at either level shall **not** bar prosecution at the other (consistent with the concurrent-jurisdiction principle of Section 8.10). Conviction or acquittal under one shall **not** preclude prosecution under the other for the same conduct, where each prosecution rests on a distinct sovereign's law.
+
+**The Dual-Sovereignty Doctrine — Supreme Court Precedent:**
+
+The U.S. Supreme Court has repeatedly affirmed that the federal government and each State are **separate sovereigns** for prosecution purposes. The same conduct can give rise to **two separate, independent prosecutions** — one federal, one state — without offending the Double Jeopardy Clause of the Fifth Amendment:
+
+- ***United States v. Lanza***, 260 U.S. 377 (1922) — the foundational dual-sovereignty case. The Court held that *"an act denounced as a crime by both national and state sovereignties is an offense against the peace and dignity of both, and may be punished by each."* The two sovereigns derive their authority from different sources, and prosecution by one does not bar prosecution by the other.
+- ***Abbate v. United States***, 359 U.S. 187 (1959) — confirmed that **federal prosecution following state prosecution** for the same conduct does not violate double jeopardy.
+- ***Bartkus v. Illinois***, 359 U.S. 121 (1959) — companion case to *Abbate*; **state prosecution following federal prosecution** for the same conduct is similarly permitted.
+- ***Heath v. Alabama***, 474 U.S. 82 (1985) — extended the dual-sovereignty doctrine; both sovereigns can prosecute the same conduct where each has independent jurisdiction.
+- ***Gamble v. United States***, 587 U.S. 678 (2019) — the Court's most recent and emphatic reaffirmation of the doctrine: the Double Jeopardy Clause permits separate prosecutions for the same conduct under both federal and state law. The dual-sovereignty doctrine remains controlling.
+
+These cases stand for the principle this subsection codifies: a federal judge whose conduct in Utah violates **both federal law and the Utah criminal code (this Act)** faces **two separate prosecutions** — one in federal court for the federal offense, and one in Utah state court under this Act — and **neither prosecution displaces the other**. A Citizen Council acting under Section 8 may pursue both tracks concurrently.
+
+> A federal judge's **status as a federal officer does not shield them from Utah criminal liability** for conduct that constitutes a state-law offense under this Act. Federal officers acting within the State of Utah are subject to Utah's criminal jurisdiction for state-law offenses they commit. The Supremacy Clause grants federal officers protection only against state laws that would obstruct the **legitimate exercise of federal authority**; it does not — and was never intended to — confer immunity from state criminal prosecution for **conduct that exceeds federal authority** or that constitutes an independent state criminal offense.
+
+This subsection accordingly **abrogates** any reading of *In re Neagle*, 135 U.S. 1 (1890), or its progeny that would shield a federal judge from Utah criminal prosecution for conduct within the scope of this Act, consistent with Section 4.1.1's general abrogation of all immunity doctrines for offenses defined in this title.
+
 **Distinction from Legitimate Preemption Analysis:**
 
 This subsection does **not** reach a federal judge who, after engaging with the substance of the Act and the actual federal-state legal framework, identifies a specific provision of federal law that genuinely preempts a specific provision of this Act and rules accordingly. Legitimate preemption analysis — undertaken in good faith, with reasoning sufficient to permit appellate review, identifying the precise federal provision relied upon and the specific state provision preempted — is the exercise of legitimate federal judicial authority and is **not** reachable under this subsection.
