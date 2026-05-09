@@ -136,6 +136,18 @@ Permitted amendments are those that strengthen citizen protection, expand reacha
 
 Any citizen has standing to challenge an adverse amendment without showing personal injury beyond Utah citizenship. Officials who advance, sponsor, vote for, or implement an adverse amendment may be liable under §1.7 (Racketeering), §1.9 (Treason), or §1.10 (Anarchy). A Citizen Council may investigate and issue a Joint Declaration of Prosecution for such conduct.
 
+§14.7 was substantially expanded to clarify (a) that where this Act provides citizens **greater protection** than federal law it controls within Utah without need for preemption analysis (citing *PruneYard Shopping Center v. Robins* (1980), *California v. Greenwood* (1988)); (b) that improper federal nullification of this Act — without identification of an actual specific preemptive federal provision — is reachable as Anarchy / Reckless Prosecution / Cabalism / Racketeering / Treason; (c) that the same federal-judge conduct creates **dual concurrent liability** under both the federal grand-jury route (§8.10(a)) and Utah criminal code (this Act), grounded in the dual-sovereignty doctrine (*United States v. Lanza* (1922), *Abbate v. United States* (1959), *Bartkus v. Illinois* (1959), *Heath v. Alabama* (1985), *Gamble v. United States* (2019)); and (d) that *In re Neagle* (1890) is abrogated for offenses defined in this title — federal officer status is not a shield from Utah criminal prosecution.
+
+### Nullity of Repugnant Government Instruments (§15)
+
+Any government instrument — federal, state, county, or municipal — that is **repugnant to** this Act, the Utah Constitution, or the U.S. Constitution is **null and void** within Utah and may not be enforced.
+
+"Government instrument" includes warrants (search/arrest/bench/administrative), judgments and court orders, agency policies, formal or informal practices, memos and standing orders, regulations and rules, subpoenas and discovery orders, administrative actions (license revocation, permit denial, asset seizure), and any other formal or informal exercise of state or federal power affecting a citizen.
+
+A citizen who refuses to comply with a null instrument is **not civilly or criminally liable** for that refusal. A government actor who issues, signs, enforces, threatens to enforce, or directs enforcement of a repugnant instrument commits an offense under this title — chargeable as Anarchy (§1.10), the judicial-duty offenses (§§1.18, 1.20) where issued by a judge, Cabalism (§1.6) for small-group coordination, Government Racketeering (§1.7) for patterns, Treason (§1.9) for constitutional warfare, Obstruction (§1.8) for protected-status motivation, Terrorism (§1.12) or Official Intimidation (§1.13) where used to threaten or coerce, and Battery (§1.3) where enforcement actually deprives rights. Judicial / prosecutorial / qualified / sovereign immunity does not apply.
+
+Repugnance may be determined by any court, by a unanimous 36-member Citizen Council under §8.14 Logical Consistency Review, or by any other Citizen Council under §8 in the course of investigating or charging conduct. The standard for repugnance covers (a) direct contradiction; (b) requiring a citizen to surrender or violate a protected right; (c) reliance on authority that does not exist or has been removed; (d) workaround or evasion of this Act; and (e) compliance that would itself violate this Act. Codifies and extends *Marbury v. Madison*, 5 U.S. 137 (1803): *"a law repugnant to the Constitution is void"* — applied to **every** form of government instrument, not statutes alone.
+
 ---
 
 ## How to Sign On

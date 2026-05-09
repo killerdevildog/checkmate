@@ -1957,6 +1957,104 @@ This subsection shall be construed:
 
 ---
 
+## Section 15 — Nullity of Government Instruments Repugnant to This Act or to Constitutional Authority
+
+### 15.1 Repugnant Instruments Are Null and Void
+
+> Any **government instrument** — federal, state, county, or municipal — that is **repugnant to** (i.e., in conflict with):
+>
+> **(a)** Any provision of this Act;
+> **(b)** The **Constitution of the State of Utah**; or
+> **(c)** The **Constitution of the United States**
+>
+> is **null and void** and shall be of **no legal force or effect** within the State of Utah.
+
+For purposes of this Section, **"government instrument"** includes, without limitation:
+
+- **Warrants** (search warrants, arrest warrants, bench warrants, administrative warrants)
+- **Judgments, orders, and rulings** of any court
+- **Policies** issued by any executive office, department, agency, board, or commission
+- **Practices** — formal or informal patterns of official conduct
+- **Memoranda, internal directives, and standing orders**
+- **Regulations and rules** of any kind
+- **Subpoenas, demands for production, civil investigative demands, and discovery orders**
+- **Administrative actions** (license revocation, permit denial, asset seizure, etc.)
+- Any other formal or informal exercise of state or federal power affecting a citizen
+
+### 15.2 No Effect; No Reliance; No Liability for Refusal
+
+A repugnant government instrument **shall not** be:
+
+- Enforced against any citizen
+- Used to compel compliance, payment, or surrender of any right
+- Used as a basis for prosecution, civil action, or administrative penalty
+- Cited as authority by any government actor
+
+> A citizen who refuses to comply with a repugnant government instrument **shall not be liable**, civilly or criminally, for that refusal.
+
+A government actor's good-faith reliance on the apparent existence or facial validity of a repugnant instrument is **not** a defense to liability for the instrument's enforcement under Section 15.3, where the repugnance was clear or should have been recognized by a reasonable government actor in the position.
+
+### 15.3 Issuance and Enforcement as Criminal Offenses
+
+> A government actor who **issues**, **signs**, **enforces**, **threatens to enforce**, or **directs the enforcement of** a government instrument that is repugnant to this Act, the Utah Constitution, or the U.S. Constitution commits a **criminal offense** under this title.
+
+Such conduct may be charged, depending on the elements established, as one or more of:
+
+- **§1.10 Anarchy** — acting completely outside the law in issuing or enforcing the repugnant instrument
+- **§1.18 Judicial Duty to Engage on the Merits** — where the instrument is a judicial judgment, order, or warrant issued without the engagement required by this Act
+- **§1.20 Judicial Duty to Apply Mandatory Rules and Correct Errors** — where the issuing or enforcing actor failed to apply the constitutional principles that render the instrument null
+- **§1.6 Cabalism** — where the issuance or enforcement is part of small-group coordination producing unjust outcomes for citizens
+- **§1.7 Government Racketeering** — where part of a pattern or scheme using authority to extract benefit, punish, or coerce
+- **§1.9 Treason** — where the issuance or enforcement constitutes constitutional warfare against Utah citizens, the Utah Constitution, or the U.S. Constitution
+- **§1.8 Obstruction of Justice** — where the issuance or enforcement is motivated by the protected status of any beneficiary
+- **§1.12 Terrorism** or **§1.13 Official Intimidation** — where the instrument is used to threaten or coerce a citizen's wellbeing
+- **§1.3 Battery** — where enforcement actually deprives the citizen of rights, liberty, or property
+
+The doctrine of judicial, prosecutorial, qualified, or sovereign immunity does **not** apply (consistent with §4.1.1).
+
+### 15.4 Determination of Repugnance
+
+A determination that a government instrument is repugnant under this Section may be made by:
+
+- **A court** in any case where the instrument is at issue, applying the standard set out in Section 15.5
+- **A Citizen Council under Section 8.14 (Logical Consistency Review)** by unanimous vote of 36 or more members
+- **A Citizen Council under any other applicable provision of Section 8** in the course of investigating or charging conduct under this title
+
+A determination by any of the above is **binding within the State of Utah** and shall be given effect by all government actors immediately and without delay. Failure to give effect to such a determination is itself reachable conduct under §1.10 (Anarchy), §1.20 (Judicial Duty to Apply Mandatory Rules), or §1.8 (Obstruction).
+
+### 15.5 Standard for Repugnance
+
+A government instrument is **repugnant** for purposes of this Section where:
+
+- It directly **contradicts** a provision of this Act, the Utah Constitution, or the U.S. Constitution;
+- Its enforcement would require a citizen to **surrender or violate a right** protected by any of the foregoing;
+- It rests on **authority that does not exist**, or that has been removed or limited by this Act, the Utah Constitution, or the U.S. Constitution (compare §1.10 Anarchy);
+- It exists as a **workaround or evasion** of any provision of this Act; or
+- Compliance with it would **itself constitute a violation** of this Act.
+
+The repugnance need not have been previously adjudicated; the test is the substance of the instrument against the substance of the cited authority, not whether some prior court has so ruled.
+
+### 15.6 Citizen Council Authority Over Repugnant Instruments
+
+A Citizen Council acting under Section 8 may, in addition to or in lieu of charging individual government actors:
+
+- Issue a **Joint Declaration of Logical Consistency Review** under Section 8.14 nullifying a statute, regulation, or rule that is repugnant under this Section
+- Issue a **Council Order** under Section 8.8 requiring production of records bearing on the issuance or enforcement of a repugnant instrument
+- Issue a **Joint Declaration of Prosecution** under Section 8.3 against any government actor who issued, signed, or enforced the repugnant instrument
+
+The full Council powers and protections of Section 8 — including no-judicial-gatekeeping (§8.4), mandatory prosecution (§8.5), no-interference (§8.9), and indictment effect upon filing (§8.11) — apply.
+
+### 15.7 Construction
+
+This Section shall be construed:
+
+- **Broadly in favor of nullity** where any genuine conflict exists between a government instrument and the cited authorities
+- **Against** government instruments that purport to compel surrender of rights protected under §1.5
+- Consistent with the binding rules of construction in the Statement of Intent
+- In recognition that the principle that **"a law repugnant to the Constitution is void"** is a foundational principle of American constitutional law established in **Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)** — and that this Section codifies and operationalizes that principle for **all** government instruments, not statutes alone
+
+---
+
 ## Support, Contact, and Petition Sign-On
 
 If you support **Operation Checkmate** and want to sign on to this petition, send an email to:
