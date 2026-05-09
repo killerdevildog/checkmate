@@ -155,6 +155,12 @@ Questions, edits, or feedback on the draft are welcome at the same address with 
 - **Dictionary of legal terms (Section D)** — plain-language definitions of legal terms (color of law, judicial immunity, qualified immunity, etc.) inside [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
 - **[GitHub Releases](https://github.com/killerdevildog/checkmate/releases)** — milestone PDF snapshots for distribution and review.
 
+**Community-specific guides:**
+
+- **[`lgbtq.md`](lgbtq.md)** — why LGBTQ+ citizens have specific reasons to support this bill, with documented patterns of government abuse the bill addresses (selective enforcement, custody/family-court targeting, workplace retaliation, police failure to protect, pre-*Lawrence* convictions, HIV criminalization, threats against children) and the corresponding bill provisions.
+
+If you'd like to write a community-specific guide for another group (veterans, parents, small-business owners, religious communities, etc.), please open a pull request — these guides are how the bill becomes accessible to the people it protects.
+
 **Questions, feedback, and contributions:**
 
 - **Need help understanding any part of the bill?** Just ask. Email **citizens.checkmate@gmail.com** with subject `CHECKMATE`. No question is too basic — the goal is for every citizen who wants to read this to be able to.
