@@ -987,6 +987,119 @@ This subsection shall be construed broadly in favor of the accused and convicted
 
 ---
 
+#### Judicial Duties — Maintaining the Integrity of the Court
+
+The following four sections (§§ 1.17, 1.18, 1.19, and 1.20) impose **affirmative duties on judges**. Their purpose is to make **judicial impartiality, engagement, and procedural integrity criminally enforceable** rather than merely aspirational.
+
+A judge's role under this title is **not** to rubber-stamp the requests of prosecutors, the police, or the executive. It is to **decide cases on their merits** — applying the law as written to the evidence as presented, with rigor, impartiality, and due process. A judge who abdicates that role through bias, neglect, ex parte communications, refusal to recuse, or selective application of the law is reachable under this title. Judicial immunity does **not** apply (Section 4.1.1).
+
+> The robe is not a license. It is a constraint.
+
+These sections operate alongside the existing judicial-conduct provisions of this title — including the abrogation of judicial immunity in Section 4.1.1; the reckless-prosecution liability of Section 1.1.4 (Mandatory Juror Documentation) and Section 1.1.5 (Juror Rights); the no-judicial-gatekeeping provisions of Sections 8.4 and 8.9; and the Logical Consistency Review duties of Section 8.14.
+
+---
+
+### 1.17 Judicial Duty of Impartiality and Recusal
+
+> A judge has an **affirmative and continuing duty to disqualify themselves** (recuse) from any case in which the judge:
+>
+> **(a)** Has a **personal, financial, professional, political, or familial interest** in the outcome;
+> **(b)** Has a **personal or professional relationship** with any party, attorney, witness, or victim that would create a reasonable appearance of bias;
+> **(c)** Has previously expressed a fixed opinion on the merits of the case;
+> **(d)** Has a conflict of interest under any other provision of this title or under the canons of judicial conduct in force.
+
+**Disclosure and Action:**
+
+- The judge shall **disclose on the record**, at the earliest practicable point, any facts that may form the basis of a recusal duty under this section
+- The judge shall recuse **without being asked** where the grounds are clear; the duty is the judge's, not the parties'
+
+**Failure to Recuse — Class 2 Felony:**
+
+> A judge who **knows of grounds for recusal** under this section and either **fails to recuse**, or **conceals** the grounds, commits a **Class 2 felony** under this title.
+
+- Where the failure was intentional, penalty enhancements under Section 6 apply
+- Where committed with malice (e.g., to obtain a particular outcome favorable to the judge or to a connected party), the conduct is elevated to a **Class 1 felony** per the mens rea framework of Section 2.5
+- A pattern of failures to recuse may be additionally charged as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
+- A conviction or judgment entered after a failure-to-recuse is presumptively subject to vacatur on direct or collateral review
+
+### 1.18 Judicial Duty to Engage on the Merits
+
+> A judge has an affirmative duty, in any case before them, to **engage with the evidence and the law on the merits** and to **issue a reasoned written ruling** that addresses each material fact, claim, defense, and motion raised by the parties.
+
+**Prohibited Conduct:**
+
+- **Rubber-stamping** prosecutorial or law-enforcement requests — including warrants, charging decisions, sentencing recommendations, and protective orders — without independent evaluation of the supporting evidence
+- Issuing rulings without **reasoning sufficient to permit appellate or Citizen Council review**
+- Denying motions without addressing their substance
+- Failing to address material defenses or arguments raised by the parties
+- Adopting a party's proposed findings or order verbatim without independent review
+
+**Failure — Reckless Prosecution / Anarchy:**
+
+- Where a judge knowingly fails to engage with the evidence or law on the merits, the conduct is **reckless prosecution** under Section 1.1.4 — a **Class 2 felony**
+- Where the failure rises to acting completely outside the judicial role (e.g., issuing rulings with no factual or legal basis), the conduct is **Anarchy** under Section 1.10
+- A pattern of such failures may be charged additionally as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
+- Penalty enhancements under Section 6 apply, particularly the long-term-deprivation enhancement where a citizen suffers continuing consequences
+
+### 1.19 Prohibition on Ex Parte Communications
+
+> A judge **shall not engage in any ex parte communication** with any party, attorney, prosecutor, witness, or other interested person concerning the merits of any pending case before them, except as expressly permitted by law.
+
+**Permitted Communications:**
+
+- Routine administrative or scheduling matters that do not touch the merits
+- Communications expressly permitted by statute or controlling rule of procedure (e.g., emergency protective orders with prompt notice)
+- Communications with the court's own clerks and law clerks for the purpose of legal research
+
+**Prohibited Communications:**
+
+- **Substantive communications about the merits** with any party in the absence of opposing counsel
+- Communications with the prosecution that would reveal the court's leaning, advise on strategy, or coordinate approach
+- Communications that would create a reasonable appearance of partiality
+- Receipt of substantive communications from third parties (lobbying, "friend of the court" outside formal amicus procedures, etc.)
+
+**Failure — Graduated Liability:**
+
+- A single ex parte communication on the merits, made **negligently** or in reckless disregard, is a **Class 3 felony**
+- Where the communication is **intentional**, the conduct is elevated to a **Class 2 felony** per Section 2.4
+- Where committed with **malice** or as part of a **pattern**, the conduct is elevated to a **Class 1 felony** per Section 2.5
+- A judicial ruling materially influenced by a prohibited ex parte communication is presumptively subject to vacatur
+
+### 1.20 Judicial Duty to Apply Mandatory Rules and Correct Errors
+
+> A judge has an affirmative and continuing duty to **apply the mandatory rules of criminal and civil procedure correctly** — and to **correct errors** when they are discovered, whether by the judge, by counsel, by appellate review, or by Citizen Council action.
+
+**Mandatory Rules Include, Without Limitation:**
+
+- The juror documentation requirements of **Section 1.1.4**
+- The juror rights, verdict options, and instruction requirements of **Section 1.1.5**
+- The disclosure obligations imposed on prosecutors under **Section 1.14**, and the court's role in enforcing them
+- The four-level mens rea framework of **Section 2**
+- The no-immunity provisions of **Section 4.1**
+- The Citizen Council mechanisms of **Section 8**, including the no-judicial-gatekeeping rule of §8.4 and the Logical Consistency Review duty of §8.14
+- The mandatory prosecution provisions of **Section 8.5** (where a Joint Declaration of Prosecution has been filed)
+- Any other rule of procedure expressly required by this title or by other law in force
+
+**Duty to Correct:**
+
+- Where an error is discovered during the proceeding, the judge shall correct it on the record at the earliest practicable point
+- Where an error is discovered after judgment, the judge shall act, on motion or *sua sponte*, to correct it through any procedure available — vacatur, reconsideration, or referral
+- The duty applies to both the judge who made the error and any successor judge to whom the case is assigned
+
+**Failure to Apply or Correct — Graduated Liability:**
+
+- A judge who **knowingly fails to apply** a mandatory rule under this title commits a **Class 3 felony**
+- Where the failure is intentional, the conduct is elevated to a **Class 2 felony** per Section 2.4
+- Where committed with malice or as part of a pattern, the conduct is elevated to a **Class 1 felony** per Section 2.5
+- The doctrine of judicial immunity does not apply, consistent with Section 4.1
+- A Citizen Council under Section 8 may investigate and file a Joint Declaration of Prosecution against any judge for failure under this section
+
+**Construction:**
+
+This subsection shall be construed broadly in favor of the citizen affected by the judicial failure, consistent with Section 1.5.2. The judge's duty runs to the **law as written and to the citizen as protected by it** — not to institutional convenience, professional courtesy, or the maintenance of past practice.
+
+---
+
 ## Section 2 — Mental State (Mens Rea)
 
 ### 2.1 Four Levels of Mental State

@@ -51,6 +51,8 @@ The biggest shifts:
 
 9. **The presumption of innocence becomes operational.** Prosecutors now have **affirmative, criminally enforceable duties** that protect the presumption of innocence: (a) to disclose evidence that undermines their case **directly to the jury** in open court — failure is obstruction of justice; (b) to **stop prosecuting** when they know or recklessly disregard evidence that the accused is innocent — continuing to push forward is malicious prosecution; and (c) to **seek reduction or dismissal** when evidence (even years after conviction) shows the charge doesn't fit — failure is a Class 3 felony. Where any of this conduct results in the citizen's death (carried-out capital sentence, death in custody, or suicide), it is elevated to a capital offense.
 
+10. **Judges become accountable for impartiality and engagement.** Four new affirmative, criminally enforceable judicial duties: (a) to **recuse** from cases involving conflicts of interest — concealing grounds is a Class 2 felony; (b) to **engage with evidence and law on the merits** rather than rubber-stamping prosecution requests — failure is reckless prosecution; (c) to **avoid ex parte communications** about pending cases — single negligent contact is a Class 3 felony, malicious or pattern is Class 1; (d) to **apply mandatory rules of procedure correctly and correct errors when discovered** — failure scales from Class 3 to Class 1 by mens rea. The robe is a constraint, not a license. Judicial immunity does not apply.
+
 ---
 
 ## Why it's called "Checkmate"
