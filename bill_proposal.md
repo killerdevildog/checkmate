@@ -159,7 +159,8 @@ For purposes of this title, **"government actor"** means any individual acting u
 
 **Judicial and Prosecutorial:**
 
-- Judges and magistrates at any level of any jurisdiction
+- Judges and magistrates at any level of any jurisdiction, including judges of courts of record, judges of courts not of record, magistrates, commissioners, referees, hearing officers, administrative judges, and any other person exercising judicial or quasi-judicial authority
+- If any new class, title, forum, tribunal, specialty court, administrative court, municipal court, justice court, problem-solving court, digital court, emergency court, or other judicial office is later created, renamed, reorganized, or assigned judicial power, that office and its judge or judicial officer are government actors covered by this Act regardless of title
 - Prosecutors and assistant prosecutors at any level
 - Court clerks and court officers acting in a capacity that affects citizen rights
 
@@ -2193,7 +2194,7 @@ This Section shall be construed:
 
 ## Section 16 — Role-Specific Public Official Offenses
 
-This Section catalogues additional offenses applicable to government actors by role — general public officials, police, judicial officers, and legislative or regulatory officials. It **supplements** Section 1 and does not displace any offense already defined therein. Where a substantive offense in this Section overlaps with an offense already defined elsewhere in this Act, the prosecuting office may charge under either or both, **cumulatively**, consistent with §1.1.1 and the Statement of Intent's binding rules of construction.
+This Section catalogues additional offenses applicable to government actors by role — general public officials, police and sheriffs, judicial officers, clerks and records custodians, legislative and regulatory officials, executive officials, local governing bodies, and federal representatives or federal-office actors whose conduct harms Utah citizens. It **supplements** Section 1 and does not displace any offense already defined therein. Where a substantive offense in this Section overlaps with an offense already defined elsewhere in this Act, the prosecuting office may charge under either or both, **cumulatively**, consistent with §1.1.1 and the Statement of Intent's binding rules of construction.
 
 The four-level mens rea framework of **Section 2** governs each offense in this Section. The penalty enhancements of **Section 6** apply in full. The Citizen Council activation, investigation, and prosecution mechanisms of **Section 8** apply without modification. The no-immunity rule of **Section 4.1** applies to every offense in this Section.
 
@@ -2726,9 +2727,9 @@ The existence of an official transcript, official audio, official video, docket 
 
 ---
 
-### Subpart B — Police-Specific Offenses
+### Subpart B — Police, Sheriff, and Custody-Specific Offenses
 
-The offenses of Subpart B apply, **in addition to** the offenses of Subpart A and the offenses of Section 1, to **peace officers, sheriffs' deputies, federal agents, corrections officers, and any other government actor exercising police authority**.
+The offenses of Subpart B apply, **in addition to** the offenses of Subpart A and the offenses of Section 1, to **peace officers, sheriffs, sheriffs' deputies, federal agents, corrections officers, jail officials, custody contractors, and any other government actor exercising police, sheriff, detention, or custody authority**.
 
 ### 16.11 Badge Coercion
 
@@ -2999,11 +3000,46 @@ No person in custody, detention, supervision, placement, institutional control, 
 - Where death, serious bodily injury, suicide, or life-threatening medical crisis results, Section 11 applies
 - Charge cumulatively under §1.3 (Battery), §1.10 (Anarchy), §16.4, §16.13, §16.14, or §16.15, where applicable
 
+### 16.15M Sheriff Command Responsibility Failure
+
+> A sheriff, undersheriff, chief deputy, jail commander, marshal, constable, federal marshal, or other command-level enforcement actor commits **sheriff command responsibility failure** where the actor knowingly maintains, approves, ratifies, ignores, or fails to correct a policy, custom, training failure, supervision failure, jail practice, warrant practice, transport practice, or deputy conduct pattern that violates this Act or foreseeably causes violations of rights protected under §1.5.
+
+**Includes, Without Limitation:**
+
+- Allowing deputies, jail staff, transport officers, court-security officers, or contractors to repeatedly violate recording, identification, force, custody, medical, complaint-intake, or rights-advisement duties
+- Maintaining a jail, booking, warrant, detainer, release, transport, visitation, medical, or grievance practice that foreseeably deprives citizens of liberty, counsel, medical care, family contact, records access, or court access
+- Retaining or promoting an actor after clear notice of repeated constitutional violations, fabricated charges, unlawful searches, retaliatory arrests, custodial abuse, or records manipulation
+- Failing to train or supervise subordinates on the requirements of this Act after a Citizen Council, court, prosecutor, public defender, auditor, complainant, or internal report gives notice of a recurring violation
+
+**Classification:**
+
+- Sheriff command responsibility failure is a **Class 3 felony**
+- Where the failure causes detention, injury, denial of medical care, unlawful search, retaliation, fabricated charge, loss of evidence, or jail abuse, the offense is a **Class 2 felony**
+- Where the failure is intentional, retaliatory, part of a pattern, or causes death, serious bodily injury, suicide, sexual abuse, wrongful conviction, or prolonged incarceration, the offense is a **Class 1 felony** or higher, and Section 11 applies where the elements are met
+
+### 16.15N Sheriff Custody and Release Obstruction
+
+> A sheriff, jail official, detention officer, marshal, transport officer, court-security officer, or custody contractor commits **sheriff custody and release obstruction** where the actor refuses, delays, conditions, or obstructs lawful release, attorney access, court access, Citizen Council access, family notification, medical access, medication, interpreter access, disability accommodation, records access, complaint filing, or production of custody records for a person in custody.
+
+**Includes, Without Limitation:**
+
+- Holding a citizen after lawful release eligibility, posting of bond, dismissal, court order, writ, detainer expiration, or correction of identity
+- Refusing timely access to counsel, legal mail, filing materials, court orders, medication, medical requests, grievance forms, body-camera footage, jail recordings, or booking records
+- Conditioning release, visitation, medical care, phone access, complaint access, or records access on waiver, silence, payment, apology, cooperation, plea, or abandonment of a right
+- Using "jail policy," "security," "classification," "computer delay," "transport availability," or "we are waiting on paperwork" as a pretext to continue custody or deny required access
+
+**Classification:**
+
+- Sheriff custody and release obstruction is a **Class 3 felony**
+- Where the obstruction causes additional confinement, missed court deadline, loss of counsel, medical crisis, family separation, job loss, housing loss, immigration consequence, or inability to preserve evidence, the offense is a **Class 2 felony**
+- Where the obstruction is intentional, retaliatory, discriminatory, or affects a child, disabled person, non-English speaker, medically dependent person, pregnant person, or person in behavioral-health crisis, the offense is a **Class 1 felony**
+- Charge cumulatively under §1.3, §1.13, §16.9K, §16.15I, or §16.15K where applicable
+
 ---
 
-### Subpart C — Judicial Offenses
+### Subpart C — Judicial, Clerk, and Court-Access Offenses
 
-The offense of Subpart C applies to judges and other judicial officers (§1.1), in addition to the duties imposed on judges under §§1.17 through 1.20.
+The offenses of Subpart C apply to judges, other judicial officers (§1.1), clerks, court administrators, city clerks, county clerks, records custodians, public-meeting administrators, and other actors whose duties affect court access, filing access, public records, public meetings, or official dockets, in addition to the duties imposed on judges under §§1.17 through 1.20.
 
 ### 16.16 Judicial Recklessness
 
@@ -3076,11 +3112,66 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 - Where housing, medical care, family contact, estate assets, voting rights, liberty, bodily autonomy, communication, or ability to challenge the guardianship is materially deprived, the offense is a **Class 1 felony**
 - Where death, serious injury, suicide, or life-threatening medical crisis results, Section 11 applies
 
+### 16.16E Clerk Access Obstruction
+
+> A court clerk, city clerk, county clerk, agency clerk, records clerk, filing-office employee, court administrator, public-meeting administrator, election clerk, or any government actor responsible for receiving, docketing, timestamping, certifying, preserving, or producing public records commits **clerk access obstruction** where the actor refuses, delays, misroutes, buries, rejects, alters, or conditions access to a filing, petition, complaint, notice, appeal, public-record request, docket entry, meeting record, certified copy, agenda item, election document, Citizen Council document, or other citizen submission without lawful written authority.
+
+**Includes, Without Limitation:**
+
+- Refusing to file, timestamp, scan, docket, certify, transmit, or receipt a citizen's filing because the citizen is self-represented, unpopular, critical of government, invoking rights, or seeking accountability
+- Telling a citizen that a clerk "cannot accept" a filing, complaint, public-record request, notice, petition, appeal, or Council document without identifying the specific law that forbids acceptance
+- Requiring unnecessary appointments, portals, accounts, attorney signatures, formatting conditions, excessive copies, unofficial fees, or informal permission before accepting a document
+- Withholding forms, fee-waiver information, appeal instructions, certified copies, meeting minutes, agendas, recordings, docket information, or records needed to preserve a right
+- Refusing to provide a written rejection, date-stamped receipt, tracking number, or appeal path when access is denied
+
+**Classification:**
+
+- Clerk access obstruction is a **Class A misdemeanor**
+- Where the obstruction causes missed deadline, default, dismissal, warrant, loss of appeal, denial of public meeting participation, election harm, loss of benefits, loss of custody, loss of housing, loss of license, or inability to seek protection from violence, the offense is a **Class 3 felony**
+- Where the obstruction is intentional, retaliatory, discriminatory, election-related, or directed at a Citizen Council, complainant, witness, constitutional objection, or public-record request concerning government misconduct, the offense is a **Class 2 felony**
+- Charge cumulatively under §16.9, §16.16A, §16.4A, §1.13, or §8.9 where applicable
+
+### 16.16F Docket, Agenda, and Minutes Distortion
+
+> A clerk, court administrator, city recorder, county clerk, public-meeting officer, election official, records custodian, or other government actor commits **docket, agenda, and minutes distortion** where the actor falsifies, omits, alters, backdates, postdates, mislabels, conceals, or selectively publishes a docket entry, filing timestamp, public-meeting notice, agenda, minutes, recording, vote record, certified copy, election record, petition record, or public-record log.
+
+**Includes, Without Limitation:**
+
+- Altering the date, time, sequence, title, party, case number, receipt, agenda item, vote, or disposition of a filing or public action
+- Publishing minutes or agendas that omit citizen objections, public comments, dissenting votes, recusals, conflicts of interest, constitutional objections, or Council-related matters
+- Creating a public record that makes a late action appear timely, an unlawful meeting appear noticed, a rejected filing appear absent, or a contested action appear unanimous
+- Removing metadata, audit logs, draft histories, recording segments, vote records, or filing logs necessary to verify the official record
+
+**Classification:**
+
+- Docket, agenda, and minutes distortion is a **Class 3 felony**
+- Where the distortion affects court access, criminal prosecution, child custody, election administration, public debt, public contracts, zoning, property rights, Citizen Council action, or constitutional rights, the offense is a **Class 2 felony**
+- Where the distortion is coordinated by multiple actors, conceals corruption, changes an election outcome, causes incarceration, or defeats a citizen's ability to challenge government action, the offense is a **Class 1 felony**
+- Charge cumulatively under §16.4, §16.4A, §16.6, §16.20, §16.21, or §1.7 where applicable
+
+### 16.16G Citizen Filing Gatekeeping
+
+> A clerk, court actor, city clerk, county clerk, administrative hearing officer, records custodian, or agency employee commits **citizen filing gatekeeping** where the actor imposes an unauthorized barrier between a citizen and the citizen's ability to file, object, appeal, complain, petition, request records, request a hearing, challenge a statute, or place a matter before a lawful decisionmaker.
+
+**Prohibited Barriers Include, Without Limitation:**
+
+- Requiring a lawyer where law permits self-representation
+- Refusing plain-language filings because they are not written in preferred legal style, agency style, or court style
+- Rejecting filings for curable formatting issues without accepting them for filing and issuing a written deficiency notice
+- Refusing filings that accuse government actors of crime, corruption, oath violation, constitutional violation, or misconduct
+- Redirecting the citizen in circles between departments, clerks, websites, help desks, supervisors, or courts until the deadline passes
+
+**Classification:**
+
+- Citizen filing gatekeeping is a **Class A misdemeanor**
+- Where the barrier prevents timely filing, appeal, hearing, complaint intake, public-record access, election participation, or preservation of a right, the offense is a **Class 3 felony**
+- Where the barrier is used against a Citizen Council, constitutional challenge, public corruption complaint, criminal defendant, parent facing child removal, detained person, disabled person, elderly person, or non-English speaker, the offense is a **Class 2 felony**
+
 ---
 
-### Subpart D — Legislative, Council, and Regulatory Offenses
+### Subpart D — Legislative, Executive, Council, and Regulatory Offenses
 
-The offenses of Subpart D apply to **state legislators, county council members, city council members, mayors, executive-branch officials, regulatory commissioners, and any government actor with budget, contracting, or regulatory authority**. Subpart D shall be read together with the dissenting-member carve-out of §1.1.1 — a member who voted against, formally objected to, or publicly dissociated from the offending action on the record is not liable under this Subpart for that action.
+The offenses of Subpart D apply to **state legislators, governors, lieutenant governors, attorneys general, county commissioners, county council members, city council members, mayors, executive-branch officials, agency heads, regulatory commissioners, and any government actor with budget, contracting, executive, legislative, or regulatory authority**. Subpart D shall be read together with the dissenting-member carve-out of §1.1.1 — a member who voted against, formally objected to, or publicly dissociated from the offending action on the record is not liable under this Subpart for that action.
 
 ### 16.17 Reckless Public Expenditure
 
@@ -3185,6 +3276,57 @@ The offenses of Subpart D apply to **state legislators, county council members, 
 - Where the actor knew, or in reckless disregard of clear evidence should have known, that the tool was materially biased, unreliable, unvalidated, secret, or unfit for the use made of it, the offense is a **Class 2 felony**
 - Charge cumulatively under §16.4 (Deliberate Record Distortion), §16.6 (Public Trust Fraud), §16.9 (Failure of Transparency), §16.23 (Regulatory Weaponization), or any underlying offense
 
+### 16.24B Executive Refusal to Correct Rights Violations
+
+> A governor, lieutenant governor, attorney general, mayor, county executive, county commissioner, city manager, agency head, department director, board chair, or other executive government actor commits **executive refusal to correct rights violations** where the actor receives credible notice that a subordinate office, agency, contractor, law-enforcement body, jail, regulatory body, clerk, or public program is violating this Act or rights protected under §1.5, and the actor refuses, delays, conceals, deflects, or fails to take available corrective action.
+
+**Credible Notice Includes, Without Limitation:**
+
+- A Citizen Council declaration, complaint, subpoena, referral, report, or finding
+- A court ruling, public defender notice, prosecutor notice, auditor finding, inspector general report, internal affairs finding, legislative report, public-record disclosure, media documentation, body-camera footage, jail record, or repeated citizen complaint
+- Direct notice from a victim, witness, employee, whistleblower, attorney, clerk, deputy, medical provider, family member, or contractor
+
+**Available Corrective Action Includes, Without Limitation:**
+
+- Ordering preservation and production of records
+- Suspending unlawful policies or practices
+- Removing an actor from public contact, custody authority, charging authority, warrant authority, budget authority, or records authority pending review
+- Referring conduct for Citizen Council review or criminal investigation
+- Stopping unlawful enforcement, unlawful detention, unlawful spending, retaliation, or unconstitutional conditions
+- Providing public written findings explaining what was investigated, what was corrected, and what authority supports the decision
+
+**Classification:**
+
+- Executive refusal to correct rights violations is a **Class 3 felony**
+- Where the refusal allows continuing detention, prosecution, child removal, jail abuse, unlawful enforcement, retaliation, records destruction, public corruption, or denial of medical care, the offense is a **Class 2 felony**
+- Where the refusal is intentional, retaliatory, part of a cover-up, or allows death, serious bodily injury, sexual abuse, wrongful conviction, family separation, or a pattern of violations, the offense is a **Class 1 felony** or higher, and Section 11 applies where the elements are met
+
+### 16.24C Local Governing-Body Retaliation
+
+> A county commissioner, city council member, county council member, mayor, city manager, board member, school board member, special-district officer, planning commissioner, zoning official, or other local governing actor commits **local governing-body retaliation** where the actor uses ordinances, resolutions, budgets, zoning, permits, inspections, contracts, meeting rules, public-comment rules, police referrals, code enforcement, utility control, licensing, or administrative process to punish, silence, exclude, or burden a citizen for protected activity.
+
+**Protected Activity Includes, Without Limitation:**
+
+- Criticizing local government, recording public officials, requesting records, objecting at a public meeting, challenging an ordinance, filing a complaint, asserting rights, refusing consent, assisting a Citizen Council, opposing debt, opposing a contract, reporting corruption, or running for office
+
+**Classification:**
+
+- Local governing-body retaliation is a **Class 2 felony**
+- Where the retaliation affects housing, utilities, business license, employment, land use, school access, child welfare, police contact, court access, public benefits, public meeting participation, or election participation, the offense is a **Class 1 felony**
+- A member who voted against, formally objected to, or publicly dissociated from the retaliatory action on the record is not liable under this section for that action, consistent with §1.1.1
+- Charge cumulatively under §16.2, §16.2A, §16.23, §1.13, or §1.7 where applicable
+
+### 16.24D Constitutional-Objection Override by High Office
+
+> A governor, attorney general, county commissioner, mayor, city council member, agency head, sheriff, city attorney, county attorney, regulatory commissioner, or other high-office actor commits **constitutional-objection override by high office** where the actor knowingly directs, funds, approves, defends, or continues enforcement of a statute, ordinance, rule, policy, order, contract term, or practice after receiving a specific constitutional objection and after the actor knows, or in reckless disregard of clear evidence should know, that the instrument is void, unconstitutional, preempted, repealed, enjoined, or otherwise unenforceable.
+
+**Classification:**
+
+- Constitutional-objection override by high office is a **Class 2 felony**
+- Where the override results in arrest, citation, detention, child removal, property seizure, loss of license, loss of benefits, denial of court access, or retaliation against the objecting citizen, the offense is a **Class 1 felony**
+- Where the actor issued a written correction, suspended enforcement, sought neutral judicial review, or publicly dissociated from the unlawful enforcement before citizen harm occurred, that corrective action may be considered in mitigation but does not erase liability for earlier completed violations
+- Charge cumulatively under §15.3A, §16.14, §16.23, §1.10, or §1.13 where applicable
+
 ---
 
 ### Subpart E — Obstruction of Utah's Federal Representatives Through Misleading Testimony
@@ -3267,6 +3409,48 @@ Jurisdiction rests on the **harm to Utah citizens** through the misleading of th
 
 ---
 
+### Subpart F — Federal Representative and Intergovernmental Accountability Offenses
+
+The offenses of Subpart F apply to Utah's federal representatives, congressional staff, federal-office actors, and intergovernmental actors whose conduct obstructs constituent accountability, shields government misconduct, or coordinates retaliation against Utah citizens seeking enforcement of this Act. This Subpart is read together with §14.7 and the jurisdictional-reach provisions above.
+
+### 16.25A Federal Representative Constituent Obstruction
+
+> A Utah United States Senator, Utah United States Representative, congressional staff member, district-office employee, constituent-services employee, or other federal-office actor commits **federal representative constituent obstruction** where the actor knowingly refuses, buries, misroutes, conceals, falsifies, or retaliates against a citizen complaint, evidence packet, request for federal assistance, whistleblower disclosure, constitutional objection, or report of government misconduct submitted by a Utah citizen.
+
+**Includes, Without Limitation:**
+
+- Refusing to log, track, or provide receipt for a constituent complaint concerning government abuse, federal agency misconduct, civil-rights violation, unlawful detention, retaliation, public corruption, veterans benefits, immigration detention, federal benefits, or constitutional rights
+- Telling a citizen that the office has no duty or no ability to receive a complaint while privately routing favored matters through unofficial channels
+- Altering or summarizing a complaint in a way that removes allegations against government actors, contractors, donors, political allies, or agencies
+- Forwarding a complaint to the accused agency without preserving the citizen's allegations, evidence, requested remedy, and anti-retaliation concerns
+- Retaliating against, threatening, blacklisting, doxxing, or assisting retaliation against a citizen because the citizen sought help from a federal representative
+
+**Classification:**
+
+- Federal representative constituent obstruction is a **Class 3 felony**
+- Where the obstruction affects liberty, immigration status, veterans benefits, medical care, public benefits, housing, employment, court access, child custody, whistleblower protection, or preservation of evidence, the offense is a **Class 2 felony**
+- Where the obstruction is intentional, retaliatory, coordinated with the accused agency, or conceals official crime, public corruption, federal rights violations, death, serious injury, or sexual abuse, the offense is a **Class 1 felony**
+
+### 16.25B Federal-State Shielding Coordination
+
+> A federal representative, congressional staff member, federal agency actor, state actor, local actor, contractor, lobbyist, or political intermediary commits **federal-state shielding coordination** where the actor coordinates across federal, state, county, city, or private channels to shield a government actor from accountability under this Act, obstruct a Citizen Council, suppress records, discourage witnesses, pressure prosecutors or judges, manipulate funding, or retaliate against citizens seeking enforcement.
+
+**Includes, Without Limitation:**
+
+- Asking a federal office, state office, county office, sheriff, prosecutor, judge, clerk, agency, contractor, or political ally to slow, bury, redirect, or discredit a complaint
+- Conditioning grants, contracts, endorsements, constituent services, casework, law-enforcement assistance, disaster assistance, or intergovernmental cooperation on silence about misconduct
+- Using congressional inquiry, federal agency contact, state agency contact, local police contact, or political communication to intimidate a witness, complainant, whistleblower, Citizen Council member, attorney, journalist, or public defender
+- Creating a public appearance of oversight while privately protecting the accused actor, agency, contractor, donor, or political ally
+
+**Classification:**
+
+- Federal-state shielding coordination is a **Class 2 felony**
+- Where the coordination affects investigation of force, custody, death, sexual misconduct, child removal, public corruption, election administration, federal benefits, immigration detention, or constitutional rights, the offense is a **Class 1 felony**
+- Where the coordination causes wrongful conviction, prolonged detention, death, suicide, serious bodily injury, or destruction of material evidence, Section 11 applies
+- Charge cumulatively under §1.6, §1.7, §1.9, §8.9, §16.2, §16.4A, or §16.24B where applicable
+
+---
+
 ### 16.26 Penalty Structure (Cross-Reference)
 
 The classifications above operate against the four-level mens rea framework of **Section 2** and the existing penalty classifications of this title. For convenience, the relationship between mental state and offense classification under this Section is summarized as follows:
@@ -3292,7 +3476,7 @@ The penalty enhancements of **Section 6** apply in full to every offense under t
 - Harm affected large numbers of citizens
 - The actor was acting under sworn-oath authority at the time of the conduct
 
-These factors are read together with §6. To the extent a factor is already enumerated at §6, this Section does not duplicate the enhancement; it identifies the factor for clarity in the role-specific contexts addressed by Subparts A through D.
+These factors are read together with §6. To the extent a factor is already enumerated at §6, this Section does not duplicate the enhancement; it identifies the factor for clarity in the role-specific contexts addressed by Subparts A through F.
 
 ---
 
