@@ -81,6 +81,26 @@ Operation Checkmate establishes that:
 - Immunity doctrines cannot be allowed to convert public office into private license.
 - The law must protect the citizen before it protects the comfort of the officeholder.
 
+### Civilian Command and Public-Service Discipline
+
+This Act borrows one limited idea from the military justice system: when a person accepts public authority, that authority should come with enforceable duties and consequences.
+
+The military maintains a separate justice system because military authority is dangerous when undisciplined. A person who accepts military authority accepts special duties and discipline that do not apply to ordinary civilians.
+
+Military discipline can reach conduct that ordinary civilians would never think of as criminal. For example, **Army Regulation 670-1** governs military appearance and grooming. It states that portions of the grooming chapter are punitive and that violation of specific hair, fingernail, and grooming requirements may result in adverse administrative action and/or charges under military law.
+
+Operation Checkmate does **not** seek to regulate public servants with that level of personal strictness. It does not criminalize a public official's haircut, uniform crease, or personal style. The point is different and more important: if the military can attach enforceable discipline to comparatively small breaches of order, then civilian government must be able to attach enforceable accountability to officials who carry guns, issue warrants, take children, seize property, prosecute crimes, sign orders, impose fees, and deprive citizens of liberty.
+
+The government is run by the civilian population, not the other way around.
+
+For purposes of public power, the highest rank in America is **United States Citizen**. A police officer, prosecutor, judge, senator, governor, regulator, clerk, sheriff, mayor, or agency employee is not above the citizen. They are beneath the citizen in the constitutional order, because they are public servants exercising delegated power.
+
+This Act therefore creates a list of public-service offenses: documented articles of accountability that define when a government actor's use of delegated power becomes criminal. The citizen is the commanding authority. The Constitution is the governing order. This title supplies the enforceable discipline.
+
+Government actors may consider some of these duties inconvenient, excessive, or obvious. But the duties are not written for the comfort of the official. They are written for every citizen who does not wear the robe, carry the badge, control the file, sign the warrant, operate the jail, or hold the government pen.
+
+This Act gives citizens documented triggers to hold government agents accountable to the highest rank in the American system: the citizen whose rights the government exists to serve.
+
 ### The Moral Line
 
 A public office is not a throne.
@@ -171,6 +191,8 @@ For purposes of this title, **"government actor"** means any individual acting u
 - Any agent, contractor, deputized private individual, or designee exercising state power over a citizen
 - Any person acting under color of any law, statute, ordinance, regulation, **policy**, custom, or usage of any jurisdiction
 - Any private entity or individual performing a traditionally governmental function under contract, deputization, or delegation
+
+A government actor may not avoid liability by delegating coercive, custodial, investigative, medical, benefits, family-regulation, surveillance, data-processing, detention, forensic, probation, parole, monitoring, child-welfare, guardianship, or enforcement functions to a private contractor, vendor, nonprofit, evaluator, service provider, or other intermediary. Any private person or entity exercising delegated government power, controlling access to a government benefit, operating a detention or supervision function, providing required medical care in custody, processing evidence, administering a coercive government program, or supplying a tool on which government action is based is a government actor for purposes of this Act.
 
 ### 1.1.1 Collective Bodies and Conspiracy Enhancement
 
@@ -1311,6 +1333,8 @@ This doctrine is abrogated within the scope of this title. A prosecutor who comm
 
 > The "**clearly established law**" inquiry has **no application** under this title. A government actor cannot escape liability by arguing that no previous case had specifically held the same conduct unlawful. The standard is the substantive elements of the offense — recklessness, intent, or malice as defined in Section 2 — not whether some prior court has ruled on identical facts.
 
+**Obvious Wrongs Require No Fact-Matched Case.** No government actor may defend conduct on the ground that no prior court had condemned the exact factual pattern where the conduct would be criminal, tortious, fraudulent, coercive, retaliatory, or obviously wrongful if committed by a private citizen. Theft, coercion, fabrication, retaliation, violence, intimidation, deception, evidence destruction, sexual exploitation, family separation without lawful basis, and deprivation of liberty are not made lawful by novelty.
+
 **Sovereign and Governmental Immunity** — the doctrines that the State, its subdivisions, and its agencies cannot be sued without consent — including:
 
 - The Eleventh Amendment immunity of states from suit in federal court
@@ -2224,6 +2248,74 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 - Where the retaliation targets a Citizen Council member, declarant, or witness under Section 8, the offense is also reachable under §8.6, **cumulatively**
 - Where the retaliation is part of a pattern or coordinated by multiple actors, charge cumulatively under §1.6 (Cabalism), §1.7 (Government Racketeering), or §1.9 (Treason — procedural-warfare prong)
 
+### 16.2A Process-Stacking Retaliation
+
+> A government actor commits **process-stacking retaliation** where the actor initiates, coordinates, encourages, requests, suggests, or facilitates multiple official contacts, checks, referrals, investigations, subpoenas, inspections, citations, removals, holds, administrative burdens, or similar processes against a citizen because the citizen complained, recorded, testified, filed a claim, joined or assisted a Citizen Council, asserted rights, refused consent, sought counsel, reported misconduct, or criticized government.
+
+**Includes, Without Limitation:**
+
+- Repeated welfare checks, compliance checks, probation or parole contacts, code inspections, school referrals, CPS reports, licensing contacts, or regulatory visits
+- Multiple subpoenas, records demands, interview requests, administrative hearings, or court notices used to exhaust or intimidate the citizen
+- Protective-order manipulation, warrant requests, pretrial or probation holds, detainers, no-contact orders, or release-condition changes used as retaliation
+- Cross-agency referrals or informal calls designed to cause another agency to pressure, investigate, burden, or punish the citizen
+- Stacking minor processes that would appear ordinary in isolation but operate together as intimidation, retaliation, or punishment
+
+**Elements:**
+
+- The actor is a government actor
+- The actor initiated, coordinated, encouraged, requested, suggested, or facilitated two or more official processes or contacts affecting the citizen
+- The citizen had engaged in protected activity, including complaint, recording, testimony, refusal of consent, assertion of rights, Citizen Council participation, legal claim, public criticism, or request for accountability
+- The official processes or contacts were caused by, motivated by, or substantially influenced by the citizen's protected activity
+
+**Classification:**
+
+- Process-stacking retaliation is a **Class 2 felony**
+- Where multiple agencies, offices, departments, courts, schools, contractors, or government actors participate, the offense is elevated to a **Class 1 felony**
+- Where the conduct affects housing, employment, children, liberty, medical care, education, immigration status, professional licensing, safety, or access to court, the offense is elevated to a **Class 1 felony**
+- Charge cumulatively under §16.2 (Institutional Retaliation), §1.13 (Official Intimidation), §1.12 (Terrorism), §1.6 (Cabalism), or §1.7 (Government Racketeering), where the elements are met
+
+**Defenses Limited:**
+
+- The fact that each individual contact, referral, inspection, subpoena, or process could have been lawful in isolation is not a defense where the pattern was retaliatory
+- "Another agency made the final decision" is not a defense where the actor initiated, encouraged, suggested, supplied information for, or coordinated the process
+- Informal communication, off-record referral, or "just giving a heads up" is treated as facilitation where it foreseeably caused official pressure on the citizen
+
+### 16.2B Retaliatory Charge Fabrication
+
+> A government actor commits **retaliatory charge fabrication** where the actor creates, suggests, approves, signs, pursues, encourages, or materially supports a citation, arrest, report, probable-cause statement, warrant affidavit, charging document, violation notice, disciplinary referral, contempt allegation, probation or parole violation, or other formal accusation because a citizen criticized government, recorded government activity, refused consent, asserted rights, filed a complaint, joined or assisted a Citizen Council, sought counsel, testified, reported misconduct, or otherwise engaged in protected activity.
+
+**Includes, Without Limitation:**
+
+- Creating or suggesting a charge after a citizen records, criticizes, refuses consent, asks for a supervisor, invokes rights, or files a complaint
+- Writing a report, affidavit, citation, or probable-cause statement that omits the protected activity or reframes the protected activity as obstruction, interference, disorderly conduct, trespass, resisting, contempt, threat, noncompliance, or violation
+- Asking another officer, prosecutor, supervisor, agency, school official, probation officer, or court actor to find or pursue a charge because the citizen engaged in protected activity
+- Approving, signing, filing, or pursuing a charge after learning that the charge was motivated by protected activity
+- Using a fabricated or retaliatory charge to justify arrest, detention, search, seizure, bail condition, probation hold, school discipline, child-welfare action, professional discipline, or immigration referral
+
+**Elements:**
+
+- The actor is a government actor
+- The actor created, suggested, approved, signed, pursued, encouraged, or materially supported a formal accusation or enforcement action against a citizen
+- The citizen had engaged in protected activity, including complaint, recording, testimony, refusal of consent, assertion of rights, Citizen Council participation, legal claim, public criticism, request for counsel, or request for accountability
+- The accusation or enforcement action was caused by, motivated by, or substantially influenced by the citizen's protected activity
+
+**Classification:**
+
+- Retaliatory charge fabrication is a **Class 2 felony**
+- Where the fabricated or retaliatory accusation is itself a felony, causes arrest, detention, incarceration, prosecution, conviction, probation or parole revocation, contempt, child removal, loss of employment, loss of housing, immigration consequence, or professional discipline, the offense is a **Class 1 felony**
+- Where multiple government actors coordinate, approve, ratify, or knowingly rely on the fabricated or retaliatory charge, the offense is a **Class 1 felony** and may be charged cumulatively as conspiracy under §1.1.1
+- Where the conduct contributes to wrongful conviction, long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 6 apply
+
+**Cumulative Charging:**
+
+Conduct under this section may be charged cumulatively under §16.2 (Institutional Retaliation), §16.2A (Process-Stacking Retaliation), §16.4 (Deliberate Record Distortion), §16.13 (Investigative Negligence), §1.14 (Prosecutorial Duty to Disclose Adverse Evidence), §1.15 (Malicious Prosecution), §1.3 (Battery), §1.13 (Official Intimidation), §1.6 (Cabalism), or §1.7 (Government Racketeering), where the elements are met.
+
+**Defenses Limited:**
+
+- The existence of some other arguable offense is not a defense where the charge actually pursued was motivated by protected activity
+- "Officer discretion," "prosecutorial discretion," "school discipline," "probation supervision," or "court authority" is not a defense where the accusation was retaliatory
+- A later actor may not rely on a fabricated or retaliatory charge after learning, or in reckless disregard of clear evidence should have learned, that protected activity motivated the charge
+
 ### 16.3 Reckless Rights Endangerment
 
 > A government actor commits **reckless rights endangerment** where the actor, while performing official duties, acts with reckless disregard toward the constitutional or civil rights of one or more citizens, whether or not actual deprivation results.
@@ -2259,6 +2351,54 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 - Where committed by a prosecutor, may also be charged under §1.14
 - Where committed by a judge or court personnel, may also be charged under §1.20
 - Penalty enhancements under Section 6 apply
+
+### 16.4A Public-Record Spoliation
+
+> A government actor commits **public-record spoliation** where the actor fails to create, preserve, produce, protect, or truthfully account for records that would normally document use of force, detention, search, interrogation, seizure, complaint handling, charging, court access, child removal, medical care in custody, supervision decisions, or other official decision-making affecting a citizen.
+
+**Includes, Without Limitation:**
+
+- Body-camera footage, dash-camera footage, interview-room recordings, jail recordings, dispatch logs, CAD notes, RMS entries, metadata, audit logs, warrant drafts, prosecutor notes concerning exculpatory evidence, medical requests, jail rounds, chain-of-custody records, algorithmic decision logs, and complaint records
+- Deleting, losing, overwriting, muting, failing to activate, failing to export, failing to preserve, or refusing to produce records
+- Keeping only the portion favorable to the government or failing to preserve records that would impeach, contradict, or contextualize official claims
+
+**Classification:**
+
+- Public-record spoliation is a **Class 3 felony**
+- Where the missing or damaged record concerns force, custody, interrogation, exculpatory evidence, property seizure, child removal, jail medical care, court access, or criminal prosecution, the offense is a **Class 2 felony**
+- Where the spoliation contributes to wrongful conviction, incarceration, child removal, death, suicide, or serious bodily injury, the offense is a **Class 1 felony** or higher, and Section 11 applies where the elements are met
+- Charge cumulatively under §16.4 (Deliberate Record Distortion), §16.13 (Investigative Negligence), §1.14 (Prosecutorial Duty to Disclose Adverse Evidence), or any underlying offense
+
+### 16.4B Forensic Truth Corruption
+
+> A government actor, lab analyst, expert witness, supervisor, prosecutor, court actor, or contracted forensic provider commits **forensic truth corruption** where the actor fabricates, exaggerates, suppresses uncertainty, misstates error rates, conceals contamination, hides lab problems, uses discredited methods, or presents forensic evidence as stronger than the science supports.
+
+**Includes, Without Limitation:**
+
+- Misstating match certainty, source attribution, statistical weight, error rates, validation, contamination risk, or limitations of the method
+- Failing to disclose lab misconduct, analyst discipline, failed proficiency testing, sample contamination, chain-of-custody errors, software errors, or discredited forensic practices
+- Allowing a prosecutor, court, jury, defense counsel, or accused person to rely on forensic evidence the actor knows, or in reckless disregard of clear evidence should know, is unreliable, overstated, or materially incomplete
+
+**Classification:**
+
+- Forensic truth corruption is a **Class 2 felony**
+- Where the corrupted forensic evidence contributes to plea, incarceration, conviction, sex-offender registration, family separation, professional discipline, immigration consequence, or capital exposure, the offense is a **Class 1 felony**
+- Where death, capital sentence, death in custody, or suicide results, Section 11 applies
+- Charge cumulatively under §16.4, §16.4A, §1.14, §1.15, and §8.15 where applicable
+
+### 16.4C Wrongful-Conviction Chain Liability
+
+> Any government actor whose deliberate, reckless, or grossly negligent act materially contributes to a wrongful conviction, wrongful plea, wrongful sentence, wrongful probation or parole revocation, or wrongful collateral consequence is liable for the resulting deprivation even if another actor made the final charging, trial, plea, sentencing, or custody decision.
+
+**Actors Covered Include, Without Limitation:**
+
+- Peace officers, detectives, supervisors, forensic analysts, lab supervisors, expert witnesses, prosecutors, judges, court staff, probation officers, parole officers, jail officials, records custodians, agency attorneys, contractors, and government bodies
+
+**Classification:**
+
+- The classification mirrors the deprivation caused, with a **Class 2 felony floor** where incarceration, conviction, plea coercion, or loss of liberty results
+- Where the conduct contributes to long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 6 apply
+- This section is cumulative to §1.1.3, §1.14, §1.15, §1.16, §16.4, §16.4A, and §16.4B
 
 ### 16.5 Gross Dereliction of Public Duty
 
@@ -2356,6 +2496,217 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 - **Civil infraction** — administrative fine up to five thousand dollars ($5,000) per violation
 - **Class A misdemeanor** where the obstruction is intentional and sustained
 - **Class 3 felony** where the obstruction is part of a pattern, or designed to conceal misconduct otherwise reachable under this Act — and the underlying misconduct may be charged cumulatively under §1.8 (Obstruction) or §1.6 (Cabalism)
+
+### 16.9A Complaint Intake Refusal
+
+> A government actor commits **complaint intake refusal** where the actor refuses, delays, discourages, misroutes, fails to log, or fails to provide a receipt for a citizen complaint against a government actor, agency, contractor, court officer, peace officer, prosecutor, judge, school official, jail official, or other person acting under color of authority.
+
+**Elements:**
+
+- The actor is a government actor with access to, responsibility for, or practical control over complaint intake, referral, logging, supervision, records, internal affairs, public access, or citizen service
+- A citizen attempts to make a complaint concerning misconduct by a government actor or government body
+- The actor refuses to accept, record, route, preserve, acknowledge, or provide basic access to the complaint process
+
+**Classification:**
+
+- Complaint intake refusal is a **Class 3 felony**
+- Where the refusal concerns force, custody, prosecution, judicial conduct, child removal, sexual misconduct, retaliation, corruption, or any violation of this Act, penalty enhancements under Section 6 apply
+- Where the refusal is part of a pattern or coordinated practice, charge cumulatively under §1.6 (Cabalism), §1.7 (Government Racketeering), or §16.9 (Failure of Transparency)
+
+**Defenses Limited:**
+
+- "That is not my department" is not a defense where the actor could reasonably identify the correct complaint channel and failed to do so
+- Lack of a preferred form, online portal, appointment, supervisor availability, or internal routing code is not a defense
+- Complaint intake, logging, and routing are basic duties of public service; inconvenience is not a defense
+
+### 16.9B Policy Shield Statement
+
+> A government actor commits a **policy shield statement** where the actor tells a citizen that an action is required, forbidden, authorized, or unavoidable because of "policy," "procedure," "orders," "practice," "the system," or similar authority, while refusing or failing to identify the actual policy, law, order, rule, or lawful authority relied upon.
+
+**Elements:**
+
+- The actor is a government actor
+- The actor invokes policy, procedure, orders, practice, custom, training, or institutional habit as the reason for action affecting a citizen's rights, liberty, property, access, duties, or legal position
+- The citizen asks, expressly or in substance, for the policy or lawful authority being relied upon
+- The actor refuses, fails, or is unable to identify the authority with reasonable specificity
+
+**Classification:**
+
+- Policy shield statement is a **Class 3 felony**
+- Where the statement is used to obtain consent, entry, waiver, payment, compliance, silence, surrender of property, or abandonment of a legal claim, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), or §15.3A (Constitutional Objection Obstruction)
+
+**Defenses Limited:**
+
+- A government actor may not hide behind unnamed policy
+- A policy that cannot be identified, produced, or tied to lawful authority is not a defense under this Act
+
+### 16.9C Status-Based Survival Enforcement
+
+> A government actor commits **status-based survival enforcement** where the actor cites, arrests, detains, removes property from, destroys property of, threatens, moves along, excludes, or otherwise punishes a citizen for unavoidable life-sustaining conduct arising from homelessness, poverty, disability, illness, lack of shelter, lack of transportation, lack of available lawful alternatives, or other survival necessity.
+
+**Includes, Without Limitation:**
+
+- Enforcement against sleeping, resting, sitting, lying down, sheltering from weather, eating, storing survival belongings, seeking hygiene, charging a phone, seeking medical help, or remaining in a public place where no realistic lawful alternative exists
+- Sweeps, cleanups, removals, or property seizures that destroy or withhold medication, identification, documents, tents, bedding, clothing, food, water, phones, chargers, mobility aids, tools, work equipment, legal papers, or other survival property
+- Use of citations, warrants, trespass orders, exclusion zones, camping bans, loitering laws, park rules, sanitation rules, or similar instruments to punish the condition of being homeless, poor, disabled, ill, or without available lawful shelter
+- Repeated movement orders or enforcement contacts designed to make the citizen disappear from public view rather than to address any actual, specific, and lawful public-safety need
+
+**Elements:**
+
+- The actor is a government actor, including without limitation a peace officer, code-enforcement officer, parks official, sanitation official, regulator, court actor, prosecutor, municipal official, contractor, or other person acting under color of authority
+- The citizen's conduct was life-sustaining, survival-related, or unavoidable under the circumstances
+- The actor knew, or in reckless disregard of clear evidence should have known, that the citizen lacked a realistic lawful alternative
+- The actor used or threatened enforcement, removal, property destruction, exclusion, citation, arrest, detention, or administrative burden against the citizen
+
+**Classification:**
+
+- Status-based survival enforcement is a **Class 3 felony**
+- Where property, medication, identity documents, shelter, bedding, tools, legal papers, medical equipment, communication devices, or survival supplies are destroyed, seized, withheld, or made unavailable, the offense is a **Class 2 felony**
+- Where the conduct results in exposure injury, medical crisis, disability aggravation, hospitalization, loss of employment, loss of benefits, loss of legal documents, incarceration, or family separation, the offense is a **Class 2 felony**
+- Where death, suicide, serious bodily injury, or life-threatening medical crisis results, the offense is a **Class 1 felony** or higher, and Section 11 applies where the elements are met
+
+**Defenses Limited:**
+
+- A general claim of sanitation, aesthetics, nuisance, public discomfort, tourism, business impact, or "quality of life" is not a defense where the enforcement targets survival conduct and no realistic lawful alternative existed
+- A shelter bed, service referral, appointment, or program does not count as a realistic lawful alternative if it was unavailable, unsafe, inaccessible, discriminatory, unaffordable, incompatible with disability or family status, conditioned on surrendering rights, or impossible for the citizen to reach or use
+- Property may not be treated as abandoned where the actor knew, or reasonably should have known, that it was survival property or that the citizen was temporarily absent
+
+**Cumulative Charging:**
+
+Conduct under this section may be charged cumulatively under §1.3 (Battery), §1.12 (Terrorism), §1.13 (Official Intimidation), §15.3 (Issuance and Enforcement of Repugnant Instruments), §15.3A (Constitutional Objection Obstruction), §16.2 (Institutional Retaliation), §16.2A (Process-Stacking Retaliation), §16.9 (Failure of Transparency), or §16.23 (Regulatory Weaponization), where the elements are met.
+
+### 16.9D Recording-Right Interference
+
+> Every citizen has the right to record, photograph, livestream, copy, preserve, publish, and document government actors performing public duties, government proceedings open to the citizen, public meetings, public enforcement activity, court proceedings, agency proceedings, school-board proceedings, legislative proceedings, jail or detention interactions visible or audible to the citizen, and any other exercise of public power affecting a citizen.
+
+A government actor commits **recording-right interference** where the actor stops, threatens, detains, cites, arrests, removes, excludes, restrains, seizes a device from, searches a device of, deletes data from, blocks the view of, blocks the audio of, orders a citizen to stop recording, retaliates against, or otherwise burdens a citizen for recording, photographing, livestreaming, copying, preserving, publishing, or documenting government activity.
+
+**Government-Wide Application:**
+
+This section applies to every government actor and government setting, including without limitation:
+
+- Peace officers, sheriffs, deputies, federal agents, detention officers, code-enforcement officers, school officials, regulators, inspectors, and agency employees
+- Judges, magistrates, clerks, court officers, bailiffs, prosecutors, public defenders acting under court authority, and court administrators
+- City councils, county commissions, school boards, zoning boards, licensing boards, administrative agencies, public hearings, and any other public body
+- Jails, holding facilities, detention centers, courtrooms, agency offices, public counters, public lobbies, sidewalks, parks, streets, schools, public meetings, and any other place where government power is being exercised
+
+**Court and Official-Recording Restrictions:**
+
+> A judge or court actor commits recording-right interference where the actor prohibits, limits, punishes, threatens, or burdens a citizen's own recording of a proceeding or government interaction on the ground that only an "official," "authorized," "certified," "court-approved," or government-created recording may exist or be used.
+
+The existence of an official transcript, official audio, official video, docket entry, certified record, or authorized copy does **not** extinguish the citizen's right to create, possess, preserve, publish, or rely upon the citizen's own recording.
+
+**Classification:**
+
+- Minor interference that does not stop recording, cause deletion, cause detention, or produce legal consequence is a **Class A misdemeanor**
+- Threatening, detaining, citing, removing, excluding, restraining, blocking, seizing a device, searching a device, ordering deletion, stopping recording, or retaliating against recording is a **Class 3 felony**
+- Arrest, prosecution, fabricated charge, device destruction, data deletion, injury, use of force, contempt order, sanction, adverse ruling, custody consequence, or judicial order prohibiting citizen recording is a **Class 2 felony**
+- A judge, magistrate, or court actor who restricts citizen recording on the ground that only authorized, official, certified, or court-controlled recordings are permitted commits a **Class 2 felony**
+- Where the interference is part of a pattern, coordinated by multiple actors, or intended to conceal misconduct, charge cumulatively under §16.2 (Institutional Retaliation), §16.2A (Process-Stacking Retaliation), §16.4 (Deliberate Record Distortion), §16.9 (Failure of Transparency), §1.6 (Cabalism), or §1.7 (Government Racketeering)
+
+**Defenses Limited:**
+
+- "Officer safety," "court decorum," "privacy," "policy," "local rule," "authorized copies only," "no filming," "security," or similar formulaic language is not a defense unless the actor identifies a specific, immediate, lawful, narrowly tailored basis for the restriction
+- A citizen may be required to avoid physically obstructing a lawful proceeding or emergency response, but the citizen may not be required to stop recording merely because the recording is inconvenient, embarrassing, critical, unofficial, or outside government control
+- A government actor may not condition access to court, agency service, complaint intake, public meetings, public counters, or public proceedings on surrendering the right to record
+
+### 16.9E Revenue Extraction Under Color of Law
+
+> A government actor commits **revenue extraction under color of law** where the actor uses citations, warrants, fines, fees, surcharges, probation costs, license suspensions, impound fees, court debt, collection practices, compliance costs, inspection fees, or similar financial burdens primarily to generate revenue or impose poverty-based control rather than to remedy actual harm or serve a legitimate public-safety purpose.
+
+**Includes, Without Limitation:**
+
+- Enforcement practices driven by budget needs, collection targets, fee dependence, quotas, revenue projections, or municipal financial pressure
+- Cascading warrants, suspensions, late fees, collection fees, jail threats, probation extensions, or contempt proceedings arising from inability to pay
+- Using low-level citations, traffic stops, code enforcement, probation fees, court costs, or impoundment as a revenue scheme
+
+**Classification:**
+
+- Revenue extraction under color of law is a **Class 3 felony**
+- Where inability to pay causes jail, license loss, job loss, housing loss, family separation, impoundment, cascading warrants, probation extension, or loss of benefits, the offense is a **Class 2 felony**
+- Where part of a pattern or budgeted scheme, charge cumulatively under §1.7 (Government Racketeering), §1.9 (Treason — financial-warfare prong), or §16.20 (Deliberate Budget Concealment)
+
+### 16.9F Property Punishment Without Conviction
+
+> A government actor commits **property punishment without conviction** where the actor seizes, retains, forfeits, conditions return of, threatens forfeiture of, or imposes storage, towing, impound, administrative, or release costs on property without a criminal conviction tied to the property and without clear proof that the property itself is contraband or the direct instrumentality of a crime.
+
+**Classification:**
+
+- Property punishment without conviction is a **Class 3 felony**
+- Where the property is necessary for work, housing, family care, medical care, transport, disability access, communication, legal defense, or survival, the offense is a **Class 2 felony**
+- Where the taking causes loss of livelihood, homelessness, family separation, medical harm, or inability to defend a legal case, penalty enhancements under Section 6 apply
+- Charge cumulatively under §1.3 (Battery), §1.7 (Government Racketeering), §1.12 (Terrorism), §15.3, or §16.9E where the elements are met
+
+### 16.9G Protected-Speech Suppression Under Color of Law
+
+> A government actor commits **protected-speech suppression under color of law** where the actor uses citation, arrest, dispersal, threat, surveillance, excessive presence, permit manipulation, force, prosecution, investigation, school discipline, licensing action, or administrative burden to punish speech, protest, recording, press activity, religious exercise, petitioning, association, or criticism of government.
+
+**Classification:**
+
+- Protected-speech suppression is a **Class 3 felony**
+- Where arrest, prosecution, injury, device seizure, employment loss, school discipline, license loss, permit denial, or court sanction results, the offense is a **Class 2 felony**
+- Where the suppression is coordinated, repeated, or directed against a class of speakers, charge cumulatively under §16.2, §16.2A, §16.9D, §1.6, §1.7, or §1.9
+
+### 16.9H Constructive Denial Under Color of Office
+
+> A government actor commits **constructive denial under color of office** where the actor delays, misdirects, withholds, loses, refuses, repeatedly reprocesses, or imposes circular requirements on a citizen's application, record, benefit, license, appeal, complaint, request, filing, hearing, or service in a manner that effectively denies the right, benefit, or access without a lawful written decision.
+
+**Classification:**
+
+- Minor isolated constructive denial is a **Class A misdemeanor**
+- Where a protected right, livelihood, housing, family status, medical access, education, legal defense, benefits, licensing, or court access is affected, the offense is a **Class 3 felony**
+- Where done intentionally, discriminatorily, or in retaliation, the offense is a **Class 2 felony**
+- Charge cumulatively under §16.2, §16.9, §16.9A, §16.16A, or §1.13 where the elements are met
+
+### 16.9I Poverty-Based Family Separation
+
+> A government actor commits **poverty-based family separation** where the actor investigates, threatens removal, removes a child, restricts visitation, imposes a safety plan, seeks termination, or conditions reunification based primarily on poverty, disability, housing instability, lack of transportation, lack of childcare, language barrier, inability to pay, or failure to complete services the family cannot realistically access.
+
+**Classification:**
+
+- Poverty-based family separation is a **Class 2 felony**
+- Where removal occurs without imminent danger, disability accommodation is denied, poverty is knowingly misrepresented as neglect, or reunification is conditioned on inaccessible services, the offense is a **Class 1 felony**
+- Charge cumulatively under §1.3 (Battery), §1.12 (Terrorism), §16.2, §16.9H, §16.9J, or §16.9K where applicable
+
+### 16.9J Family-Rights Advisement Failure
+
+> A child protective worker, school official, peace officer, prosecutor, judge, agency attorney, or other government actor commits **family-rights advisement failure** where the actor seeks entry, questioning, drug testing, releases, safety plans, child interviews, medical records, school records, placement agreements, parental admissions, or service-plan signatures without first advising the parent or guardian of the right to refuse consent absent lawful process, the right to counsel, and the possible use of statements or signatures in removal, restriction, or termination proceedings.
+
+**Classification:**
+
+- Family-rights advisement failure is a **Class 3 felony**
+- Where removal, supervised visitation, service-plan coercion, safety-plan coercion, court restriction, or termination petition results, the offense is a **Class 2 felony**
+- A waiver, release, admission, consent, or plan obtained in violation of this section is presumptively involuntary and inadmissible
+
+### 16.9K Language-Access Obstruction
+
+> A government actor commits **language-access obstruction** where the actor questions, detains, searches, cites, arrests, seeks consent from, obtains waiver from, removes children from, denies benefits to, enters judgment against, disciplines, or otherwise burdens a citizen without providing competent interpretation, translation, disability communication access, or simplified accessible communication where reasonably necessary.
+
+**Classification:**
+
+- Language-access obstruction is a **Class 3 felony**
+- Where confession, waiver, removal, conviction, loss of benefits, eviction, detention, default, discipline, or other rights deprivation results, the offense is a **Class 2 felony**
+- Any waiver, consent, statement, or default obtained through language-access obstruction is presumptively invalid
+
+### 16.9L Victim-Service Abandonment
+
+> A government actor commits **victim-service abandonment** where the actor refuses, downgrades, delays, mocks, discourages, misclassifies, or fails to meaningfully investigate a report of violence, sexual assault, domestic violence, stalking, trafficking, hate crime, child abuse, elder abuse, official misconduct, or other serious harm because of bias against the victim, stereotypes about credibility, poverty, disability, addiction, immigration status, race, sex, sexual orientation, gender identity, sex-work status, social status, or favoritism toward the perpetrator.
+
+**Classification:**
+
+- Victim-service abandonment is a **Class 3 felony**
+- Where the failure enables further violence, destroys evidence, causes limitation-period loss, protects a government actor, or prevents prosecution, the offense is a **Class 2 felony**
+- Where death, serious injury, sexual assault, repeated victimization, or suicide results, the offense is a **Class 1 felony** or higher, and Section 11 applies where the elements are met
+
+### 16.9M Juvenile Authority Abuse
+
+> A government actor commits **juvenile authority abuse** where the actor uses school discipline, truancy enforcement, juvenile probation, juvenile court, detention, child services, school resource officers, or placement authority to punish ordinary childhood behavior, disability-related conduct, poverty-related absence, family instability, homelessness, trauma response, protected expression, or inability to access services.
+
+**Classification:**
+
+- Juvenile authority abuse is a **Class 3 felony**
+- Where detention, removal from home, expulsion, criminal charge, probation, ankle monitoring, long-term record, disability exclusion, or family separation results, the offense is a **Class 2 felony**
+- Where financial conflict of interest, quota, kickback, private-facility benefit, or coordinated scheme is involved, the offense is a **Class 1 felony**
 
 ### 16.10 Abuse Under Color of Office
 
@@ -2523,6 +2874,131 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - "The citizen signed a form" is not a defense where the waiver was obtained through confusion, repetition, fatigue, fear, deception, disability, language barrier, youth, or implied threat
 - Departmental policy, training custom, professional habit, or "standard interview technique" is not a defense
 
+### 16.15B Badge Display Failure
+
+> A peace officer or other government actor exercising public enforcement authority commits **badge display failure** where the actor refuses or fails, upon request, to identify the actor's name, badge number or employee identifier, agency, and supervisor or chain of command during non-undercover public enforcement.
+
+**Classification:**
+
+- Badge display failure is a **Class 1 infraction**
+- A second or subsequent violation within twenty-four (24) months is a **Class A misdemeanor**
+- Where the refusal is used to conceal force, detention, search, seizure, retaliation, or other misconduct, charge cumulatively under §16.4 (Deliberate Record Distortion), §16.9 (Failure of Transparency), or the underlying offense
+
+**Limitations:**
+
+- Undercover operations and immediate life-safety emergencies may delay identification only as long as reasonably necessary
+- Once the safety condition ends, identification must be provided without further request
+
+### 16.15C Rights Dismissal Infraction
+
+> A peace officer or other government actor exercising enforcement authority commits **rights dismissal** where the actor mocks, laughs at, belittles, ignores, dismisses, or treats as suspicious a citizen's invocation of rights, including refusal of consent, request for counsel, assertion of silence, objection to a search, constitutional objection, request to record, or request for lawful authority.
+
+**Classification:**
+
+- Rights dismissal is a **Class A misdemeanor**
+- Where the dismissal is followed by enforcement, detention, search, seizure, citation, arrest, interrogation, or other deprivation, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), §15.3A (Constitutional Objection Obstruction), or §16.15A (Custodial Rights Interference)
+
+### 16.15D False Authority Gesture
+
+> A peace officer or other government actor exercising enforcement authority commits a **false authority gesture** where the actor uses a hand on weapon, spotlight, blocking position, vehicle placement, physical staging, surrounding formation, command posture, implied pursuit, or similar display of authority to pressure compliance where no lawful enforcement basis exists.
+
+**Classification:**
+
+- False authority gesture is a **Class A misdemeanor**
+- Where the gesture causes a reasonable citizen to believe they are not free to leave, must surrender a right, must permit a search, must answer questions, or must comply with an unlawful command, charge cumulatively under §1.2 (Assault), §1.13 (Official Intimidation), or §16.14 (Enforcement Without Articulable Basis)
+- Where actual detention, search, seizure, use of force, or rights deprivation results, charge cumulatively under §1.3 (Battery)
+
+### 16.15E Unrecorded Enforcement Contact
+
+> A peace officer, detention officer, investigator, code-enforcement officer, school resource officer, or other government actor equipped with required recording equipment commits **unrecorded enforcement contact** where the actor fails to activate, maintain, preserve, or disclose required recording during a citizen contact involving enforcement, detention, search, seizure, questioning, citation, arrest, use of force, complaint intake, child removal, or threat of official action.
+
+**Classification:**
+
+- Unrecorded enforcement contact is a **Class 3 felony**
+- Where the failure to record affects force, custody, interrogation, consent, search, seizure, complaint evidence, child removal, or criminal prosecution, charge cumulatively under §16.4 (Deliberate Record Distortion), §16.13 (Investigative Negligence), or any underlying offense
+- Where the missing recording would likely have contained exculpatory or impeachment evidence, prosecutors have disclosure duties under §1.14
+
+**Defenses Limited:**
+
+- Accidental failure is not a defense where the actor failed to perform required equipment checks, failed to report the failure promptly, or continued enforcement after discovering the failure
+- Technical failure is not a defense unless documented contemporaneously and preserved in the official record
+- Muting, obscuring, disabling, delaying activation, or selectively recording is treated as intentional failure unless clearly justified by an immediate lawful necessity
+
+### 16.15F Crisis-Response Misconduct
+
+> A government actor commits **crisis-response misconduct** where the actor treats a known or reasonably apparent behavioral-health, disability, medical, intoxication, dementia, autism, seizure, trauma, withdrawal, or suicide crisis as ordinary criminal defiance, and escalates force, detention, interrogation, citation, arrest, or charges instead of using available noncriminal alternatives.
+
+**Classification:**
+
+- Crisis-response misconduct is a **Class 3 felony**
+- Where injury, involuntary hospitalization, jail, loss of housing, criminal charges, loss of benefits, or family separation results, the offense is a **Class 2 felony**
+- Where death or serious bodily injury results, the offense is a **Class 1 felony** or higher, and Section 11 applies where the elements are met
+
+### 16.15G Technical-Violation Incarceration Abuse
+
+> A government actor commits **technical-violation incarceration abuse** where the actor seeks, orders, causes, recommends, or maintains jail, prison, detention, revocation, hold, or custody for a technical violation of probation, parole, pretrial release, diversion, school supervision, immigration supervision, or administrative supervision that does not involve new criminal conduct, actual danger, or willful refusal where reasonable alternatives exist.
+
+**Classification:**
+
+- Technical-violation incarceration abuse is a **Class 3 felony**
+- Where incarceration, job loss, housing loss, family separation, medical interruption, benefit loss, immigration consequence, or plea pressure results, the offense is a **Class 2 felony**
+- Charge cumulatively under §16.9E (Revenue Extraction), §16.15H (Electronic Custody Abuse), or §1.3 (Battery), where the elements are met
+
+### 16.15H Electronic Custody Abuse
+
+> A government actor commits **electronic custody abuse** where the actor imposes, extends, monetizes, or enforces electronic monitoring, GPS tracking, app check-ins, curfews, exclusion zones, device fees, remote alcohol testing, location surveillance, or similar electronic restraint without individualized necessity, ability-to-pay findings, meaningful review, and less restrictive alternatives.
+
+**Classification:**
+
+- Minor excessive electronic conditions are a **Class A misdemeanor**
+- Unjustified electronic monitoring or surveillance is a **Class 3 felony**
+- Where technical violations cause jail, job loss, housing loss, medical denial, family separation, conviction pressure, or debt, the offense is a **Class 2 felony**
+
+### 16.15I Custodial Medical Abandonment
+
+> A government actor commits **custodial medical abandonment** where the actor, jail, prison, detention center, holding facility, hospital guard unit, transport unit, or responsible agency fails to provide necessary medical care, medication, disability accommodation, mental-health care, suicide prevention, withdrawal care, hygiene, food, water, safe housing, or protection from known violence to a person in custody.
+
+**Classification:**
+
+- Custodial medical abandonment is a **Class 3 felony**
+- Where serious illness, injury, suicide attempt, withdrawal crisis, sexual assault, prolonged isolation harm, denial of prescribed medication, or disability aggravation results, the offense is a **Class 2 felony**
+- Where death, suicide, or serious bodily injury results, the offense is a **Class 1 felony** or higher, and Section 11 applies where the elements are met
+
+### 16.15J Custodial Sexual Domination
+
+> A government actor commits **custodial sexual domination** where the actor uses custody, detention, supervision, probation, parole, foster placement, institutional control, immigration detention, jail employment, prison authority, release authority, housing control, medical access, food access, hygiene access, or family-contact control to obtain sexual contact, sexual exposure, sexualized speech, voyeuristic access, romantic communication, silence, or non-reporting concerning sexual misconduct.
+
+**Consent Bar:**
+
+No person in custody, detention, supervision, placement, institutional control, or material dependency on a government actor can validly consent to sexual contact with the actor exercising that power.
+
+**Classification:**
+
+- Custodial sexual domination is a **Class 1 felony**
+- Where the abuse contributes to suicide, death, serious bodily injury, pregnancy, sexually transmitted infection, or prolonged psychological harm, Section 11 and the penalty enhancements of Section 6 apply
+- Permanent ineligibility under Section 10 applies
+
+### 16.15K Citizenship-Claim Detention Obstruction
+
+> A government actor commits **citizenship-claim detention obstruction** where the actor detains, extends detention, transfers, reports, refuses release, honors a detainer, or facilitates removal against a person who claims U.S. citizenship, lawful status, mistaken identity, or lack of probable cause, without prompt good-faith investigation and neutral legal authority.
+
+**Classification:**
+
+- Citizenship-claim detention obstruction is a **Class 2 felony**
+- Where the person is transferred out of state, placed in removal proceedings, deported, separated from family, denied medication, or held more than forty-eight (48) hours after lawful release eligibility, the offense is a **Class 1 felony**
+- Charge cumulatively under §1.3 (Battery), §15.3A, §16.9K, or §16.15I where applicable
+
+### 16.15L Home-Invasion Under Color of Warrant
+
+> A government actor commits **home-invasion under color of warrant** where the actor seeks, signs, approves, executes, or supervises a search, arrest, no-knock entry, nighttime raid, forced entry, flashbang deployment, SWAT deployment, or militarized operation using false, stale, misleading, omitted, boilerplate, or insufficient facts, or where less dangerous means were reasonably available.
+
+**Classification:**
+
+- Home-invasion under color of warrant is a **Class 2 felony**
+- Where a child, elder, disabled person, sleeping person, uninvolved resident, or person in medical or mental-health crisis is endangered, the offense is a **Class 1 felony**
+- Where death, serious bodily injury, suicide, or life-threatening medical crisis results, Section 11 applies
+- Charge cumulatively under §1.3 (Battery), §1.10 (Anarchy), §16.4, §16.13, §16.14, or §16.15, where applicable
+
 ---
 
 ### Subpart C — Judicial Offenses
@@ -2550,6 +3026,55 @@ The offense of Subpart C applies to judges and other judicial officers (§1.1), 
 - **Class 2 felony** (Class 1 felony where part of a pattern, or where the ruling produced a wrongful conviction or sustained deprivation of rights)
 - Judicial immunity does not apply, consistent with §4.1
 - May be charged cumulatively with §§1.18 and 1.20, and where applicable §1.1.3 (Wrongful Conviction as Conspiracy) and §1.6 (Cabalism)
+
+### 16.16A Court Access Burdening
+
+> A court actor commits **court access burdening** where the actor gives misleading filing instructions, hides or withholds required forms, refuses to provide required access information, misdirects a citizen about filing location or procedure, refuses to accept a filing without lawful basis, or imposes informal barriers that burden a citizen's access to the courts.
+
+**Actors Covered:**
+
+This section applies to judges, magistrates, clerks, court administrators, bailiffs, self-help center staff, filing-office staff, probation or pretrial officers acting as court gatekeepers, and any other government actor whose conduct affects a citizen's practical access to court process.
+
+**Classification:**
+
+- Court access burdening is a **Class A misdemeanor**
+- Where the burden causes missed deadline, default, dismissal, warrant, detention, loss of appeal, loss of custody, loss of housing, loss of benefits, or inability to seek protection from violence, the conduct is a **Class 3 felony**
+- Where the burden is intentional, retaliatory, discriminatory, or part of a pattern, charge cumulatively under §16.2 (Institutional Retaliation), §16.9 (Failure of Transparency), §1.13 (Official Intimidation), or §1.10 (Anarchy), as applicable
+
+**Defenses Limited:**
+
+- "We do not give legal advice" is not a defense to refusing access to forms, filing instructions, fee-waiver information, docket information, interpreter access, disability accommodation, or other required procedural access
+- Local custom, staffing shortage, software limits, or personal irritation with the citizen is not a defense
+
+### 16.16B Constructive Denial of Counsel Under Color of Law
+
+> A government actor commits **constructive denial of counsel under color of law** where the actor funds, administers, contracts, assigns, pressures, or adjudicates a criminal, juvenile, family, immigration, child-welfare, contempt, probation, parole, or detention system while knowing that counsel is unavailable, unreasonably delayed, overloaded, conflicted, denied confidential access, denied discovery, or structurally unable to provide meaningful defense.
+
+**Classification:**
+
+- Constructive denial of counsel is a **Class 2 felony**
+- Where the failure produces plea coercion, incarceration, conviction, deportation, loss of parental rights, detention, contempt, probation or parole revocation, or death-penalty exposure, the offense is a **Class 1 felony**
+- Judges, prosecutors, public-defense administrators, contract managers, county officials, state officials, and court actors may be charged cumulatively where they knowingly maintain or rely on the defective system
+
+### 16.16C Wealth-Based Liberty Denial
+
+> A judge, magistrate, prosecutor, pretrial officer, sheriff, jail official, clerk, or other court actor commits **wealth-based liberty denial** where the actor seeks, orders, maintains, or administers pretrial detention, bail, bond, fees, GPS monitoring, release conditions, payment plans, or supervision conditions without individualized findings that the restriction is necessary, nonpunitive, affordable, and the least restrictive lawful means available.
+
+**Classification:**
+
+- Wealth-based liberty denial is a **Class 3 felony**
+- Where the citizen remains jailed solely because of inability to pay, loses employment, housing, custody, medical care, education, benefits, or pleads guilty to escape detention, the offense is a **Class 2 felony**
+- Where death, suicide, or serious bodily injury results, Section 11 applies
+
+### 16.16D Guardianship Rights Plunder
+
+> A court actor, guardian, conservator, public guardian, agency, attorney, fiduciary, evaluator, contractor, or service provider commits **guardianship rights plunder** where the actor uses guardianship, conservatorship, protective placement, representative payee status, court evaluation, or fiduciary authority to unnecessarily strip rights, isolate the person, seize assets, block family contact, control medical decisions, hide records, charge unreasonable fees, neglect care, or prevent the person from challenging the arrangement.
+
+**Classification:**
+
+- Guardianship rights plunder is a **Class 2 felony**
+- Where housing, medical care, family contact, estate assets, voting rights, liberty, bodily autonomy, communication, or ability to challenge the guardianship is materially deprived, the offense is a **Class 1 felony**
+- Where death, serious injury, suicide, or life-threatening medical crisis results, Section 11 applies
 
 ---
 
@@ -2641,6 +3166,24 @@ The offenses of Subpart D apply to **state legislators, county council members, 
 - **Class 2 felony**
 - **Class 1 felony** where invoked to suppress rights protected under §1.5, to bypass Section 8 Citizen Council mechanisms, or to procure contracts in violation of §16.21
 - May be charged cumulatively with §1.10 (Anarchy) where the emergency invocation lacked any lawful basis
+
+### 16.24A Algorithmic Authority Abuse
+
+> A government actor commits **algorithmic authority abuse** where the actor uses an algorithm, risk score, automated flag, predictive model, artificial intelligence system, database match, vendor tool, scoring system, fraud detector, eligibility model, surveillance system, or automated decision aid to detain, surveil, investigate, score, deny benefits, remove children, assign risk, set bail, sentence, discipline, revoke release, suspend a license, target enforcement, or otherwise burden a citizen without disclosure, validation, human review, contestability, and proof that the system is not materially biased or unreliable.
+
+**Elements:**
+
+- The actor is a government actor, or a contractor or vendor acting as a government actor under §1.1
+- The actor used, relied upon, procured, approved, or maintained an automated or algorithmic tool affecting a citizen
+- The tool materially influenced an official action, burden, classification, risk score, investigation, denial, detention, removal, discipline, or enforcement decision
+- The citizen was not given meaningful notice, explanation, access to contest the decision, and human review sufficient to challenge the tool's use
+
+**Classification:**
+
+- Algorithmic authority abuse is a **Class 3 felony**
+- Where the algorithmic decision causes detention, removal, conviction, benefit loss, license loss, family separation, housing loss, employment loss, school discipline, immigration consequence, or increased sentence or supervision, the offense is a **Class 2 felony**
+- Where the actor knew, or in reckless disregard of clear evidence should have known, that the tool was materially biased, unreliable, unvalidated, secret, or unfit for the use made of it, the offense is a **Class 2 felony**
+- Charge cumulatively under §16.4 (Deliberate Record Distortion), §16.6 (Public Trust Fraud), §16.9 (Failure of Transparency), §16.23 (Regulatory Weaponization), or any underlying offense
 
 ---
 
