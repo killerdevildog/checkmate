@@ -2050,6 +2050,45 @@ Such conduct may be charged, depending on the elements established, as one or mo
 
 The doctrine of judicial, prosecutorial, qualified, or sovereign immunity does **not** apply (consistent with §4.1.1).
 
+### 15.3A Constitutional Objection Obstruction
+
+> A government actor who is informed by a citizen that a statute, ordinance, regulation, order, warrant, policy, or other government instrument is unconstitutional, repugnant, void, or unenforceable has an immediate duty to pause enforcement long enough to consider the claim in good faith against the Constitution of the United States, the Utah Constitution, this Act, and any authority identified by the citizen.
+
+**Offense:**
+
+A government actor commits **constitutional objection obstruction** where:
+
+- A citizen states, orally or in writing, that the government instrument being invoked is unconstitutional, repugnant, void, or unenforceable
+- The citizen identifies, in substance, the right, constitutional provision, statutory provision, logical inconsistency, or conflict that makes the instrument unenforceable
+- The government actor continues, threatens to continue, directs, signs, authorizes, or attempts enforcement without good-faith engagement with the citizen's objection
+- The instrument is in fact repugnant, void, or unenforceable under Section 15.5 or any other provision of this Act
+
+**Actors Covered:**
+
+This section applies to every government actor, including without limitation:
+
+- A peace officer, deputy, federal agent, code-enforcement officer, regulator, school official, detention officer, or other executive actor who attempts to enforce the instrument against the citizen
+- A judge, magistrate, administrative law judge, clerk, bailiff, or other court actor who issues, signs, approves, maintains, or enforces the instrument after the objection is raised
+- A prosecutor or agency attorney who relies on, threatens to rely on, or seeks punishment under the instrument after the objection is raised
+
+**Good-Faith Engagement Required:**
+
+Good-faith engagement requires more than saying *"take it up with the judge,"* *"tell it to the court,"* *"I just enforce the law,"* *"the legislature passed it,"* *"policy says so,"* or words to similar effect. At minimum, the actor must identify the lawful authority the actor believes overrides the citizen's objection, or must suspend enforcement until a competent determination can be made under Section 15.4 or Section 8.14.
+
+**Classification:**
+
+- Constitutional objection obstruction is a **Class 2 felony**
+- Where the continued enforcement causes actual deprivation of liberty, property, parental rights, bodily autonomy, livelihood, or any other protected right, the conduct may be charged cumulatively under **§1.3 (Battery)**
+- Where the actor is a judge or judicial officer, the conduct may be charged cumulatively under **§1.18 (Judicial Duty to Engage on the Merits)** and **§1.20 (Judicial Duty to Apply Mandatory Rules and Correct Errors)**
+- Where the continued enforcement is part of a pattern, policy, coordinated practice, or institutional scheme, it may be charged cumulatively under **§1.6 (Cabalism)**, **§1.7 (Government Racketeering)**, or **§1.9 (Treason)** where the elements are met
+
+**Defenses Limited:**
+
+- Ignorance of the Constitution, this Act, or the right identified by the citizen is not a defense
+- Reliance on departmental policy, training, superior orders, common practice, legislative enactment, or the facial existence of the instrument is not a defense
+- The citizen is not required to cite a case name, statute number, section number, or exact legal phrase where the citizen's objection fairly identifies the constitutional or legal conflict in substance
+- The absence of a prior court ruling declaring the instrument unconstitutional is not a defense where the instrument is repugnant under Section 15.5
+
 ### 15.4 Determination of Repugnance
 
 A determination that a government instrument is repugnant under this Section may be made by:
@@ -2382,6 +2421,72 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 - **Class 1 felony** where serious bodily injury results
 - Where death results: chargeable as homicide under generally applicable law, and as a capital offense under Section 11 where the elements are met
 - May be charged cumulatively with §1.3 (Battery), §16.12 (Escalation Misconduct), and §1.12 (Terrorism) as applicable
+
+### 16.15A Custodial Rights Interference
+
+> A peace officer, detention officer, investigator, prosecutor, or other government actor commits **custodial rights interference** where, after a citizen is arrested, detained, accused, or otherwise subjected to custodial questioning, the actor knowingly or recklessly uses questioning, delay, confusion, deception, repetition, implied pressure, or procedural manipulation to obtain speech from the citizen in violation of the citizen's right to remain silent, right against self-incrimination, right to counsel, or right to due process.
+
+**Duty Triggered by Custody, Accusation, or Warning:**
+
+The duties in this section arise immediately when any of the following occurs:
+
+- The citizen is arrested, handcuffed, jailed, booked, transported in custody, or otherwise not free to leave
+- The citizen is directly accused of a crime by a government actor
+- A government actor begins questioning reasonably likely to elicit an incriminating statement
+- A government actor gives, reads, summarizes, or invokes a Miranda warning or equivalent rights advisement
+- The citizen states, asks for, or otherwise indicates a wish to remain silent, to stop answering, to speak with counsel, to call counsel, or to have counsel present
+
+**Affirmative Duties:**
+
+Once a duty is triggered under this section, the government actor shall:
+
+- Stop all interrogation immediately when the citizen invokes silence or counsel
+- Ask only questions reasonably necessary to determine whether the citizen understands the rights advisement, and shall not use comprehension questions as a gateway to substantive interrogation
+- Treat confusion, hesitation, distress, intoxication, disability, language barrier, youth, exhaustion, or mental-health impairment as requiring clarification and protection of rights, not as an opportunity to secure a waiver
+- Provide counsel before any further questioning where counsel is requested or where the citizen cannot knowingly and voluntarily waive rights
+- Record custodial questioning in full where practicable, including the rights advisement, any waiver, any invocation, all pauses, all officer statements, and all citizen responses
+- Preserve all recordings, notes, forms, body-camera footage, interview-room footage, transport recordings, booking recordings, and related metadata
+
+**Prohibited Conduct Includes, Without Limitation:**
+
+- Continuing to question the citizen after the citizen invokes silence or counsel
+- Continuing to ask variations of *"do you understand?"*, *"are you sure?"*, *"you know this is your chance to explain, right?"*, or similar questions after a rights advisement where the purpose or reasonably foreseeable effect is to induce the citizen to keep talking
+- Treating a citizen's answer to a comprehension question as a waiver of rights, unless the citizen separately, clearly, knowingly, and voluntarily waives the right to silence and the right to counsel
+- Repeating Miranda warnings, waiver forms, or comprehension questions in a manner designed to wear down resistance or convert silence into speech
+- Telling or implying that silence, requesting counsel, refusing to sign a waiver, or asking to stop questioning will make things worse for the citizen
+- Suggesting that cooperation is required, expected, morally necessary, or the only way to avoid harsher treatment, where the citizen has not validly waived rights
+- Using booking, transport, medical, welfare-check, identification, or administrative questions as a pretext to elicit incriminating statements
+- Moving the citizen to another officer, room, agency, jail unit, transport vehicle, or interview setting to restart questioning after invocation
+- Questioning through a third party, family member, informant, jail staff member, social worker, school official, or other intermediary to evade the citizen's invocation
+- Failing to record or preserve a custodial interview where recording was practicable, or selectively recording only the portion favorable to the government
+- Misstating the citizen's words, silence, hesitation, invocation, or refusal as cooperation, waiver, confession, consciousness of guilt, or admission
+
+**Miranda Cycling and Comprehension Traps:**
+
+> It is a distinct violation of this section for a government actor to use the required rights advisement itself as an instrument of coercion, confusion, or entrapment.
+
+This includes repeatedly returning to *"do you understand these rights?"*, *"with these rights in mind..."*, waiver paperwork, initials, signatures, or similar formalities after the citizen has invoked or hesitated, where the actor's purpose or reasonably foreseeable effect is to cause the citizen to speak when the citizen has not freely chosen to waive rights.
+
+**Effect on Statements and Evidence:**
+
+- Any statement obtained in violation of this section is presumptively involuntary and inadmissible in any criminal, civil, administrative, immigration, school-disciplinary, parole, probation, pretrial-release, or licensing proceeding
+- Derivative evidence obtained because of the violation is presumptively tainted unless the government proves by clear and convincing evidence that the evidence would have been discovered through wholly independent lawful means
+- A prosecutor who knowingly uses, threatens to use, or fails to disclose the violation concerning a statement obtained under this section may be charged cumulatively under §1.14 (Prosecutorial Duty to Disclose Adverse Evidence), §1.15 (Malicious Prosecution), §16.4 (Deliberate Record Distortion), or §16.5 (Gross Dereliction of Public Duty), as applicable
+
+**Classification:**
+
+- Reckless violation: **Class 3 felony**
+- Intentional violation: **Class 2 felony**
+- Violation producing a confession, admission, plea, conviction, probation revocation, parole revocation, immigration consequence, school expulsion, professional discipline, or other material deprivation of rights: **Class 2 felony**, chargeable cumulatively under §1.3 (Battery)
+- Violation committed with malice, as part of a pattern, or against a child, disabled person, intoxicated person, mentally impaired person, non-English speaker without adequate interpretation, or citizen in medical or psychological crisis: **Class 1 felony**
+- Where the violation contributes to long-term incarceration, wrongful conviction, death in custody, capital sentence, or suicide, the penalty enhancements of Section 6 and the death-resulting provisions of Section 11 apply
+
+**Defenses Limited:**
+
+- "The citizen kept talking" is not a defense where the actor's conduct foreseeably caused, induced, pressured, confused, or exploited the continued speech
+- "The question was only procedural" is not a defense where the question was used or reasonably likely to elicit an incriminating response
+- "The citizen signed a form" is not a defense where the waiver was obtained through confusion, repetition, fatigue, fear, deception, disability, language barrier, youth, or implied threat
+- Departmental policy, training custom, professional habit, or "standard interview technique" is not a defense
 
 ---
 
