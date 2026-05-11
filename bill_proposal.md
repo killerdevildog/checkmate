@@ -1,27 +1,5 @@
 # Operation Checkmate
 
-## Reader Note: Definition Links
-
-This bill uses small superscript markers as reader links. In the rendered PDF, clicking the marker takes the reader to the relevant explanation.
-
-- `ᴰ` links to **Section D — Dictionary of Terms**, for broader legal terms drawn from court cases, statutes, constitutional doctrine, or established legal usage.
-- `ᴰᴱᶠ` links to **Section 1 — Definitions**, for words or phrases specially defined by this Act.
-- `ᴱᴰ` links to an **Everyday English** explanation under the Dictionary section, for ordinary English words whose actual meaning may differ from cultural, political, or casual usage.
-- `ᵁᴮ` links to an **Urban / hoodspeak usage** explanation under the Dictionary section, for citizens from heavily urban communities where street usage may differ from legal or standard English usage. These entries may use Urban Dictionary-style definitions or cite Urban Dictionary where useful for reader understanding.
-- `ˢᴹ` links to a **Southern Metaphor** explanation under the Dictionary section, for regional Southern sayings, metaphors, or figures of speech that may sound unusual or unclear to readers from other places.
-- `ᴳˣ` links to a **Gen X Slang** explanation under the Dictionary section, where a statement or idea is restated in Gen X-style slang or cultural phrasing for readers who understand that register more naturally.
-
-Example:
-
-```markdown
-government actor[ᴰᴱᶠ](#government-actor)
-color of law[ᴰ](#color-of-law)
-```
-
-Terms specially defined for this Act appear in **Section 1 — Definitions**. Broader legal, everyday-English, urban-usage, Southern-metaphor, and Gen X slang explanations appear in **Section D — Dictionary of Terms**.
-
----
-
 ## Draft Proposal — Accountability Statute for Government Actors
 
 **Working titles:**
@@ -469,7 +447,7 @@ This section applies to any person acting under **color of federal or state law*
 
 #### 1.8.1 General Definition — Government Context
 
-> A government actor commits **obstruction of justice[ᴰ](#d5-justice)** under this title where the actor, while acting under color of authority, fails or refuses to perform a duty, performs a duty in an extremely erroneous or corrupt manner, conceals or distorts a required act, or otherwise interferes with a proceeding, investigation, record, duty, or official function so substantially that the proceeding or performance of public duty ceases to be justice in any meaningful sense.
+> A government actor commits **obstruction of [justice](#d5-justice)** under this title where the actor, while acting under color of authority, fails or refuses to perform a duty, performs a duty in an extremely erroneous or corrupt manner, conceals or distorts a required act, or otherwise interferes with a proceeding, investigation, record, duty, or official function so substantially that the proceeding or performance of public duty ceases to be justice in any meaningful sense.
 
 **Includes, but is not limited to:**
 
