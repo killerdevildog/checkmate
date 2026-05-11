@@ -51,11 +51,11 @@ A few real-world examples this bill addresses:
 
 The biggest shifts:
 
-1. **No more immunity.** Judges, prosecutors, and other officials can no longer hide behind "judicial immunity" or "qualified immunity" when they harm citizens. The Supreme Court cases that built up these shields are specifically named and ended within this Act — including the cases where judges sterilized children without due process or ordered violence against attorneys, and walked away free.
+1. **No more immunity for unlawful power.** Judges, prosecutors, and other officials can no longer hide behind "judicial immunity" or "qualified immunity" when they harm citizens. Immunity, if recognized at all, applies only to legitimate lawful authority — not unconstitutional, unlawful, malicious, retaliatory, coercive, obstructive, or due-process-violating conduct. The Supreme Court cases that built up these shields are specifically named and ended within this Act — including the cases where judges sterilized children without due process or ordered violence against attorneys, and walked away free.
 
-2. **A way to actually prosecute.** Right now, charging another government actor requires convincing a prosecutor to charge their colleague. They almost never do. This bill creates **Citizen Councils** — twelve or more citizens can investigate, sign a Joint Declaration of Prosecution, and force the prosecutor's office (or the Governor's Office as backup) to actually prosecute.
+2. **A way to actually prosecute.** Right now, charging another government actor requires convincing a prosecutor to charge their colleague. They almost never do. This bill creates **Citizen Councils** — twelve or more citizens can investigate, sign a Joint Declaration of Prosecution, and force the prosecutor's office (or the Governor's Office as backup) to actually prosecute. Council jurisdiction includes the county where the conduct occurred, municipalities in that county, adjacent municipalities, and adjacent counties reasonably affected by the office or actor under review.
 
-3. **Juries explain themselves.** When a juror votes to convict, they have to write down their reasoning on every piece of evidence. Today an innocent person convicted by a confused or biased jury has no real way to appeal on the facts. This fixes that.
+3. **Juries explain themselves and can ask questions.** When a juror votes to convict, they have to write down their reasoning on every piece of evidence. Jurors also have a protected right to ask questions of the prosecutor, the defense, or both, and cannot be removed or punished for doing so. Today an innocent person convicted by a confused or biased jury has no real way to appeal on the facts. This fixes that.
 
 4. **Six verdict options.** Juries can: convict, convict with refinement, convict-and-forgive (jury nullification with affirmative forgiveness), find innocent, find unequivocally innocent (which bars retrial and triggers review of the prosecutor), or simply acquit without giving a reason.
 
@@ -93,7 +93,7 @@ The biggest shifts:
 
 21. **The bill reaches child welfare, school, juvenile, and family-court abuse.** New offenses include **Poverty-Based Family Separation**, **Family-Rights Advisement Failure**, and **Juvenile Authority Abuse**. These target removals, safety plans, coerced service plans, school discipline, truancy, juvenile detention, and family restrictions based on poverty, disability, housing instability, inaccessible services, or ordinary childhood behavior rather than real danger.
 
-22. **Custody now carries affirmative care duties.** **Custodial Medical Abandonment** covers denial of medical care, medication, disability accommodation, mental-health care, suicide prevention, withdrawal care, hygiene, food, water, safe housing, or protection from known violence. **Custodial Sexual Domination** makes sexual exploitation by officials over people in custody, detention, supervision, placement, or institutional dependency a Class 1 felony.
+22. **Custody now carries affirmative care duties.** **Custodial Medical Abandonment** covers denial of medical care, medication, disability accommodation, mental-health care, suicide prevention, withdrawal care, hygiene, food, water, safe housing, or protection from known violence. **Custodial Sexual Domination** makes sexual exploitation by officials over people in custody, detention, supervision, placement, or institutional dependency a capital offense.
 
 23. **Bail, probation, parole, and monitoring get checked.** **Wealth-Based Liberty Denial** targets jail or harsh release conditions imposed because someone cannot pay. **Technical-Violation Incarceration Abuse** targets jail/prison for noncriminal technical violations where reasonable alternatives exist. **Electronic Custody Abuse** treats GPS monitors, app check-ins, curfews, exclusion zones, and monitoring fees as restraints that require real justification.
 
@@ -104,6 +104,8 @@ The biggest shifts:
 26. **Modern government tools are covered too.** **Algorithmic Authority Abuse** reaches risk scores, automated flags, AI systems, database matches, predictive tools, fraud detectors, and vendor systems used to detain, surveil, investigate, deny benefits, remove children, set bail, sentence, discipline, revoke release, or target enforcement without disclosure, validation, human review, contestability, and proof the system is not biased or unreliable.
 
 27. **The bill treats silence-by-system as abuse.** **Constructive Denial Under Color of Office**, **Language-Access Obstruction**, **Victim-Service Abandonment**, and **Protected-Speech Suppression** reach the quieter abuses: bureaucratic runaround, language barriers, failure to investigate victims because of bias, and punishment of speech, protest, recording, press activity, religion, petitioning, association, or criticism of government.
+
+28. **Due process is government by law, not by office habit.** The bill now states due process as supremacy of law over policy, custom, and personal authority. It explains that constitutional rights protect citizens from government power; a public servant acting in official capacity cannot use private speech, conscience, opinion, privacy, or search-and-seizure claims as a shield for official misconduct. It also moves the right-to-defense context into Due Process: when government unlawfully creates a condition where a citizen must defend their rights, the government actor is treated as initiating unlawful force.
 
 ---
 
@@ -125,7 +127,7 @@ No. The bill leaves every legitimate function of government untouched. It only r
 
 ### What if I'm a public servant — a cop, a judge, a teacher, an inspector, a city council member — reading this?
 
-If you do your job within the law and exercise reasonable care, this bill protects your reputation by removing the bad actors who give your profession a black eye. The bill targets four levels of misconduct: **negligence** (failure to exercise reasonable care — **civil liability only**, no criminal prosecution at this level alone), **recklessness**, **intent**, and **malice** (the three criminal levels). Honest, careful work isn't reachable under this Act. The bad actors who currently make your profession look corrupt finally are.
+If you do your job within the law and exercise reasonable care, this bill protects your reputation by removing the bad actors who give your profession a black eye. The bill uses two mens rea tracks — criminal and civil — with the same culpability words: **negligent**, **reckless**, **intentional**, and **malicious**. Criminal liability generally starts at recklessness unless a specific section makes negligent official conduct, failure to serve, or an infraction criminally enforceable. Honest, careful work within lawful authority is not the target. The bad actors who currently make your profession look corrupt finally are.
 
 ### What does signing the petition actually do?
 
@@ -145,7 +147,7 @@ No. Citizens remain fully subject to the law, including this Act. What this Act 
 
 ### Will this overload the courts with citizen lawsuits?
 
-The bill includes meaningful safeguards: charges require an actual mental state (recklessness, intent, or malice), Citizen Councils require twelve or more citizens to act in concert, and limited declination grounds are preserved. Frivolous complaints get filtered out the same way they do today. What changes is that **legitimate** complaints can no longer be filtered out by the very people they target.
+The bill includes meaningful safeguards: charges require a defined mental state, Citizen Councils require twelve or more citizens to act in concert, and limited declination grounds are preserved. Frivolous complaints get filtered out the same way they do today. What changes is that **legitimate** complaints can no longer be filtered out by the very people they target.
 
 ### How will this be paid for?
 
@@ -153,7 +155,7 @@ Most of the bill's mechanisms operate on existing infrastructure — the County 
 
 ### What about good-faith mistakes?
 
-The bill recognizes four levels of mental state: negligence (good-faith mistake — civil liability only), recklessness (conscious disregard — criminal floor), intent (deliberate), and malice (intent plus ill will). Honest mistakes that don't rise to recklessness aren't criminally reachable.
+The bill recognizes four levels of mental state on both the criminal and civil tracks: negligent, reckless, intentional, and malicious. Recklessness is the default criminal floor unless a specific section says otherwise. Negligent conduct can still be criminal where the bill expressly classifies it that way, such as certain infractions, failure-to-serve rules, or negligent official conduct. Honest mistakes that do not meet a criminally enforceable standard are not the target.
 
 ### How does this restore "checks and balances"?
 
@@ -182,6 +184,7 @@ Questions, edits, or feedback on the draft are welcome at the same address with 
 **Read the bill:**
 
 - **[`bill_proposal.md`](bill_proposal.md)** — the full bill text. Long, but it's the real thing.
+- **Latest PDF snapshot:** [Draft Ver 5.8.2](https://github.com/killerdevildog/checkmate/releases/tag/v5.8.2)
 - **[`AI_chat.md`](AI_chat.md)** — a short prompt you can paste into ChatGPT / Claude / Grok / Gemini that tells the AI to fetch the bill from this repo and act as your guide (see the *"Talk to an AI"* section above).
 - **[`advanced_readme.md`](advanced_readme.md)** — a section-by-section overview with section numbers, classifications, and cross-references.
 - **Dictionary of legal terms (Section D)** — plain-language definitions of legal terms (color of law, judicial immunity, qualified immunity, etc.) inside [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
