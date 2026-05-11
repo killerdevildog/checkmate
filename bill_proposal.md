@@ -896,6 +896,34 @@ The elements are:
 2. The government actor did not perform the duty;
 3. The required mens rea is met under Sections 3 and 4, including negligence, recklessness, intentional conduct, malicious conduct, knowing conduct, or a cognate knowing standard where applicable.
 
+### 2.B Constitutional Rights in Government Context
+
+Constitutional protected rights exist to protect the people from government power. They do not exist to allow a government actor to use public office, public resources, public records, public force, public discretion, or public process against the people while claiming the same private liberty that belongs to a citizen who is not exercising state power.
+
+For purposes of this Act, a public official, public servant, public employee, public body, or other government actor acting in an official capacity is not a **private citizen** with respect to that official conduct. A public servant serves the public as a whole, not a preferred class, faction, party, ideology, office, agency, personal interest, or favored subset of the public.
+
+Within the meaning of this Act, it is **not a defense** for a government actor to state, in substance, **"I had a constitutional right to do that,"** **"I had a right to say that,"** **"I had a right to believe that,"** **"I had a right to refuse that,"** or any similar claim of private constitutional liberty, where the conduct occurred under color of authority or in the exercise of official power.
+
+#### 2.B.1 Speech, Conscience, Opinion, and Official Power
+
+While acting under color of authority, a government actor does not possess a private citizen's freedom of conscience, freedom of speech, freedom of opinion, or freedom of association as a defense to official conduct that burdens a citizen's rights, liberty, property, due process, equal treatment, access to government, or access to justice.
+
+A government actor may hold private beliefs in a private capacity. But when acting as a public servant, the actor's official duty is to the Constitution, this Act, controlling law, and the entire public. Personal conscience, personal opinion, political preference, religious preference, ideological preference, institutional loyalty, professional culture, or class loyalty is not a defense to unequal service, selective enforcement, retaliation, obstruction, refusal to perform a duty, or any other violation under this Act.
+
+#### 2.B.2 Privacy, Search, Seizure, and Public Records
+
+While acting in an official capacity, a government actor, public office, public body, agency, department, court, jail, school, contractor exercising delegated public power, or other public instrumentality is not entitled to the same privacy protections as a private citizen with respect to public records, official communications, government devices, public funds, body-camera recordings, case files, logs, databases, policies, orders, training materials, official calendars, official messages, or other materials created, received, stored, used, or controlled in the exercise of public power.
+
+The protection against unreasonable searches and seizures belongs most strongly to private citizens against the government. It may not be inverted into a shield that allows government actors to conceal official conduct from citizens, courts, juries, Citizen Councils, investigators, auditors, or lawful public-record processes.
+
+This subsection does not eliminate the private-capacity constitutional rights of the human person who holds public office. It limits only claims of private constitutional protection made to shield official-capacity conduct, public records, public resources, delegated public power, or acts performed under color of authority.
+
+### 2.C Right to Defense Context
+
+Any action by a government actor that unlawfully creates a condition where a citizen must reasonably consider defending their rights, liberty, property, family, livelihood, bodily safety, access to government process, or access to justice shall be treated as initiating unlawful force for purposes of this Act.
+
+The government actor may not then treat the citizen's defensive posture, objection, record-making, refusal, appeal, complaint, request for counsel, invocation of rights, or demand for lawful authority as the source of the conflict. A citizen forced to consider defending protected rights is responding to government-created unlawful pressure, not creating the unlawful condition.
+
 ### 2.1 Jury Due Process
 
 Jury service exercises state power. Because a jury may authorize the deprivation of liberty, property, or life, juror rights, duties, and accountability are part of due process.
@@ -942,6 +970,19 @@ The reason: group deliberation, while permitted, can **distort a juror's percept
 - The court shall ensure each prospective juror is informed of the availability of separate space, before deliberation begins
 - The court shall not pressure, induce, or incentivize a juror to share a space or to engage in group deliberation
 
+**Right to Ask Questions:**
+
+> Any juror may submit a question to the prosecutor, the defense, or both. The question may concern the evidence, the law being argued, the meaning of an element, the credibility of a witness, the relevance of a fact, the scope of a charge, or any other matter the juror believes is necessary to understand the case.
+
+- A juror's question shall be placed on the record
+- The court shall provide a lawful process for the question to be answered, objected to, narrowed, or addressed in open court
+- A juror shall not be excused, removed, replaced, threatened, criticized, embarrassed, or treated as biased, hostile, uncooperative, or unfit merely because the juror asked a question
+- A juror's question may not be used as a pretext to strike, excuse, intimidate, isolate, or discredit that juror
+
+Where a juror who asked a question is excused, removed, replaced, or threatened with removal, the court shall immediately pause the proceeding and conduct an open inquiry on the record to determine whether the removal was caused in whole or in part by the juror's question.
+
+A judge who excuses, removes, replaces, threatens, or penalizes a juror because the juror asked a question, or who fails to conduct the required open inquiry after such a removal, commits **obstruction of justice** under Section 1.8 and violates the juror's protected rights under this subsection.
+
 **Right Against Removal for Disagreement:**
 
 > A juror **shall not** be removed from a jury, dismissed, replaced, declared "uncooperative," or otherwise excluded **for refusing to agree with the views of other jurors**, for holding a minority position on the verdict, or for refusing to change a vote.
@@ -958,6 +999,7 @@ The court shall, in plain and clear language, instruct every jury at the outset 
 - Of **all six verdict options** under this subsection
 - Of the **right to deliberate alone** or in group, at the juror's discretion
 - Of the **right to a separate, private deliberation space**
+- Of the **right to ask questions** of the prosecutor, defense, or both
 - Of the **right against removal for disagreement**
 - Of the **documentation requirement** under Section 2.1.2
 
@@ -1449,6 +1491,12 @@ This section applies to every appearance of "knowingly" and cognate terms throug
 
 > **Qualified immunity, judicial immunity, prosecutorial immunity, sovereign immunity, legislative immunity, executive immunity, and any analogous doctrine of absolute or partial immunity shall NOT apply** to any violation of this title — civil or criminal — committed by a government actor.
 
+Immunity doctrines, to the extent they are recognized at all, apply only to the **legitimate use of lawful authority**. They do not attach to conduct that is unconstitutional, unlawful, ultra vires, malicious, retaliatory, fraudulent, coercive, obstructive, outside due process, contrary to this Act, or unsupported by actual legal authority.
+
+For purposes of this Act, **sovereign immunity** and **qualified immunity** protect only lawful governance. They do not transform unlawful acts into lawful ones, do not excuse failure to perform an affirmative duty, do not shield violations of protected rights, and do not protect a government actor who uses public power in a manner the sovereign itself had no lawful power to authorize.
+
+A government actor may not claim immunity by first exceeding lawful authority and then arguing that the excess was "official." Conduct is official only to the extent it is a legitimate exercise of lawful power. Where the conduct violates this Act, violates due process, violates protected rights, or exceeds constitutional authority, the conduct is not legitimate authority for immunity purposes.
+
 ### 6.1.1 Specific Doctrines Abrogated
 
 This subsection specifically abrogates, within the scope of this title and within the State of Utah, the following Supreme Court doctrines and any state-law analogues:
@@ -1563,12 +1611,6 @@ Where suicidal ideation under this section progresses to an act of suicide, the 
 
 ---
 
-## Section 9 — Right to Defense Context
-
-> Any action by a government actor that unlawfully creates a condition where a citizen must reasonably consider defending their rights shall be treated as initiating unlawful force.
-
----
-
 ## Section 10 — Activation of Prosecution; Citizen Council and Joint Declaration
 
 ### 10.1 Citizen Council Formed Outside the Judicial Process
@@ -1576,6 +1618,8 @@ Where suicidal ideation under this section progresses to an act of suicide, the 
 > A **Citizen Council** under this title is formed and acts **outside the judicial process**. No court filing, no judicial authorization, no convening order, no docket, and no prior approval of any government office shall be required for citizens to come together, deliberate, or act under this section.
 
 - A Citizen Council is a **self-organized assembly** of citizens of the jurisdiction in which the alleged conduct occurred
+- For purposes of this section, **jurisdiction** includes the county in which the alleged conduct occurred, any municipality within that county, any adjacent municipality, and any adjacent county whose citizens are reasonably affected by, subject to, served by, policed by, prosecuted by, regulated by, taxed by, detained by, educated by, or otherwise exposed to the government actor or office under review
+- A citizen residing in the same county, an adjacent municipality, or an adjacent county may be counted for Citizen Council composition where the connection is sufficient to satisfy the jurisdiction purpose of this section
 - The Council requires **no formal filing** to convene, to meet, to deliberate, or to vote
 - The Council is **not a court, not an organ of the state, and not subject to the rules of judicial procedure**; it is a body of citizens exercising the foundational right to hold public servants accountable
 - The Council may meet in any lawful place, by any means (in person, by correspondence, by remote conference), at any time, and on its own initiative
@@ -2395,7 +2439,7 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 **Classification:**
 
 - **Class 2 felony** (capital offense where committed with malice or as part of a coordinated pattern)
-- Where the retaliation targets a Citizen Council member, declarant, or witness under Section 9, the offense is also reachable under §9.6, **cumulatively**
+- Where the retaliation targets a Citizen Council member, declarant, or witness under Section 10, the offense is also reachable under §10.6, **cumulatively**
 - Where the retaliation is part of a pattern or coordinated by multiple actors, charge cumulatively under §1.6 (Cabalism), §1.7 (Government Racketeering), or §1.9 (Treason — procedural-warfare prong)
 
 ### 18.2A Process-Stacking Retaliation
@@ -2534,7 +2578,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 - Forensic truth corruption is a **Class 2 felony**
 - Where the corrupted forensic evidence contributes to plea, incarceration, conviction, sex-offender registration, family separation, professional discipline, immigration consequence, or capital exposure, the offense is a **capital offense**
 - Where death, capital sentence, death in custody, or suicide results, Section 12 applies
-- Charge cumulatively under §17.4, §17.4A, §2.2.1.1, §1.15, and §9.15 where applicable
+- Charge cumulatively under §17.4, §17.4A, §2.2.1.1, §1.15, and §10.15 where applicable
 
 ### 18.4C Wrongful-Conviction Chain Liability
 
@@ -3278,7 +3322,7 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 - Clerk access obstruction is a **Class 1 misdemeanor**
 - Where the obstruction causes missed deadline, default, dismissal, warrant, loss of appeal, denial of public meeting participation, election harm, loss of benefits, loss of custody, loss of housing, loss of license, or inability to seek protection from violence, the offense is a **Class 3 felony**
 - Where the obstruction is intentional, retaliatory, discriminatory, election-related, or directed at a Citizen Council, complainant, witness, constitutional objection, or public-record request concerning government misconduct, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.9, §17.16A, §17.4A, §1.13, or §9.9 where applicable
+- Charge cumulatively under §17.9, §17.16A, §17.4A, §1.13, or §10.9 where applicable
 
 ### 18.16F Docket, Agenda, and Minutes Distortion
 
@@ -3404,7 +3448,7 @@ The offenses of Subpart D apply to **state legislators, governors, lieutenant go
 **Classification:**
 
 - **Class 2 felony**
-- **Capital offense** where invoked to suppress rights protected under §1.5, to bypass Section 9 Citizen Council mechanisms, or to procure contracts in violation of §17.21
+- **Capital offense** where invoked to suppress rights protected under §1.5, to bypass Section 10 Citizen Council mechanisms, or to procure contracts in violation of §17.21
 - May be charged cumulatively with §1.10 (Anarchy) where the emergency invocation lacked any lawful basis
 
 ### 18.24A Algorithmic Authority Abuse
@@ -3596,7 +3640,7 @@ The offenses of Subpart F apply to Utah's federal representatives, congressional
 - Federal-state shielding coordination is a **Class 2 felony**
 - Where the coordination affects investigation of force, custody, death, sexual misconduct, child removal, public corruption, election administration, federal benefits, immigration detention, or constitutional rights, the offense is a **capital offense**
 - Where the coordination causes wrongful conviction, prolonged detention, death, suicide, serious bodily injury, or destruction of material evidence, Section 12 applies
-- Charge cumulatively under §1.6, §1.7, §1.9, §9.9, §17.2, §17.4A, or §17.24B where applicable
+- Charge cumulatively under §1.6, §1.7, §1.9, §10.9, §17.2, §17.4A, or §17.24B where applicable
 
 ---
 
@@ -3687,7 +3731,7 @@ regardless of whether the specific conduct was itself authorized by state law. C
 
 **Plain meaning.** Prosecutorial immunity is the doctrine that a prosecutor enjoys **absolute civil immunity** for acts performed within their "advocate" role — initiating prosecutions, presenting evidence, examining witnesses, and so on — **even when the prosecutor knowingly used false testimony or fabricated evidence**. The doctrine extends to charging decisions, plea negotiations, and grand-jury presentations.
 
-**Why the doctrine matters in this bill.** Operation Checkmate abrogates prosecutorial immunity within the scope of this title. See Section 6.1.1. A prosecutor who commits a violation under this Act — including selective non-prosecution under §1.8, knowing use of false evidence as charged under §1.3 (Battery), or obstruction of a Citizen Council under §9.9 — is personally liable, civilly and criminally, without regard to whether the conduct fell within the "advocate" function.
+**Why the doctrine matters in this bill.** Operation Checkmate abrogates prosecutorial immunity within the scope of this title. See Section 6.1.1. A prosecutor who commits a violation under this Act — including selective non-prosecution under §1.8, knowing use of false evidence as charged under §1.3 (Battery), or obstruction of a Citizen Council under §10.9 — is personally liable, civilly and criminally, without regard to whether the conduct fell within the "advocate" function.
 
 **Supreme Court precedent establishing the doctrine:** See **L.11** (*Imbler v. Pachtman*), **L.12** (*Burns v. Reed*), **L.13** (*Buckley v. Fitzsimmons*), and **L.14** (*Van de Kamp v. Goldstein*).
 
