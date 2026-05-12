@@ -184,7 +184,7 @@ Questions, edits, or feedback on the draft are welcome at the same address with 
 **Read the bill:**
 
 - **[`bill_proposal.md`](bill_proposal.md)** — the full bill text. Long, but it's the real thing.
-- **Latest PDF snapshot:** [Draft Ver 5.8.2](https://github.com/killerdevildog/checkmate/releases/tag/v5.8.2)
+- **Latest PDF snapshot:** [Draft Ver 5.8.3](https://github.com/killerdevildog/checkmate/releases/tag/v5.8.3)
 - **[`AI_chat.md`](AI_chat.md)** — a short prompt you can paste into ChatGPT / Claude / Grok / Gemini that tells the AI to fetch the bill from this repo and act as your guide (see the *"Talk to an AI"* section above).
 - **[`advanced_readme.md`](advanced_readme.md)** — a section-by-section overview with section numbers, classifications, and cross-references.
 - **Key legal definitions in Section 1** — controlling definitions of legal terms (color of law, judicial immunity, qualified immunity, justice, etc.) inside [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.

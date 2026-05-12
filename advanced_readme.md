@@ -175,7 +175,7 @@ The bill is a **continuously evolving draft** maintained in [`bill_proposal.md`]
 
 Tagged PDF snapshots of milestone versions are published as **[GitHub Releases](https://github.com/killerdevildog/checkmate/releases)** for distribution and review.
 
-Latest published PDF snapshot: **[Draft Ver 5.8.2](https://github.com/killerdevildog/checkmate/releases/tag/v5.8.2)**.
+Latest published PDF snapshot: **[Draft Ver 5.8.3](https://github.com/killerdevildog/checkmate/releases/tag/v5.8.3)**.
 
 ---
 
