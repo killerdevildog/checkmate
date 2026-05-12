@@ -2836,6 +2836,47 @@ Conduct under this section may be charged cumulatively under §16.2 (Institution
 - Intentional failure: Class 2 felony per §3.4
 - Penalty enhancements under Section 7 apply
 
+### 16.5A Incompetence in Office
+
+> A government actor commits **incompetence in office** where the actor occupies, accepts, retains, or exercises a public role while recklessly disregarding a substantial possibility that the actor is not competent to perform the duties of that role.
+
+Public power may be exercised only by persons who are capable of understanding and performing the duties entrusted to them. A government actor who holds authority over a citizen's liberty, property, family, livelihood, safety, due process, records, benefits, custody, prosecution, adjudication, enforcement, or access to government has an affirmative duty to know whether the actor is competent to exercise that authority.
+
+For purposes of this section, **incompetence** means a present inability, unfitness, or substantial incapacity to perform the essential duties of the actor's office, employment, appointment, commission, contract, delegated function, or public role with lawful judgment, constitutional awareness, factual accuracy, procedural reliability, and reasonable care.
+
+**Elements:**
+
+- The actor is a government actor
+- The actor occupies, accepts, retains, or exercises a public role carrying authority over citizens, public records, public funds, public process, custody, enforcement, adjudication, prosecution, benefits, licensing, regulation, or any protected right
+- The actor is found incompetent for that role by a court, Citizen Council, lawful administrative proceeding, licensing body, appointing authority, jury, or other competent fact-finder
+- Before or during the exercise of the role, the actor knew, or in reckless disregard of clear evidence should have known, of facts creating a substantial possibility that the actor was incompetent for the role
+- The actor nevertheless continued to hold, exercise, invoke, or rely upon the role, or failed to withdraw, disclose the limitation, seek supervision, seek correction, or refuse the assignment
+
+**Evidence of Reckless Disregard May Include:**
+
+- Repeated inability to understand the controlling law, constitutional limits, required procedure, evidence, records, or duties of the role
+- Prior warnings, complaints, reversals, sanctions, training failures, certification failures, medical or cognitive limitations, disciplinary findings, performance findings, or documented errors showing inability to perform the role safely and lawfully
+- Reliance on office custom, personal belief, bias, anger, ideology, habit, or supervisor pressure after the actor had reason to know those sources were inconsistent with law or duty
+- Continuing to exercise authority after the actor's errors caused or threatened deprivation of liberty, property, family integrity, livelihood, access to counsel, access to court, custody safety, or other protected rights
+- Refusal to obtain help, recuse, transfer the matter, disclose the limitation, review the law, correct the error, or stop exercising authority after the incompetence became reasonably apparent
+
+**Clarifications:**
+
+- A good-faith mistake, isolated error, disagreement over policy, or mere unpopularity does not by itself establish incompetence in office
+- Incompetence is established by inability or unfitness to perform the role, not by political disagreement with the actor
+- A government actor may not defend this offense by claiming the office commonly tolerates the same incompetence, that similarly situated actors are also incompetent, or that no supervisor required correction
+- Where a person lacks competence for a role carrying public power, continuing to exercise that role after notice is reckless because the actor disregards the possibility that citizens will be harmed by authority the actor is not fit to wield
+
+**Classification:**
+
+- Incompetence in office is a **Class 1 misdemeanor** where the actor is found incompetent for the role but no citizen's rights, liberty, property, family, livelihood, safety, due process, custody status, prosecution, adjudication, benefits, records, or access to government process were materially affected
+- Incompetence in office is a **Class 3 felony** where the incompetence causes material confusion to a citizen, court, jury, agency, Citizen Council, prosecutor, defense counsel, public office, or fact-finder regarding a citizen's rights, legal status, charges, evidence, deadlines, duties, custody status, benefits, property, family rights, or available remedies
+- Incompetence in office is a **Class 3 felony** where the incompetence causes citation, arrest, charging, detention, probation, parole restriction, electronic monitoring, loss of counsel, denial of court access, loss of housing, loss of livelihood, loss of benefits, family separation, or other material deprivation of rights
+- Incompetence in office is a **Class 2 felony** where the incompetence materially contributes to a citizen pleading guilty, being convicted of a crime, being sentenced, being incarcerated, being placed on a registry, losing custody of a child, losing professional licensure, or suffering long-term deprivation of rights
+- Incompetence in office is a **Class 1 felony** where the incompetence contributes to long-term incarceration, serious bodily harm, catastrophic financial harm, permanent family separation, irreversible immigration consequence, or widespread deprivation affecting multiple citizens
+- Incompetence in office is a **capital offense** where the incompetence materially contributes to a citizen's suicide, death in custody, execution, capital sentence, death resulting from custody or enforcement, or wrongful conviction carrying death, life imprisonment, or equivalent permanent deprivation of liberty
+- Penalty enhancements under Section 7 apply
+
 ### 16.6 Public Trust Fraud
 
 > A government actor commits **public trust fraud** where the actor knowingly makes, or knowingly procures the publication of, a materially false official statement intended to mislead the public regarding law, budgets, investigations, policy, emergencies, or constitutional powers.

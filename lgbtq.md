@@ -1,125 +1,213 @@
 # Why LGBTQ+ Citizens Should Support Operation Checkmate
 
-> A bill written to make government accountable to the same law as everyone else — with specific, personal consequences for officials who target citizens based on who they are.
+> This bill does not ask LGBTQ+ citizens to trust government harder. It gives citizens a way to hold government actors personally accountable when public power is used against them.
 
-If you are a member of the LGBTQ+ community, you already know that **interactions with government are often laced with anxiety**. Police stops. Custody hearings. Schools. Healthcare. Workplace investigations. Immigration. Every one of these has historically been a place where official conduct can turn from neutral to hostile without warning — and where real recourse against the responsible official, when it goes wrong, has been almost impossible.
+For many LGBTQ+ citizens, the fear is not theoretical. It is the moment a traffic stop changes tone after an officer sees a gender marker. It is a custody hearing where a parent's identity becomes the silent issue. It is a school meeting where officials treat a child as a political problem instead of a human being. It is a jail intake, a hospital room, an immigration interview, a workplace investigation, or a courtroom where the person with power can make life much worse and then hide behind immunity, policy, discretion, or "that's just how we do it."
 
-**Operation Checkmate** is a bill that places real, personal civil and criminal consequences on government officials who cross those lines. It doesn't single out the LGBTQ+ community for special protection — it makes officials accountable to every citizen equally. But because LGBTQ+ citizens have a long, documented history of facing specific patterns of government abuse, this bill matters here in particular ways.
+**Operation Checkmate changes the leverage.** It says government actors do not get special permission to intimidate, selectively enforce, fabricate, ignore danger, bury evidence, or punish a citizen because of who they are. If they do, the issue is not just "bad customer service," "bias training," or a lawsuit against an agency years later. The individual actor can face personal civil and criminal accountability.
 
-This document is also written so you can copy it into your favorite AI assistant alongside [`AI_chat.md`](AI_chat.md) and ask, *"How does this bill apply to me as a [trans / gay / lesbian / bisexual / queer / HIV-positive / questioning] citizen, given my situation?"*
+That matters to LGBTQ+ people because the community's history with government has not been neutral. Police departments raided gay bars. Courts removed children from gay and lesbian parents. Prosecutors used sodomy laws to mark people as criminals for private consensual conduct. Officials ignored violence against trans people. HIV-positive people were treated as criminals instead of patients. Schools and agencies have used family pressure, naming, records, and disclosure as tools of control.
 
----
+Operation Checkmate does not create a separate caste of LGBTQ+ rights. It does something stronger: it makes the same rule apply to everyone, including the official. The badge, robe, office, file, clipboard, policy manual, or prosecutor's title does not turn discrimination into law.
 
-## Documented patterns the bill addresses
-
-These aren't abstractions. They are real, repeated patterns, with named cases:
-
-### Selective enforcement and police harassment
-
-Police have historically targeted LGBTQ+ people with selective enforcement — raiding gay bars while leaving straight bars alone, prosecuting public-affection violations only when the couple was same-sex, surveilling trans people at higher rates, ticketing for "loitering" in cruising areas while ignoring identical conduct by straight couples. **Stonewall Inn (June 1969)** was one prominent example of decades of similar conduct. Less visible patterns continue today.
-
-**How the bill reaches this:**
-
-- **§1.7 Government Racketeering** — combinations of officials using authority to selectively target citizens for unlawful payment, fines, or punishment is a Class 2 felony (Class 1 for patterns).
-- **§1.10 Anarchy** — a stop, search, or arrest without lawful basis is conduct outside the law, personally liable.
-- **§1.13 Official Intimidation** — a "you're too close" or "step back" or veiled threat aimed at intimidating a citizen who is doing nothing wrong is reachable as a Class 3 felony.
-- **§1.12 Terrorism** — sustained harassment, surveillance, or threats targeting a citizen's wellbeing is a Class 1 felony, capital where it leads to a citizen's death.
-
-### Custody, family court, and the right to be a parent
-
-LGBTQ+ parents have faced loss of custody, supervised visitation, or termination of parental rights in cases where the only relevant fact was their sexual orientation or gender identity. ***Bottoms v. Bottoms***, 249 Va. 410 (1995) — Sharon Bottoms lost custody of her son to her own mother because she was in a lesbian relationship; the Virginia Supreme Court upheld it. This pattern continued in many states for years.
-
-**How the bill reaches this:**
-
-- **§1.5 — Protected Rights** expressly includes *"the right to be a parent — to raise, educate, discipline, and direct the upbringing of one's children, free from unwarranted state interference."*
-- **§1.6 Cabalism** — its definition of "unjust effect" expressly includes *"enforcement of any law, order, or judgment that unreasonably affects a citizen's family"* — including custody-altering decisions made on the basis of identity rather than parenting fitness.
-- **§4.1.1** abrogates judicial immunity. A judge whose ruling rests on a citizen's identity rather than the law and the facts is personally liable.
-- **§1.17 Judicial Duty of Impartiality and Recusal** — a judge with personal bias on the basis of sexual orientation or gender identity has an affirmative duty to recuse, on the record, without being asked.
-
-### Workplace retaliation by government employers
-
-**Gerald Bostock** was fired from his job as a child-welfare-services coordinator in Clayton County, Georgia, shortly after joining a gay softball league. **Aimee Stephens** was fired from her job at a funeral home after coming out as transgender. **Don Zarda** was fired from his skydiving-instructor job after telling a client he was gay. ***Bostock v. Clayton County***, 590 U.S. 644 (2020) — the Supreme Court ruled in their favor under Title VII, but only after years of litigation each, and Stephens and Zarda did not live to see the verdict.
-
-**How the bill reaches this:**
-
-- **§1.7 Government Racketeering** — government supervisors who use authority to punish a citizen-employee on the basis of identity face personal civil and criminal liability.
-- **§1.13 Official Intimidation** — coercive workplace conduct (threatening termination, "you might want to leave," manufactured performance issues used as cover) is reachable.
-- **§1.14 Prosecutorial Duty / §1.18 Judicial Duty** — when retaliation cases reach prosecutors and courts, the prosecutor must disclose adverse evidence and the judge must engage on the merits.
-- **§4.1** abrogates qualified, judicial, and prosecutorial immunity. The individual official is personally liable, not just the institution years later.
-
-### Police failure to protect
-
-In December 1993, **Brandon Teena** reported a sexual assault to the Sheriff's Office in Falls City, Nebraska. He was a transgender man. The sheriff questioned him at length about his gender identity rather than investigating the assault, and released him. Six days later, his attackers murdered him. The sheriff's failure to act has been documented at length in the journalism and the litigation that followed.
-
-**How the bill reaches this:**
-
-- **§1.8 Obstruction of Justice (Selective Non-Prosecution)** — a government official who fails to arrest, charge, or prosecute because of the *victim's* identity (or to protect the perpetrator's status) commits obstruction. Class mirrors the underlying offense.
-- **§8 Citizen Council** — when the system itself has failed, twelve or more citizens can investigate, sign a Joint Declaration of Prosecution, and force prosecution. The citizen seeking protection is no longer dependent on the same office that failed them.
-
-### Wrongful convictions under repealed sodomy laws
-
-Before ***Lawrence v. Texas***, 539 U.S. 558 (2003), state sodomy statutes criminalized consensual private conduct between adults. Thousands of people were prosecuted and convicted under those laws — convictions that affect criminal records, employment, immigration, and civil rights to this day.
-
-**How the bill reaches this:**
-
-- **§8.15 Conviction Review** — a unanimous Citizen Council of 64 or more citizens can nullify a conviction, reduce it, or extend **public forgiveness** restoring civil and political rights and barring collateral consequences. This applies to convictions returned **before the effective date** of the Act.
-- **§9 Retroactive Civil Applicability** with **§9.3 No Statute of Limitations** — civil claims for the harm of wrongful conviction can be brought without a time bar.
-- **§8.14 Logical Consistency Review** — any law still on the books that is repugnant to the U.S. Constitution, the Utah Constitution, or other in-force statutes can be nullified by a unanimous 36-member Council.
-
-### HIV criminalization and selective prosecution
-
-Many states still have HIV-specific criminal statutes for non-disclosure, exposure, or transmission — often without regard to actual transmission risk. Enforcement disproportionately falls on gay men, sex workers, and Black and Latino HIV-positive people.
-
-**How the bill reaches this:**
-
-- **§1.7 Government Racketeering** — patterns of selective HIV prosecution are reachable.
-- **§1.14 Prosecutorial Duty to Disclose Adverse Evidence** — prosecutors must disclose evidence of inability to transmit, of consent, or of any other fact that undermines the elements, **directly to the jury** in open court.
-- **§1.15 Malicious Prosecution** — continuing to prosecute a citizen the prosecutor knows is innocent of the elements is a Class 1 felony.
-- **§8.14 Logical Consistency Review** — HIV-specific statutes that conflict with constitutional protections (equal protection, due process, freedom from cruel and unusual punishment) can be nullified by Citizen Council action.
-
-### Threats targeting children, family, or community
-
-LGBTQ+ parents — particularly trans parents and parents in the process of coming out — have faced threats from officials about their children: *"if you continue to insist on being called by that name we will refer you to CPS,"* or veiled threats about custody being affected by a parent's transition or relationship. These threats are real, documented, and weaponize the parent-child bond against the parent.
-
-**How the bill reaches this:**
-
-- **§1.12 Terrorism (Government Context)** — explicitly includes *"explicit or implicit threats to take a citizen's children or otherwise interfere with the parent-child relationship"* as a form of terror, Class 1 felony, capital if it results in the citizen's death (carried-out capital sentence, death in custody, or suicide).
-- **§1.13 Official Intimidation** — veiled hints, repeated unwelcome contact, and the deliberate use of authority to produce undue anxiety in a parent are reachable.
-- **§6 Penalty Enhancements** — explicitly include enhancements where the violation produced *"extreme anxiety, fear, or distress regarding the safety, welfare, livelihood, or liberty of [the citizen's] family or household members."*
+This document is also written so you can copy it into your favorite AI assistant alongside [`AI_chat.md`](AI_chat.md) and ask: *"How does this bill apply to me as a [trans / gay / lesbian / bisexual / queer / HIV-positive / questioning / non-binary] citizen, given my situation?"*
 
 ---
 
-## How this bill reduces anxiety in dealing with government
+## The Core Promise
 
-The anxiety LGBTQ+ citizens feel in dealing with government is rational. It's the natural response to being uncertain whether the official across from you will treat you fairly — or use their authority against you because of who you are. Operation Checkmate addresses this directly:
+For LGBTQ+ citizens, the most important promise of Operation Checkmate is simple:
 
-- **Real, personal consequences** for the individual official, not just the institution years later.
-- **No more immunity.** Judicial, prosecutorial, qualified, and sovereign immunity are all abrogated within the scope of this Act (§4.1, §4.1.1, §15).
-- **A way to actually prosecute.** Citizen Councils don't require the cooperation of the same office that's the source of the problem (§§8.1–8.5).
-- **The right to be a parent** is expressly enumerated (§1.5).
-- **Coercive courtroom conduct is reachable.** A judge who threatens contempt to silence you while you're asserting a right — **Class 2 felony Official Intimidation**. A prosecutor who continues prosecuting while knowing you're innocent — **Class 1 felony Malicious Prosecution** (§1.15), capital where it results in death.
-- **Conviction Review for historical wrongs.** Including pre-*Lawrence* sodomy convictions and other identity-based prosecutions (§8.15).
-- **No statute of limitations** on civil or criminal actions under this title (§9.3).
+**If an official uses government power to make your identity the reason you lose safety, liberty, family, livelihood, records access, medical care, equal treatment, or dignity under law, that official can be reached personally.**
+
+Not just the agency.
+
+Not just the city after years of litigation.
+
+Not just a disciplinary board that may never act.
+
+The official.
+
+That is the difference between asking for mercy from a system and having a tool of accountability against the system.
 
 ---
 
-## How to support
+## Documented Patterns the Bill Addresses
+
+These are not abstractions. They are repeated patterns with names, cases, and consequences.
+
+### Selective Enforcement and Police Harassment
+
+LGBTQ+ people have historically been targeted through selective enforcement: raids on gay bars while straight establishments were left alone, public-affection enforcement aimed at same-sex couples, vague "loitering" or "disorderly" charges used against queer spaces, and suspicion aimed at trans people simply for existing in public. **Stonewall Inn (June 1969)** was not an isolated surprise; it was one famous breaking point after years of state-backed humiliation.
+
+The modern version may look quieter. A stop lasts longer. The questions become personal. The officer asks about your body, your name, your partner, your ID, your medication, or where you are "really" going. Nothing is written down honestly. Everyone later says it was routine.
+
+**How Operation Checkmate reaches this:**
+
+- **§1.7 Government Racketeering** reaches patterns of officials using authority to selectively extract payment, fines, punishment, or compliance.
+- **§1.10 Anarchy** reaches official conduct completely outside lawful authority, including stops, searches, detentions, or arrests without lawful basis.
+- **§1.13 Official Intimidation** reaches veiled threats, coercive commands, or official pressure used to make a citizen surrender lawful conduct.
+- **§16.9D Recording-Right Interference** reaches interference with a citizen's right to record government actors.
+- **§15.3A Constitutional Objection Obstruction** reaches officials who continue enforcing a void or unconstitutional instrument after a citizen identifies the constitutional problem.
+
+The point is practical: an officer cannot make a stop "lawful" by calling it routine if the real reason is identity, retaliation, humiliation, or selective enforcement.
+
+### Custody, Family Court, and the Right to Be a Parent
+
+LGBTQ+ parents have been treated as suspect because of who they are, not because of how they parent. ***Bottoms v. Bottoms***, 249 Va. 410 (1995), is the kind of case people remember because it says the quiet part out loud: Sharon Bottoms lost custody of her son in a case where her lesbian relationship was treated as a reason to separate parent and child.
+
+That fear still has modern forms. A trans parent worries that transition will be used against them. A gay parent worries that a judge, guardian ad litem, school official, or caseworker will treat their household as unstable. A queer youth worries that asking for help will trigger family policing instead of protection.
+
+**How Operation Checkmate reaches this:**
+
+- **§1.5 Protected Rights** expressly includes the right to be a parent: to raise, educate, discipline, and direct the upbringing of one's children free from unwarranted state interference.
+- **§1.6 Cabalism** includes unjust effects involving family, custody, or court orders that unreasonably affect a citizen's family.
+- **§2.3.1.1 Judicial Duty of Impartiality and Recusal** requires a biased judge to recuse on the record.
+- **§5.1.1 No Immunity** means judicial immunity does not protect a judge who violates the Act.
+- **§16.9I Poverty-Based Family Separation** and **§16.9J Family-Rights Advisement Failure** strengthen the family-protection side of the bill where government actors use pressure, omission, or coercive process against parents.
+
+The bill's message is direct: a child is not a weapon for the state to use against a parent's identity.
+
+### Workplace Retaliation by Government Employers
+
+**Gerald Bostock**, **Aimee Stephens**, and **Don Zarda** gave their names to one of the most important LGBTQ+ employment cases in American law: ***Bostock v. Clayton County***, 590 U.S. 644 (2020). The Supreme Court recognized that firing someone for being gay or transgender violates Title VII. But the human cost matters: years of litigation, lost income, public exposure, and in Stephens' and Zarda's cases, they did not live to see the decision.
+
+Operation Checkmate is not a replacement for employment law. It is a pressure point against government actors who use public employment power as a tool of identity punishment.
+
+**How Operation Checkmate reaches this:**
+
+- **§1.7 Government Racketeering** reaches government supervisors who use authority in a pattern to punish, extract, isolate, or force a citizen-employee out.
+- **§1.13 Official Intimidation** reaches coercive workplace threats, manufactured performance pressure, and "you might want to leave" tactics when backed by official authority.
+- **§16.2 Institutional Retaliation** reaches retaliation by an agency or office against a person who asserts rights, reports misconduct, refuses unlawful conduct, or becomes politically inconvenient.
+- **§5.1 No Immunity** removes qualified, executive, and analogous immunity within the scope of the Act.
+
+The difference is speed and accountability. The actor who weaponizes public employment does not get to hide behind the agency while the citizen waits years for a distant remedy.
+
+### Police Failure to Protect
+
+In December 1993, **Brandon Teena**, a transgender man, reported a sexual assault to the Sheriff's Office in Falls City, Nebraska. The sheriff focused on Brandon's gender instead of protecting him. Six days later, Brandon was murdered by his attackers.
+
+That story is devastating because it shows two injuries at once: the original violence, and then the official abandonment that made the violence more likely to continue.
+
+**How Operation Checkmate reaches this:**
+
+- **§1.8 Obstruction of Justice (Selective Non-Prosecution)** reaches a government actor who refuses to arrest, charge, investigate, or prosecute because of the victim's identity or because the perpetrator is favored.
+- **§1.15 Affirmative Duties** makes failure to perform required duties reachable where the failure affects rights, liberty, safety, or access to justice.
+- **§16.13 Investigative Negligence** reaches reckless or intentional investigative failure.
+- **§8 Citizen Council** lets twelve or more citizens investigate and force a Joint Declaration of Prosecution when the office that should have protected the victim is the office that failed.
+
+This matters because "call the police" is not enough if the police can decide a queer or trans victim is not worth protecting.
+
+### Wrongful Convictions Under Sodomy Laws
+
+Before ***Lawrence v. Texas***, 539 U.S. 558 (2003), states criminalized private consensual adult intimacy. Those laws did more than punish conduct. They marked people as criminals, exposed them to blackmail, justified employment loss, damaged immigration status, and told the public that gay and queer lives were outside lawful dignity.
+
+Some convictions and collateral consequences can echo long after the law is gone.
+
+**How Operation Checkmate reaches this:**
+
+- **§8.15 Conviction Review** allows an 18-member unanimous Citizen Council to nullify a conviction, reduce it, spare a person from death penalty consequences where applicable, or extend public forgiveness restoring civil and political rights.
+- **§9 Retroactive Civil Applicability** and **§9.3 No Statute of Limitations** allow civil claims for prior conduct without a time bar.
+- **§8.14 Logical Consistency Review** allows a 12-member unanimous Citizen Council to force review of statutes, regulations, or ordinances that conflict with constitutional authority or other in-force law.
+- **§15 Repugnancy** treats government instruments repugnant to this Act or constitutional authority as null and void.
+
+The bill gives citizens a way to say: if the conviction rested on a law that never should have existed, the record should not keep punishing the person.
+
+### HIV Criminalization and Selective Prosecution
+
+HIV-specific criminal laws have often punished status, fear, stigma, or non-disclosure without honest attention to actual transmission risk, treatment, viral suppression, consent, or scientific evidence. Enforcement has disproportionately burdened gay men, sex workers, Black and Latino people, and people already vulnerable to policing.
+
+**How Operation Checkmate reaches this:**
+
+- **§1.7 Government Racketeering** reaches patterns of selective HIV prosecution.
+- **§2.2.1.1 Duty to Disclose Adverse Evidence** requires prosecutors to disclose evidence that undermines the charge, including evidence of inability to transmit, consent, lack of exposure, or missing statutory elements.
+- **§1.14 Malicious Prosecution** reaches continued prosecution when the prosecutor knows or recklessly disregards that the citizen is innocent of the elements.
+- **§8.14 Logical Consistency Review** allows review of HIV-specific statutes that conflict with equal protection, due process, cruel-and-unusual-punishment principles, or modern scientific reality.
+
+The bill makes stigma legally dangerous for the official who tries to turn it into prosecution.
+
+### Threats Against Children, Family, and Community
+
+For LGBTQ+ people, especially trans parents and youth, government threats often come through family pressure: "cooperate or we call CPS," "this will affect custody," "we need to talk to your child alone," "sign this plan," "use this name or there will be consequences." These threats work because they target the deepest fear a person has: losing family, home, safety, or belonging.
+
+**How Operation Checkmate reaches this:**
+
+- **§1.12 Terrorism (Government Context)** expressly includes explicit or implicit threats to take a citizen's children or interfere with the parent-child relationship.
+- **§1.13 Official Intimidation** reaches veiled hints, repeated unwanted contact, and official conduct designed to produce undue fear or compliance.
+- **§7 Penalty Enhancements** include extreme anxiety, fear, or distress regarding the safety, welfare, livelihood, or liberty of family or household members.
+- **§16.9J Family-Rights Advisement Failure** reaches officials who seek consent, entry, records, safety plans, child interviews, or admissions without advising parents of the right to refuse absent lawful process and the right to counsel.
+
+Operation Checkmate says the state does not get to use your family as leverage to make you surrender your rights.
+
+---
+
+## Why This Is More Than Anti-Discrimination Language
+
+Many laws already say discrimination is wrong. The problem is enforcement. LGBTQ+ citizens have seen what happens when a right exists on paper but the official in the room controls the report, the charging decision, the custody recommendation, the school file, the jail classification, the medical access, or the courtroom.
+
+Operation Checkmate is different because it changes the enforcement path:
+
+- **It names individual duties.** Officials cannot hide behind vague institutional responsibility.
+- **It removes immunity inside the Act.** Qualified, judicial, prosecutorial, sovereign, legislative, executive, and analogous immunities do not shield violations (§5.1).
+- **It creates Citizen Councils.** Citizens do not need permission from the same office that failed them (§8).
+- **It protects records and evidence.** Production declarations and public-record duties make concealment harder (§8.8, §16.4A).
+- **It reaches retaliation.** Officials who punish a citizen for asserting rights create new liability (§16.2).
+- **It reaches old harms.** Retroactive civil applicability and no statute of limitations keep old official abuse from being buried by time (§9).
+
+That is why LGBTQ+ citizens should care. The bill is not just saying "be fair." It is building consequences for the official who refuses.
+
+---
+
+## How This Bill Reduces Anxiety in Dealing With Government
+
+The anxiety LGBTQ+ citizens feel around government is rational. It is the body's memory of unequal power. It is not paranoia to wonder whether an official will treat your identity as evidence against you when history says that has happened again and again.
+
+Operation Checkmate reduces that anxiety by changing what the official has to risk:
+
+- A police officer who invents a basis for a stop risks personal liability.
+- A judge who lets bias shape a custody order risks personal liability.
+- A prosecutor who continues a stigma-driven case despite contrary evidence risks personal liability.
+- A school or agency official who uses family threats to force compliance risks personal liability.
+- A clerk, jailer, caseworker, or supervisor who hides records or blocks access risks personal liability.
+- A public office that coordinates retaliation can trigger Citizen Council investigation and prosecution.
+
+The citizen is no longer left with only "file a complaint with the office that did it." That is the heart of the bill.
+
+---
+
+## What LGBTQ+ Supporters Can Say
+
+If someone asks why LGBTQ+ citizens should support this bill, the answer can be short:
+
+**Because rights without enforcement are decorations. Operation Checkmate gives citizens an enforcement path when government actors use public power to target, intimidate, abandon, or punish them.**
+
+Or even shorter:
+
+**This bill makes the official personally answerable.**
+
+---
+
+## How to Support
 
 If you support this bill:
 
 1. **Read it.** Start with the [README](README.md), then [the full bill](bill_proposal.md). Or paste [`AI_chat.md`](AI_chat.md) into [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI and ask: *"How would this bill apply to me as a [trans / gay / lesbian / bi / queer / HIV-positive / questioning / non-binary] person dealing with [your situation]?"*
 2. **Sign on.** Email **citizens.checkmate@gmail.com** with subject `CHECKMATE` and your **first and last name + zip code** in the body. That is an electronic signature on the petition.
-3. **Star the GitHub repo.** Create a free account at https://github.com/signup if you don't have one, then star https://github.com/killerdevildog/checkmate. Stars are public signals of support and make the bill more visible.
-4. **Share** with friends, family, and community organizations.
+3. **Star the GitHub repo.** Create a free account at https://github.com/signup if you do not have one, then star https://github.com/killerdevildog/checkmate. Stars are public signals of support and make the bill more visible.
+4. **Share** with friends, family, mutual-aid groups, community organizations, student groups, legal clinics, public defenders, advocacy groups, and anyone who has had to deal with government power up close.
 5. **File an issue or pull request** if something in the bill should be added, reworded, or rethought to better protect LGBTQ+ citizens. Issues live at https://github.com/killerdevildog/checkmate/issues. AI assistants can help you draft the issue.
 
 ---
 
-## A note on framing
+## A Note on Framing
 
-This bill is **not** about LGBTQ+ citizens vs. the government, or vs. anyone else. The provisions described above are not "LGBTQ+ provisions" — they are accountability provisions that apply to every citizen, equally. They matter especially to citizens whose history with government has included specific, documented patterns of harm.
+This bill is not about LGBTQ+ citizens against everyone else. It is about citizens against the misuse of public power.
 
-The bill targets official **misconduct** — at the level of recklessness or higher (per the §2 mens rea framework). Officials who do their jobs lawfully and in good faith have nothing to fear. Bad actors in any profession make the whole profession look corrupt; this bill clears the field.
+The same protections apply to a conservative Christian parent, a trans teenager, a gay public employee, a straight inmate, a Muslim immigrant, a rural gun owner, a disabled veteran, a sex worker, a protester, a poor defendant, or anyone else whose rights are threatened by an official who thinks power means exemption from accountability.
+
+That universality is the strength of the bill. LGBTQ+ citizens do not have to ask for special mercy. They can stand on the same rule as everyone else:
+
+**If you carry public power, you answer to the public law.**
 
 ---
 
