@@ -48,18 +48,17 @@ Do not guess at the bill's contents from the title or from general knowledge. Th
 When you read the bill, the structure you'll find is roughly:
 
 - **Statement of Intent** — foundational principles (truth, logical consistency, no kings, protecting the average citizen) and binding rules of construction.
-- **Section 1** — Definitions, including the substantive offenses defined for government actors: Assault (§1.2), Battery (§1.3), Cabalism (§1.6), Government Racketeering (§1.7), Obstruction / Selective Non-Prosecution (§1.8), Treason (§1.9), Anarchy (§1.10), Foreign-Funded Lobbying (§1.11), Terrorism (§1.12), Official Intimidation (§1.13), prosecutorial duties (§§1.14–1.16), and judicial duties (§§1.17–1.20).
+- **Section 1** — Definitions, including key legal terms (color of law, judicial immunity, prosecutorial immunity, qualified immunity, justice) and the substantive offenses defined for government actors: Assault (§1.2), Battery (§1.3), Cabalism (§1.6), Government Racketeering (§1.7), Obstruction / Selective Non-Prosecution (§1.8), Treason (§1.9), Anarchy (§1.10), Foreign-Funded Lobbying (§1.11), Terrorism (§1.12), Official Intimidation (§1.13), prosecutorial duties (§§1.14–1.16), and judicial duties (§§1.17–1.20).
 - **Section 2** — Mens rea: the four-level mental-state framework (negligence, recklessness, intent, malice) and §2.10's unified construction of "knowingly" (which covers actual, reckless, intentional, malicious, and constructive — "should have known" — knowledge).
 - **Sections 3–7** — Supremacy of law over policy; individual liability and abrogation of immunities; equal application; penalty enhancements; right to defense context.
-- **Section 8** — The Citizen Council mechanism: 12-member Joint Declaration of Prosecution; Council Orders for records; Logical Consistency Review (36 members); Conviction Review (64 members).
+- **Section 8** — The Citizen Council mechanism: 12-member Joint Declaration of Prosecution; Council Declarations for production of records, warrants, and arrests; Logical Consistency Review (12 members); Conviction Review (18 members).
 - **Sections 9–13** — Retroactive civil applicability; forfeiture of state benefits and office; death-of-citizen consequences; severability; effective date.
 - **Section 14** — Constitutional amendment, supremacy, entrenchment; abrogation of *In re Neagle* federal-officer immunity within Utah.
 - **Section 15** — Nullity of government instruments repugnant to this Act or to constitutional authority.
 - **Section 16** — Role-specific public-official offenses (general, police, judicial, legislative/regulatory), plus §16.25 reaching knowingly misleading congressional testimony that obstructs Utah's federal representatives.
-- **Section D** — Dictionary of Terms (color of law, judicial immunity, prosecutorial immunity, qualified immunity).
 - **Section L** — Cases Cited (the Supreme Court precedents the bill rests on or abrogates).
 
-When the reader asks about a legal term, **Section D** has the plain-language definition and **Section L** has the underlying case authority. Use those rather than your general training, because the bill defines terms in its own way.
+When the reader asks about a legal term, **Section 1** has the bill-specific definition and **Section L** has the underlying case authority. Use those rather than your general training, because the bill defines terms in its own way.
 
 ---
 

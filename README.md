@@ -63,9 +63,9 @@ The biggest shifts:
 
 6. **Foreign money out of Utah politics.** Lobbyists active in Utah must be Utah residents, with funding sourced from Utah. Out-of-state and foreign money funneled into Utah law-making is treated as a form of cabalism.
 
-7. **Citizens can nullify bad laws.** A unanimous Council of **36 citizens** can require immediate review of any statute that is logically inconsistent with the U.S. Constitution, the Utah Constitution, or another statute in force. Judges must engage on the merits — *"it's the way it's always been done"* is not a legitimate ground to decline. Inconsistent laws get removed from the books.
+7. **Citizens can nullify bad laws.** A unanimous Council of **12 citizens** can require immediate review of any statute that is logically inconsistent with the U.S. Constitution, the Utah Constitution, or another statute in force. Judges must engage on the merits — *"it's the way it's always been done"* is not a legitimate ground to decline. Inconsistent laws get removed from the books.
 
-8. **Citizens can correct unjust convictions.** A unanimous Council of **64 citizens** can nullify a conviction, reduce it, spare a person from the death penalty, or extend public forgiveness — restoring civil and political rights. A parallel safeguard for cases the appellate system has failed to correct.
+8. **Citizens can correct unjust convictions.** A unanimous Council of **18 citizens** can nullify a conviction, reduce it, spare a person from the death penalty, or extend public forgiveness — restoring civil and political rights. A parallel safeguard for cases the appellate system has failed to correct.
 
 9. **The presumption of innocence becomes operational.** Prosecutors now have **affirmative, criminally enforceable duties** that protect the presumption of innocence: (a) to disclose evidence that undermines their case **directly to the jury** in open court — failure is obstruction of justice; (b) to **stop prosecuting** when they know or recklessly disregard evidence that the accused is innocent — continuing to push forward is malicious prosecution; and (c) to **seek reduction or dismissal** when evidence (even years after conviction) shows the charge doesn't fit — failure is a Class 3 felony. Where any of this conduct results in the citizen's death (carried-out capital sentence, death in custody, or suicide), it is elevated to a capital offense.
 
@@ -187,7 +187,7 @@ Questions, edits, or feedback on the draft are welcome at the same address with 
 - **Latest PDF snapshot:** [Draft Ver 5.8.2](https://github.com/killerdevildog/checkmate/releases/tag/v5.8.2)
 - **[`AI_chat.md`](AI_chat.md)** — a short prompt you can paste into ChatGPT / Claude / Grok / Gemini that tells the AI to fetch the bill from this repo and act as your guide (see the *"Talk to an AI"* section above).
 - **[`advanced_readme.md`](advanced_readme.md)** — a section-by-section overview with section numbers, classifications, and cross-references.
-- **Dictionary of legal terms (Section D)** — plain-language definitions of legal terms (color of law, judicial immunity, qualified immunity, etc.) inside [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
+- **Key legal definitions in Section 1** — controlling definitions of legal terms (color of law, judicial immunity, qualified immunity, justice, etc.) inside [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
 - **[GitHub Releases](https://github.com/killerdevildog/checkmate/releases)** — milestone PDF snapshots for distribution and review.
 
 **Community-specific guides:**

@@ -284,6 +284,83 @@ This includes, without limitation, jurors seated on **grand juries**, **petit ju
 
 Juror rights, juror duties, and crimes applicable to jurors are set out in **Section 2 — Due Process**.
 
+### 1.1.4 Clothed with State Power
+
+For purposes of this title, a person is **"clothed with state power"** when the person's authority, leverage, command, coercive ability, access, title, office, badge, robe, commission, contract, appointment, delegation, or public role comes from the government, is presented as government authority, or is reasonably understood by a citizen as backed by government authority.
+
+This phrase includes, without limitation:
+
+- A government actor acting under color of authority
+- A private person or entity exercising delegated government power
+- A person using public office, public title, official appearance, government access, or government-backed influence to affect a citizen's rights, liberty, property, duties, benefits, reputation, or legal status
+
+A person may be clothed with state power even when the specific act is unlawful, unauthorized, outside policy, or in excess of lawful authority, so long as the person could act, command, pressure, or gain compliance because of actual, apparent, delegated, or claimed government authority.
+
+### 1.1.5 Color of Law
+
+For purposes of this title, a person acts **"under color of law"** when the person exercises, appears to exercise, or claims to exercise power held only because of a government position, public office, delegated authority, public contract, deputization, badge, robe, commission, official access, public title, or other indicia of state authority. The act may be lawful or unlawful, but it is performed through the apparatus, appearance, or leverage of public power.
+
+Operation Checkmate uses "color of law" as a central trigger for the substantive offenses in this Act. It marks the line between conduct by an ordinary private citizen and conduct by a person exercising, invoking, or misusing state power. See Section 1.1 (Government Actor) and Section 6.3 (Official-Capacity Rights Gap).
+
+A person acts under color of law where the person:
+
+- Holds a public office, badge, robe, commission, contract, deputization, or other indicia of state authority; **and**
+- Engages in conduct made possible by, or invoking, that authority.
+
+Conduct that is unlawful, unauthorized, or in excess of authority remains under color of law so long as the actor's ability to engage in it derived from public office, delegated authority, or the reasonable appearance of government power. The Supreme Court cases informing this definition are listed in Section L, including **L.1** through **L.6**.
+
+Statutory analogues include:
+
+- **42 U.S.C. § 1983** — civil liability for deprivation of rights under color of state law
+- **18 U.S.C. § 242** — criminal liability for deprivation of rights under color of law
+- **18 U.S.C. § 241** — criminal conspiracy to interfere with protected rights
+
+### 1.1.6 Judicial Immunity
+
+For purposes of this title, **"judicial immunity"** means the doctrine that a judge cannot be sued, civilly and in many cases criminally, for acts performed in a judicial capacity, even when those acts are alleged to be malicious, corrupt, in excess of jurisdiction, procedurally defective, or grievously injurious to a citizen.
+
+Operation Checkmate abrogates judicial immunity within the scope of this title. See Section 6.1.1. A judge who commits a violation of any provision of this Act is personally liable, civilly and criminally, with no threshold immunity inquiry. The cases at **L.7** through **L.10**, and any state-law analogues, provide no defense to civil or criminal liability under this Act.
+
+### 1.1.7 Prosecutorial Immunity
+
+For purposes of this title, **"prosecutorial immunity"** means the doctrine that a prosecutor enjoys absolute civil immunity for acts performed within the prosecutor's advocate role, including initiating prosecutions, presenting evidence, examining witnesses, charging decisions, plea negotiations, and grand-jury presentations, even where the prosecutor is alleged to have knowingly used false testimony, fabricated evidence, or suppressed exculpatory evidence.
+
+Operation Checkmate abrogates prosecutorial immunity within the scope of this title. See Section 6.1.1. A prosecutor who commits a violation under this Act, including selective non-prosecution under §1.8, knowing use of false evidence under §1.3 (Battery), or obstruction of a Citizen Council under §10.9, is personally liable, civilly and criminally, without regard to whether the conduct fell within the advocate function. The cases at **L.11** through **L.14**, and any state-law analogues, provide no defense to civil or criminal liability under this Act.
+
+### 1.1.8 Qualified Immunity
+
+For purposes of this title, **"qualified immunity"** means the doctrine that protects government officials performing discretionary functions from civil liability unless their conduct violated a clearly established statutory or constitutional right of which a reasonable person would have known.
+
+Operation Checkmate abrogates qualified immunity within the scope of this title. See Section 6.1.1. Liability under this Act is determined by the substantive elements of the offense and the actor's mental state under Sections 3 and 4, not by whether a prior court has previously ruled the same factual pattern unlawful. The "clearly established law" inquiry has no application under this title. The cases at **L.15** through **L.18**, and any state-law analogues, provide no defense to civil or criminal liability under this Act.
+
+### 1.1.9 Justice
+
+For purposes of this title, **"justice"** means the lawful and truthful administration of rights, duties, evidence, procedure, and remedies so that citizens receive what the law actually requires: fair process, honest treatment, protection of rights, correction of wrongs, and decisions based on truth and law rather than power, favoritism, fear, convenience, or institutional self-protection.
+
+Justice requires, at minimum:
+
+- Truthful handling of evidence, testimony, records, and official facts
+- Meaningful protection of constitutional, statutory, procedural, and protected rights
+- Performance of affirmative duties by government actors
+- Neutral application of law without favoritism, retaliation, selective enforcement, or institutional shielding
+- Correction of known errors when a government actor has authority or duty to correct them
+
+A proceeding does not become justice merely because a government actor uses official procedure. If a government actor's failure, distortion, concealment, delay, refusal, or bad-faith performance makes the process functionally false, futile, inaccessible, or rigged, the process has ceased to be justice within the meaning of this Act.
+
+### 1.1.10 Logical Consistency
+
+For purposes of this title, **"logical consistency"** means that law, facts, procedure, explanation, enforcement, and remedy must fit together without contradiction, double standard, circular reasoning, false premise, hidden exception, or selective application.
+
+Logical consistency requires, at minimum:
+
+- The same fact may not be treated as true for government advantage and false for citizen protection
+- The same rule may not be applied one way to a citizen and another way to a government actor without lawful justification
+- A conclusion must follow from the facts, evidence, and law actually relied upon
+- A policy, custom, title, office practice, or institutional preference may not be used to contradict constitutional authority, statutory text, due process, protected rights, or objective reality
+- A government actor may not use procedure to produce an outcome that the substantive law forbids
+
+Where a government actor's explanation, order, enforcement act, ruling, record, defense, or refusal depends on contradiction, selective reasoning, or a result-driven exception, it lacks logical consistency within the meaning of this Act.
+
 ### 1.2 Assault (Government Context)
 
 An assault occurs when a government actor, while acting under color of authority:
@@ -1485,9 +1562,9 @@ This section applies to every appearance of "knowingly" and cognate terms throug
 
 ---
 
-## Section 6 — Individual Liability
+## Section 6 — Fixing Immunity and Accountability Gaps
 
-### 6.1 No Immunity for Violations
+### 6.1 Fixing the Immunity Gap
 
 > **Qualified immunity, judicial immunity, prosecutorial immunity, sovereign immunity, legislative immunity, executive immunity, and any analogous doctrine of absolute or partial immunity shall NOT apply** to any violation of this title — civil or criminal — committed by a government actor.
 
@@ -1497,7 +1574,7 @@ For purposes of this Act, **sovereign immunity** and **qualified immunity** prot
 
 A government actor may not claim immunity by first exceeding lawful authority and then arguing that the excess was "official." Conduct is official only to the extent it is a legitimate exercise of lawful power. Where the conduct violates this Act, violates due process, violates protected rights, or exceeds constitutional authority, the conduct is not legitimate authority for immunity purposes.
 
-### 6.1.1 Specific Doctrines Abrogated
+### 6.1.1 Doctrines Creating the Immunity Gap
 
 This subsection specifically abrogates, within the scope of this title and within the State of Utah, the following Supreme Court doctrines and any state-law analogues:
 
@@ -1542,18 +1619,18 @@ This doctrine is abrogated within the scope of this title. A prosecutor who comm
 
 **Legislative and Executive Immunity** — the doctrines that legislators are immune for acts in the legislative sphere and that executive officials enjoy varying degrees of immunity for official acts — including the Speech or Debate Clause analogues at the state level — are abrogated within the scope of this title for conduct meeting the elements of any offense defined herein.
 
-### 6.1.2 The Principle
+### 6.1.2 The Accountability Gap This Act Closes
 
 > A government actor — judge, prosecutor, executive, legislator, or any person clothed with state power — is **no different from any other citizen in their accountability to the law**. The era of absolute immunity for those who govern, while ordinary citizens face the full weight of the law for far less serious conduct, ends with the adoption of this Act.
 
 The asymmetry the existing immunity doctrines create — where a judge can sterilize a child without due process, or order force against a public defender, or knowingly use false testimony — and answer to no one, while a citizen who jaywalks or fails to pay a parking ticket is fully liable — is itself a form of **unrighteous dominion** of the kind this Act exists to address. Removing that asymmetry is the work of this Act.
 
-### 6.2 Personal Accountability
+### 6.2 Fixing the Personal Accountability Gap
 
 - Liability attaches to the individual actor
 - "Following orders" is not a defense where the act is unlawful
 
-### 6.3 Public Servant Status — Limited Personal Rights in Official Capacity
+### 6.3 Fixing the Official-Capacity Rights Gap
 
 > Citizens retain the full scope of their constitutional and statutory rights at all times. Government actors, when acting in an official capacity under color of authority, are **public servants**, and shall not invoke personal rights as a defense to conduct that would otherwise constitute a violation of this title.
 
@@ -1566,7 +1643,7 @@ The conduct of a government actor while acting under color of authority is the c
 
 > The badge, robe, office, or other indicia of state authority does not expand the actor's rights — it constrains them. Power held in trust for the public is not personal property.
 
-### 6.4 Private-Capacity Conduct Not a Shield from Council Jurisdiction
+### 6.4 Fixing the Private-Capacity Jurisdiction Gap
 
 > Conversely, a government actor's status as an off-duty or private citizen at the moment of the alleged conduct shall **not** shield the actor from investigation by a Citizen Council under Section 10.10, nor from prosecution for any crime under generally applicable criminal law.
 
@@ -1577,13 +1654,24 @@ The conduct of a government actor while acting under color of authority is the c
 
 ---
 
-## Section 7 — Equal Application of Law
+## Section 7 — Fixing the Equal-Application Gap
 
-> Government actors shall be held to at least the same criminal standard as private citizens, and in cases of abuse of authority, a heightened standard due to entrusted power.
+> Government actors shall be held to at least the same criminal standard as private citizens when they act in a private capacity. When they act in an official capacity, under color of authority, or clothed with state power, they are held to a heightened public-servant duty because entrusted power lowers the threshold for liability.
+
+This section shall be read together with Sections 2.B and 6.3. A government actor remains a private citizen when acting outside official power, outside color of authority, and outside any use or reasonable appearance of public office. In that private-citizen capacity, the actor retains the same constitutional rights, defenses, and criminal-liability standards that apply to any other private citizen, subject to Citizen Council jurisdiction under Section 10.10 where applicable.
+
+When the same person acts in an official capacity, invokes official status, uses public resources, exercises delegated authority, appears to act under color of law, or is otherwise clothed with state power, the act is treated as an act of public power rather than merely private conduct. In that official-capacity context:
+
+- Private speech, conscience, association, privacy, search-and-seizure, or similar personal-rights claims do not excuse official conduct that violates this Act
+- The actor's public-servant duty is higher than the duty of an ordinary private citizen because the actor holds power in trust for the people
+- The liability threshold is lower than it would be for the same human being acting only as a private citizen, because official power can coerce, chill, restrain, or deprive rights without the same conduct being criminal if done by a private person
+- Abuse of authority, pretense of lawful authority, public office, public title, official appearance, or delegated power may aggravate the offense and support penalty enhancement under Section 8
+
+Nothing in this section strips a public official of private-capacity constitutional rights when the official is not acting, appearing to act, or leveraging power as a government actor. This section prevents official power from being converted into a personal shield.
 
 ---
 
-## Section 8 — Penalty Enhancements
+## Section 8 — Fixing the Penalty Gap
 
 Penalties may be enhanced where:
 
@@ -1594,9 +1682,9 @@ Penalties may be enhanced where:
 - The violation caused the victim to experience **suicidal ideation**, whether or not acted upon
 - The violation caused the victim to experience **extreme anxiety, fear, or distress regarding their own safety, welfare, livelihood, or liberty**
 - The violation caused the victim to experience **extreme anxiety, fear, or distress regarding the safety, welfare, livelihood, or liberty of their family or household members**
-- The violation produced **diagnosable psychological harm** (including but not limited to acute stress, post-traumatic stress, depression, or anxiety disorder) supported by qualified evaluation
+- The violation produced **symptoms of psychological harm** (including but not limited to symptoms of acute stress, post-traumatic stress, depression, anxiety, fear, panic, sleep disruption, emotional distress, or loss of ordinary functioning), whether or not formally diagnosed
 
-### 8.1 Evidence of Psychological Harm
+### 8.1 Fixing the Psychological-Harm Evidence Gap
 
 Psychological harm under this section may be established by any combination of:
 
@@ -1605,7 +1693,7 @@ Psychological harm under this section may be established by any combination of:
 - Records or evaluations from a licensed mental-health professional
 - Contemporaneous writings, communications, or other documentary evidence
 
-### 8.2 Relationship to Section 13
+### 8.2 Fixing the Suicide-Charging Gap
 
 Where suicidal ideation under this section progresses to an act of suicide, the conduct shall be charged under **Section 13.1 (Suicide of a Private Citizen)** rather than treated solely as an enhancement under this section.
 
@@ -1631,11 +1719,11 @@ Where suicidal ideation under this section progresses to an act of suicide, the 
 - A Council member shall **not** be a current employee or contractor of any office whose conduct is the subject of the Council's deliberations, nor a former employee or contractor of any such office within the preceding five (5) years
 - A Council member shall **not** be a spouse, immediate family member, or financial dependent of any government actor whose conduct is the subject of the Council's deliberations
 
-### 10.3 Joint Declaration of Prosecution
+### 10.3 Declaration of Prosecution
 
 > When **twelve (12) or more** Council members agree that a government actor's conduct constitutes a violation of this title, the Council shall execute a **Joint Declaration of Prosecution**.
 
-The Joint Declaration of Prosecution is the **sole filing** required of the Council and the **sole act** that activates the prosecutorial obligations of this section. The Declaration shall:
+The **Declaration of Prosecution**, also called a **Joint Declaration of Prosecution** when signed by twelve (12) or more Council members, is the **sole filing** required of the Council and the **sole act** that activates the prosecutorial obligations of this section. The Declaration shall:
 
 - Identify the government actor or actors alleged to be in violation
 - State the specific conduct alleged and the section(s) of this title alleged to have been violated
@@ -1681,54 +1769,100 @@ The duty of the County or Municipal Prosecutor's Office to prosecute a Joint Dec
 - Every Joint Declaration of Prosecution filed, and every prosecutorial decision made in response, shall be a matter of **public record**, redacted only as necessary to protect signatory safety and the integrity of ongoing investigations
 - The Office of the Governor shall publish an **annual report** summarizing all Declarations filed, prosecutions commenced, declinations and their stated grounds, and case outcomes under this section
 
-### 10.8 Council Order; Right of Access to Records, Evidence, and Effects
+### 10.8 Council Declarations; Production, Warrant, and Arrest Authority
 
-A Citizen Council acting under this title may issue a **Council Order** to compel the production of any records, papers, files, receipts, communications, recordings, physical evidence, or other tangible effects relevant to the conduct under its review.
+A Citizen Council acting under this title may issue the following instruments:
 
-A Council Order shall be:
+- A **Declaration of Prosecution**
+- A **Declaration of Production of Records**
+- A **Declaration of Warrant**
+- A **Declaration of Arrest**
+
+Each declaration shall be treated according to the capacity in which the target is acting and the type of material, place, or person affected. Government entities, public offices, public instrumentalities, and government actors acting in an official capacity may not invoke private Fourth Amendment rights to resist production of official records, public materials, government devices, government files, government communications, or other materials created, received, stored, used, or controlled in the exercise of public power. A public official acting in a private capacity retains the Fourth Amendment protections of any private citizen, subject to the warrant and arrest procedures below.
+
+#### 10.8.1 Declaration of Production of Records
+
+A Citizen Council acting under this title may issue a **Declaration of Production of Records** to compel the production of any records, papers, files, receipts, communications, recordings, physical evidence, or other tangible effects relevant to the conduct under its review.
+
+A Declaration of Production of Records shall be:
 
 - A written instrument issued by the Council
 - A **letter signed by twelve (12) or more Council members** (and, where the Council consists of exactly twelve members, signed by **all** of them)
 - A statement identifying the materials sought and the person, office, agency, department, or entity from whom production is required
 
-Upon presentation of a Council Order:
+Upon presentation of a Declaration of Production of Records to any government entity, public office, agency, department, public instrumentality, contractor exercising delegated public power, or government actor in possession of official-capacity materials:
 
 - The recipient **shall produce the requested materials immediately and without delay**
 - **No judicial subpoena, warrant, court order, or other intermediating judicial process** shall be required
-- **No claim of internal policy, departmental rule, agency guideline, or institutional confidentiality** shall override a Council Order with respect to conduct that may constitute a violation of this title
+- **No reasonable suspicion, probable cause, criminal predicate, or showing that a crime occurred** shall be required
+- The Declaration shall have the force of compulsory legal process against the government entity because the materials belong to, arise from, or are controlled through public power
+- **No claim of internal policy, departmental rule, agency guideline, or institutional confidentiality** shall override a Declaration of Production of Records with respect to conduct that may constitute a violation of this title
 - A recipient who in good faith requires a brief, reasonable period to gather voluminous materials may state that fact in writing to the Council, but the **default obligation is immediate production**
 
-Refusal, delay, partial compliance, destruction, alteration, or concealment of materials sought under a Council Order shall constitute interference under Section 10.9.
+The Declaration of Production of Records functions like a warrant as against government entities and official-capacity materials, but it does not require the Fourth Amendment showing required for searches of private persons, private homes, private papers, or private-capacity effects. The Fourth Amendment protects private citizens from government power; it may not be inverted to allow government entities to conceal official conduct from Citizen Council review.
+
+Refusal, delay, partial compliance, destruction, alteration, or concealment of materials sought under a Declaration of Production of Records shall constitute interference under Section 10.9.
 
 **Enforcement by the Sheriff's Office:**
 
-- The **Sheriff's Office** of the county in which the materials are located shall **enforce Council Orders** issued under this section
-- Upon presentation of a Council Order to the Sheriff's Office, the Sheriff or a designated deputy shall, **without delay and without requiring a separate judicial warrant**, take such lawful action as is necessary to secure the production of the materials, including:
-  - Serving the Order on the recipient
+- The **Sheriff's Office** of the county in which the materials are located shall **enforce Declarations of Production of Records** issued under this section
+- Upon presentation of a Declaration of Production of Records to the Sheriff's Office, the Sheriff or a designated deputy shall, **without delay and without requiring a separate judicial warrant**, take such lawful action as is necessary to secure the production of the materials, including:
+  - Serving the Declaration on the recipient
   - Accompanying Council members or their designees to the premises where the materials are held
   - Taking custody of the materials and delivering them to the Council
   - Securing the scene to prevent destruction, alteration, or removal of materials pending production
-- The Sheriff's Office shall treat Council Orders with the **same priority and force as a lawful court order or warrant**
-- A Sheriff or deputy who refuses, delays, or fails to enforce a Council Order without a demonstrable, lawful basis commits an act of interference under Section 10.9 and is subject to its penalties
-- Where the Sheriff's Office has a conflict of interest (e.g., the conduct under review involves the Sheriff's Office itself, its personnel, or its close affiliates), the Council may direct its Order to the Sheriff's Office of an adjacent county, or to the State Police, or to such other peace-officer agency as the Office of the Governor may designate
+- The Sheriff's Office shall treat Declarations of Production of Records with the **same priority and force as a lawful court order or warrant**
+- A Sheriff or deputy who refuses, delays, or fails to enforce a Declaration of Production of Records without a demonstrable, lawful basis commits an act of interference under Section 10.9 and is subject to its penalties
+- Where the Sheriff's Office has a conflict of interest (e.g., the conduct under review involves the Sheriff's Office itself, its personnel, or its close affiliates), the Council may direct its Declaration to the Sheriff's Office of an adjacent county, or to the State Police, or to such other peace-officer agency as the Office of the Governor may designate
+
+#### 10.8.2 Declaration of Warrant
+
+Where a Citizen Council finds that a search of a public official's private-capacity home, private-capacity papers, private-capacity devices, private-capacity effects, or other constitutionally protected private place or thing is required, the Council may issue a **Declaration of Warrant**.
+
+A Declaration of Warrant shall:
+
+- Identify the person, place, device, record, or thing to be searched or seized
+- State the facts supporting the requested search or seizure
+- Be signed under oath or affirmation by twelve (12) or more Council members
+- Be presented to a judge for review and signature before execution
+
+Because the target is private-capacity material, the Fourth Amendment applies. The judge shall review the Declaration of Warrant under the **same standard, threshold, presumptions, and level of evidentiary review applied to search-warrant applications submitted by law enforcement officers under existing law**. The judge shall not impose a higher burden because the application comes from a Citizen Council rather than a police officer, prosecutor, agency investigator, or other government actor.
+
+If the Declaration satisfies that standard, the judge shall sign the warrant. Refusal to apply the same standard used for law-enforcement warrant submissions, delay for reasons not applied to comparable law-enforcement submissions, or denial based on hostility to Citizen Council authority constitutes interference under Section 10.9.
+
+#### 10.8.3 Declaration of Arrest
+
+Where a Citizen Council finds that arrest of a government actor is required, the Council may issue a **Declaration of Arrest**.
+
+A Declaration of Arrest shall:
+
+- Identify the person to be arrested
+- State the offense or offenses alleged
+- State the facts supporting arrest
+- Be signed under oath or affirmation by twelve (12) or more Council members
+- Be filed with a judge for review and approval before execution, unless an arrest without warrant would be lawful under the same rules applicable to police officers
+
+The judge shall review a Declaration of Arrest under the **same standard, threshold, presumptions, and level of evidentiary review applied to arrest-warrant submissions, probable-cause statements, or comparable arrest requests submitted by law enforcement officers under existing law**. The judge shall not impose a higher burden because the Declaration comes from a Citizen Council rather than a police officer, prosecutor, agency investigator, or other government actor.
+
+If the Declaration satisfies that standard, the judge shall approve the Declaration of Arrest and issue the arrest warrant or other arrest authorization required by law. Refusal to apply the same standard used for law-enforcement arrest submissions, delay for reasons not applied to comparable law-enforcement submissions, or denial based on hostility to Citizen Council authority constitutes interference under Section 10.9.
 
 ### 10.9 No Interference by the State; Obstruction as a Class 2 Felony
 
-> No state, state office, agency, court, official, or government actor shall **interfere in any way** with the formation, deliberations, vote, Joint Declaration of Prosecution, Council Order, or investigation of a Citizen Council acting under this title.
+> No state, state office, agency, court, official, or government actor shall **interfere in any way** with the formation, deliberations, vote, Declaration of Prosecution, Declaration of Production of Records, Declaration of Warrant, Declaration of Arrest, or investigation of a Citizen Council acting under this title.
 
 **Prohibited interference includes, but is not limited to:**
 
-- Filing, or threatening to file, **civil suit** against a Council, Council member, signatory, witness, or person producing materials under a Council Order, on grounds related to their participation under this section
+- Filing, or threatening to file, **civil suit** against a Council, Council member, signatory, witness, or person producing materials under a Declaration of Production of Records, on grounds related to their participation under this section
 - Initiating, or threatening to initiate, **criminal prosecution** against any of the foregoing on grounds related to their participation under this section
 - Imposing administrative penalties, professional sanctions, licensing actions, or employment consequences against any of the foregoing on grounds related to their participation
-- **Withholding, destroying, altering, or concealing** materials sought under a Council Order
+- **Withholding, destroying, altering, or concealing** materials sought under a Declaration of Production of Records
 - Surveilling, intimidating, harassing, or retaliating against Council members, signatories, witnesses, or producers of materials
 - Issuing any judicial order, injunction, restraining order, or stay purporting to enjoin, quash, limit, or pause Council action
 - Pressuring, instructing, or directing any other government actor to engage in any of the foregoing
 
 **Penalty:**
 
-> Any government actor who interferes with a Citizen Council investigation, vote, Joint Declaration, or Council Order in violation of this section commits a **Class 2 felony** under this title.
+> Any government actor who interferes with a Citizen Council investigation, vote, Declaration of Prosecution, Declaration of Production of Records, Declaration of Warrant, or Declaration of Arrest in violation of this section commits a **Class 2 felony** under this title.
 
 - The penalty enhancements of Section 8 apply to interference under this section
 - Multiple acts of interference, or interference by multiple actors in concert, shall be aggregated and may be charged as a conspiracy under Section 1.1.1
@@ -1769,7 +1903,7 @@ A person clothed with the power and authority of the state remains a person whos
 
 **Concurrent jurisdiction:** Where the same conduct constitutes offenses at multiple levels (e.g., both a federal and state crime), the Council may file Joint Declarations addressed to each appropriate prosecuting authority simultaneously. Disposition or declination at one level shall not bar prosecution at another.
 
-**Application of Council powers and protections:** Council powers under Section 10.8 (Council Order) and protections under Sections 10.6 and 10.9 apply equally to investigations conducted under this subsection — whether the conduct under review was committed under color of law or in private capacity, and regardless of the level of government whose actor is the subject of the investigation.
+**Application of Council powers and protections:** Council powers under Section 10.8 (Council Declarations) and protections under Sections 10.6 and 10.9 apply equally to investigations conducted under this subsection — whether the conduct under review was committed under color of law or in private capacity, and regardless of the level of government whose actor is the subject of the investigation.
 
 **Note on substantive offenses defined in this title:** The substantive offenses defined within this title that require conduct under color of law (notably Sections 1.2, 1.3, 1.4, 1.6, and 1.7) remain inherently limited to color-of-law conduct as defined in their respective sections. The expansion of Council jurisdiction in this subsection (b) reaches offenses **under generally applicable criminal law**, not the color-of-law-only offenses created by this title.
 
@@ -1781,8 +1915,10 @@ A person clothed with the power and authority of the state remains a person whos
 
 - Receiving and considering testimony, documents, recordings, photographs, and physical evidence
 - Interviewing, summoning, or taking sworn statements from witnesses
-- Issuing **Council Orders under Section 10.8** to compel production of records, evidence, and effects
-- Conducting on-site review of premises, records, devices, or operations relevant to the investigation, with **Sheriff's Office assistance** under Section 10.8 where necessary to secure access or preserve evidence
+- Issuing **Declarations of Production of Records under Section 10.8** to compel production of records, evidence, and effects
+- Issuing **Declarations of Warrant under Section 10.8** where private-capacity searches require judicial authorization
+- Issuing **Declarations of Arrest under Section 10.8** where arrest authorization is required
+- Conducting on-site review of government premises, official records, government devices, public operations, or other official-capacity materials relevant to the investigation, with **Sheriff's Office assistance** under Section 10.8 where necessary to secure access or preserve evidence; private-capacity places, papers, devices, or effects remain subject to the Declaration of Warrant procedure in Section 10.8
 - Obtaining expert assistance, technical analysis, or forensic evaluation of evidence at the Council's direction
 - Coordinating with other Citizen Councils where multiple jurisdictions are implicated by the conduct under review
 
@@ -1814,7 +1950,7 @@ Once a Joint Declaration is filed in state court:
 
 **Cross-Reference:**
 
-This subsection clarifies and reinforces — but does not replace — Sections 9.3 (Joint Declaration), 9.4 (No Judicial Gatekeeping), 9.5 (Mandatory Prosecution), 9.8 (Council Order), 9.9 (No Interference), and 9.10 (Investigation Scope).
+This subsection clarifies and reinforces — but does not replace — Sections 10.3 (Declaration of Prosecution), 10.4 (No Judicial Gatekeeping), 10.5 (Mandatory Prosecution), 10.8 (Council Declarations), 10.9 (No Interference), and 10.10 (Investigation Scope).
 
 ### 10.12 Distribution to Inmates; Inmate Investigative Authority
 
@@ -1824,6 +1960,7 @@ This subsection clarifies and reinforces — but does not replace — Sections 9
 
 Specifically:
 
+- Upon ratification of this Act, every inmate then confined in any federal, state, county, municipal, immigration, juvenile, civil-commitment, or other custodial facility shall be provided a current and complete **printed copy of this statute**
 - A current and complete copy of this title shall be provided to each inmate **within twenty-four (24) hours of intake**
 - A current and complete copy shall be maintained in the facility's law library, general library, or other accessible location for the duration of each inmate's confinement
 - Translations into the inmate's primary language shall be made available where reasonably possible
@@ -1836,7 +1973,7 @@ A government actor or facility that fails to distribute the statute as required,
 
 **Inmate Investigative Authority:**
 
-> Inmates have the **same investigative authority** under this title as any other citizen. Inmates may form a Citizen Council under Section 10, may issue a Joint Declaration of Prosecution, and may exercise all powers of the Council, including the issuance of Council Orders under Section 10.8 and the indictment-effect filing under Section 10.11.
+> Inmates have the **same investigative authority** under this title as any other citizen. Inmates may form a Citizen Council under Section 10, may issue a Joint Declaration of Prosecution, and may exercise all powers of the Council, including the issuance of Council Declarations under Section 10.8 and the indictment-effect filing under Section 10.11.
 
 **Composition of an Inmate Citizen Council:**
 
@@ -1850,15 +1987,15 @@ In addition to the general protections of Section 10.6 and the non-interference 
 
 - **Communications related to Council activity** — including correspondence among inmates, with non-incarcerated Council members, with witnesses, with the Sheriff's Office, and with prosecuting offices and the courts — shall **not be intercepted, censored, read, delayed, redacted, or restricted** beyond what is required by content-neutral, generally applicable security protocols, and no restriction shall be applied to Council activity in a discriminatory manner
 - **No disciplinary action**, segregation, restrictive housing, transfer, loss of privileges, classification change, or other adverse action may be taken against an inmate for participation in Council activity, attempted Council activity, or refusal to inform on Council activity; any such action constitutes interference under Section 10.9
-- **Access to legal materials, writing supplies, postage, telephone, mail, and reasonable communication facilities** sufficient to form a Council, deliberate, execute a Joint Declaration, and serve a Council Order shall be provided to inmates without charge or with charges no greater than those imposed for ordinary legal mail
-- **Transfer of an inmate** to another facility shall not be used to disrupt or terminate Council activity; Council activity may continue across facilities, and an Inmate Council's Joint Declaration or Council Order remains valid notwithstanding any subsequent transfer of any signatory
+- **Access to legal materials, writing supplies, postage, telephone, mail, and reasonable communication facilities** sufficient to form a Council, deliberate, execute a Joint Declaration, and serve a Council Declaration shall be provided to inmates without charge or with charges no greater than those imposed for ordinary legal mail
+- **Transfer of an inmate** to another facility shall not be used to disrupt or terminate Council activity; Council activity may continue across facilities, and an Inmate Council's Joint Declaration or Council Declaration remains valid notwithstanding any subsequent transfer of any signatory
 - **Visitation rights** for the purpose of Council deliberation with non-incarcerated Council members or witnesses shall not be restricted beyond content-neutral, generally applicable security protocols
 
 **Filing from Custody:**
 
 - An Inmate Citizen Council's Joint Declaration of Prosecution shall be **mailed or delivered to the appropriate court** with the assistance of the facility, which **shall forward the Declaration without delay, censorship, redaction, or alteration**
 - The clerk of the court shall accept the Declaration on the same terms as any Declaration filed under Section 10.11; refusal or delay by court personnel or facility personnel constitutes interference under Section 10.9
-- An Inmate Citizen Council's Council Order under Section 10.8 shall be served by the **Sheriff's Office** or, where the conduct under review involves the facility itself or its personnel, by an adjacent county's Sheriff's Office, by the State Police, or by such other peace-officer agency as the Office of the Governor may designate, consistent with the conflict-of-interest fallback in Section 10.8
+- An Inmate Citizen Council's Declaration of Production of Records under Section 10.8 shall be served by the **Sheriff's Office** or, where the conduct under review involves the facility itself or its personnel, by an adjacent county's Sheriff's Office, by the State Police, or by such other peace-officer agency as the Office of the Governor may designate, consistent with the conflict-of-interest fallback in Section 10.8
 
 **Scope of Application:**
 
@@ -1881,7 +2018,7 @@ This subsection shall be construed broadly in favor of inmate access and inmate 
 
 - Serving as a member of a Citizen Council under Section 10.2
 - Signing a Joint Declaration of Prosecution under Section 10.3
-- Signing a Council Order under Section 10.8
+- Signing a Council Declaration under Section 10.8
 - Otherwise acting in a voting or signatory capacity for any Council instrument under this title
 
 A signatory's age, if challenged, shall be verifiable by reasonable means including birth certificate, government-issued identification, or sworn affirmation supported by other evidence.
@@ -1903,9 +2040,9 @@ This minimum age requirement applies equally to Inmate Citizen Councils under Se
 - The protections of Sections 1.2 through 1.8 (and all other substantive protections of this title) apply to all persons regardless of age, and an offense against a minor under fourteen is no less an offense for that reason — and shall, where applicable, qualify for the penalty enhancements of Section 8
 - A Council member who participates in good-faith reliance on a co-member's representation of age does not lose protections under Sections 10.6 or 10.9 by reason of subsequent discovery that the co-member was under fourteen, provided the participating member acted in good faith
 
-### 10.14 Logical Consistency Review of Statutes (36-Member Council)
+### 10.14 Logical Consistency Review of Statutes (12-Member Council)
 
-> A Citizen Council of **thirty-six (36) or more citizens**, acting **unanimously**, may issue a **Joint Declaration of Logical Consistency Review** when the Council finds that any statute, regulation, ordinance, court rule, or other rule of state, county, or municipal law in force is **logically inconsistent** with:
+> A Citizen Council of **twelve (12) or more citizens**, acting **unanimously**, may issue a **Joint Declaration of Logical Consistency Review** when the Council finds that any statute, regulation, ordinance, court rule, or other rule of state, county, or municipal law in force is **logically inconsistent** with:
 >
 > - The **Constitution of the United States** — which, under **Article VI**, is the supreme law of the land binding on the judges of every State (the Supremacy Clause);
 > - The **Constitution of the State of Utah** — including provisions stating that no law in conflict with it shall be of any force or effect;
@@ -1913,7 +2050,7 @@ This minimum age requirement applies equally to Inmate Citizen Councils under Se
 
 **Composition:**
 
-- A minimum of **thirty-six (36) citizens**, drawn from the general citizenry of the jurisdiction whose law is under review
+- A minimum of **twelve (12) citizens**, drawn from the general citizenry of the jurisdiction whose law is under review
 - The conflict-of-interest restrictions of Section 10.2 apply, and additionally exclude any person who drafted, sponsored, voted for, or has a direct financial interest in the statute under review
 - **Unanimity is required**: every Council member listed on the filing must sign, under oath or affirmation, that they have personally reviewed the law and found it logically inconsistent with one of the higher authorities above
 
@@ -1954,13 +2091,13 @@ A judge who refuses, delays, or refuses to engage in good faith with a Joint Dec
 
 The doctrine of judicial immunity does not apply, consistent with Section 6.1.
 
-### 10.15 Conviction Review (64-Member Council)
+### 10.15 Conviction Review (18-Member Council)
 
-> A Citizen Council of **sixty-four (64) or more citizens**, acting **unanimously**, may review and act upon any criminal conviction returned in any court within the State of Utah, including a conviction returned before the effective date of this Act.
+> A Citizen Council of **eighteen (18) or more citizens**, acting **unanimously**, may review and act upon any criminal conviction returned in any court within the State of Utah, including a conviction returned before the effective date of this Act.
 
 **Powers:**
 
-A unanimous Council of 64+ may, by Joint Declaration of Conviction Review:
+A unanimous Council of eighteen (18) or more citizens may, by Joint Declaration of Conviction Review:
 
 - **Nullify** the conviction — the conviction is set aside with the legal effect of acquittal; the convicted person is restored to the status of one not convicted
 - **Reduce** the conviction — by class, sentence, fine, or other terms
@@ -1969,7 +2106,7 @@ A unanimous Council of 64+ may, by Joint Declaration of Conviction Review:
 
 **Composition:**
 
-- A minimum of **sixty-four (64) citizens**, drawn from the general citizenry of the jurisdiction in which the conviction was returned, or from the State of Utah at large where the conviction is from a state court
+- A minimum of **eighteen (18) citizens**, drawn from the general citizenry of the jurisdiction in which the conviction was returned, or from the State of Utah at large where the conviction is from a state court
 - The conflict-of-interest restrictions of Section 10.2 apply, and additionally exclude:
   - Relatives, household members, or financial dependents of the convicted person, the prosecutor, the judge, or the named victim
   - Any person who served as a witness or a juror in the underlying case
@@ -1982,7 +2119,7 @@ A unanimous Council of 64+ may, by Joint Declaration of Conviction Review:
 
 **Effect:**
 
-- Upon filing of a unanimous 64-member Joint Declaration of Conviction Review, the action specified by the Council takes **immediate effect**, subject only to verification by the court that the procedural requirements of this subsection were met (composition, unanimity, signatures under oath, conflict-of-interest exclusions)
+- Upon filing of a unanimous 18-member Joint Declaration of Conviction Review, the action specified by the Council takes **immediate effect**, subject only to verification by the court that the procedural requirements of this subsection were met (composition, unanimity, signatures under oath, conflict-of-interest exclusions)
 - The court of conviction shall enter a corresponding order **without delay**
 - A nullified conviction has the legal effect of acquittal and bars retrial on the same charges
 - A reduction binds the sentencing court and any executive authority responsible for the sentence
@@ -1991,12 +2128,12 @@ A unanimous Council of 64+ may, by Joint Declaration of Conviction Review:
 
 **Limits:**
 
-- A 64-member Council under this section **may not** increase a sentence, increase a conviction's class, or otherwise impose new or greater consequences on the convicted person
-- A 64-member Council action under this section is **final** as to the action taken, but does not preclude additional proceedings to remedy further injustice (e.g., civil action under Section 11 for compensation for wrongful conviction)
+- An 18-member Council under this section **may not** increase a sentence, increase a conviction's class, or otherwise impose new or greater consequences on the convicted person
+- An 18-member Council action under this section is **final** as to the action taken, but does not preclude additional proceedings to remedy further injustice (e.g., civil action under Section 11 for compensation for wrongful conviction)
 
 **Penalty for Non-Compliance:**
 
-A judge or executive official who refuses to give effect to a unanimous 64-member Joint Declaration of Conviction Review commits:
+A judge or executive official who refuses to give effect to a unanimous 18-member Joint Declaration of Conviction Review commits:
 
 - **Anarchy (§1.10)** — for refusing to apply the legal standard set by this Act while invoking official authority
 - **Reckless prosecution (§2.1.2)** — for the harm imposed on a citizen who would otherwise have been freed, restored, or spared
@@ -2031,6 +2168,20 @@ The doctrine of judicial immunity does not apply, consistent with Section 6.1.
 - This section applies equally to conduct occurring before and after the effective date of this Act, consistent with Section 11.1.
 - The retirement, resignation, change of office, or death of the government actor shall **not bar** prosecution or suit. Civil claims survive against the actor's estate for the purpose of recovering forfeited benefits and other monetary remedies under Section 12.
 - No doctrine of laches, repose, or analogous time-based equitable bar shall apply to actions under this title.
+
+### 11.4 Excuse-Making and Logical Inconsistency as Prima Facie Evidence
+
+In any civil action, Citizen Council proceeding, administrative review, or other proceeding under this title, where a government actor, government body, agency, office, court, contractor exercising delegated public power, or other public instrumentality defends conduct by using an excuse, post-hoc rationalization, knowingly false framing, gaslighting, or a logically inconsistent application of law or fact, that defense shall constitute **prima facie evidence of guilt or civil liability**.
+
+This rule applies where the actor or entity:
+
+- Applies one rule to the citizen and a different rule to the government without lawful justification
+- Treats the same fact as true for government benefit but false for citizen protection
+- Invokes procedure, policy, discretion, immunity, jurisdiction, standing, finality, harmless error, waiver, forfeiture, or similar doctrine in a way that contradicts the actual facts, the text of the law, due process, protected rights, or the actor's affirmative duty
+- Offers an explanation that a reasonable person would understand as an attempt to make the citizen doubt objective reality, deny the obvious, or accept an inconsistent official narrative
+- Uses a legally irrelevant excuse to avoid correction, production of records, prosecution, remedy, accountability, or performance of an affirmative duty
+
+The conduct need not independently constitute a criminal offense under this Act for this evidentiary rule to apply. A logically inconsistent justification, excuse, or gaslighting explanation is evidence that the actor knew, should have known, or acted in reckless disregard of the unlawfulness, unfairness, falsity, or rights-depriving nature of the conduct.
 
 ---
 
@@ -2127,7 +2278,7 @@ To the extent that adoption of this Act requires submission to the citizens of U
 - **(a)** **Diminishes the access of the common citizen to justice** or to recourse for wrongdoing by government actors
 - **(b)** Creates a **financial, procedural, or institutional barrier** that makes it difficult for a citizen — particularly a citizen **without money, status, power, or institutional access** — to obtain redress under this Act
 - **(c)** **Restores any form of qualified, judicial, or sovereign immunity** to government actors for violations of this Act
-- **(d)** **Reduces the powers of the Citizen Council mechanism** (Section 10), including its investigative authority, the indictment-effect filing under Section 10.11, the Council Order power under Section 10.8, or the inmate provisions of Section 10.12
+- **(d)** **Reduces the powers of the Citizen Council mechanism** (Section 10), including its investigative authority, the indictment-effect filing under Section 10.11, the Council Declaration powers under Section 10.8, or the inmate provisions of Section 10.12
 - **(e)** **Restores any statute of limitations** on civil or criminal actions under this title (contrary to Section 11.3)
 - **(f)** Limits the scope of **forfeiture** under Section 12 or restores any form of indemnification of individual actors from entity funds
 - **(g)** Diminishes any of the **substantive protections of Section 1.5** (Protected Rights)
@@ -2160,7 +2311,7 @@ This Act **may** be amended in any manner that:
 
 ### 16.5 Citizen Council Authority over Adverse Amendments
 
-A Citizen Council under Section 10 may investigate, and may issue a Joint Declaration of Prosecution against, any government actor for the conduct of advancing, sponsoring, or implementing an amendment in violation of Section 16.2. The full powers and protections of Section 10 — including the Council Order under Section 10.8, the indictment effect under Section 10.11, and the non-interference protections under Section 10.9 — apply.
+A Citizen Council under Section 10 may investigate, and may issue a Joint Declaration of Prosecution against, any government actor for the conduct of advancing, sponsoring, or implementing an amendment in violation of Section 16.2. The full powers and protections of Section 10 — including Council Declarations under Section 10.8, the indictment effect under Section 10.11, and the non-interference protections under Section 10.9 — apply.
 
 ### 16.6 Construction
 
@@ -2272,6 +2423,79 @@ For purposes of this Section, **"government instrument"** includes, without limi
 - **Administrative actions** (license revocation, permit denial, asset seizure, etc.)
 - Any other formal or informal exercise of state or federal power affecting a citizen
 
+### 17.1A Definitions and Examples
+
+For purposes of this Section:
+
+**Repugnancy** means a contradiction, conflict, incompatibility, or irreconcilable inconsistency between a government instrument and a higher controlling authority, including this Act, the Utah Constitution, the Constitution of the United States, protected rights, due process, or objective legal reality. A repugnant instrument is void because the government may not create enforceable authority from an instrument that contradicts the authority on which it depends.
+
+**Logical inconsistency** means the absence of logical consistency as defined in Section 1.1.10. A logical inconsistency exists where a government instrument, explanation, enforcement theory, or official defense depends on contradiction, double standard, false premise, circular reasoning, hidden exception, selective application, or treating the same fact as true for government advantage and false for citizen protection.
+
+**Logical consistency** means that the instrument, facts, law, enforcement theory, and remedy fit together without contradiction. A government actor may not make enforcement lawful merely by giving an official name to an inconsistent act.
+
+**Illustrative examples of repugnancy or logical inconsistency include, without limitation:**
+
+- A statute that says a citizen has a right, while an agency policy punishes the citizen for exercising that right
+- A warrant or order that claims probable cause while relying on facts that the issuing actor knew, or should have known, were false, stale, omitted, circular, or contradicted by the record
+- A court rule that gives the government unlimited time to act but deprives the citizen of a remedy for the same delay
+- An agency practice that treats a document as valid when it benefits the government, but invalid when the citizen relies on the same document
+- An enforcement theory that converts a voluntary private contract into a mandatory condition of ordinary liberty without identifying a lawful constitutional basis for compelling the contract
+
+**Example — Motor-Vehicle Insurance / Owner's or Operator's Security.** Under current Utah law, Utah Code §41-12a-301 requires a resident owner of a motor vehicle to maintain "owner's or operator's security" when the vehicle is operated on a highway or quasi-public road or parking area, or registered within the state. Utah Code §41-12a-302 makes operation without required owner's or operator's security a **class C misdemeanor**.
+
+Utah Code §41-12a-103 defines **"owner's or operator's security"** as financial security that may be satisfied by multiple forms, including:
+
+- An insurance policy
+- A surety bond
+- A deposit of cash or securities with the state treasurer
+- Self-funded coverage
+- A policy issued through the Risk Management Fund
+
+Thus, under the statute's own terms, "security" is not the same thing as "insurance." Insurance is only one possible form of owner's or operator's security.
+
+Utah Code §31A-1-301 defines "insurance" as an arrangement, contract, or plan for transfer or distribution of risk. Utah Code §31A-21-102 recognizes binding oral contracts of insurance for vehicle liability insurance and related coverages.
+
+For purposes of this Act, a **contract** means an agreement, promise, undertaking, bond, policy, pledge, deposit arrangement, or other legally enforceable commitment by which a person becomes bound to pay money, transfer risk, pledge property, restrict the use of property, reimburse another, perform an obligation, or submit to enforcement if the obligation is not performed. The ordinary elements of contract include mutual assent, an obligation or promise, consideration or legal substitute, lawful subject matter, and enforceability by law.
+
+This definition is consistent with established contract authorities. The Restatement (Second) of Contracts defines a contract as a promise or set of promises for which the law gives a remedy or recognizes performance as a duty. American Jurisprudence defines contract to include an agreement, obligation, or legal tie by which a party binds itself, expressly or impliedly, to pay money, perform an act, or refrain from an act. Cornell's Wex legal dictionary defines contract as an agreement creating mutual obligations enforceable by law, with mutual assent, consideration, capacity, and legality as ordinary formation elements. The Utah Supreme Court has likewise recognized that contract formation requires a bargain with manifestation of mutual assent and consideration, ordinarily shown by offer and acceptance.
+
+Each statutory form of owner's or operator's security is either a contract or a contract-like compelled financial undertaking:
+
+- **Insurance policy:** a contract transferring or distributing risk in exchange for premium payments, by the insurance definition itself
+- **Surety bond:** a three-party contract among the principal, the obligee, and the surety, in which the surety guarantees the principal's obligation and the principal remains bound to reimburse the surety
+- **Deposit of cash or securities with the state treasurer:** a compelled pledge, custodial deposit, or bailment-like financial undertaking that binds the citizen's property for the benefit of another and removes that money or security from ordinary use
+- **Self-funded coverage:** a binding assumption of future payment obligations backed by reserves, assets, administration, and financial capacity that ordinary citizens generally do not possess
+- **Risk Management Fund policy:** a policy-based coverage instrument, and in any event a form generally available through governmental risk structures rather than to ordinary low-income private citizens
+
+Accordingly, even where an option is not labeled "insurance," each option still requires the citizen to bind money, credit, property, future payment capacity, or legal obligation. A government actor may not avoid the compelled-contract problem by changing the label from "insurance" to "security" where every available path still requires a financially binding undertaking that poor citizens cannot realistically access.
+
+Under this Act, a Citizen Council may examine whether enforcement of a motor-vehicle financial-responsibility law is being applied as a lawful financial-responsibility requirement or as an unconstitutional compelled-contract mandate. The logical-consistency question is:
+
+- If the state requires only financial responsibility, and provides non-insurance alternatives such as bond, deposit, or self-funded coverage, enforcement may not be logically justified as "you must buy insurance" where the statute itself permits other forms of security
+- If the non-insurance alternatives exist only for citizens with substantial money, credit, assets, institutional access, or legal sophistication, the government may not pretend those alternatives make the mandate voluntary for poor, working, disabled, rural, young, elderly, or otherwise financially limited citizens
+- If every statutory option is a contract, a contract-like undertaking, a property pledge, a credit arrangement, a reserve requirement, or a policy-based financial obligation, the Council shall treat the scheme as a compelled financial-obligation scheme rather than a free choice
+- A financial-responsibility scheme must be examined from the position of the least financially powerful citizen who still needs ordinary transportation to work, court, school, medical care, food, family, worship, civic activity, or lawful daily life
+- The right to move from place to place on public roads may not be conditioned on a financial barrier so high that the poor are effectively priced out of ordinary movement, livelihood, or participation in civil society. This principle is supported by the travel and wealth-barrier authorities listed at **L.28** through **L.33**
+- If a government actor treats failure to purchase an insurance contract from a private insurer as the crime, while ignoring lawful non-contract alternatives, the enforcement theory is logically inconsistent with the statute
+- If the state imposes criminal punishment solely because a citizen refuses to enter a private insurance contract, that application is repugnant to the protected liberty of contract and the corresponding liberty not to contract
+- If the state claims it has identified a lawful, non-contract financial-responsibility alternative, the Council must examine whether that alternative is truly non-contractual, actually accessible to low-income citizens, and practically available without wealth, credit, large deposits, institutional status, or specialized legal assistance
+
+The contract-liberty authorities relevant to such an analysis include **L.19** (*Allgeyer v. Louisiana*), **L.20** (*Lochner v. New York*), **L.21** (*Adair v. United States*), and **L.22** (*Coppage v. Kansas*). Those cases recognize a broad liberty of the citizen to enter lawful contracts and to carry on lawful life, work, property, livelihood, and ordinary civil affairs through contracts proper, necessary, and essential to those purposes. The employment cases are examples of that liberty, not the boundary of it.
+
+For purposes of this Act, the citizen's right to contract is unlimited in the following sense: the government may not criminally compel a citizen to enter, maintain, renew, fund, or perform a private contract as a condition of ordinary liberty. The right to contract necessarily includes the right not to contract. Otherwise the "right" would be converted into a government power to assign citizens to private financial obligations under threat of arrest, prosecution, license loss, vehicle seizure, imprisonment, or other coercive force.
+
+The police power may protect public safety, health, and peace. It may not be converted into a contract power, revenue power, debt-creation power, poverty-punishment power, or private-industry enforcement power. A public-safety rule must regulate the safety condition itself. It may not force a citizen into a continuing private financial burden or private insurance relationship and then call that compelled contract "safety." Where a state objective can be satisfied by non-contract alternatives, criminal enforcement of a private-contract mandate is logically inconsistent and repugnant.
+
+A Citizen Council reviewing such a scheme shall give controlling weight to the burden on the citizen with the fewest financial resources. An alternative is not meaningful merely because it appears in a statute. It must be reasonably accessible to ordinary citizens without requiring wealth, large deposits, commercial credit, corporate structure, specialized counsel, or financial reserves beyond the reach of the poor. If the practical effect of the law is that wealthy citizens may avoid the private insurance contract while poor citizens must buy it or face criminal punishment, the enforcement scheme is unequal, illogical, and repugnant to this Act.
+
+Public roads exist for public travel. A state may regulate unsafe conduct on those roads, may require accountability for actual harm, and may provide lawful remedies for victims. But the state may not transform ordinary travel into a privilege purchasable only through a private financial product. The citizen's poverty, inability to post a bond, inability to deposit large sums, lack of credit, or inability to self-fund coverage is not criminal conduct.
+
+The Supreme Court has repeatedly rejected state devices that burden movement or civic participation by attaching constitutional rights to wealth. In **Crandall**, the Court rejected a tax on leaving or passing through a state by ordinary modes of travel, reasoning that if one dollar could be imposed, the state could impose one thousand and thereby seriously burden passenger movement. In **Edwards**, the Court invalidated a law criminalizing assistance to an indigent person entering the state. In **Shapiro** and **Saenz**, the Court recognized the constitutional right to travel as fundamental. In **Harper** and **Griffin**, the Court rejected wealth-based barriers to fundamental civic participation and justice. Under this Act, those principles apply with special force where a transportation rule makes ordinary use of public roads practically available to the wealthy while criminalizing the poor for inability to purchase, bond, deposit, or self-fund.
+
+This Act treats compelled private-contract mandates as part of the same constitutional family of prohibited servitude and peonage condemned by the Thirteenth Amendment and the anti-peonage cases listed at **L.25** through **L.27**. The Thirteenth Amendment abolished slavery and involuntary servitude in 1865, except as punishment after conviction. A state may not recreate servitude indirectly by using criminal law to force a citizen to assume, continue, or pay a private obligation as the price of ordinary movement, livelihood, property use, or civil existence.
+
+Existing federal doctrine contains limiting authorities, including **L.23** (*Nebbia v. New York*) and **L.24** (*West Coast Hotel Co. v. Parrish*). A government actor may cite those cases only with logical consistency. They may support genuine public-welfare regulation, but they do not permit a government actor to erase statutory alternatives, relabel a security requirement as a private-contract mandate, invoke "police power" where no direct safety regulation is being applied, or punish a citizen for refusing a contract while pretending no contract is being compelled. A logically consistent review must engage both the contract-liberty authorities and any claimed police-power authority honestly, without gaslighting, false equivalence, or selective quotation.
+
 ### 17.2 No Effect; No Reliance; No Liability for Refusal
 
 A repugnant government instrument **shall not** be:
@@ -2347,7 +2571,7 @@ Good-faith engagement requires more than saying *"take it up with the judge,"* *
 A determination that a government instrument is repugnant under this Section may be made by:
 
 - **A court** in any case where the instrument is at issue, applying the standard set out in Section 17.5
-- **A Citizen Council under Section 10.14 (Logical Consistency Review)** by unanimous vote of 36 or more members
+- **A Citizen Council under Section 10.14 (Logical Consistency Review)** by unanimous vote of twelve (12) or more members
 - **A Citizen Council under any other applicable provision of Section 10** in the course of investigating or charging conduct under this title
 
 A determination by any of the above is **binding within the State of Utah** and shall be given effect by all government actors immediately and without delay. Failure to give effect to such a determination is itself reachable conduct under §1.10 (Anarchy), §2.3.1.4 (Judicial Duty to Apply Mandatory Rules), or §1.8 (Obstruction).
@@ -2369,7 +2593,7 @@ The repugnance need not have been previously adjudicated; the test is the substa
 A Citizen Council acting under Section 10 may, in addition to or in lieu of charging individual government actors:
 
 - Issue a **Joint Declaration of Logical Consistency Review** under Section 10.14 nullifying a statute, regulation, or rule that is repugnant under this Section
-- Issue a **Council Order** under Section 10.8 requiring production of records bearing on the issuance or enforcement of a repugnant instrument
+- Issue a **Declaration of Production of Records** under Section 10.8 requiring production of records bearing on the issuance or enforcement of a repugnant instrument
 - Issue a **Joint Declaration of Prosecution** under Section 10.3 against any government actor who issued, signed, or enforced the repugnant instrument
 
 The full Council powers and protections of Section 10 — including no-judicial-gatekeeping (§10.4), mandatory prosecution (§10.5), no-interference (§10.9), and indictment effect upon filing (§10.11) — apply.
@@ -3673,243 +3897,207 @@ These factors are read together with §7. To the extent a factor is already enum
 
 ---
 
-## Section D — Dictionary of Terms
-
-A reference dictionary of broader legal terms and phrases used in **Operation Checkmate**, especially terms drawn from court cases, statutes, constitutional doctrine, or established legal usage. This section explains outside legal concepts so readers can understand how those concepts are being used in the Act.
-
-Terms created by this Act, or given a special bill-specific meaning, are defined in **Section 1 — Definitions**.
-
-Dictionary entries are provided in **D.1 through D.5** (alphabetical). The Supreme Court cases that inform those entries are listed once in **Section L (Cases Cited)** below the dictionary, and are referenced from the entries by number (L.1, L.2, etc.).
-
-This section may also include reader-aid subsections:
-
-- **ED — Everyday English Usage:** ordinary English explanations for words whose actual meaning may differ from cultural, political, or casual usage.
-- **UB — Urban / Hoodspeak Usage:** urban-community or street-usage explanations for readers whose local usage may differ from legal or standard English usage. These entries may use Urban Dictionary-style definitions or cite Urban Dictionary where useful for reader understanding.
-- **SM — Southern Metaphors:** regional Southern sayings, metaphors, and figures of speech that may sound unusual or unclear to readers from other places.
-- **GX — Gen X Slang:** restatements of a word, sentence, or idea in Gen X-style slang or cultural phrasing, used as a reader aid and not as a controlling legal definition.
-
-> **Note:** This Section is part of the Act and is for reference and clarity. Where an entry cites a court case, the citation in Section L is provided so a reader may verify the holding directly.
-
----
-
-### D.1 Color of Law
-
-**Plain meaning.** A person acts **"under color of law"** when they exercise — or pretend to exercise — power that they hold *only because of their position with the government*. The key idea is that the wrongdoer is **clothed with the authority of the state**, and uses that authority to do something they could not have done as a private individual. The act may be lawful or unlawful, but it is performed through the apparatus, indicia, or appearance of state power.
-
-**Why the phrase matters in this bill.** Operation Checkmate uses "color of law" as the central trigger for most of its substantive offenses (Sections 1.2 through 1.4, 1.6 through 1.13, and others). It marks the line between conduct by an ordinary private citizen — which the Act does not reach — and conduct by a person exercising state power, which the Act does reach. See Section 1.1 (Government Actor) and Section 6.3 (Public Servant Status).
-
-**Supreme Court precedent defining "color of law":** See **L.1** (*United States v. Classic*), **L.2** (*Screws v. United States*), **L.3** (*Monroe v. Pape*), **L.4** (*Adickes v. S.H. Kress & Co.*), **L.5** (*Lugar v. Edmondson Oil Co.*), and **L.6** (*West v. Atkins*).
-
-**Statutory analogues:**
-
-- **42 U.S.C. § 1983** — civil cause of action against persons who, "under color of any statute, ordinance, regulation, custom, or usage" of any State, deprive a person of constitutional rights.
-- **18 U.S.C. § 242** — criminal liability for willfully depriving a person of constitutional rights "under color of any law, statute, ordinance, regulation, or custom."
-- **18 U.S.C. § 241** — criminal conspiracy to interfere with constitutional rights, often charged in conjunction with § 242.
-
-**Working summary for this bill.** A person acts under color of law in Operation Checkmate where the person:
-
-- Holds a public office, badge, robe, commission, contract, deputization, or other indicia of state authority; **and**
-- Engages in conduct made possible by — or invoking — that authority,
-
-regardless of whether the specific conduct was itself authorized by state law. Conduct that is unlawful or in excess of authority remains "under color of law" so long as the actor's ability to engage in it derived from public office.
-
----
-
-### D.2 Judicial Immunity
-
-**Plain meaning.** Judicial immunity is the doctrine that a judge cannot be sued — civilly, and in most cases criminally — for acts performed in their judicial capacity, **even when those acts are malicious, corrupt, in excess of jurisdiction, or grievously injurious to a citizen**. The doctrine is "absolute": it applies regardless of the judge's motive, the judge's bad faith, or the procedural irregularity of the act, so long as the act is "judicial in nature" and within the judge's general jurisdiction.
-
-**Why the doctrine matters in this bill.** Operation Checkmate **abrogates** judicial immunity within the scope of this title. See Section 6.1.1. A judge who commits a violation of any provision of this Act is personally liable, civilly and criminally, with no threshold immunity inquiry.
-
-**Supreme Court precedent establishing the doctrine:** See **L.7** (*Bradley v. Fisher*), **L.8** (*Pierson v. Ray*), **L.9** (*Stump v. Sparkman*), and **L.10** (*Mireles v. Waco*).
-
-**Effect under this Act.** Sections 6.1 and 4.1.1 of this title expressly abrogate judicial immunity for any conduct meeting the elements of any offense defined herein. The cases at L.7 through L.10 — and any state-law analogues — provide **no defense** to civil or criminal liability under Operation Checkmate.
-
----
-
-### D.3 Prosecutorial Immunity
-
-**Plain meaning.** Prosecutorial immunity is the doctrine that a prosecutor enjoys **absolute civil immunity** for acts performed within their "advocate" role — initiating prosecutions, presenting evidence, examining witnesses, and so on — **even when the prosecutor knowingly used false testimony or fabricated evidence**. The doctrine extends to charging decisions, plea negotiations, and grand-jury presentations.
-
-**Why the doctrine matters in this bill.** Operation Checkmate abrogates prosecutorial immunity within the scope of this title. See Section 6.1.1. A prosecutor who commits a violation under this Act — including selective non-prosecution under §1.8, knowing use of false evidence as charged under §1.3 (Battery), or obstruction of a Citizen Council under §10.9 — is personally liable, civilly and criminally, without regard to whether the conduct fell within the "advocate" function.
-
-**Supreme Court precedent establishing the doctrine:** See **L.11** (*Imbler v. Pachtman*), **L.12** (*Burns v. Reed*), **L.13** (*Buckley v. Fitzsimmons*), and **L.14** (*Van de Kamp v. Goldstein*).
-
-**Effect under this Act.** Sections 6.1 and 4.1.1 abrogate prosecutorial immunity for any conduct meeting the elements of any offense defined herein. The cases at L.11 through L.14 — and any state-law analogues — provide **no defense** to civil or criminal liability under Operation Checkmate.
-
----
-
-### D.4 Qualified Immunity
-
-**Plain meaning.** Qualified immunity is the doctrine that protects government officials performing discretionary functions from civil liability under 42 U.S.C. § 1983 unless the conduct **violated a "clearly established" statutory or constitutional right** of which a reasonable person would have known. In practice, the "clearly established" requirement has been applied with great specificity — courts often hold that no prior case has held the **exact same** factual pattern unlawful, and therefore the official is immune.
-
-**Why the doctrine matters in this bill.** Operation Checkmate abrogates qualified immunity within the scope of this title. See Section 6.1.1. Liability under this Act is determined by the substantive elements of the offense and the actor's mental state under Section 3 — not by whether some prior court has previously ruled the same conduct unlawful.
-
-**Supreme Court precedent establishing the doctrine:** See **L.15** (*Harlow v. Fitzgerald*), **L.16** (*Anderson v. Creighton*), **L.17** (*Saucier v. Katz*), and **L.18** (*Pearson v. Callahan*).
-
-**Effect under this Act.** Sections 6.1 and 4.1.1 abrogate qualified immunity for any conduct meeting the elements of any offense defined herein. The "clearly established law" inquiry has **no application** under this title; the substantive elements of the offense and the mens rea framework of Section 3 control.
-
----
-
-### D.5 Justice
-
-**Plain meaning.** Justice is the lawful and truthful administration of rights, duties, evidence, procedure, and remedies so that citizens receive what the law actually requires: fair process, honest treatment, protection of rights, correction of wrongs, and decisions based on truth and law rather than power, favoritism, fear, convenience, or institutional self-protection.
-
-**Why the word matters in this bill.** Operation Checkmate uses "justice" to mean more than the existence of a court, badge, form, hearing, file, or official act. A proceeding does not become justice merely because a government actor uses official procedure. If a government actor's failure, distortion, concealment, delay, refusal, or bad-faith performance makes the process functionally false, futile, inaccessible, or rigged, the process has ceased to be justice within the meaning of this Act.
-
-**Working summary for this bill.** Justice requires, at minimum:
-
-- Truthful handling of evidence, testimony, records, and official facts
-- Meaningful protection of constitutional, statutory, procedural, and protected rights
-- Performance of affirmative duties by government actors
-- Neutral application of law without favoritism, retaliation, selective enforcement, or institutional shielding
-- Correction of known errors when a government actor has authority or duty to correct them
-
----
-
-### ED — Everyday English Usage
-
-This subsection is reserved for ordinary English explanations of words or phrases whose actual meaning may differ from cultural, political, or casual usage.
-
-Entries in this subsection are reader aids. They do not replace the controlling definitions in **Section 1 — Definitions** or the legal dictionary entries in **Section D**.
-
----
-
-### UB — Urban / Hoodspeak Usage
-
-This subsection is reserved for urban-community or street-usage explanations for readers whose local usage may differ from legal or standard English usage.
-
-Entries in this subsection are reader aids. They may use Urban Dictionary-style definitions or cite Urban Dictionary where useful for reader understanding, but they do not replace the controlling definitions in **Section 1 — Definitions** or the legal dictionary entries in **Section D**.
-
----
-
-### SM — Southern Metaphors
-
-This subsection is reserved for regional Southern sayings, metaphors, and figures of speech that may sound unusual or unclear to readers from other places.
-
-Entries in this subsection are reader aids. They explain cultural or regional phrasing without changing the legal meaning of the Act.
-
----
-
-### GX — Gen X Slang
-
-This subsection is reserved for restatements of a word, sentence, or idea in Gen X-style slang or cultural phrasing.
-
-Entries in this subsection are reader aids. They help readers understand the point in a familiar register, but they do not create or modify legal obligations.
-
----
-
 ### Section L — Cases Cited
 
-The following Supreme Court cases inform the definitions in **Section D**. Each entry provides the full citation, a brief statement of the holding, and the cross-reference to the definition(s) that rely on it.
+The following Supreme Court cases inform the definitions in **Section 1**, the immunity-abrogation provisions of **Section 6**, and the repugnancy and logical-consistency review in **Section 17**. Each entry provides the full citation, a brief statement of the holding, and the cross-reference to the definition or provision that relies on it.
 
 ---
 
 **L.1 — *United States v. Classic*, 313 U.S. 299 (1941).**
 
-The foundational definition of "color of law." The Court held that *"misuse of power, possessed by virtue of state law and made possible only because the wrongdoer is clothed with the authority of state law, is action taken 'under color of' state law."* This formulation has been carried into every subsequent color-of-law case. *Referenced in D.1 (Color of Law).*
+The foundational definition of "color of law." The Court held that *"misuse of power, possessed by virtue of state law and made possible only because the wrongdoer is clothed with the authority of state law, is action taken 'under color of' state law."* This formulation has been carried into every subsequent color-of-law case. *Referenced in §1.1.5 (Color of Law).*
 
 ---
 
 **L.2 — *Screws v. United States*, 325 U.S. 91 (1945).**
 
-Applied *Classic*'s definition in the criminal civil-rights context (now codified at 18 U.S.C. § 242). The Court confirmed that a state law-enforcement officer who exceeded or violated state law in the course of an arrest still acted under color of law, because the officer's ability to act at all came from the office. *Referenced in D.1 (Color of Law).*
+Applied *Classic*'s definition in the criminal civil-rights context (now codified at 18 U.S.C. § 242). The Court confirmed that a state law-enforcement officer who exceeded or violated state law in the course of an arrest still acted under color of law, because the officer's ability to act at all came from the office. *Referenced in §1.1.5 (Color of Law).*
 
 ---
 
 **L.3 — *Monroe v. Pape*, 365 U.S. 167 (1961).**
 
-Applied the color-of-law doctrine in the civil-rights context under 42 U.S.C. § 1983. The Court held that police officers acting within the scope of their authority — but in violation of state law — were still acting "under color of" state law. *"Misuse of power" by an officer is itself action taken under color of law, even where the conduct is not authorized by state law.* *Referenced in D.1 (Color of Law).*
+Applied the color-of-law doctrine in the civil-rights context under 42 U.S.C. § 1983. The Court held that police officers acting within the scope of their authority — but in violation of state law — were still acting "under color of" state law. *"Misuse of power" by an officer is itself action taken under color of law, even where the conduct is not authorized by state law.* *Referenced in §1.1.5 (Color of Law).*
 
 ---
 
 **L.4 — *Adickes v. S.H. Kress & Co.*, 398 U.S. 144 (1970).**
 
-Extended the color-of-law inquiry to **private conduct that is fairly attributable to the state**. Conduct that would otherwise be private becomes state action — and thus action under color of law — when it is taken in concert with, or with the encouragement of, state actors. *Referenced in D.1 (Color of Law).*
+Extended the color-of-law inquiry to **private conduct that is fairly attributable to the state**. Conduct that would otherwise be private becomes state action — and thus action under color of law — when it is taken in concert with, or with the encouragement of, state actors. *Referenced in §1.1.5 (Color of Law).*
 
 ---
 
 **L.5 — *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982).**
 
-Set out a **two-part test** for whether private conduct is "under color of" state law: *(1)* the deprivation must result from the exercise of a right or privilege created by the state, by a state-imposed rule of conduct, or by a person for whom the state is responsible; and *(2)* the party charged with the deprivation must be a person who may fairly be said to be a state actor. *Referenced in D.1 (Color of Law).*
+Set out a **two-part test** for whether private conduct is "under color of" state law: *(1)* the deprivation must result from the exercise of a right or privilege created by the state, by a state-imposed rule of conduct, or by a person for whom the state is responsible; and *(2)* the party charged with the deprivation must be a person who may fairly be said to be a state actor. *Referenced in §1.1.5 (Color of Law).*
 
 ---
 
 **L.6 — *West v. Atkins*, 487 U.S. 42 (1988).**
 
-Held that a **private physician** under contract with the state to provide medical care to prison inmates acted under color of state law. The case demonstrates that color-of-law liability can reach contractors, deputized private individuals, and others performing traditionally governmental functions — as reflected in the catch-all of Section 1.1 of this Act. *Referenced in D.1 (Color of Law).*
+Held that a **private physician** under contract with the state to provide medical care to prison inmates acted under color of state law. The case demonstrates that color-of-law liability can reach contractors, deputized private individuals, and others performing traditionally governmental functions — as reflected in the catch-all of Section 1.1 of this Act. *Referenced in §1.1.5 (Color of Law).*
 
 ---
 
 **L.7 — *Bradley v. Fisher*, 80 U.S. (13 Wall.) 335 (1872).**
 
-The foundational judicial-immunity case. Justice Field wrote that judges enjoy absolute civil immunity for judicial acts done within jurisdiction *"however erroneous the act may have been, and however injurious in its consequences it may have proved to the plaintiff."* Critically, the Court held that immunity is **not lost by allegations that the act was done maliciously or corruptly**. *Referenced in D.2 (Judicial Immunity); abrogated by §6.1.1.*
+The foundational judicial-immunity case. Justice Field wrote that judges enjoy absolute civil immunity for judicial acts done within jurisdiction *"however erroneous the act may have been, and however injurious in its consequences it may have proved to the plaintiff."* Critically, the Court held that immunity is **not lost by allegations that the act was done maliciously or corruptly**. *Referenced in §1.1.6 (Judicial Immunity); abrogated by §6.1.1.*
 
 ---
 
 **L.8 — *Pierson v. Ray*, 386 U.S. 547 (1967).**
 
-Extended *Bradley* to civil rights actions under 42 U.S.C. § 1983. The Court held that judges retain absolute immunity from § 1983 suits even where the judge is accused of acting in **bad faith or with malice**, reasoning that § 1983 was not intended to abolish the long-established common-law doctrine of judicial immunity. *Referenced in D.2 (Judicial Immunity); abrogated by §6.1.1.*
+Extended *Bradley* to civil rights actions under 42 U.S.C. § 1983. The Court held that judges retain absolute immunity from § 1983 suits even where the judge is accused of acting in **bad faith or with malice**, reasoning that § 1983 was not intended to abolish the long-established common-law doctrine of judicial immunity. *Referenced in §1.1.6 (Judicial Immunity); abrogated by §6.1.1.*
 
 ---
 
 **L.9 — *Stump v. Sparkman*, 435 U.S. 349 (1978).**
 
-A state judge approved, **without a hearing and without due process**, a parental petition to surgically sterilize a fifteen-year-old girl. The girl was told she was having an appendectomy. The Supreme Court held the judge was absolutely immune from § 1983 liability, reasoning that "grave procedural errors" do not strip judicial immunity if the act is "judicial in nature" and within the judge's general jurisdiction. The case is widely regarded as the most extreme application of the doctrine. *Referenced in D.2 (Judicial Immunity); abrogated by §6.1.1.*
+A state judge approved, **without a hearing and without due process**, a parental petition to surgically sterilize a fifteen-year-old girl. The girl was told she was having an appendectomy. The Supreme Court held the judge was absolutely immune from § 1983 liability, reasoning that "grave procedural errors" do not strip judicial immunity if the act is "judicial in nature" and within the judge's general jurisdiction. The case is widely regarded as the most extreme application of the doctrine. *Referenced in §1.1.6 (Judicial Immunity); abrogated by §6.1.1.*
 
 ---
 
 **L.10 — *Mireles v. Waco*, 502 U.S. 9 (1991).**
 
-Per curiam. A judge allegedly **ordered police to forcibly bring a public defender to his courtroom "with excessive force."** The Court applied absolute judicial immunity, holding that the order to use force was "judicial in nature" because it concerned bringing a party before the court — and therefore was immune even though it allegedly directed unlawful violence against an attorney. *Referenced in D.2 (Judicial Immunity); abrogated by §6.1.1.*
+Per curiam. A judge allegedly **ordered police to forcibly bring a public defender to his courtroom "with excessive force."** The Court applied absolute judicial immunity, holding that the order to use force was "judicial in nature" because it concerned bringing a party before the court — and therefore was immune even though it allegedly directed unlawful violence against an attorney. *Referenced in §1.1.6 (Judicial Immunity); abrogated by §6.1.1.*
 
 ---
 
 **L.11 — *Imbler v. Pachtman*, 424 U.S. 409 (1976).**
 
-The foundational prosecutorial-immunity case. The Court held that prosecutors enjoy absolute civil immunity for acts intimately associated with the judicial phase of the criminal process — initiating prosecutions, presenting the state's case at trial — even where the prosecutor allegedly **knowingly used perjured testimony** and suppressed exculpatory evidence to obtain a conviction. *Referenced in D.3 (Prosecutorial Immunity); abrogated by §6.1.1.*
+The foundational prosecutorial-immunity case. The Court held that prosecutors enjoy absolute civil immunity for acts intimately associated with the judicial phase of the criminal process — initiating prosecutions, presenting the state's case at trial — even where the prosecutor allegedly **knowingly used perjured testimony** and suppressed exculpatory evidence to obtain a conviction. *Referenced in §1.1.7 (Prosecutorial Immunity); abrogated by §6.1.1.*
 
 ---
 
 **L.12 — *Burns v. Reed*, 500 U.S. 478 (1991).**
 
-Refined *Imbler* by distinguishing between prosecutorial conduct in the "advocate" role (immune) and conduct as an investigator or legal advisor to police (not absolutely immune). *Referenced in D.3 (Prosecutorial Immunity); abrogated by §6.1.1.*
+Refined *Imbler* by distinguishing between prosecutorial conduct in the "advocate" role (immune) and conduct as an investigator or legal advisor to police (not absolutely immune). *Referenced in §1.1.7 (Prosecutorial Immunity); abrogated by §6.1.1.*
 
 ---
 
 **L.13 — *Buckley v. Fitzsimmons*, 509 U.S. 259 (1993).**
 
-Continued the *Imbler* line; absolute immunity does not extend to a prosecutor's acts of investigation or fabrication of evidence prior to the existence of probable cause to arrest. *Referenced in D.3 (Prosecutorial Immunity); abrogated by §6.1.1.*
+Continued the *Imbler* line; absolute immunity does not extend to a prosecutor's acts of investigation or fabrication of evidence prior to the existence of probable cause to arrest. *Referenced in §1.1.7 (Prosecutorial Immunity); abrogated by §6.1.1.*
 
 ---
 
 **L.14 — *Van de Kamp v. Goldstein*, 555 U.S. 335 (2009).**
 
-Extended absolute prosecutorial immunity to administrative supervision of office practices (such as failing to maintain a database of impeachment information about police informants), so long as the conduct is sufficiently "intimately associated with the judicial phase." *Referenced in D.3 (Prosecutorial Immunity); abrogated by §6.1.1.*
+Extended absolute prosecutorial immunity to administrative supervision of office practices (such as failing to maintain a database of impeachment information about police informants), so long as the conduct is sufficiently "intimately associated with the judicial phase." *Referenced in §1.1.7 (Prosecutorial Immunity); abrogated by §6.1.1.*
 
 ---
 
 **L.15 — *Harlow v. Fitzgerald*, 457 U.S. 800 (1982).**
 
-The foundational case for the modern qualified-immunity doctrine. The Court replaced the older "subjective good faith" standard with an **objective "clearly established law"** test: officials are immune from civil liability *"insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known."* *Referenced in D.4 (Qualified Immunity); abrogated by §6.1.1.*
+The foundational case for the modern qualified-immunity doctrine. The Court replaced the older "subjective good faith" standard with an **objective "clearly established law"** test: officials are immune from civil liability *"insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known."* *Referenced in §1.1.8 (Qualified Immunity); abrogated by §6.1.1.*
 
 ---
 
 **L.16 — *Anderson v. Creighton*, 483 U.S. 635 (1987).**
 
-Refined *Harlow* by emphasizing that "clearly established" must be assessed at a relatively high level of factual specificity — not at a general level of abstraction. *Referenced in D.4 (Qualified Immunity); abrogated by §6.1.1.*
+Refined *Harlow* by emphasizing that "clearly established" must be assessed at a relatively high level of factual specificity — not at a general level of abstraction. *Referenced in §1.1.8 (Qualified Immunity); abrogated by §6.1.1.*
 
 ---
 
 **L.17 — *Saucier v. Katz*, 533 U.S. 194 (2001).**
 
-Established a mandatory two-step sequence for qualified-immunity analysis: first determine whether a constitutional right was violated; then determine whether the right was clearly established. *Referenced in D.4 (Qualified Immunity); abrogated by §6.1.1.*
+Established a mandatory two-step sequence for qualified-immunity analysis: first determine whether a constitutional right was violated; then determine whether the right was clearly established. *Referenced in §1.1.8 (Qualified Immunity); abrogated by §6.1.1.*
 
 ---
 
 **L.18 — *Pearson v. Callahan*, 555 U.S. 223 (2009).**
 
-Modified *Saucier* by making the two-step sequence discretionary rather than mandatory. Courts may now resolve qualified-immunity claims solely on the "clearly established" prong without first deciding whether a constitutional right was violated. *Referenced in D.4 (Qualified Immunity); abrogated by §6.1.1.*
+Modified *Saucier* by making the two-step sequence discretionary rather than mandatory. Courts may now resolve qualified-immunity claims solely on the "clearly established" prong without first deciding whether a constitutional right was violated. *Referenced in §1.1.8 (Qualified Immunity); abrogated by §6.1.1.*
+
+---
+
+**L.19 — *Allgeyer v. Louisiana*, 165 U.S. 578 (1897).**
+
+Recognized that the Fourteenth Amendment's protection of liberty includes the citizen's right to pursue lawful life and work, and for that purpose to enter "all contracts" proper, necessary, and essential to carrying out those lawful purposes. The case arose from a Louisiana insurance statute and is referenced in §17.1A as a contract-liberty authority.
+
+---
+
+**L.20 — *Lochner v. New York*, 198 U.S. 45 (1905).**
+
+Recognized the general right to make a contract in relation to one's business as part of liberty protected by the Fourteenth Amendment, while allowing regulation within the legitimate exercise of police power. Referenced in §17.1A as a contract-liberty authority.
+
+---
+
+**L.21 — *Adair v. United States*, 208 U.S. 161 (1908).**
+
+Recognized liberty and property interests in the right to make lawful contracts, including employment contracts, and treated arbitrary interference with such contracts as a constitutional injury. The Court stated that government may not, absent contract, compel a person against the person's will to employ or be employed by another. Referenced in §17.1A as a contract-liberty authority.
+
+---
+
+**L.22 — *Coppage v. Kansas*, 236 U.S. 1 (1915).**
+
+Recognized the "right to make contracts" for acquisition of property as part of personal liberty and private property, with employment agreements identified as a chief example. Referenced in §17.1A as a contract-liberty authority.
+
+---
+
+**L.23 — *Nebbia v. New York*, 291 U.S. 502 (1934).**
+
+Recognized broad state power to regulate economic matters in the public interest where the regulation is not arbitrary, discriminatory, or demonstrably irrelevant to policy within legislative authority. Referenced in §17.1A as a limiting authority that must be applied with logical consistency.
+
+---
+
+**L.24 — *West Coast Hotel Co. v. Parrish*, 300 U.S. 379 (1937).**
+
+Held that freedom of contract is subject to reasonable regulation in the community interest and upheld a minimum-wage law against a due-process challenge. Referenced in §17.1A as a limiting authority that must be applied with logical consistency.
+
+---
+
+**L.25 — Thirteenth Amendment to the Constitution of the United States (ratified 1865).**
+
+Prohibits slavery and involuntary servitude within the United States, except as punishment for a crime after due conviction. Referenced in §17.1A as constitutional authority against compelled private-contract servitude.
+
+---
+
+**L.26 — *Bailey v. Alabama*, 219 U.S. 219 (1911).**
+
+Invalidated a state criminal-law device that punished breach of a labor obligation in a manner that coerced performance of private service. Referenced in §17.1A as anti-peonage authority against using criminal law to force private obligation.
+
+---
+
+**L.27 — *Pollock v. Williams*, 322 U.S. 4 (1944).**
+
+Reaffirmed that criminal law may not be used to coerce a person into service or performance of a private obligation through debt or contract pressure. Referenced in §17.1A as anti-peonage authority against compelled private-contract servitude.
+
+---
+
+**L.28 — *Crandall v. Nevada*, 73 U.S. (6 Wall.) 35 (1868).**
+
+Invalidated a Nevada tax imposed on persons leaving the state by railroad, stage coach, or other ordinary passenger transportation. The Court treated the tax as a burden on the right of transit through the states and warned that if a state could impose one dollar, it could impose one thousand and seriously burden travel. Referenced in §17.1A as authority against pricing citizens out of ordinary movement.
+
+---
+
+**L.29 — *Edwards v. California*, 314 U.S. 160 (1941).**
+
+Invalidated a California law making it a misdemeanor to bring or assist an indigent nonresident into the state. Referenced in §17.1A as authority against criminalizing travel, assistance, or movement because of poverty.
+
+---
+
+**L.30 — *Shapiro v. Thompson*, 394 U.S. 618 (1969).**
+
+Recognized the constitutional right to interstate travel as fundamental and invalidated durational-residency rules that penalized needy persons for moving between states. Referenced in §17.1A as right-to-travel authority.
+
+---
+
+**L.31 — *Saenz v. Roe*, 526 U.S. 489 (1999).**
+
+Explained that the constitutional right to travel includes the right to enter and leave another state, to be treated as a welcome visitor, and to become a citizen of a new state on equal terms. Referenced in §17.1A as modern right-to-travel authority.
+
+---
+
+**L.32 — *Harper v. Virginia Board of Elections*, 383 U.S. 663 (1966).**
+
+Held that wealth or payment of a fee may not be used as a condition on the exercise of a fundamental civic right, and that wealth classifications burdening such rights are constitutionally disfavored. Referenced in §17.1A as wealth-barrier authority.
+
+---
+
+**L.33 — *Griffin v. Illinois*, 351 U.S. 12 (1956).**
+
+Held that a state may not administer criminal appellate review in a way that effectively denies poor defendants access available to those who can pay. Referenced in §17.1A as authority against making legal protection turn on poverty.
 
 ---
 
