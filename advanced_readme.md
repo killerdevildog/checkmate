@@ -14,6 +14,68 @@ Citizens who prefer to engage with the bill through an AI assistant can copy **[
 
 ---
 
+## What's New About This Bill
+
+The biggest shifts:
+
+1. **No more immunity for unlawful power.** Judges, prosecutors, and other officials can no longer hide behind judicial, prosecutorial, qualified, sovereign, or analogous immunity when they violate rights. Immunity, if recognized at all, applies only to legitimate lawful authority, not unconstitutional, malicious, retaliatory, coercive, obstructive, or due-process-violating conduct.
+
+2. **A way to actually prosecute.** The bill creates **Citizen Councils**: twelve or more citizens can investigate government actors, sign a Joint Declaration of Prosecution, and trigger mandatory prosecution by the County Prosecutor or, if necessary, the Governor's Office.
+
+3. **Juries explain themselves and can ask questions.** Convicting jurors must write down their reasoning on every item of evidence, and jurors have a protected right to ask questions of the prosecution, defense, or both without being punished or removed for disagreement.
+
+4. **Six verdict options.** Juries can convict, convict with refinement, convict-and-forgive, find innocent, find unequivocally innocent, or acquit without stated reason.
+
+5. **Inmates included.** Every inmate receives a printed copy of the law within 24 hours of intake, and inmates may form Citizen Councils to investigate the people and institutions governing their custody.
+
+6. **Foreign money out of Utah politics.** Lobbyists active in Utah must be Utah residents with Utah-sourced funding; out-of-state or foreign-funded influence routed into Utah lawmaking is treated as a form of cabalism.
+
+7. **Citizens can nullify bad laws.** A unanimous 12-member Council can require immediate review of statutes, regulations, or ordinances that conflict with the U.S. Constitution, the Utah Constitution, or another law in force.
+
+8. **Citizens can correct unjust convictions.** A unanimous 18-member Council can nullify a conviction, reduce it, spare a person from the death penalty, or extend public forgiveness restoring civil and political rights.
+
+9. **The presumption of innocence becomes operational.** Prosecutors have affirmative criminally enforceable duties to disclose adverse evidence directly to the jury, stop prosecuting when innocence is known or recklessly disregarded, and seek reduction or dismissal when the charge no longer fits the evidence.
+
+10. **Judges become accountable for impartiality and engagement.** Judges have enforceable duties to recuse from conflicts, engage with evidence and law on the merits, avoid ex parte communications, and apply mandatory rules correctly and correct errors when discovered.
+
+11. **Repugnant government instruments are null on day one.** Warrants, judgments, orders, agency policies, practices, regulations, subpoenas, administrative actions, and other government instruments that conflict with this Act or constitutional authority are null and void within Utah.
+
+12. **Citizens can object to unconstitutional enforcement in the moment.** If a citizen tells an official that the law, order, or policy being used is unconstitutional, void, repugnant, or unenforceable, the official must engage in good faith instead of brushing it off.
+
+13. **Government cannot hide behind unnamed policy.** Officials who say "policy requires it" must identify the actual policy and lawful authority; refusing to do so is treated as a **Policy Shield Statement** offense.
+
+14. **Recording government is protected everywhere.** Officials may not stop, threaten, detain, cite, arrest, remove, block, seize a device, delete data, or retaliate against a citizen for recording government actors in public-power settings.
+
+15. **Everyday intimidation tactics get names.** The bill adds accountability hooks for refusing to identify, mocking rights invocations, staged intimidation, command presence without lawful basis, and failing to activate or preserve required recordings.
+
+16. **Retaliation through process is criminalized.** The bill names retaliation-by-process as **Process-Stacking Retaliation** and reaches charge fabrication, welfare checks, inspections, subpoenas, probation holds, protective-order manipulation, citations, and other process piles used against rights assertion.
+
+17. **Complaint systems cannot be used as a shield.** **Complaint Intake Refusal** reaches officials who refuse, delay, discourage, misroute, fail to log, or fail to give receipts for citizen complaints against government actors.
+
+18. **Poverty and homelessness cannot be treated as crimes.** **Status-Based Survival Enforcement** reaches enforcement against unavoidable survival conduct by people who are homeless, poor, disabled, ill, or without lawful alternatives.
+
+19. **Revenue schemes are treated as official misconduct.** **Revenue Extraction Under Color of Law** targets fines, fees, warrants, surcharges, impound costs, probation costs, court debt, collection practices, and license suspensions used primarily to generate money or impose poverty-based control.
+
+20. **Property cannot be punished without conviction.** **Property Punishment Without Conviction** targets civil-forfeiture-style abuse where property is seized, retained, forfeited, or burdened without a conviction tied to the property.
+
+21. **The bill reaches child welfare, school, juvenile, and family-court abuse.** New offenses target removals, safety plans, coerced services, school discipline, truancy, juvenile detention, and family restrictions based on poverty, disability, housing instability, inaccessible services, or ordinary childhood behavior rather than real danger.
+
+22. **Custody now carries affirmative care duties.** **Custodial Medical Abandonment** reaches denial of medical care, medication, disability accommodation, mental-health care, suicide prevention, withdrawal care, hygiene, food, water, safe housing, or protection from known violence; **Custodial Sexual Domination** treats sexual exploitation under custody or supervision as a capital offense.
+
+23. **Bail, probation, parole, and monitoring get checked.** **Wealth-Based Liberty Denial**, **Technical-Violation Incarceration Abuse**, and **Electronic Custody Abuse** target jail, supervision, monitoring, and restraints imposed without real justification or because a person cannot pay.
+
+24. **Evidence systems have to serve truth.** The bill adds **Public-Record Spoliation**, **Forensic Truth Corruption**, and **Wrongful-Conviction Chain Liability** so failures to preserve records, forensic overstatement, hidden uncertainty, and chain-of-actor wrongful convictions become reachable.
+
+25. **Courts and defense systems are no longer paper rights.** **Court Access Burdening**, **Constructive Denial of Counsel**, and **Guardianship Rights Plunder** target court barriers, public-defense systems that fail in practice, and court-controlled stripping of rights from elders and disabled citizens.
+
+26. **Modern government tools are covered too.** **Algorithmic Authority Abuse** reaches risk scores, automated flags, AI systems, database matches, predictive tools, fraud detectors, and vendor systems used against citizens without disclosure, validation, human review, contestability, and proof of reliability.
+
+27. **Silence-by-system is treated as abuse.** **Constructive Denial Under Color of Office**, **Language-Access Obstruction**, **Victim-Service Abandonment**, and **Protected-Speech Suppression** reach bureaucratic runaround, language barriers, biased non-investigation, and punishment of speech, recording, religion, protest, petitioning, association, press activity, or criticism of government.
+
+28. **Due process is government by law, not office habit.** Due process is stated as supremacy of law over policy, custom, personal authority, and institutional convenience; when government unlawfully creates a condition where a citizen must defend rights, the government actor is treated as initiating unlawful force.
+
+---
+
 ## What This Bill Introduces
 
 A brief tour of the substantive provisions. See [`bill_proposal.md`](bill_proposal.md) for the full text.
