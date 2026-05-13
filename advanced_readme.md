@@ -90,48 +90,61 @@ The "rights" covered by the Act are construed broadly — UN human-rights treati
 - **§5.3 — Public Servant Status**. A government actor cannot invoke personal rights (free speech, expression, opinion, privacy) as a defense to official conduct; the badge constrains rather than expands rights.
 - **§5.4 — Private-capacity not a shield**. Conversely, an actor cannot escape Council jurisdiction by claiming they were off-duty when the conduct constituted a crime under generally applicable law.
 
-### Penalty Enhancements (§8)
+### Penalty Enhancements (§7)
 
 Penalties may be enhanced where the victim was detained or unable to leave, multiple actors participated, the act caused long-term deprivation of rights, the violation produced suicidal ideation, extreme anxiety/fear/distress for the victim's own welfare or the welfare of family, or diagnosable psychological harm.
 
-### Citizen Council — Activation of Prosecution (Section 8)
+### Hearsay and Equal Use of Statement Evidence (Section 8)
+
+The Act creates a new top-level hearsay section. The rule is symmetry: statement evidence cannot be treated as reliable when used against a citizen and unreliable when used for the citizen.
+
+- **§8.1 Purpose** — explains the historical concern behind hearsay (the original speaker is out of court, not under oath, and not subject to cross-examination) while identifying the modern problem: prosecution-friendly hearsay is often admitted while defense-favorable hearsay is excluded
+- **§8.2 Representation of truth** — states that a spoken or written statement is a representation of truth, not truth itself; when a witness says "I heard him say..." the fact testified to is that the witness heard the statement, while credibility and weight remain for the trier of fact
+- **§8.3 Equal use rule** — any statement category admitted against a citizen must be equally available to the citizen for defense, mitigation, impeachment, context, innocence, explanation, or proof of government misconduct
+- **§8.4 Defense-favorable statement evidence** — makes statements admissible for innocence, mitigation, coercion, bias, retaliation, psychological harm, suicidal ideation, government notice, rights violations, and related purposes
+- **§8.5 Government admissions** — statements by government actors about official conduct, public duty, enforcement, records, policy, custody, prosecution, or rights compliance are admissible against the actor, office, agency, or government body that adopted or relied on them
+- **§8.6 No one-way exception** — hearsay exceptions and evidentiary shortcuts may not operate only in favor of prosecution or government
+- **§8.7 Confrontation and reliability** — preserves confrontation rights while preventing the government from invoking a citizen's confrontation right to block defense-favorable evidence
+- **§8.8 One-way hearsay suppression** — criminalizes knowingly or recklessly using hearsay rules asymmetrically; Class 3 felony baseline, Class 2 where it affects charging, plea, conviction, custody, family separation, or similar harms, and capital where it contributes to wrongful conviction, prolonged incarceration, death, suicide, or serious bodily injury
+
+### Citizen Council — Activation of Prosecution (Section 9)
 
 The mechanism that makes the rest of the Act enforceable against those who control existing prosecutorial gatekeeping.
 
-- **§8.1 Formed outside the judicial process** — a self-organized assembly of citizens; no court filing, judicial authorization, or government approval needed to convene. "Jurisdiction" includes the county where conduct occurred, municipalities within that county, adjacent municipalities, and adjacent counties whose citizens are reasonably affected by or exposed to the office or actor under review.
-- **§8.2 Composition** — twelve or more citizens of the jurisdiction; excludes government actors, recent (5-year) employees of the implicated office, and immediate family/dependents of the named actor
-- **§8.3 Joint Declaration of Prosecution** — the single instrument that activates the prosecutorial obligation, signed under oath by 12+ Council members and filed with the County Prosecutor and Office of the Governor
-- **§8.4 No judicial officer required, no judicial gatekeeping** — courts and the Judicial Conduct Commission cannot quash a Declaration or impose pre-filing screening
-- **§8.5 Mandatory prosecution** — County Prosecutor (or Municipal Prosecutor where applicable) must prosecute; Governor's Office is the fallback if they decline, conflict, or sit on it 30+ days. Prosecutorial discretion to decline is limited to demonstrable conflict of interest or facial factual insufficiency
-- **§8.6 Petitioner protections** — anti-retaliation; identities kept confidential among Council members
-- **§8.7 Public record and annual reporting** — every Declaration and prosecutorial response is public; Governor's Office publishes annual transparency report
-- **§8.8 Council Declarations** — written declarations signed by 12+ Council members, including Declarations of Production of Records, Warrant, and Arrest. Production declarations compel government records, evidence, and effects without judicial subpoena; warrant and arrest declarations involving private-capacity rights go through judicial review under the same standard used for police submissions.
-- **§8.9 No state interference; obstruction = Class 2 felony** — express ban on civil suit, criminal prosecution, administrative penalties, judicial orders, surveillance, or retaliation against Councils, members, or witnesses. Judicial officers issuing interfering orders are personally liable (no immunity)
-- **§8.10 Investigation of any crime by a government actor** — Council jurisdiction reaches federal/state/county/municipal offenses, both **conduct under color of law** and **conduct in private capacity** (off-duty crimes by government actors that any private citizen would be liable for). Federal-crime routing to the U.S. Attorney plus federal grand-jury presentation
-- **§8.11 Investigative authority; indictment effect; filing in state court** — full investigative powers including witness summonses, on-site review with sheriff assistance, expert/forensic analysis. A filed Joint Declaration has the **legal force of a grand-jury indictment** — commences criminal action without further presentment or judicial probable-cause finding
-- **§8.12 Distribution to inmates; inmate investigative authority** — every inmate at any federal/state/county/municipal facility receives a printed copy of the statute within 24 hours of intake. Inmates have the same Council powers as any citizen and may form Inmate Citizen Councils; transfer cannot be used to disrupt Council activity; communication and disciplinary protections enhanced
-- **§8.13 Minimum age 14** for active Council participation (signing/voting); under-14s remain protected by all substantive provisions and may serve as witnesses
-- **§8.14 Logical Consistency Review (12-member unanimous Council)** — Council can require immediate judicial review of any statute, regulation, or ordinance that is logically inconsistent with the U.S. Constitution (Article VI Supremacy Clause), the Utah Constitution, or another in-force statute. Reviewing judge **must** engage on the merits in writing; cannot decline on grounds of tradition (*"it's the way it's always been done"*), stare decisis where applying it would perpetuate the inconsistency, inconvenience, or deference to the enacting legislature. Established inconsistencies are nullified and **removed from the books within 30 days**. Refusal to engage is Anarchy (§1.10), reckless prosecution, or Obstruction (§1.8) — judicial immunity does not apply
-- **§8.15 Conviction Review (18-member unanimous Council)** — Council can **nullify** a conviction (legal effect of acquittal, bars retrial), **reduce** it, **spare** the convicted from the death penalty, or extend **public forgiveness** restoring civil and political rights and barring collateral consequences. Filing takes immediate effect, subject only to the court's verification of procedural compliance (composition, unanimity, signatures under oath, conflict-of-interest exclusions). Council may not increase a sentence or class. A parallel safeguard for cases the appellate system has failed to correct; not a substitute for ordinary appeal. Refusal by the court of conviction is Anarchy / reckless prosecution / Obstruction
+- **§9.1 Formed outside the judicial process** — a self-organized assembly of citizens; no court filing, judicial authorization, or government approval needed to convene. "Jurisdiction" includes the county where conduct occurred, municipalities within that county, adjacent municipalities, and adjacent counties whose citizens are reasonably affected by or exposed to the office or actor under review.
+- **§9.2 Composition** — twelve or more citizens of the jurisdiction; excludes government actors, recent (5-year) employees of the implicated office, and immediate family/dependents of the named actor
+- **§9.3 Joint Declaration of Prosecution** — the single instrument that activates the prosecutorial obligation, signed under oath by 12+ Council members and filed with the County Prosecutor and Office of the Governor
+- **§9.4 No judicial officer required, no judicial gatekeeping** — courts and the Judicial Conduct Commission cannot quash a Declaration or impose pre-filing screening
+- **§9.5 Mandatory prosecution** — County Prosecutor (or Municipal Prosecutor where applicable) must prosecute; Governor's Office is the fallback if they decline, conflict, or sit on it 30+ days. Prosecutorial discretion to decline is limited to demonstrable conflict of interest or facial factual insufficiency
+- **§9.6 Petitioner protections** — anti-retaliation; identities kept confidential among Council members
+- **§9.7 Public record and annual reporting** — every Declaration and prosecutorial response is public; Governor's Office publishes annual transparency report
+- **§9.8 Council Declarations** — written declarations signed by 12+ Council members, including Declarations of Production of Records, Warrant, and Arrest. Production declarations compel government records, evidence, and effects without judicial subpoena; warrant and arrest declarations involving private-capacity rights go through judicial review under the same standard used for police submissions.
+- **§9.9 No state interference; obstruction = Class 2 felony** — express ban on civil suit, criminal prosecution, administrative penalties, judicial orders, surveillance, or retaliation against Councils, members, or witnesses. Judicial officers issuing interfering orders are personally liable (no immunity)
+- **§9.10 Investigation of any crime by a government actor** — Council jurisdiction reaches federal/state/county/municipal offenses, both **conduct under color of law** and **conduct in private capacity** (off-duty crimes by government actors that any private citizen would be liable for). Federal-crime routing to the U.S. Attorney plus federal grand-jury presentation
+- **§9.11 Investigative authority; indictment effect; filing in state court** — full investigative powers including witness summonses, on-site review with sheriff assistance, expert/forensic analysis. A filed Joint Declaration has the **legal force of a grand-jury indictment** — commences criminal action without further presentment or judicial probable-cause finding
+- **§9.12 Distribution to inmates; inmate investigative authority** — every inmate at any federal/state/county/municipal facility receives a printed copy of the statute within 24 hours of intake. Inmates have the same Council powers as any citizen and may form Inmate Citizen Councils; transfer cannot be used to disrupt Council activity; communication and disciplinary protections enhanced
+- **§9.13 Minimum age 14** for active Council participation (signing/voting); under-14s remain protected by all substantive provisions and may serve as witnesses
+- **§9.14 Logical Consistency Review (12-member unanimous Council)** — Council can require immediate judicial review of any statute, regulation, or ordinance that is logically inconsistent with the U.S. Constitution (Article VI Supremacy Clause), the Utah Constitution, or another in-force statute. Reviewing judge **must** engage on the merits in writing; cannot decline on grounds of tradition (*"it's the way it's always been done"*), stare decisis where applying it would perpetuate the inconsistency, inconvenience, or deference to the enacting legislature. Established inconsistencies are nullified and **removed from the books within 30 days**. Refusal to engage is Anarchy (§1.10), reckless prosecution, or Obstruction (§1.8) — judicial immunity does not apply
+- **§9.15 Conviction Review (18-member unanimous Council)** — Council can **nullify** a conviction (legal effect of acquittal, bars retrial), **reduce** it, **spare** the convicted from the death penalty, or extend **public forgiveness** restoring civil and political rights and barring collateral consequences. Filing takes immediate effect, subject only to the court's verification of procedural compliance (composition, unanimity, signatures under oath, conflict-of-interest exclusions). Council may not increase a sentence or class. A parallel safeguard for cases the appellate system has failed to correct; not a substitute for ordinary appeal. Refusal by the court of conviction is Anarchy / reckless prosecution / Obstruction
 
-### Retroactive Civil Applicability and No Statute of Limitations (§11)
+### Retroactive Civil Applicability and No Statute of Limitations (§10)
 
-- **§9.1 Civil cause of action for prior conduct** — conduct before the Act's effective date can be brought as a civil action
-- **§9.3 No statute of limitations** on either civil or criminal actions; retirement, resignation, change of office, or death of the actor does not bar prosecution; civil claims survive against the actor's estate; laches and repose explicitly disallowed
+- **§10.1 Civil cause of action for prior conduct** — conduct before the Act's effective date can be brought as a civil action
+- **§10.3 No statute of limitations** on either civil or criminal actions; retirement, resignation, change of office, or death of the actor does not bar prosecution; civil claims survive against the actor's estate; laches and repose explicitly disallowed
 
-### Forfeiture of State Benefits, Office, and Contracts (§12)
+### Forfeiture of State Benefits, Office, and Contracts (§11)
 
 A government actor found guilty under this title forfeits all state-derived benefits — pensions, health/welfare benefits, service credits, honors — and is **permanently ineligible** for any law enforcement, judicial, prosecutorial, regulatory, or elected position. **Existing and future government contracts** held directly or through a controlling/beneficial interest in any business entity are also forfeited, including indirect arrangements (subcontracts, consulting).
 
-### Death of a Citizen Resulting from Violation (§13)
+### Death of a Citizen Resulting from Violation (§12)
 
-Where a private citizen takes their own life as a direct or proximate result of conduct violating this title, the violation is a **capital offense**. Other resulting deaths are subject to the maximum penalty otherwise available, with §8 enhancements.
+Where a private citizen takes their own life as a direct or proximate result of conduct violating this title, the violation is a **capital offense**. Other resulting deaths are subject to the maximum penalty otherwise available, with Section 7 enhancements.
 
-### Severability and Effective Date (§§14, 15)
+### Severability and Effective Date (§§13, 14)
 
 Standard severability clause. Effective date to be determined; civil retroactivity available beginning on the effective date for all prior conduct.
 
-### Constitutional Amendment, Supremacy, and Entrenchment (§16)
+### Constitutional Amendment, Supremacy, and Entrenchment (§15)
 
 Where this Act conflicts with or supplements the **Constitution of the State of Utah**, it operates as an amendment to that Constitution upon adoption (subject to ratification under Article XXIII or other applicable procedure).
 
@@ -141,9 +154,9 @@ Permitted amendments are those that strengthen citizen protection, expand reacha
 
 Any citizen has standing to challenge an adverse amendment without showing personal injury beyond Utah citizenship. Officials who advance, sponsor, vote for, or implement an adverse amendment may be liable under §1.7 (Racketeering), §1.9 (Treason), or §1.10 (Anarchy). A Citizen Council may investigate and issue a Joint Declaration of Prosecution for such conduct.
 
-§14.7 was substantially expanded to clarify (a) that where this Act provides citizens **greater protection** than federal law it controls within Utah without need for preemption analysis (citing *PruneYard Shopping Center v. Robins* (1980), *California v. Greenwood* (1988)); (b) that improper federal nullification of this Act — without identification of an actual specific preemptive federal provision — is reachable as Anarchy / Reckless Prosecution / Cabalism / Racketeering / Treason; (c) that the same federal-judge conduct creates **dual concurrent liability** under both the federal grand-jury route (§8.10(a)) and Utah criminal code (this Act), grounded in the dual-sovereignty doctrine (*United States v. Lanza* (1922), *Abbate v. United States* (1959), *Bartkus v. Illinois* (1959), *Heath v. Alabama* (1985), *Gamble v. United States* (2019)); and (d) that *In re Neagle* (1890) is abrogated for offenses defined in this title — federal officer status is not a shield from Utah criminal prosecution.
+§15.7 was substantially expanded to clarify (a) that where this Act provides citizens **greater protection** than federal law it controls within Utah without need for preemption analysis (citing *PruneYard Shopping Center v. Robins* (1980), *California v. Greenwood* (1988)); (b) that improper federal nullification of this Act — without identification of an actual specific preemptive federal provision — is reachable as Anarchy / Reckless Prosecution / Cabalism / Racketeering / Treason; (c) that the same federal-judge conduct creates **dual concurrent liability** under both the federal grand-jury route (§9.10(a)) and Utah criminal code (this Act), grounded in the dual-sovereignty doctrine (*United States v. Lanza* (1922), *Abbate v. United States* (1959), *Bartkus v. Illinois* (1959), *Heath v. Alabama* (1985), *Gamble v. United States* (2019)); and (d) that *In re Neagle* (1890) is abrogated for offenses defined in this title — federal officer status is not a shield from Utah criminal prosecution.
 
-### Nullity of Repugnant Government Instruments (§17)
+### Nullity of Repugnant Government Instruments (§16)
 
 Any government instrument — federal, state, county, or municipal — that is **repugnant to** this Act, the Utah Constitution, or the U.S. Constitution is **null and void** within Utah and may not be enforced.
 
@@ -151,7 +164,7 @@ Any government instrument — federal, state, county, or municipal — that is *
 
 A citizen who refuses to comply with a null instrument is **not civilly or criminally liable** for that refusal. A government actor who issues, signs, enforces, threatens to enforce, or directs enforcement of a repugnant instrument commits an offense under this title — chargeable as Anarchy (§1.10), judicial-duty offenses under §2.3 where issued by a judge, Cabalism (§1.6) for small-group coordination, Government Racketeering (§1.7) for patterns, Treason (§1.9) for constitutional warfare, Obstruction (§1.8) for protected-status motivation, Terrorism (§1.12) or Official Intimidation (§1.13) where used to threaten or coerce, and Battery (§1.3) where enforcement actually deprives rights. Judicial / prosecutorial / qualified / sovereign immunity does not apply.
 
-Repugnance may be determined by any court, by a unanimous 12-member Citizen Council under §8.14 Logical Consistency Review, or by any other Citizen Council under §8 in the course of investigating or charging conduct. The standard for repugnance covers (a) direct contradiction; (b) requiring a citizen to surrender or violate a protected right; (c) reliance on authority that does not exist or has been removed; (d) workaround or evasion of this Act; and (e) compliance that would itself violate this Act. Codifies and extends *Marbury v. Madison*, 5 U.S. 137 (1803): *"a law repugnant to the Constitution is void"* — applied to **every** form of government instrument, not statutes alone.
+Repugnance may be determined by any court, by a unanimous 12-member Citizen Council under §9.14 Logical Consistency Review, or by any other Citizen Council under Section 9 in the course of investigating or charging conduct. The standard for repugnance covers (a) direct contradiction; (b) requiring a citizen to surrender or violate a protected right; (c) reliance on authority that does not exist or has been removed; (d) workaround or evasion of this Act; and (e) compliance that would itself violate this Act. Codifies and extends *Marbury v. Madison*, 5 U.S. 137 (1803): *"a law repugnant to the Constitution is void"* — applied to **every** form of government instrument, not statutes alone.
 
 ---
 
