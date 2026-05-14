@@ -18,6 +18,7 @@ Reusable email templates for sharing **Operation Checkmate** with people you kno
 | [`to-sikh.md`](to-sikh.md) | Sikh readers | You want to connect Operation Checkmate to truthful living, seva, equality, and sarbat da bhala. |
 | [`to-bahai.md`](to-bahai.md) | Baha'i readers | You want to connect Operation Checkmate to trustworthiness, justice, and nonpartisan public integrity. |
 | [`to-interfaith.md`](to-interfaith.md) | Mixed-faith or unknown-faith audiences | You want a broad moral case that many traditions converge on accountable government. |
+| [`to-us-commission-on-civil-rights.md`](to-us-commission-on-civil-rights.md) | U.S. Commission on Civil Rights | You want to request civil-rights referral, policy review, and support for federal and state-level accountability legislation. |
 
 ## Tips
 

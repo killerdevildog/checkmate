@@ -1405,6 +1405,167 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 
 This subsection shall be construed broadly in favor of the accused and convicted person, consistent with Section 1.5.2. The prosecutor's duty runs to the **truth**, not to the conviction; failure to act on the truth, when known, is itself reachable conduct under this title.
 
+#### 2.6.2 Prosecutorial Offenses
+
+These offenses apply to elected prosecutors, deputy prosecutors, and any attorney exercising prosecutorial authority under public appointment, public contract, or delegated state authority. They operate in addition to the affirmative duties of §2.6.1 and may be charged cumulatively with any other offense under this Act.
+
+##### 2.6.2.1 Charging Without Probable Cause
+
+> A prosecutor commits **charging without probable cause** when the prosecutor files, maintains, signs, advances, or threatens criminal charges without a good-faith factual basis to believe that the accused committed the offense charged.
+
+**Examples:**
+
+- Filing charges to pressure cooperation, informant work, or testimony
+- Overcharging to force a plea
+- Maintaining charges after learning the evidence is insufficient
+- Threatening unrelated or stacked charges to gain leverage in plea negotiations
+- Filing charges based on a tip, hunch, gut feeling, or political pressure rather than evidence
+
+**Classification:**
+
+- Reckless: **Class 3 felony**
+- Intentional: **Class 2 felony**
+- Where the charging causes wrongful conviction, wrongful incarceration, family separation, or suicide consistent with Section 12.1, the conduct is a **capital offense**
+- May be charged cumulatively under §1.14 (Malicious Prosecution), §2.6.1.2.1 (Failure to Seek Reduction or Dismissal), §17.2 (Institutional Retaliation), or §17.2B (Retaliatory Charge Fabrication) where the elements are met
+
+##### 2.6.2.2 Reckless Overcharging
+
+> A prosecutor commits **reckless overcharging** when the prosecutor charges an offense more severe than the known facts reasonably support, for the purpose or with the foreseeable effect of increasing plea pressure on the accused.
+
+**Examples:**
+
+- Charging a felony when the facts only support a misdemeanor
+- Stacking multiple duplicative counts from a single alleged act
+- Threatening enhanced penalties without factual basis
+- Adding charges after the accused refuses a plea offer
+
+**Classification:**
+
+- **Class 3 felony** by default
+- **Class 2 felony** where the overcharging produces a plea, conviction, incarceration, family separation, or other material deprivation of rights
+- Where the overcharging contributes to wrongful conviction, prolonged incarceration, or suicide, the offense is a **capital offense**, and Section 12 applies where the elements are met
+- May be charged cumulatively under §2.6.2.1 (Charging Without Probable Cause), §2.6.2.6 (Coercive Plea Bargaining), and §1.14 (Malicious Prosecution)
+
+##### 2.6.2.3 Suppression of Favorable Evidence
+
+> A prosecutor commits **suppression of favorable evidence** when the prosecutor knowingly conceals, delays, destroys, or fails to disclose evidence favorable to the accused, in violation of the prosecutor's affirmative duty under §2.6.1.1.
+
+This subsection identifies the active concealment side of the disclosure duty in §2.6.1.1. The passive failure-to-disclose conduct is reachable under §2.6.1.1.1 as Obstruction of Justice; active suppression — concealment, delay, destruction, or active misdirection — is reachable here.
+
+**Examples of suppression:**
+
+- Hiding or delaying witness recantations
+- Hiding or delaying police body-camera footage
+- Hiding or delaying forensic inconsistencies, lab errors, or contamination findings
+- Hiding or delaying impeachment evidence against an officer or witness
+- Hiding or delaying evidence pointing to another suspect
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the suppression contributes to wrongful conviction, prolonged incarceration, death in custody, suicide, family separation, or capital sentence, the offense is a **capital offense**, and Section 12 applies where the elements are met
+- May be charged cumulatively under §2.6.1.1.1 (Failure to Disclose), §1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), §17.4A (Public-Record Spoliation), and §2.3.8 (One-Way Hearsay Suppression)
+
+##### 2.6.2.4 False Representation to the Court
+
+> A prosecutor commits **false representation to the court** when the prosecutor knowingly makes a false material statement to a judge, jury, magistrate, tribunal, or other adjudicator while exercising prosecutorial authority.
+
+**Examples:**
+
+- Stating evidence exists when it does not
+- Stating a witness said something the witness did not say
+- Stating the accused has a record the accused does not have
+- Stating the state disclosed evidence when it did not
+- Stating police conduct was lawful when the prosecutor knows or in reckless disregard of clear evidence should know it was not
+- Misrepresenting the contents of a record, recording, transcript, or report to the court
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the false representation affected a charging decision, plea, conviction, sentence, custody status, or other material outcome, the offense is a **capital offense**
+- May be charged cumulatively under §17.4 (Deliberate Record Distortion), §17.6 (Public Trust Fraud), §1.14 (Malicious Prosecution), and §1.8 (Obstruction)
+
+##### 2.6.2.5 Retaliatory Prosecution
+
+> A prosecutor commits **retaliatory prosecution** when the prosecutor initiates, increases, maintains, or threatens charges to punish a person for exercising a protected right under §1.5 or for engaging in any other lawful conduct the prosecutor opposes.
+
+**Examples:**
+
+- Punishing the accused for refusing to plead guilty
+- Punishing a citizen for filing a complaint against police, the prosecutor, or another government actor
+- Punishing a citizen for requesting a jury trial
+- Punishing a citizen for publicly criticizing government officials
+- Punishing a citizen for asserting constitutional rights
+- Punishing a citizen for refusing to act as an informant
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the retaliation results in conviction, incarceration, family separation, or other material deprivation of rights, the offense is a **capital offense**
+- May be charged cumulatively under §17.2 (Institutional Retaliation), §17.2B (Retaliatory Charge Fabrication), §1.13 (Official Intimidation), §1.6 (Cabalism), and §1.7 (Government Racketeering)
+
+##### 2.6.2.6 Coercive Plea Bargaining
+
+> A prosecutor commits **coercive plea bargaining** when the prosecutor uses threats, deception, extreme overcharging, or knowingly false statements about risk, consequence, or evidence to force a guilty plea.
+
+**Examples:**
+
+- "Take this deal or we will charge your family," without lawful basis
+- "You will never see your children again," without lawful basis
+- "The judge already wants to max you out"
+- "We have evidence," when no such evidence exists
+- Threats of deportation, civil forfeiture, license loss, or other collateral consequences used as plea pressure without lawful basis
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the coercion produces a guilty plea, conviction, incarceration, family separation, or other material deprivation of rights, the offense is a **capital offense**
+- May be charged cumulatively under §1.12 (Terrorism), §1.13 (Official Intimidation), §2.10.2 (Constructive Denial of Counsel), and §1.14 (Malicious Prosecution)
+
+**Defenses Limited:**
+
+- A claim that the threatened charge was technically chargeable is not a defense where the prosecutor used the threat as coercion rather than as a good-faith charging decision
+- "Standard plea practice" or "everyone does it" is not a defense
+
+##### 2.6.2.7 Witness Manipulation by Prosecutor
+
+> A prosecutor commits **witness manipulation** when the prosecutor knowingly pressures, coaches, threatens, rewards, or directs a witness to give false, misleading, incomplete, or exaggerated testimony, or to omit truthful information.
+
+**Examples:**
+
+- Telling a witness what to say instead of asking what happened
+- Threatening charges or adverse action against the witness unless the witness gives a useful statement
+- Hiding inducements, deals, payments, or benefits given to a witness
+- Allowing testimony the prosecutor knows or in reckless disregard of clear evidence should know is false
+- Discouraging a witness from revealing facts helpful to the accused
+- Coaching a witness into a particular identification, sequence, or characterization
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the manipulation contributes to wrongful conviction, sex-offender registration, family separation, deportation, or capital sentence, the offense is a **capital offense**, and Section 12 applies where the elements are met
+- May be charged cumulatively under §17.4 (Deliberate Record Distortion), §17.4B (Forensic Truth Corruption), §1.14 (Malicious Prosecution), and §1.8 (Obstruction)
+
+##### 2.6.2.8 Malicious Case Maintenance
+
+> A prosecutor commits **malicious case maintenance** when the prosecutor continues a criminal case after learning that the accused is likely innocent, that material evidence is false, that key witness testimony has collapsed, or that the case depends on official misconduct.
+
+This subsection identifies the malicious-continuation aspect of the prosecutor's affirmative duty under §2.6.1.2. Where the prosecutor merely fails to seek reduction or dismissal, the conduct is reachable under §2.6.1.2.1. Where the prosecutor affirmatively continues the case while knowing it should not continue, the conduct is reachable here.
+
+**Examples:**
+
+- Continuing the case after learning police lied in a report
+- Continuing the case after the alleged victim recanted
+- Continuing the case after key forensic evidence was shown to be wrong
+- Continuing the case after another person confessed
+- Continuing the case after body-camera footage contradicts the charge
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the malicious maintenance contributes to wrongful conviction, long-term incarceration, death in custody, capital sentence, or suicide, the offense is a **capital offense**, and Section 12 applies where the elements are met
+- This subsection is cumulative to §1.14 (Malicious Prosecution), §2.6.1.2.1 (Failure to Seek Reduction or Dismissal), §17.4 (Deliberate Record Distortion), and the wrongful-conviction conspiracy provisions of §2.5.3
+
 ### 2.7 Judges
 
 Judges exercise state power over warrants, rulings, evidence, trials, sentencing, liberty, property, and access to the courts. Because judicial action directly controls whether due process is real or merely procedural language, the duties in this section are due-process duties.
@@ -1793,6 +1954,289 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 - Citizen filing gatekeeping is a **Class 1 misdemeanor**
 - Where the barrier prevents timely filing, appeal, hearing, complaint intake, public-record access, election participation, or preservation of a right, the offense is a **Class 3 felony**
 - Where the barrier is used against a Citizen Council, constitutional challenge, public corruption complaint, criminal defendant, parent facing child removal, detained person, disabled person, elderly person, or non-English speaker, the offense is a **Class 2 felony**
+
+### 2.11 Public Defenders
+
+Public defenders, court-appointed counsel, contract public defenders, and any attorney paid, appointed, or authorized by the state to represent indigent defendants exercise delegated public authority within the criminal justice system. They are government actors within the meaning of §1.1 with respect to their public-defense function, and the duties and offenses of this subsection apply to that function.
+
+This subsection does **not** apply to private defense counsel retained by private contract, unless that attorney is acting under public appointment, public contract, or delegated state authority.
+
+#### 2.11.1 Public Defense Neglect
+
+> A public defender commits **public defense neglect** when, while assigned to represent an indigent defendant, the defender recklessly fails to perform a basic duty necessary to preserve the defendant's rights.
+
+**Examples:**
+
+- Failing to meet with the client before a critical hearing
+- Failing to review basic charging documents
+- Failing to inform the client of a court date
+- Failing to communicate a plea offer
+- Failing to request discovery in a timely manner
+- Failing to explain the direct consequences of a plea
+
+**Classification:**
+
+- Reckless failure: **Class 3 felony**
+- Intentional failure: **Class 2 felony**
+- Where the neglect contributes to plea coercion, conviction, incarceration, family separation, immigration consequence, or other material deprivation of rights, the offense is a **Class 2 felony**
+- Where the neglect contributes to wrongful conviction, long-term incarceration, capital sentence, death in custody, or suicide, the offense is a **capital offense**, and Section 12 applies where the elements are met
+- Mandatory case audit and reporting to the public-defense oversight body apply in addition to the criminal classification
+- May be charged cumulatively under §2.10.2 (Constructive Denial of Counsel)
+
+#### 2.11.2 Reckless Waiver of Client Rights
+
+> A public defender commits **reckless waiver of client rights** when the defender waives, forfeits, or fails to assert a substantial constitutional or procedural right of the client without reasonable investigation, explanation to the client, or informed client consent.
+
+**Examples:**
+
+- Waiving preliminary hearing without consulting the client
+- Waiving speedy-trial rights without explanation
+- Failing to object to obviously unlawful evidence
+- Advising a guilty plea without reviewing the evidence
+- Allowing sentencing to proceed without correcting known false information
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the waiver contributes to wrongful conviction, prolonged incarceration, capital sentence, or suicide, the offense is a **capital offense**
+- May be charged cumulatively under §2.11.1 (Public Defense Neglect) and §2.10.2 (Constructive Denial of Counsel)
+
+#### 2.11.3 Coercive Plea Pressure by Public Defender
+
+> A public defender commits **coercive plea pressure** when the defender uses fear, intimidation, deception, or abandonment threats to pressure a client into accepting a plea.
+
+**Examples:**
+
+- "If you do not take this plea, I will not fight for you."
+- "The judge will punish you if you make me go to trial."
+- "You have no choice," when the client legally does have a choice.
+- "You will definitely lose," without having investigated the case.
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the coercion produces a guilty plea, conviction, incarceration, family separation, or other material deprivation of rights, the offense is a **capital offense**
+- May be charged cumulatively under §2.6.2.6 (Coercive Plea Bargaining by Prosecutor) where the defender and prosecutor coordinated, and under §2.12.1 (Criminal Process Collusion)
+
+#### 2.11.4 Public Defense Abandonment
+
+> A public defender commits **public defense abandonment** when the defender, without lawful withdrawal or replacement counsel, effectively abandons a client during an active criminal case.
+
+**Examples:**
+
+- Stops responding before trial
+- Fails to appear at a required hearing
+- Refuses to file necessary motions because the client is "difficult"
+- Leaves the client unrepresented during a critical stage
+
+**Classification:**
+
+- **Class 2 felony**
+- Where abandonment contributes to wrongful conviction, plea coercion, prolonged incarceration, family separation, capital sentence, or suicide, the offense is a **capital offense**
+- Restitution of public-defense funds and suspension or permanent disqualification from public appointments apply in addition to the criminal classification
+
+#### 2.11.5 Conflict Concealment by Public Defender
+
+> A public defender commits **conflict concealment** when the defender knowingly hides a conflict of interest that materially affects, or could materially affect, the client's representation.
+
+**Examples:**
+
+- Representing two co-defendants with opposing defenses
+- Having a personal relationship with a witness, prosecutor, officer, or alleged victim
+- Having previously represented a witness against the client
+- Having a financial or political interest in the outcome
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the concealed conflict contributes to wrongful conviction or other material deprivation of rights, the offense is a **capital offense**
+- The doctrine of attorney-client privilege does not shield a public defender's conflict from disclosure under this subsection
+
+#### 2.11.6 Knowing Assistance in False Conviction
+
+> A public defender commits **knowing assistance in false conviction** when the defender knowingly helps secure, preserve, or conceal a conviction the defender knows or strongly believes is based on false evidence, suppressed evidence, coercion, or fraud.
+
+**Examples:**
+
+- Knows the client is pleading based on false police statements and stays silent
+- Knows exculpatory evidence exists but refuses to investigate
+- Helps conceal misconduct to protect the court, prosecutor, police, or public-defender office
+- Tells a client to plead guilty because "the system already decided"
+
+**Classification:**
+
+- **Capital offense**
+- Permanent disqualification from public-defense work applies
+- Civil liability to the harmed citizen applies under Section 10
+- May be charged cumulatively as conspiracy under §1.1.1 with any other actor who participated in the false conviction, including jurors under §2.5.3, prosecutors under §1.14, and judges under §2.7.1
+
+#### 2.11.7 Affirmative Duties of Public Defenders
+
+A public defender, court-appointed counsel, contract public defender, or other attorney assigned to represent an indigent defendant under public appointment, public contract, or delegated state authority has affirmative and continuing duties to each client. These duties make the right to counsel **operational** within the meaning of this Act, rather than a formal procedural label, and they are owed to the citizen who is the client — not to the appointing authority, the contracting agency, the prosecutor, the court, or the public-defense office's institutional convenience.
+
+**Supporting Authorities Recognized by This Act:**
+
+The duties below build on, and codify, the following established right-to-counsel and effective-assistance authorities:
+
+- ***Powell v. Alabama***, 287 U.S. 45 (1932) — right to counsel in capital cases
+- ***Gideon v. Wainwright***, 372 U.S. 335 (1963) — right to counsel for all felonies
+- ***Argersinger v. Hamlin***, 407 U.S. 25 (1972) — right to counsel for any prosecution that may result in imprisonment
+- ***Strickland v. Washington***, 466 U.S. 668 (1984) — Sixth Amendment requires *effective* assistance of counsel
+- ***United States v. Cronic***, 466 U.S. 648 (1984) — where counsel is constructively absent, or the structural circumstances make effective assistance impossible, ineffectiveness is presumed and prejudice need not be shown
+- ***Padilla v. Kentucky***, 559 U.S. 356 (2010) — counsel must advise on certain collateral consequences (immigration), and by extension on consequences that materially affect the client's decision
+- ***Lafler v. Cooper***, 566 U.S. 156 (2012), and ***Missouri v. Frye***, 566 U.S. 134 (2012) — effective-assistance duties extend to plea-bargaining advice and communication of plea offers
+- The American Bar Association **Criminal Justice Standards for the Defense Function** (4th ed. 2017), to the extent consistent with this Act
+- The **National Advisory Commission on Criminal Justice Standards and Goals** (1973) per-attorney annual caseload ceilings (150 felonies / 400 misdemeanors / 200 juvenile / 200 mental-health commitment / 25 appeals), and the 2023 **National Public Defense Workload Study** (RAND / ABA / NACDL / NLADA), as updated workload benchmarks
+
+This Act recognizes these authorities not as the source of the duties below, but as evidence that the duties have long been required, even where the formal mechanisms to enforce them have been absent or inadequate. The source of these duties under this Act is the Act itself.
+
+**Core Affirmative Duties.** A public defender shall, at minimum:
+
+- **Meet with the client** before each critical stage of the case (arraignment, bail/pretrial-detention hearing, preliminary hearing, motion practice, plea negotiation, trial, sentencing, and any post-conviction proceeding), in a confidential setting and for a duration adequate to perform the duty
+- **Independently investigate** the facts of the case — review charging documents, body-camera and dash-camera footage, dispatch and CAD logs, jail recordings, forensic reports, witness statements, scene photographs, surveillance footage, and any other evidence in the case; conduct or arrange independent witness interviews where the case requires; obtain and review discovery in a timely manner
+- **Communicate every plea offer** to the client, promptly and in plain language the client understands, including the terms, consequences, risks, and alternatives; obtain the client's informed decision before accepting or rejecting any offer
+- **Fully advise the client** on the direct consequences of conviction (sentence range, fines, restitution, probation/parole conditions) and on the material collateral consequences (immigration, family-law, professional-licensing, sex-offender-registry, housing, benefits, voting, firearms, employment) of any plea or trial outcome
+- **File necessary motions** to suppress unlawfully obtained evidence, preserve constitutional objections, challenge defective charging instruments, obtain discovery, secure expert assistance, and protect the client's rights at trial and on appeal
+- **Maintain confidentiality** and undivided loyalty to the client; assert all available defenses; advocate zealously within the law
+- **Disclose conflicts of interest** under §2.11.5 immediately upon awareness; seek replacement counsel where the conflict cannot be cured
+- **Preserve the appellate record** by timely objection, offer of proof, and motion practice; explain appeal rights and assist with timely notice of appeal
+- **Withdraw from, refuse, or be relieved of any case or aggregate caseload that prevents the attorney from performing the duties of this subsection** for each existing client (Section 2.11.8 below)
+
+**Failure to Perform — Cross-Reference:**
+
+Failure to perform any duty under this subsection is reachable as an offense under §§2.11.1 through 2.11.6, and may also be reachable under §2.10.2 (Constructive Denial of Counsel) where the failure is structural rather than individual.
+
+#### 2.11.8 Right to Refuse Overwhelming Caseload; State Liability for Caseload-Caused Ineffective Assistance
+
+This Act establishes, as an affirmative and enforceable right of every public defender and court-appointed defender, the **right to refuse, decline, withdraw from, or be relieved of any case or aggregate caseload that would prevent the attorney from performing the duties of §2.11.7 for each client**. This right exists notwithstanding any contract, appointment order, agency policy, supervisor instruction, judicial directive, contempt threat, professional-discipline threat, employment threat, or financial penalty to the contrary.
+
+**Statement of Principle:**
+
+> The State of Utah may not provide a single attorney with more cases than that attorney can competently and professionally handle, and then claim that the attorney has provided effective assistance of counsel. The State cannot lawfully argue, in any forum, that one attorney working alone can carry hundreds of active cases and do a **professional-quality job at each**. Where the State has done so, the State — not the attorney — is liable for the resulting deprivation of the right to counsel.
+
+The right to counsel is the citizen's right. The duty to provide effective counsel is the State's duty. The State cannot satisfy its constitutional duty by overloading a single human attorney to the point where competent representation is mathematically and humanly impossible, and then treating any resulting ineffective assistance as the attorney's personal failure.
+
+**"Overwhelming Caseload" — Defined for Purposes of This Subsection:**
+
+An "overwhelming caseload" is an aggregate workload that materially impairs, or would materially impair, the attorney's ability to perform the affirmative duties of §2.11.7 for each existing or prospective client. It is determined by the attorney's good-faith professional judgment, informed by:
+
+- The complexity of the individual cases (capital, life-sentence, multi-count, multi-defendant, federal-state overlap, immigration consequence, mental-health-court, juvenile, child-welfare cross-over)
+- The procedural posture of each case (pretrial detention, pending trial, post-conviction)
+- The attorney's available investigative, expert, paralegal, and administrative resources
+- The recognized workload benchmarks identified in §2.11.7 (NAC standards, ABA Standards, the 2023 National Public Defense Workload Study, and successor empirical benchmarks)
+- The attorney's documented hours, sleep, health, cognitive state, and capacity to perform each required duty in each case
+- Any other factor a reasonable attorney would consider in determining whether the workload is humanly performable to a professional standard
+
+A workload is **presumptively overwhelming** where the attorney is carrying more than 150 active felony cases, 400 active misdemeanor cases, 200 active juvenile cases, 200 active mental-health commitment cases, or 25 active appeals at any time, calculated per the NAC standards, OR where the workload exceeds the per-attorney annual hours determined by the 2023 National Public Defense Workload Study for the case mix at issue. This presumption may be rebutted by the State only by clear and convincing evidence that the attorney's specific case mix, support infrastructure, and individual circumstances permit professional-quality representation of each client.
+
+**Manner of Refusal:**
+
+A public defender exercising this right shall:
+
+- Provide written notice to the assigning authority, the court of record, and the head of the public-defense office (or contracting agency), identifying the cases at issue and the basis for the refusal
+- Continue representing existing clients until replacement counsel is appointed, unless continued representation would itself constitute ineffective assistance, in which case the attorney shall move for immediate withdrawal and the court shall grant the motion without delay
+- Make the notice and supporting documentation part of the public record under §9.7
+
+**Court Duty Upon Receipt of Notice:**
+
+A court that receives a public defender's notice of overwhelming caseload **shall**:
+
+- Accept the notice as a sworn representation of the attorney's professional judgment
+- Reassign affected cases to other counsel with sufficient capacity, or stay the proceedings as to those cases until such counsel can be appointed
+- Order the contracting authority to fund additional counsel where existing counsel cannot be reallocated
+- **Not** hold the attorney in contempt, sanction the attorney, refer the attorney for professional discipline, or otherwise penalize the attorney for the refusal
+
+A court's refusal to accept a public defender's notice of overwhelming caseload, or a court's imposition of contempt or sanctions on an attorney for invoking this right, is itself a violation reachable under §2.7.1.4 (Judicial Duty to Apply Mandatory Rules and Correct Errors) and §2.10.2 (Constructive Denial of Counsel), and may be charged cumulatively under §1.8 (Obstruction) and §17.2 (Institutional Retaliation).
+
+**State Liability for Caseload-Caused Ineffective Assistance:**
+
+> Where the State, a county, a municipality, a public-defense agency, a contracting authority, or any official with funding, contracting, assignment, supervisory, or administrative authority over public defense knowingly or recklessly maintains a public-defense system in which attorneys are routinely assigned more cases than they can competently handle, and that overload materially contributes to ineffective assistance of counsel for any citizen, the State and the responsible officials are personally and institutionally liable under this Act.
+
+This liability includes, without limitation:
+
+- **§2.10.2 Constructive Denial of Counsel** — the structural offense already defined in this Act, charged against the officials who fund, administer, contract, assign, or adjudicate the defective system
+- **§1.3 Battery** — for unlawful deprivation of the citizen's Sixth Amendment right to counsel through direct administrative action
+- **§17.20 Deliberate Budget Concealment** — where the funding decision was concealed, misrepresented, or carried out while the responsible actors knew the funding was insufficient to support constitutionally adequate representation
+- **§17.21 Preferential Contracting Abuse** — where the public-defense contract was awarded based on lowest bid, political favoritism, or similar non-merit grounds resulting in known underfunding
+- **§17.24B Executive Refusal to Correct Rights Violations** — where the responsible executive actor had notice of the systemic failure and failed to correct it
+- **§1.1.2 Entity-Level Liability** — the State, county, municipality, public-defense agency, or contracting body is liable as an entity, separately and additionally to the individual actors
+- **§11 Forfeiture** — applies to individual actors found liable
+- Civil cause of action under **§10**, with no statute of limitations under §10.3
+
+**Documented Harm — Why the Right Is Necessary:**
+
+The right established by this subsection rests on documented harms to citizens and to attorneys, including:
+
+- **Citizen harm:** wrongful convictions, coerced pleas, missed exculpatory evidence, missed deadlines, failed motions, uncontested unconstitutional searches and seizures, undocumented Brady violations, immigration consequences from uncounseled or under-counseled pleas, family separations, prolonged pretrial detention, and capital sentences imposed after constitutionally inadequate representation
+- **Attorney harm:** the well-documented psychological consequences of sustained caseloads beyond human capacity, including but not limited to chronic burnout, compassion fatigue, secondary or vicarious trauma, anxiety, depression, sleep disruption, cognitive impairment, ethical-decision fatigue, and elevated rates of substance use and suicidal ideation. These harms are documented in, among other sources, the American Bar Association's *Path to Lawyer Well-Being* report (ABA National Task Force on Lawyer Well-Being, 2017); the Krieger & Sheldon studies on lawyer well-being; the federal court findings in *Wilbur v. City of Mount Vernon*, 989 F. Supp. 2d 1122 (W.D. Wash. 2013); the New York Court of Appeals findings in *Hurrell-Harring v. State of New York*, 15 N.Y.3d 8 (2010); the Florida Supreme Court's analysis in *Public Defender, Eleventh Judicial Circuit of Florida v. State*, 115 So. 3d 261 (Fla. 2013); and the empirical findings of the 2023 National Public Defense Workload Study (RAND / ABA / NACDL / NLADA)
+
+The State of Utah, by adopting this Act, accepts that an attorney who is overworked beyond human capacity will not perform constitutionally adequate work, that the failure is structural rather than individual, and that the citizen and the attorney are both harmed by the State's refusal to fund and staff public defense at a level consistent with the right to counsel.
+
+**Defenses Limited:**
+
+- "The attorney could have asked for help earlier" is not a defense to State liability where the State knew or in reckless disregard of clear evidence should have known of the structural overload
+- "Other attorneys handle similar caseloads" is not a defense; the issue is whether the workload permits effective assistance, not whether it is common
+- A claim of fiscal constraint is not a defense; if the State cannot fund constitutionally adequate public defense at the current charging volume, the State must reduce charging volume, reallocate funds, or accept the resulting prohibition on prosecution under §2.10.2 — but it may not satisfy the right to counsel through legal fiction
+- A claim that the public defender "consented" to the overload by accepting the contract or appointment is not a defense; the right under this subsection may not be waived by contract, employment, or appointment
+
+**Construction:**
+
+This subsection shall be construed broadly in favor of the citizen's right to effective assistance of counsel and broadly in favor of the public defender's right and duty to refuse work that would deny that effective assistance to existing or prospective clients. The citizen, the attorney, and the constitutional system all bear the cost when the State assigns workloads beyond human capacity; this Act places that cost back on the State, where it belongs.
+
+### 2.12 Shared Offenses for Attorneys in the Criminal Process
+
+The offenses of this subsection apply to both prosecutors and public defenders, and to any other attorney participating in a public criminal proceeding under public appointment, public contract, or delegated state authority. They reach conduct in which an attorney's participation in the public criminal process itself becomes a violation of due process.
+
+#### 2.12.1 Criminal Process Collusion
+
+> A prosecutor or public defender commits **criminal process collusion** when they secretly coordinate against the accused's rights, rather than acting according to their lawful role.
+
+**Examples:**
+
+- Prosecutor and public defender agreeing to pressure pleas to reduce caseload
+- A defender pretending to oppose the state while helping the state secure a conviction
+- Both sides hiding court misconduct
+- Both sides knowingly allowing a false conviction to proceed
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the collusion contributes to wrongful conviction, prolonged incarceration, family separation, capital sentence, or suicide, the offense is a **capital offense**
+- May be charged cumulatively as conspiracy under §1.1.1 and under §1.6 (Cabalism) or §1.7 (Government Racketeering)
+
+#### 2.12.2 Public Rights Deception
+
+> A prosecutor or public defender commits **public rights deception** when they materially misrepresent a citizen's rights during a criminal proceeding.
+
+**Examples:**
+
+- Falsely telling a citizen they have no right to trial
+- Falsely telling a citizen they have no right to remain silent
+- Falsely telling a citizen they cannot challenge the evidence
+- Falsely telling a citizen they cannot complain about police misconduct
+- Falsely telling a citizen they must accept the plea
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the deception produces a plea, waiver, conviction, family separation, or other material deprivation of rights, the offense is a **capital offense**
+- May be charged cumulatively under §2.6.2.4 (False Representation to the Court), §2.6.2.6 (Coercive Plea Bargaining), §2.11.3 (Coercive Plea Pressure by Public Defender), and §1.13 (Official Intimidation)
+
+#### 2.12.3 Knowing Participation in Unlawful Detention
+
+> A prosecutor or public defender commits **knowing participation in unlawful detention** when they knowingly allow a person to remain jailed without lawful basis while having a duty and ability to act.
+
+**Examples:**
+
+- Prosecutor knows the case lacks probable cause but seeks or maintains detention anyway
+- Public defender knows the detention is unlawful but refuses to raise it
+- Either actor conceals facts that would require release
+
+**Classification:**
+
+- **Class 2 felony**
+- Where the unlawful detention causes prolonged incarceration, family separation, medical crisis, suicide, or death in custody, the offense is a **capital offense**, and Section 12 applies where the elements are met
+- May be charged cumulatively under §1.3 (Battery), §2.6.2.1 (Charging Without Probable Cause), and §2.8.6 (Sheriff Custody and Release Obstruction)
 
 ## Section 3 — Mens Rea: Criminal and Civil
 
