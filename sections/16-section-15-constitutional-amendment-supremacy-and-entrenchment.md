@@ -85,9 +85,9 @@ The U.S. Supreme Court has repeatedly recognized that state law may provide **mo
 Such conduct may be charged, depending on the elements established, as one or more of the following offenses under this title:
 
 - **§1.10 Anarchy** — acting completely outside the law where no actual preemption exists (the judge invokes federal authority but lacks any statutory or constitutional basis for the nullification)
-- **§2.1.2 Reckless Prosecution** — issuing a ruling without engaging on the merits or providing reasoning sufficient to identify the supposedly preemptive federal provision
-- **§2.3.1.2 Judicial Duty to Engage on the Merits** — failing to engage with the substance of the Act and the actual federal-state legal framework
-- **§2.3.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — failing to apply the constitutional principles that distinguish actual preemption from a state's grant of greater protection
+- **§2.5.2 Reckless Prosecution** — issuing a ruling without engaging on the merits or providing reasoning sufficient to identify the supposedly preemptive federal provision
+- **§2.7.1.2 Judicial Duty to Engage on the Merits** — failing to engage with the substance of the Act and the actual federal-state legal framework
+- **§2.7.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — failing to apply the constitutional principles that distinguish actual preemption from a state's grant of greater protection
 - **§1.6 Cabalism** — where the improper nullification is the result of small-group coordination of judicial actors producing unjust outcomes for Utah citizens
 - **§1.7 Government Racketeering** — where the nullification is part of a coordinated pattern or scheme using federal judicial authority to extract benefit, punish, or coerce citizens
 - **§1.9 Treason** — where the improper nullification rises to **constitutional warfare** under §1.9: a sustained or coordinated attempt to subvert the Utah Constitution and the protection of Utah citizens by an actor sworn to uphold both that Constitution and the U.S. Constitution
@@ -107,7 +107,7 @@ A Citizen Council under Section 9 may investigate and issue a Joint Declaration 
 Specifically, a Citizen Council may, for the same course of conduct, file:
 
 - **(a)** A **Joint Declaration of Prosecution** with the **United States Attorney** for the district, for presentation to a **federal grand jury**, addressing any applicable federal offense (e.g., 18 U.S.C. §§ 241–242, deprivation of rights under color of law); **and concurrently**
-- **(b)** A **Joint Declaration of Prosecution** with the **Utah County Prosecutor's Office** or, where applicable, the **Office of the Governor** under Section 9.5, addressing the federal judge's violations of the substantive offenses of this Act (Anarchy under §1.10, Cabalism under §1.6, Government Racketeering under §1.7, Treason under §1.9, the Judicial Duty offenses of §§2.3.1.1–2.3.1.4, etc., as the elements may be established)
+- **(b)** A **Joint Declaration of Prosecution** with the **Utah County Prosecutor's Office** or, where applicable, the **Office of the Governor** under Section 9.5, addressing the federal judge's violations of the substantive offenses of this Act (Anarchy under §1.10, Cabalism under §1.6, Government Racketeering under §1.7, Treason under §1.9, the Judicial Duty offenses of §§2.7.1.1–2.3.1.4, etc., as the elements may be established)
 
 Both filings may proceed **simultaneously and independently**. Disposition or declination at either level shall **not** bar prosecution at the other (consistent with the concurrent-jurisdiction principle of Section 9.10). Conviction or acquittal under one shall **not** preclude prosecution under the other for the same conduct, where each prosecution rests on a distinct sovereign's law.
 

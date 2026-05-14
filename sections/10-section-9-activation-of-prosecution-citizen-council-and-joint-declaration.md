@@ -385,7 +385,7 @@ The reviewing judge **may not** decline review or refuse to nullify on the follo
 A judge who refuses, delays, or refuses to engage in good faith with a Joint Declaration of Logical Consistency Review commits one or more of the following offenses under this title:
 
 - **Anarchy (§1.10)** — refusing to apply a clearly required legal standard while invoking judicial authority is conduct without lawful basis
-- **Reckless prosecution (§2.1.2)** — failing to perform the review duty owed to citizens
+- **Reckless prosecution (§2.5.2)** — failing to perform the review duty owed to citizens
 - **Obstruction (§1.8)** — where the refusal is motivated by the title or affiliation of those who benefit from the inconsistent law
 
 The doctrine of judicial immunity does not apply, consistent with Section 5.1.
@@ -435,7 +435,7 @@ A unanimous Council of eighteen (18) or more citizens may, by Joint Declaration 
 A judge or executive official who refuses to give effect to a unanimous 18-member Joint Declaration of Conviction Review commits:
 
 - **Anarchy (§1.10)** — for refusing to apply the legal standard set by this Act while invoking official authority
-- **Reckless prosecution (§2.1.2)** — for the harm imposed on a citizen who would otherwise have been freed, restored, or spared
+- **Reckless prosecution (§2.5.2)** — for the harm imposed on a citizen who would otherwise have been freed, restored, or spared
 - **Obstruction (§1.8)** — where refusal is motivated by the convicted person's status, the system's institutional interests, or political considerations
 
 The doctrine of judicial immunity does not apply, consistent with Section 5.1.

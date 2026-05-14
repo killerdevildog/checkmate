@@ -530,7 +530,7 @@ War against the state under this section includes, but is not limited to:
 **Defenses Limited:**
 
 - **Following orders** is not a defense (consistent with §5.2)
-- **Internal policy, departmental rule, agency guideline, or institutional practice** is not a defense (consistent with §2.A.1 and §1.10)
+- **Internal policy, departmental rule, agency guideline, or institutional practice** is not a defense (consistent with §2.5.1 and §1.10)
 - The fact that the financial, regulatory, or procedural framework being used to wage war was **formally enacted in statute or rule** is **not, by itself, a defense** where that framework was used as an instrument of war on citizens
 - The actor's status as a duly elected, appointed, or commissioned official is not a defense
 - The doctrine of qualified, judicial, or sovereign immunity does not apply, consistent with Section 5.1
@@ -565,7 +565,7 @@ A policy is "lawless" within the meaning of this subsection where:
 - The policy purports to authorize what the law does not authorize
 - The policy is in conflict with constitutional or statutory protections
 
-This provision is consistent with, and reinforces, **Section 2.A.1** (Policy Is Not a Defense). An actor cannot escape liability for anarchy by pointing to a policy that itself authorized the lawless act.
+This provision is consistent with, and reinforces, **Section 2.5.1** (Policy Is Not a Defense). An actor cannot escape liability for anarchy by pointing to a policy that itself authorized the lawless act.
 
 **Distinction from Other Offenses:**
 
@@ -697,7 +697,7 @@ The following are **not** prohibited under this section:
 
 - The fact that the threatened action was **technically authorized by statute or regulation** is not a defense where the threat was used as an instrument of coercion rather than for the lawful purpose of the underlying authority
 - A claim that the actor was "just doing their job" is not a defense where the conduct met the elements above
-- Internal policy is not a defense (consistent with §2.A.1 and §1.10)
+- Internal policy is not a defense (consistent with §2.5.1 and §1.10)
 
 ### 1.13 Official Intimidation (Lesser Included Offense)
 
@@ -764,7 +764,7 @@ The presumption of innocence is foundational to American criminal law, but in pr
 
 > The presumption of innocence is the **citizen's right**, not the prosecutor's gift. A prosecutor who acts as if the accused must prove innocence — rather than as if the prosecution must prove guilt — acts against the foundation of the system itself, and is reachable under this title.
 
-Section 1.14 attaches **personal civil and criminal liability** to that conduct. It operates together with **Section 2.1.2 (Mandatory Juror Documentation)**, which requires the trier of fact to engage with each piece of evidence — including the exculpatory evidence the prosecutor is required to surface under §2.2.1.1.
+Section 1.14 attaches **personal civil and criminal liability** to that conduct. It operates together with **Section 2.5.2 (Mandatory Juror Documentation)**, which requires the trier of fact to engage with each piece of evidence — including the exculpatory evidence the prosecutor is required to surface under §2.6.1.1.
 
 ---
 
@@ -791,7 +791,7 @@ Section 1.14 attaches **personal civil and criminal liability** to that conduct.
 **Classification:**
 
 - Malicious Prosecution is a **capital offense** under this title (consistent with the mens rea framework of Section 3.5, where malice elevates the underlying offense by two tiers)
-- Where the malicious prosecution resulted in a **conviction**, the government actor is also liable as a co-conspirator under Section 1.1.1 with any jurors found liable under Section 2.1.3 (wrongful conviction by jury)
+- Where the malicious prosecution resulted in a **conviction**, the government actor is also liable as a co-conspirator under Section 1.1.1 with any jurors found liable under Section 2.5.3 (wrongful conviction by jury)
 - Where the malicious prosecution resulted in the citizen's **death** — capital sentence carried out, death in custody, or suicide consistent with Section 12.1 — the conduct is **a capital offense** under this title
 - Penalty enhancements under Section 7 apply at maximum severity, including suicidal-ideation, family-anxiety, and long-term-deprivation enhancements
 

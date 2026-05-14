@@ -118,8 +118,8 @@ A government actor's good-faith reliance on the apparent existence or facial val
 Such conduct may be charged, depending on the elements established, as one or more of:
 
 - **§1.10 Anarchy** — acting completely outside the law in issuing or enforcing the repugnant instrument
-- **§2.3.1.2 Judicial Duty to Engage on the Merits** — where the instrument is a judicial judgment, order, or warrant issued without the engagement required by this Act
-- **§2.3.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — where the issuing or enforcing actor failed to apply the constitutional principles that render the instrument null
+- **§2.7.1.2 Judicial Duty to Engage on the Merits** — where the instrument is a judicial judgment, order, or warrant issued without the engagement required by this Act
+- **§2.7.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — where the issuing or enforcing actor failed to apply the constitutional principles that render the instrument null
 - **§1.6 Cabalism** — where the issuance or enforcement is part of small-group coordination producing unjust outcomes for citizens
 - **§1.7 Government Racketeering** — where part of a pattern or scheme using authority to extract benefit, punish, or coerce
 - **§1.9 Treason** — where the issuance or enforcement constitutes constitutional warfare against Utah citizens, the Utah Constitution, or the U.S. Constitution
@@ -129,45 +129,6 @@ Such conduct may be charged, depending on the elements established, as one or mo
 
 The doctrine of judicial, prosecutorial, qualified, or sovereign immunity does **not** apply (consistent with §5.1.1).
 
-### 16.3A Constitutional Objection Obstruction
-
-> A government actor who is informed by a citizen that a statute, ordinance, regulation, order, warrant, policy, or other government instrument is unconstitutional, repugnant, void, or unenforceable has an immediate duty to pause enforcement long enough to consider the claim in good faith against the Constitution of the United States, the Utah Constitution, this Act, and any authority identified by the citizen.
-
-**Offense:**
-
-A government actor commits **constitutional objection obstruction** where:
-
-- A citizen states, orally or in writing, that the government instrument being invoked is unconstitutional, repugnant, void, or unenforceable
-- The citizen identifies, in substance, the right, constitutional provision, statutory provision, logical inconsistency, or conflict that makes the instrument unenforceable
-- The government actor continues, threatens to continue, directs, signs, authorizes, or attempts enforcement without good-faith engagement with the citizen's objection
-- The instrument is in fact repugnant, void, or unenforceable under Section 16.5 or any other provision of this Act
-
-**Actors Covered:**
-
-This section applies to every government actor, including without limitation:
-
-- A peace officer, deputy, federal agent, code-enforcement officer, regulator, school official, detention officer, or other executive actor who attempts to enforce the instrument against the citizen
-- A judge, magistrate, administrative law judge, clerk, bailiff, or other court actor who issues, signs, approves, maintains, or enforces the instrument after the objection is raised
-- A prosecutor or agency attorney who relies on, threatens to rely on, or seeks punishment under the instrument after the objection is raised
-
-**Good-Faith Engagement Required:**
-
-Good-faith engagement requires more than saying *"take it up with the judge,"* *"tell it to the court,"* *"I just enforce the law,"* *"the legislature passed it,"* *"policy says so,"* or words to similar effect. At minimum, the actor must identify the lawful authority the actor believes overrides the citizen's objection, or must suspend enforcement until a competent determination can be made under Section 16.4 or Section 9.14.
-
-**Classification:**
-
-- Constitutional objection obstruction is a **Class 2 felony**
-- Where the continued enforcement causes actual deprivation of liberty, property, parental rights, bodily autonomy, livelihood, or any other protected right, the conduct may be charged cumulatively under **§1.3 (Battery)**
-- Where the actor is a judge or judicial officer, the conduct may be charged cumulatively under **§2.3.1.2 (Judicial Duty to Engage on the Merits)** and **§2.3.1.4 (Judicial Duty to Apply Mandatory Rules and Correct Errors)**
-- Where the continued enforcement is part of a pattern, policy, coordinated practice, or institutional scheme, it may be charged cumulatively under **§1.6 (Cabalism)**, **§1.7 (Government Racketeering)**, or **§1.9 (Treason)** where the elements are met
-
-**Defenses Limited:**
-
-- Ignorance of the Constitution, this Act, or the right identified by the citizen is not a defense
-- Reliance on departmental policy, training, superior orders, common practice, legislative enactment, or the facial existence of the instrument is not a defense
-- The citizen is not required to cite a case name, statute number, section number, or exact legal phrase where the citizen's objection fairly identifies the constitutional or legal conflict in substance
-- The absence of a prior court ruling declaring the instrument unconstitutional is not a defense where the instrument is repugnant under Section 16.5
-
 ### 16.4 Determination of Repugnance
 
 A determination that a government instrument is repugnant under this Section may be made by:
@@ -176,7 +137,7 @@ A determination that a government instrument is repugnant under this Section may
 - **A Citizen Council under Section 9.14 (Logical Consistency Review)** by unanimous vote of twelve (12) or more members
 - **A Citizen Council under any other applicable provision of Section 9** in the course of investigating or charging conduct under this title
 
-A determination by any of the above is **binding within the State of Utah** and shall be given effect by all government actors immediately and without delay. Failure to give effect to such a determination is itself reachable conduct under §1.10 (Anarchy), §2.3.1.4 (Judicial Duty to Apply Mandatory Rules), or §1.8 (Obstruction).
+A determination by any of the above is **binding within the State of Utah** and shall be given effect by all government actors immediately and without delay. Failure to give effect to such a determination is itself reachable conduct under §1.10 (Anarchy), §2.7.1.4 (Judicial Duty to Apply Mandatory Rules), or §1.8 (Obstruction).
 
 ### 16.5 Standard for Repugnance
 

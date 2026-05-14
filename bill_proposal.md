@@ -667,7 +667,7 @@ War against the state under this section includes, but is not limited to:
 **Defenses Limited:**
 
 - **Following orders** is not a defense (consistent with §5.2)
-- **Internal policy, departmental rule, agency guideline, or institutional practice** is not a defense (consistent with §2.A.1 and §1.10)
+- **Internal policy, departmental rule, agency guideline, or institutional practice** is not a defense (consistent with §2.5.1 and §1.10)
 - The fact that the financial, regulatory, or procedural framework being used to wage war was **formally enacted in statute or rule** is **not, by itself, a defense** where that framework was used as an instrument of war on citizens
 - The actor's status as a duly elected, appointed, or commissioned official is not a defense
 - The doctrine of qualified, judicial, or sovereign immunity does not apply, consistent with Section 5.1
@@ -702,7 +702,7 @@ A policy is "lawless" within the meaning of this subsection where:
 - The policy purports to authorize what the law does not authorize
 - The policy is in conflict with constitutional or statutory protections
 
-This provision is consistent with, and reinforces, **Section 2.A.1** (Policy Is Not a Defense). An actor cannot escape liability for anarchy by pointing to a policy that itself authorized the lawless act.
+This provision is consistent with, and reinforces, **Section 2.5.1** (Policy Is Not a Defense). An actor cannot escape liability for anarchy by pointing to a policy that itself authorized the lawless act.
 
 **Distinction from Other Offenses:**
 
@@ -834,7 +834,7 @@ The following are **not** prohibited under this section:
 
 - The fact that the threatened action was **technically authorized by statute or regulation** is not a defense where the threat was used as an instrument of coercion rather than for the lawful purpose of the underlying authority
 - A claim that the actor was "just doing their job" is not a defense where the conduct met the elements above
-- Internal policy is not a defense (consistent with §2.A.1 and §1.10)
+- Internal policy is not a defense (consistent with §2.5.1 and §1.10)
 
 ### 1.13 Official Intimidation (Lesser Included Offense)
 
@@ -901,7 +901,7 @@ The presumption of innocence is foundational to American criminal law, but in pr
 
 > The presumption of innocence is the **citizen's right**, not the prosecutor's gift. A prosecutor who acts as if the accused must prove innocence — rather than as if the prosecution must prove guilt — acts against the foundation of the system itself, and is reachable under this title.
 
-Section 1.14 attaches **personal civil and criminal liability** to that conduct. It operates together with **Section 2.1.2 (Mandatory Juror Documentation)**, which requires the trier of fact to engage with each piece of evidence — including the exculpatory evidence the prosecutor is required to surface under §2.2.1.1.
+Section 1.14 attaches **personal civil and criminal liability** to that conduct. It operates together with **Section 2.5.2 (Mandatory Juror Documentation)**, which requires the trier of fact to engage with each piece of evidence — including the exculpatory evidence the prosecutor is required to surface under §2.6.1.1.
 
 ---
 
@@ -928,7 +928,7 @@ Section 1.14 attaches **personal civil and criminal liability** to that conduct.
 **Classification:**
 
 - Malicious Prosecution is a **capital offense** under this title (consistent with the mens rea framework of Section 3.5, where malice elevates the underlying offense by two tiers)
-- Where the malicious prosecution resulted in a **conviction**, the government actor is also liable as a co-conspirator under Section 1.1.1 with any jurors found liable under Section 2.1.3 (wrongful conviction by jury)
+- Where the malicious prosecution resulted in a **conviction**, the government actor is also liable as a co-conspirator under Section 1.1.1 with any jurors found liable under Section 2.5.3 (wrongful conviction by jury)
 - Where the malicious prosecution resulted in the citizen's **death** — capital sentence carried out, death in custody, or suicide consistent with Section 12.1 — the conduct is **a capital offense** under this title
 - Penalty enhancements under Section 7 apply at maximum severity, including suicidal-ideation, family-anxiety, and long-term-deprivation enhancements
 
@@ -972,7 +972,7 @@ This section establishes due-process protections that control criminal proceedin
 
 If any provision of this section requires constitutional force to operate fully under the Constitution of the State of Utah, this section shall be construed and enacted as an amendment to that Constitution to the maximum extent permitted by law. Greater protections for an accused person, convicted person, juror, or citizen are preserved; lesser or conflicting protections are displaced.
 
-### 2.A Supremacy of Law as Due Process
+### 2.1 Affirmative Protections of Due Process
 
 Due process under this Act means government by law, not government by the will, habit, policy, preference, fear, convenience, or personal judgment of government actors.
 
@@ -984,11 +984,11 @@ Because government is of laws and not of men, no government actor may replace la
 
 This is why the mens rea rules of Sections 3 and 4 reject ignorance, subjective uncertainty, policy reliance, and office custom as defenses for government actors. A government actor who exercises state power has an affirmative duty to know, check, and obey the legal limits of that power.
 
-#### 2.A.1 Policy Is Not a Defense
+#### 2.1.1 Policy Is Not a Defense
 
 Internal policies, departmental guidelines, institutional practices, local customs, training habits, office norms, software workflows, supervisor instructions, or informal "how we do things here" practices shall not be considered a defense to violations under this Act.
 
-#### 2.A.2 Affirmative Duty to Follow Law
+#### 2.1.2 Affirmative Duty to Follow Law
 
 Failure to perform an affirmative duty under this subsection is **failure to serve** and is criminally enforceable. Where a more specific section of this Act defines the duty, elements, or classification, that specific section controls. Where no specific classification is stated elsewhere, the default classification is a **Class 3 felony**.
 
@@ -1000,7 +1000,7 @@ The elements are:
 2. The government actor did not perform the duty;
 3. The required mens rea is met under Sections 3 and 4, including negligence, recklessness, intentional conduct, malicious conduct, knowing conduct, or a cognate knowing standard where applicable.
 
-### 2.B Constitutional Rights in Government Context
+### 2.2 Constitutional Rights in Government Context
 
 Constitutional protected rights exist to protect the people from government power. They do not exist to allow a government actor to use public office, public resources, public records, public force, public discretion, or public process against the people while claiming the same private liberty that belongs to a citizen who is not exercising state power.
 
@@ -1008,13 +1008,13 @@ For purposes of this Act, a public official, public servant, public employee, pu
 
 Within the meaning of this Act, it is **not a defense** for a government actor to state, in substance, **"I had a constitutional right to do that,"** **"I had a right to say that,"** **"I had a right to believe that,"** **"I had a right to refuse that,"** or any similar claim of private constitutional liberty, where the conduct occurred under color of authority or in the exercise of official power.
 
-#### 2.B.1 Speech, Conscience, Opinion, and Official Power
+#### 2.2.1 Speech, Conscience, Opinion, and Official Power
 
 While acting under color of authority, a government actor does not possess a private citizen's freedom of conscience, freedom of speech, freedom of opinion, or freedom of association as a defense to official conduct that burdens a citizen's rights, liberty, property, due process, equal treatment, access to government, or access to justice.
 
 A government actor may hold private beliefs in a private capacity. But when acting as a public servant, the actor's official duty is to the Constitution, this Act, controlling law, and the entire public. Personal conscience, personal opinion, political preference, religious preference, ideological preference, institutional loyalty, professional culture, or class loyalty is not a defense to unequal service, selective enforcement, retaliation, obstruction, refusal to perform a duty, or any other violation under this Act.
 
-#### 2.B.2 Privacy, Search, Seizure, and Public Records
+#### 2.2.2 Privacy, Search, Seizure, and Public Records
 
 While acting in an official capacity, a government actor, public office, public body, agency, department, court, jail, school, contractor exercising delegated public power, or other public instrumentality is not entitled to the same privacy protections as a private citizen with respect to public records, official communications, government devices, public funds, body-camera recordings, case files, logs, databases, policies, orders, training materials, official calendars, official messages, or other materials created, received, stored, used, or controlled in the exercise of public power.
 
@@ -1022,17 +1022,114 @@ The protection against unreasonable searches and seizures belongs most strongly 
 
 This subsection does not eliminate the private-capacity constitutional rights of the human person who holds public office. It limits only claims of private constitutional protection made to shield official-capacity conduct, public records, public resources, delegated public power, or acts performed under color of authority.
 
-### 2.C Right to Defense Context
+### 2.3 Hearsay and Equal Use of Statement Evidence
+
+#### 2.3.1 Purpose
+
+This subsection fixes the hearsay gap.
+
+The ordinary hearsay doctrine grew from a real concern: an out-of-court statement may be unreliable because the original speaker is not present, not under oath, and not available for cross-examination. That concern is legitimate when applied honestly.
+
+But the doctrine has often operated unevenly. Statements made by a citizen are frequently admitted against the citizen as admissions, confessions, statements against interest, background facts, officer testimony, recorded statements, business records, jail calls, texts, emails, or other exceptions. Meanwhile, similar statements offered by the citizen for defense, mitigation, impeachment, context, innocence, coercion, bias, or government misconduct are often excluded as "hearsay."
+
+This asymmetry also damages cross-examination. When the state is allowed to build its prosecution through hearsay, summaries of statements, reports about what someone said, officer descriptions of interviews, or selective fragments of out-of-court speech, but the defendant is not allowed to present comparable hearsay to explain, contradict, contextualize, impeach, or defend against that material, cross-examination becomes unreliable. The defendant is forced to fight a partial representation of truth while being denied the statement evidence needed to expose the partiality.
+
+This Act rejects one-way hearsay. If a statement can be used as ammunition against a citizen, the same kind of statement can be used by the citizen, the defense, a claimant, a Citizen Council, or any proceeding under this Act where it tends to show innocence, mitigation, context, government misconduct, bias, retaliation, coercion, unreliability, penalty enhancement, or a protected right.
+
+#### 2.3.2 Representation of Truth; Testimony Is Also a Report
+
+For purposes of this Act, a spoken or written statement is a **representation of truth**, not truth itself. That is true whether the statement is made in court or out of court.
+
+When a witness testifies, *"I heard him say that,"* the witness is testifying to a fact: that the witness heard the statement. The trier of fact may still decide whether the witness is credible, whether the statement was actually made, what the statement meant, whether the original speaker was truthful, and how much weight the statement deserves.
+
+The same is true of ordinary testimony. A witness who says *"I saw it happen"* is also giving a representation of perceived truth. The testimony is evidence, not reality itself. The law may test it through oath, cross-examination, contradiction, corroboration, impeachment, logic, and jury evaluation, but it is still a human report.
+
+Because all testimonial evidence is a human representation of truth, hearsay may not be treated as categorically worthless for the citizen and categorically useful for the government. Reliability is a question of weight, context, corroboration, confrontation, and fairness — not a one-way label.
+
+#### 2.3.3 Equal Use Rule
+
+In any criminal, civil, administrative, Citizen Council, conviction-review, penalty-enhancement, or other proceeding under this Act:
+
+- A statement category admitted against a citizen shall be equally available to the citizen when offered for defense, mitigation, impeachment, context, innocence, explanation, or proof of government misconduct
+- A statement category admitted for the government shall be equally available against the government, a government actor, a government body, or a contractor exercising delegated public power
+- A court may not admit an out-of-court statement because it helps the prosecution while excluding a materially similar out-of-court statement because it helps the defense
+- A court may not treat a citizen's words as reliable when used against the citizen and unreliable when used for the citizen
+- A court may not treat government records, police summaries, officer testimony about statements, agency notes, jail calls, recorded statements, text messages, emails, dispatch logs, interview summaries, or official reports as reliable for prosecution while treating comparable defense evidence as inadmissible hearsay
+
+The controlling principle is symmetry: hearsay rules may test reliability, but they may not create a government advantage.
+
+#### 2.3.4 Defense-Favorable Statement Evidence
+
+The following statement evidence is admissible when offered by a citizen, accused person, claimant, defense counsel, Citizen Council, or other non-government party to show innocence, mitigation, context, unreliability, rights violation, government misconduct, retaliation, coercion, bias, penalty enhancement, or any defense recognized by law:
+
+- A statement heard by a witness
+- A prior statement by a witness, victim, government actor, investigator, informant, complainant, or third party
+- A statement by a government actor, agency employee, contractor, jail official, officer, prosecutor, judge, clerk, or public servant
+- A statement in a government record, police report, dispatch log, body-camera recording, jail call, agency note, email, text message, letter, form, database entry, or official communication
+- A statement showing fear, confusion, distress, coercion, motive, bias, retaliation, pressure, intimidation, family threat, suicidal ideation, psychological harm, or state of mind
+- A statement explaining why a citizen acted, refused consent, fled, complied, froze, remained silent, invoked rights, signed a document, entered a plea, failed to appear, missed a deadline, or appeared confused
+- A statement tending to show that a government actor knew, should have known, ignored, concealed, distorted, or recklessly disregarded facts relevant to a citizen's rights
+
+This subsection applies whether the statement is offered for the truth of the matter asserted, for the fact that the statement was made, for notice, for state of mind, for motive, for context, for impeachment, for pattern, for corroboration, or for any other logically relevant purpose.
+
+#### 2.3.5 Government Admissions and Public-Power Statements
+
+For purposes of this Act, a statement by a government actor concerning official conduct, public duty, investigation, enforcement, custody, prosecution, adjudication, records, policy, training, supervision, funding, discipline, or rights compliance is admissible against:
+
+- The speaker
+- The speaker's office or agency
+- Any government body responsible for the actor's authority
+- Any government actor who adopted, repeated, relied upon, concealed, failed to correct, or acted upon the statement
+
+The government may not claim that a government actor's statement is merely private, informal, unauthenticated, or unofficial where the statement concerns public power, official conduct, or the rights of a citizen affected by that power.
+
+#### 2.3.6 No One-Way Exception
+
+No hearsay exception, exemption, doctrine, custom, evidentiary shortcut, or officer-testimony practice may operate only in favor of the prosecution or government.
+
+If the prosecution may introduce a citizen's out-of-court statement as an admission, then the citizen may introduce relevant out-of-court statements by government actors, witnesses, alleged victims, informants, officers, agencies, or third parties when those statements support the citizen's defense or show government misconduct.
+
+If the government may use a statement to prove guilt, knowledge, motive, identity, intent, state of mind, course of conduct, notice, context, or absence of mistake, then the citizen may use comparable statement evidence to prove innocence, lawful motive, fear, confusion, coercion, self-defense, necessity, rights invocation, retaliation, bias, misconduct, lack of intent, or reasonable doubt.
+
+#### 2.3.7 Confrontation, Reliability, and Weight
+
+This subsection does not abolish the right of confrontation. Where the Constitution requires confrontation before testimonial hearsay may be used against an accused citizen, that constitutional protection remains fully in force.
+
+This subsection prevents confrontation and hearsay doctrines from being inverted into a shield for the government. A citizen may waive confrontation as to defense-favorable evidence the citizen offers. The government may not invoke the citizen's confrontation right to block the citizen from presenting defense evidence.
+
+Courts may still consider reliability, prejudice, confusion, fabrication risk, cumulative proof, and authentication, but those concerns must be applied evenhandedly. Where reliability concerns exist, the preferred remedy is disclosure, cross-examination, limiting instruction, weight assessment, corroboration inquiry, or continuance — not categorical exclusion that benefits the government.
+
+#### 2.3.8 Criminal Classification for One-Way Hearsay Suppression
+
+A government actor commits **one-way hearsay suppression** where the actor knowingly or recklessly:
+
+- Argues, rules, instructs, trains, or enforces that a category of statement evidence is admissible when used against a citizen but inadmissible when used for the citizen
+- Excludes, suppresses, discourages, mislabels, conceals, or threatens sanctions over defense-favorable statement evidence while using materially similar statement evidence for prosecution or government advantage
+- Invokes hearsay to block evidence of innocence, mitigation, coercion, bias, retaliation, psychological harm, suicidal ideation, government misconduct, official notice, or rights violation while relying on comparable hearsay against the citizen
+- Instructs a jury, Council, agency, or trier of fact to disregard defense-favorable statement evidence solely because it is hearsay, while allowing comparable government-favorable statement evidence
+
+**Classification:**
+
+- One-way hearsay suppression is a **Class 3 felony**
+- Where the suppression affects charging, plea negotiations, conviction, custody, probation, parole, family separation, loss of housing, loss of livelihood, denial of benefits, or penalty enhancement, the offense is a **Class 2 felony**
+- Where the suppression contributes to wrongful conviction, prolonged incarceration, death in custody, capital sentence, suicide, or serious bodily injury, the offense is a **capital offense**, and Section 12 applies where the elements are met
+- The offense may be charged cumulatively with obstruction of justice, malicious prosecution, deliberate record distortion, public-record spoliation, judicial recklessness, constructive denial of counsel, or any other applicable offense under this Act
+
+#### 2.3.9 Construction
+
+This subsection shall be construed broadly in favor of the citizen's ability to present evidence and against one-way evidentiary doctrines that advantage public power. A statement's status as hearsay affects weight and testing; it shall not be used as a selective weapon to prevent the citizen from telling the whole truth.
+
+### 2.4 Right to Defense Context
 
 Any action by a government actor that unlawfully creates a condition where a citizen must reasonably consider defending their rights, liberty, property, family, livelihood, bodily safety, access to government process, or access to justice shall be treated as initiating unlawful force for purposes of this Act.
 
 The government actor may not then treat the citizen's defensive posture, objection, record-making, refusal, appeal, complaint, request for counsel, invocation of rights, or demand for lawful authority as the source of the conflict. A citizen forced to consider defending protected rights is responding to government-created unlawful pressure, not creating the unlawful condition.
 
-### 2.1 Jury Due Process
+### 2.5 Jury Due Process
 
 Jury service exercises state power. Because a jury may authorize the deprivation of liberty, property, or life, juror rights, duties, and accountability are part of due process.
 
-### 2.1.1 Juror Rights, Verdict Options, and Independent Deliberation
+#### 2.5.1 Juror Rights, Verdict Options, and Independent Deliberation
 
 The rights in this subsection are **protected rights** under Section 1.5. Interference with, denial of, chilling of, or retaliation against these rights is reachable under the protected-rights provisions of this Act.
 
@@ -1043,7 +1140,7 @@ The rights in this subsection are **protected rights** under Section 1.5. Interf
 A juror, and a jury collectively, are entitled to render any of the following verdicts. The court shall instruct that each is a **lawful and complete verdict**, and shall not refuse to accept any of them on the ground that some other verdict was the only "correct" or "available" option:
 
 1. **Guilty** — finding that the elements of the offense have been proven beyond a reasonable doubt
-2. **Guilty with Refinement** — finding the defendant guilty, but with the juror's written refinement of the offense (e.g., guilty of a lesser included offense, guilty only of part of the conduct charged, or guilty of conduct of a lesser legal character than alleged), set out in the documentation required by Section 2.1.2
+2. **Guilty with Refinement** — finding the defendant guilty, but with the juror's written refinement of the offense (e.g., guilty of a lesser included offense, guilty only of part of the conduct charged, or guilty of conduct of a lesser legal character than alleged), set out in the documentation required by Section 2.5.2
 3. **Guilty and Forgiven** — finding that the conduct occurred, but exercising the juror's conscience to **forgive the act and acquit**; equivalent to jury nullification with affirmative forgiveness
 4. **Innocent** — finding the defendant not guilty
 5. **Unequivocally Innocent** — an affirmative finding of **actual innocence**, with the consequences set out below
@@ -1055,7 +1152,7 @@ A juror, and a jury collectively, are entitled to render any of the following ve
 - A verdict of **Unequivocally Innocent** is a finding of actual innocence and shall:
   - Result in **immediate acquittal**
   - **Bar any retrial**, civil suit based on the same conduct, or professional sanction based on the same conduct
-  - Trigger review of the prosecuting office's conduct under Sections **1.7 (Government Racketeering)** and **1.8 (Obstruction)** where the prosecution was brought without sufficient basis, and may support **reckless prosecution** charges under Section 2.1.2
+  - Trigger review of the prosecuting office's conduct under Sections **1.7 (Government Racketeering)** and **1.8 (Obstruction)** where the prosecution was brought without sufficient basis, and may support **reckless prosecution** charges under Section 2.5.2
 
 **Right to Refuse Group Deliberation:**
 
@@ -1064,7 +1161,7 @@ A juror, and a jury collectively, are entitled to render any of the following ve
 The reason: group deliberation, while permitted, can **distort a juror's perception of the evidence** through peer pressure, misrepresentation of evidence by other jurors, social conformity, or coercion. A juror's first duty is to the truth as they perceive it from the evidence — not to consensus with their fellow jurors.
 
 - A juror who chooses to deliberate alone shall **not be removed** from the jury, denied a vote, or otherwise penalized for that choice
-- A juror who chooses to deliberate alone shall still complete the documentation required by Section 2.1.2
+- A juror who chooses to deliberate alone shall still complete the documentation required by Section 2.5.2
 - A juror who chooses to deliberate in group with some, but not all, other jurors retains all rights under this subsection
 
 **Right to a Separate, Private Deliberation Space:**
@@ -1092,7 +1189,7 @@ A judge who excuses, removes, replaces, threatens, or penalizes a juror because 
 > A juror **shall not** be removed from a jury, dismissed, replaced, declared "uncooperative," or otherwise excluded **for refusing to agree with the views of other jurors**, for holding a minority position on the verdict, or for refusing to change a vote.
 
 - Removal of a juror for disagreement, vote-splitting, or "holdout" status is a violation of this title
-- A judge who removes a juror for disagreement engages in **reckless prosecution** under Section 2.1.2 and is independently chargeable
+- A judge who removes a juror for disagreement engages in **reckless prosecution** under Section 2.5.2 and is independently chargeable
 - A juror's refusal to agree, refusal to deliberate jointly, or refusal to change a vote is **not** a basis for mistrial, removal, replacement with an alternate, or any disciplinary action against the juror
 - A juror who is improperly removed retains a civil cause of action under Section 10 against the judge, the prosecuting office, and any other actor responsible for the removal
 
@@ -1105,15 +1202,15 @@ The court shall, in plain and clear language, instruct every jury at the outset 
 - Of the **right to a separate, private deliberation space**
 - Of the **right to ask questions** of the prosecutor, defense, or both
 - Of the **right against removal for disagreement**
-- Of the **documentation requirement** under Section 2.1.2
+- Of the **documentation requirement** under Section 2.5.2
 
-> Failure of the court to give this instruction is itself a violation of this title and **renders any subsequent conviction subject to vacatur** under Section 2.1.2. A judge who fails or refuses to give this instruction commits **reckless prosecution** under Section 2.1.2.
+> Failure of the court to give this instruction is itself a violation of this title and **renders any subsequent conviction subject to vacatur** under Section 2.5.2. A judge who fails or refuses to give this instruction commits **reckless prosecution** under Section 2.5.2.
 
 **Override of Prior Jury Procedure:**
 
-This subsection, like Section 2.1.2, **overrides and supersedes** all previous process, procedure, custom, rule, instruction, and practice governing how jurors operate, deliberate, vote, or are removed from criminal juries within the scope of this title. Conflicting rules of criminal procedure, jury instructions, court rules, and judicial practices are of no force or effect; greater protections for the accused or for jurors under other law are preserved.
+This subsection, like Section 2.5.2, **overrides and supersedes** all previous process, procedure, custom, rule, instruction, and practice governing how jurors operate, deliberate, vote, or are removed from criminal juries within the scope of this title. Conflicting rules of criminal procedure, jury instructions, court rules, and judicial practices are of no force or effect; greater protections for the accused or for jurors under other law are preserved.
 
-### 2.1.2 Juror Duties; Mandatory Documentation and Validity of Conviction
+#### 2.5.2 Juror Duties; Mandatory Documentation and Validity of Conviction
 
 > No conviction in any criminal proceeding prosecuted by the state, county, or municipality shall be **legitimate or enforceable** unless each juror who voted to convict has personally executed a **written record** of their decision-making, addressing each item of evidence presented at trial. **This requirement overrides any contrary provision of state or federal procedure, custom, rule, or practice.**
 
@@ -1178,7 +1275,7 @@ A person who is **unable or unwilling** to perform the documentation required by
 - Ambiguity as to the sufficiency of juror documentation shall be resolved **in favor of the accused or convicted person**, consistent with Section 1.5.2
 - This subsection adds to, and does not limit, any other right of the accused or convicted person under federal, state, or international law
 
-### 2.1.3 Crimes Applicable to Jurors; Wrongful Conviction as Conspiracy
+#### 2.5.3 Crimes Applicable to Jurors; Wrongful Conviction as Conspiracy
 
 **Conduct reachable under this title:**
 
@@ -1198,7 +1295,7 @@ This subsection applies to **state and federal grand juries**, **state and feder
 - The jury's action causes legal, financial, custodial, reputational, family, immigration, property, or rights-related consequences within Utah; **or**
 - The juror's conduct contributes to a violation of this Act against a citizen of Utah.
 
-Where a federal grand jury, federal petit jury, state grand jury, or state petit jury acts against a citizen of Utah, each juror has a duty to document the evidence and testimony relied upon with the same seriousness required by Section 2.1.2. That documentation duty includes each material item of testimony, each exhibit, each representation made by a prosecutor or government witness, and each item of exculpatory or contradictory evidence known to or presented to the jury.
+Where a federal grand jury, federal petit jury, state grand jury, or state petit jury acts against a citizen of Utah, each juror has a duty to document the evidence and testimony relied upon with the same seriousness required by Section 2.5.2. That documentation duty includes each material item of testimony, each exhibit, each representation made by a prosecutor or government witness, and each item of exculpatory or contradictory evidence known to or presented to the jury.
 
 A federal forum, federal label, federal prosecutor, federal courthouse, or federal jury designation does **not** immunize a juror from liability under this Act where the juror's conduct harms, targets, burdens, or deprives a citizen of Utah in a manner reachable by this title.
 
@@ -1233,15 +1330,15 @@ Where a wrongful conviction under this subsection results in:
 - **Long-term incarceration** of the convicted person — the penalty enhancements of Section 7 (long-term deprivation of rights, victim restrained or unable to leave) apply
 - **Repeated wrongful convictions** by the same juror, the same jury panel, or in coordination with the same prosecutor or judge — the pattern may be charged additionally as **Cabalism (Section 1.6)** or **Government Racketeering (Section 1.7)**
 
-### 2.2 Prosecutors
+### 2.6 Prosecutors
 
 Prosecutors exercise state power over accusation, charging, evidence presentation, plea pressure, dismissal, and punishment. Because a prosecutor's duties directly affect the presumption of innocence and the fairness of criminal proceedings, the duties in this section are due-process duties.
 
-### 2.2.1 Affirmative Duties of Prosecutors
+#### 2.6.1 Affirmative Duties of Prosecutors
 
 The duties in this subsection are affirmative and continuing. A prosecutor must perform them without waiting for a defense request, court order, appellate reversal, or post-conviction discovery.
 
-### 2.2.1.1 Duty to Disclose Adverse Evidence
+##### 2.6.1.1 Duty to Disclose Adverse Evidence
 
 > A prosecutor in any criminal proceeding has an **affirmative and continuing duty** to disclose **to the trier of fact (judge or jury)** all evidence in the prosecutor's possession or control that:
 >
@@ -1256,7 +1353,7 @@ The duties in this subsection are affirmative and continuing. A prosecutor must 
 - Disclosure to defense counsel alone, or in pretrial filings without explanation to the jury, is **not sufficient** under this section where the evidence has not been independently presented to the jury during trial
 - The duty is **continuous**: evidence that comes into the prosecutor's possession at any point — before, during, or after trial — must be disclosed without delay
 
-### 2.2.1.1.1 Failure to Disclose; Obstruction of Justice
+###### 2.6.1.1.1 Failure to Disclose; Obstruction of Justice
 
 > A prosecutor's failure to disclose adverse evidence to the jury, where the prosecutor knew or should have known the evidence would tend to undermine the prosecution's claim or establish innocence, is **Obstruction of Justice** under this title.
 
@@ -1272,7 +1369,7 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 - Attaching **criminal liability** to violations, rather than only the remedy of vacatur on appeal
 - Treating disclosure as a **continuing duty** that follows the evidence, not a one-time pretrial obligation
 
-### 2.2.1.2 Duty to Seek Reduction or Dismissal
+##### 2.6.1.2 Duty to Seek Reduction or Dismissal
 
 > A prosecutor has an **affirmative and continuing duty** — at any point before, during, or after trial, **including after conviction** — to seek **reduction of charges** or **dismissal** when the available evidence establishes that:
 >
@@ -1288,7 +1385,7 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 - Emergence of facts indicating the conduct was not criminal (e.g., a legal defense applies, or the claimed harm did not occur)
 - Subsequent legal developments rendering the charged conduct non-criminal
 
-### 2.2.1.2.1 Failure to Seek Reduction or Dismissal
+###### 2.6.1.2.1 Failure to Seek Reduction or Dismissal
 
 > Where a prosecutor knows of facts that would warrant reduction or dismissal under this subsection and **fails to seek** such reduction or dismissal, the prosecutor commits a **Class 3 felony** under this title.
 
@@ -1308,11 +1405,11 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 
 This subsection shall be construed broadly in favor of the accused and convicted person, consistent with Section 1.5.2. The prosecutor's duty runs to the **truth**, not to the conviction; failure to act on the truth, when known, is itself reachable conduct under this title.
 
-### 2.3 Judges
+### 2.7 Judges
 
 Judges exercise state power over warrants, rulings, evidence, trials, sentencing, liberty, property, and access to the courts. Because judicial action directly controls whether due process is real or merely procedural language, the duties in this section are due-process duties.
 
-### 2.3.1 Affirmative Duties of Judges
+#### 2.7.1 Affirmative Duties of Judges
 
 The following duties make **judicial impartiality, engagement, and procedural integrity criminally enforceable** rather than merely aspirational.
 
@@ -1320,9 +1417,9 @@ A judge's role under this title is **not** to rubber-stamp the requests of prose
 
 > The robe is not a license. It is a constraint.
 
-These duties operate alongside the existing judicial-conduct provisions of this title — including the abrogation of judicial immunity in Section 5.1.1; the reckless-prosecution liability of Section 2.1.2 (Mandatory Juror Documentation) and Section 2.1.1 (Juror Rights); the no-judicial-gatekeeping provisions of Sections 9.4 and 9.9; and the Logical Consistency Review duties of Section 9.14.
+These duties operate alongside the existing judicial-conduct provisions of this title — including the abrogation of judicial immunity in Section 5.1.1; the reckless-prosecution liability of Section 2.5.2 (Mandatory Juror Documentation) and Section 2.5.1 (Juror Rights); the no-judicial-gatekeeping provisions of Sections 9.4 and 9.9; and the Logical Consistency Review duties of Section 9.14.
 
-### 2.3.1.1 Judicial Duty of Impartiality and Recusal
+##### 2.7.1.1 Judicial Duty of Impartiality and Recusal
 
 > A judge has an **affirmative and continuing duty to disqualify themselves** (recuse) from any case in which the judge:
 >
@@ -1345,7 +1442,7 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 - A pattern of failures to recuse may be additionally charged as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
 - A conviction or judgment entered after a failure-to-recuse is presumptively subject to vacatur on direct or collateral review
 
-### 2.3.1.2 Judicial Duty to Engage on the Merits
+##### 2.7.1.2 Judicial Duty to Engage on the Merits
 
 > A judge has an affirmative duty, in any case before them, to **engage with the evidence and the law on the merits** and to **issue a reasoned written ruling** that addresses each material fact, claim, defense, and motion raised by the parties.
 
@@ -1359,12 +1456,12 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 
 **Failure — Reckless Prosecution / Anarchy:**
 
-- Where a judge knowingly fails to engage with the evidence or law on the merits, the conduct is **reckless prosecution** under Section 2.1.2 — a **Class 2 felony**
+- Where a judge knowingly fails to engage with the evidence or law on the merits, the conduct is **reckless prosecution** under Section 2.5.2 — a **Class 2 felony**
 - Where the failure rises to acting completely outside the judicial role (e.g., issuing rulings with no factual or legal basis), the conduct is **Anarchy** under Section 1.10
 - A pattern of such failures may be charged additionally as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
 - Penalty enhancements under Section 7 apply, particularly the long-term-deprivation enhancement where a citizen suffers continuing consequences
 
-### 2.3.1.3 Prohibition on Ex Parte Communications
+##### 2.7.1.3 Prohibition on Ex Parte Communications
 
 > A judge **shall not engage in any ex parte communication** with any party, attorney, prosecutor, witness, or other interested person concerning the merits of any pending case before them, except as expressly permitted by law.
 
@@ -1388,15 +1485,15 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 - Where committed with **malice** or as part of a **pattern**, the conduct is elevated to a **capital offense** per Section 3
 - A judicial ruling materially influenced by a prohibited ex parte communication is presumptively subject to vacatur
 
-### 2.3.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors
+##### 2.7.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors
 
 > A judge has an affirmative and continuing duty to **apply the mandatory rules of criminal and civil procedure correctly** — and to **correct errors** when they are discovered, whether by the judge, by counsel, by appellate review, or by Citizen Council action.
 
 **Mandatory Rules Include, Without Limitation:**
 
-- The juror documentation requirements of **Section 2.1.2**
-- The juror rights, verdict options, and instruction requirements of **Section 2.1.1**
-- The disclosure obligations imposed on prosecutors under **Section 2.2.1.1**, and the court's role in enforcing them
+- The juror documentation requirements of **Section 2.5.2**
+- The juror rights, verdict options, and instruction requirements of **Section 2.5.1**
+- The disclosure obligations imposed on prosecutors under **Section 2.6.1.1**, and the court's role in enforcing them
 - The four-level mens rea framework of **Section 3**
 - The no-immunity provisions of **Section 5.1**
 - The Citizen Council mechanisms of **Section 9**, including the no-judicial-gatekeeping rule of §9.4 and the Logical Consistency Review duty of §9.14
@@ -1421,13 +1518,281 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 
 This subsection shall be construed broadly in favor of the citizen affected by the judicial failure, consistent with Section 1.5.2. The judge's duty runs to the **law as written and to the citizen as protected by it** — not to institutional convenience, professional courtesy, or the maintenance of past practice.
 
-### 2.4 Officers
+### 2.8 Officers
 
 Officers exercise state power through investigation, detention, search, seizure, force, citation, arrest, interrogation, reporting, and referral. Because officer conduct often creates the facts and records that later control prosecution and judicial action, the duties in this section are due-process duties.
 
-### 2.4.1 Affirmative Duties of Officers
+#### 2.8.1 Custodial Rights Interference
 
-This subsection is reserved for affirmative officer duties that protect due process, including duties to document, preserve, disclose, correct, and refrain from coercive or misleading enforcement conduct.
+> A peace officer, detention officer, investigator, prosecutor, or other government actor commits **custodial rights interference** where, after a citizen is arrested, detained, accused, or otherwise subjected to custodial questioning, the actor knowingly or recklessly uses questioning, delay, confusion, deception, repetition, implied pressure, or procedural manipulation to obtain speech from the citizen in violation of the citizen's right to remain silent, right against self-incrimination, right to counsel, or right to due process.
+
+**Duty Triggered by Custody, Accusation, or Warning:**
+
+The duties in this section arise immediately when any of the following occurs:
+
+- The citizen is arrested, handcuffed, jailed, booked, transported in custody, or otherwise not free to leave
+- The citizen is directly accused of a crime by a government actor
+- A government actor begins questioning reasonably likely to elicit an incriminating statement
+- A government actor gives, reads, summarizes, or invokes a Miranda warning or equivalent rights advisement
+- The citizen states, asks for, or otherwise indicates a wish to remain silent, to stop answering, to speak with counsel, to call counsel, or to have counsel present
+
+**Affirmative Duties:**
+
+Once a duty is triggered under this section, the government actor shall:
+
+- Stop all interrogation immediately when the citizen invokes silence or counsel
+- Ask only questions reasonably necessary to determine whether the citizen understands the rights advisement, and shall not use comprehension questions as a gateway to substantive interrogation
+- Treat confusion, hesitation, distress, intoxication, disability, language barrier, youth, exhaustion, or mental-health impairment as requiring clarification and protection of rights, not as an opportunity to secure a waiver
+- Provide counsel before any further questioning where counsel is requested or where the citizen cannot knowingly and voluntarily waive rights
+- Record custodial questioning in full where practicable, including the rights advisement, any waiver, any invocation, all pauses, all officer statements, and all citizen responses
+- Preserve all recordings, notes, forms, body-camera footage, interview-room footage, transport recordings, booking recordings, and related metadata
+
+**Prohibited Conduct Includes, Without Limitation:**
+
+- Continuing to question the citizen after the citizen invokes silence or counsel
+- Continuing to ask variations of *"do you understand?"*, *"are you sure?"*, *"you know this is your chance to explain, right?"*, or similar questions after a rights advisement where the purpose or reasonably foreseeable effect is to induce the citizen to keep talking
+- Treating a citizen's answer to a comprehension question as a waiver of rights, unless the citizen separately, clearly, knowingly, and voluntarily waives the right to silence and the right to counsel
+- Repeating Miranda warnings, waiver forms, or comprehension questions in a manner designed to wear down resistance or convert silence into speech
+- Telling or implying that silence, requesting counsel, refusing to sign a waiver, or asking to stop questioning will make things worse for the citizen
+- Suggesting that cooperation is required, expected, morally necessary, or the only way to avoid harsher treatment, where the citizen has not validly waived rights
+- Using booking, transport, medical, welfare-check, identification, or administrative questions as a pretext to elicit incriminating statements
+- Moving the citizen to another officer, room, agency, jail unit, transport vehicle, or interview setting to restart questioning after invocation
+- Questioning through a third party, family member, informant, jail staff member, social worker, school official, or other intermediary to evade the citizen's invocation
+- Failing to record or preserve a custodial interview where recording was practicable, or selectively recording only the portion favorable to the government
+- Misstating the citizen's words, silence, hesitation, invocation, or refusal as cooperation, waiver, confession, consciousness of guilt, or admission
+
+**Miranda Cycling and Comprehension Traps:**
+
+> It is a distinct violation of this section for a government actor to use the required rights advisement itself as an instrument of coercion, confusion, or entrapment.
+
+This includes repeatedly returning to *"do you understand these rights?"*, *"with these rights in mind..."*, waiver paperwork, initials, signatures, or similar formalities after the citizen has invoked or hesitated, where the actor's purpose or reasonably foreseeable effect is to cause the citizen to speak when the citizen has not freely chosen to waive rights.
+
+**Effect on Statements and Evidence:**
+
+- Any statement obtained in violation of this section is presumptively involuntary and inadmissible in any criminal, civil, administrative, immigration, school-disciplinary, parole, probation, pretrial-release, or licensing proceeding
+- Derivative evidence obtained because of the violation is presumptively tainted unless the government proves by clear and convincing evidence that the evidence would have been discovered through wholly independent lawful means
+- A prosecutor who knowingly uses, threatens to use, or fails to disclose the violation concerning a statement obtained under this section may be charged cumulatively under §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), or §17.5 (Gross Dereliction of Public Duty), as applicable
+
+**Classification:**
+
+- Reckless violation: **Class 3 felony**
+- Intentional violation: **Class 2 felony**
+- Violation producing a confession, admission, plea, conviction, probation revocation, parole revocation, immigration consequence, school expulsion, professional discipline, or other material deprivation of rights: **Class 2 felony**, chargeable cumulatively under §1.3 (Battery)
+- Violation committed with malice, as part of a pattern, or against a child, disabled person, intoxicated person, mentally impaired person, non-English speaker without adequate interpretation, or citizen in medical or psychological crisis: **capital offense**
+- Where the violation contributes to long-term incarceration, wrongful conviction, death in custody, capital sentence, or suicide, the penalty enhancements of Section 7 and the death-resulting provisions of Section 12 apply
+
+**Defenses Limited:**
+
+- "The citizen kept talking" is not a defense where the actor's conduct foreseeably caused, induced, pressured, confused, or exploited the continued speech
+- "The question was only procedural" is not a defense where the question was used or reasonably likely to elicit an incriminating response
+- "The citizen signed a form" is not a defense where the waiver was obtained through confusion, repetition, fatigue, fear, deception, disability, language barrier, youth, or implied threat
+- Departmental policy, training custom, professional habit, or "standard interview technique" is not a defense
+
+#### 2.8.2 Badge Display Failure
+
+> A peace officer or other government actor exercising public enforcement authority commits **badge display failure** where the actor refuses or fails, upon request, to identify the actor's name, badge number or employee identifier, agency, and supervisor or chain of command during non-undercover public enforcement.
+
+**Classification:**
+
+- Badge display failure is an **infraction**
+- A second or subsequent violation within twenty-four (24) months is a **Class 1 misdemeanor**
+- Where the refusal is used to conceal force, detention, search, seizure, retaliation, or other misconduct, charge cumulatively under §17.4 (Deliberate Record Distortion), §17.9 (Failure of Transparency), or the underlying offense
+
+**Limitations:**
+
+- Undercover operations and immediate life-safety emergencies may delay identification only as long as reasonably necessary
+- Once the safety condition ends, identification must be provided without further request
+
+#### 2.8.3 Unrecorded Enforcement Contact
+
+> A peace officer, detention officer, investigator, code-enforcement officer, school resource officer, or other government actor equipped with required recording equipment commits **unrecorded enforcement contact** where the actor fails to activate, maintain, preserve, or disclose required recording during a citizen contact involving enforcement, detention, search, seizure, questioning, citation, arrest, use of force, complaint intake, child removal, or threat of official action.
+
+**Classification:**
+
+- Unrecorded enforcement contact is a **Class 3 felony**
+- Where the failure to record affects force, custody, interrogation, consent, search, seizure, complaint evidence, child removal, or criminal prosecution, charge cumulatively under §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), or any underlying offense
+- Where the missing recording would likely have contained exculpatory or impeachment evidence, prosecutors have disclosure duties under §2.6.1.1
+
+**Defenses Limited:**
+
+- Accidental failure is not a defense where the actor failed to perform required equipment checks, failed to report the failure promptly, or continued enforcement after discovering the failure
+- Technical failure is not a defense unless documented contemporaneously and preserved in the official record
+- Muting, obscuring, disabling, delaying activation, or selectively recording is treated as intentional failure unless clearly justified by an immediate lawful necessity
+
+#### 2.8.4 Custodial Medical Abandonment
+
+> A government actor commits **custodial medical abandonment** where the actor, jail, prison, detention center, holding facility, hospital guard unit, transport unit, or responsible agency fails to provide necessary medical care, medication, disability accommodation, mental-health care, suicide prevention, withdrawal care, hygiene, food, water, safe housing, or protection from known violence to a person in custody.
+
+**Classification:**
+
+- Custodial medical abandonment is a **Class 3 felony**
+- Where serious illness, injury, suicide attempt, withdrawal crisis, sexual assault, prolonged isolation harm, denial of prescribed medication, or disability aggravation results, the offense is a **Class 2 felony**
+- Where death, suicide, or serious bodily injury results, the offense is a **capital offense**, and Section 11 applies where the elements are met
+
+#### 2.8.5 Citizenship-Claim Detention Obstruction
+
+> A government actor commits **citizenship-claim detention obstruction** where the actor detains, extends detention, transfers, reports, refuses release, honors a detainer, or facilitates removal against a person who claims U.S. citizenship, lawful status, mistaken identity, or lack of probable cause, without prompt good-faith investigation and neutral legal authority.
+
+**Classification:**
+
+- Citizenship-claim detention obstruction is a **Class 2 felony**
+- Where the person is transferred out of state, placed in removal proceedings, deported, separated from family, denied medication, or held more than forty-eight (48) hours after lawful release eligibility, the offense is a **capital offense**
+- Charge cumulatively under §1.3 (Battery), §2.9 (Constitutional Objection Duty), §17.9K (Language-Access Obstruction), or §2.8.4 (Custodial Medical Abandonment) where applicable
+
+#### 2.8.6 Sheriff Custody and Release Obstruction
+
+> A sheriff, jail official, detention officer, marshal, transport officer, court-security officer, or custody contractor commits **sheriff custody and release obstruction** where the actor refuses, delays, conditions, or obstructs lawful release, attorney access, court access, Citizen Council access, family notification, medical access, medication, interpreter access, disability accommodation, records access, complaint filing, or production of custody records for a person in custody.
+
+**Includes, Without Limitation:**
+
+- Holding a citizen after lawful release eligibility, posting of bond, dismissal, court order, writ, detainer expiration, or correction of identity
+- Refusing timely access to counsel, legal mail, filing materials, court orders, medication, medical requests, grievance forms, body-camera footage, jail recordings, or booking records
+- Conditioning release, visitation, medical care, phone access, complaint access, or records access on waiver, silence, payment, apology, cooperation, plea, or abandonment of a right
+- Using "jail policy," "security," "classification," "computer delay," "transport availability," or "we are waiting on paperwork" as a pretext to continue custody or deny required access
+
+**Classification:**
+
+- Sheriff custody and release obstruction is a **Class 3 felony**
+- Where the obstruction causes additional confinement, missed court deadline, loss of counsel, medical crisis, family separation, job loss, housing loss, immigration consequence, or inability to preserve evidence, the offense is a **Class 2 felony**
+- Where the obstruction is intentional, retaliatory, discriminatory, or affects a child, disabled person, non-English speaker, medically dependent person, pregnant person, or person in behavioral-health crisis, the offense is a **capital offense**
+- Charge cumulatively under §1.3, §1.13, §17.9K, §2.8.4, or §2.8.5 where applicable
+
+### 2.9 Constitutional Objection Duty
+
+> A government actor who is informed by a citizen that a statute, ordinance, regulation, order, warrant, policy, or other government instrument is unconstitutional, repugnant, void, or unenforceable has an immediate duty to pause enforcement long enough to consider the claim in good faith against the Constitution of the United States, the Utah Constitution, this Act, and any authority identified by the citizen.
+
+**Offense:**
+
+A government actor commits **constitutional objection obstruction** where:
+
+- A citizen states, orally or in writing, that the government instrument being invoked is unconstitutional, repugnant, void, or unenforceable
+- The citizen identifies, in substance, the right, constitutional provision, statutory provision, logical inconsistency, or conflict that makes the instrument unenforceable
+- The government actor continues, threatens to continue, directs, signs, authorizes, or attempts enforcement without good-faith engagement with the citizen's objection
+- The instrument is in fact repugnant, void, or unenforceable under Section 16.5 or any other provision of this Act
+
+**Actors Covered:**
+
+This section applies to every government actor, including without limitation:
+
+- A peace officer, deputy, federal agent, code-enforcement officer, regulator, school official, detention officer, or other executive actor who attempts to enforce the instrument against the citizen
+- A judge, magistrate, administrative law judge, clerk, bailiff, or other court actor who issues, signs, approves, maintains, or enforces the instrument after the objection is raised
+- A prosecutor or agency attorney who relies on, threatens to rely on, or seeks punishment under the instrument after the objection is raised
+
+**Good-Faith Engagement Required:**
+
+Good-faith engagement requires more than saying *"take it up with the judge,"* *"tell it to the court,"* *"I just enforce the law,"* *"the legislature passed it,"* *"policy says so,"* or words to similar effect. At minimum, the actor must identify the lawful authority the actor believes overrides the citizen's objection, or must suspend enforcement until a competent determination can be made under Section 16.4 or Section 9.14.
+
+**Classification:**
+
+- Constitutional objection obstruction is a **Class 2 felony**
+- Where the continued enforcement causes actual deprivation of liberty, property, parental rights, bodily autonomy, livelihood, or any other protected right, the conduct may be charged cumulatively under **§1.3 (Battery)**
+- Where the actor is a judge or judicial officer, the conduct may be charged cumulatively under **§2.7.1.2 (Judicial Duty to Engage on the Merits)** and **§2.7.1.4 (Judicial Duty to Apply Mandatory Rules and Correct Errors)**
+- Where the continued enforcement is part of a pattern, policy, coordinated practice, or institutional scheme, it may be charged cumulatively under **§1.6 (Cabalism)**, **§1.7 (Government Racketeering)**, or **§1.9 (Treason)** where the elements are met
+
+**Defenses Limited:**
+
+- Ignorance of the Constitution, this Act, or the right identified by the citizen is not a defense
+- Reliance on departmental policy, training, superior orders, common practice, legislative enactment, or the facial existence of the instrument is not a defense
+- The citizen is not required to cite a case name, statute number, section number, or exact legal phrase where the citizen's objection fairly identifies the constitutional or legal conflict in substance
+- The absence of a prior court ruling declaring the instrument unconstitutional is not a defense where the instrument is repugnant under Section 16.5
+
+### 2.10 Court Access and Counsel
+
+The offenses of this subsection protect a citizen's access to the courts, to counsel, to the public record, and to the practical means of asserting rights before any government decisionmaker. They apply to judges, magistrates, clerks, court administrators, bailiffs, self-help center staff, filing-office staff, public-meeting administrators, election officials, public guardians, agency hearing officers, and any other government actor whose conduct affects a citizen's practical access to court process, counsel, or public records.
+
+#### 2.10.1 Court Access Burdening
+
+> A court actor commits **court access burdening** where the actor gives misleading filing instructions, hides or withholds required forms, refuses to provide required access information, misdirects a citizen about filing location or procedure, refuses to accept a filing without lawful basis, or imposes informal barriers that burden a citizen's access to the courts.
+
+**Actors Covered:**
+
+This section applies to judges, magistrates, clerks, court administrators, bailiffs, self-help center staff, filing-office staff, probation or pretrial officers acting as court gatekeepers, and any other government actor whose conduct affects a citizen's practical access to court process.
+
+**Classification:**
+
+- Court access burdening is a **Class 1 misdemeanor**
+- Where the burden causes missed deadline, default, dismissal, warrant, detention, loss of appeal, loss of custody, loss of housing, loss of benefits, or inability to seek protection from violence, the conduct is a **Class 3 felony**
+- Where the burden is intentional, retaliatory, discriminatory, or part of a pattern, charge cumulatively under §17.2 (Institutional Retaliation), §17.9 (Failure of Transparency), §1.13 (Official Intimidation), or §1.10 (Anarchy), as applicable
+
+**Defenses Limited:**
+
+- "We do not give legal advice" is not a defense to refusing access to forms, filing instructions, fee-waiver information, docket information, interpreter access, disability accommodation, or other required procedural access
+- Local custom, staffing shortage, software limits, or personal irritation with the citizen is not a defense
+
+#### 2.10.2 Constructive Denial of Counsel Under Color of Law
+
+> A government actor commits **constructive denial of counsel under color of law** where the actor funds, administers, contracts, assigns, pressures, or adjudicates a criminal, juvenile, family, immigration, child-welfare, contempt, probation, parole, or detention system while knowing that counsel is unavailable, unreasonably delayed, overloaded, conflicted, denied confidential access, denied discovery, or structurally unable to provide meaningful defense.
+
+**Classification:**
+
+- Constructive denial of counsel is a **Class 2 felony**
+- Where the failure produces plea coercion, incarceration, conviction, deportation, loss of parental rights, detention, contempt, probation or parole revocation, or death-penalty exposure, the offense is a **capital offense**
+- Judges, prosecutors, public-defense administrators, contract managers, county officials, state officials, and court actors may be charged cumulatively where they knowingly maintain or rely on the defective system
+
+#### 2.10.3 Wealth-Based Liberty Denial
+
+> A judge, magistrate, prosecutor, pretrial officer, sheriff, jail official, clerk, or other court actor commits **wealth-based liberty denial** where the actor seeks, orders, maintains, or administers pretrial detention, bail, bond, fees, GPS monitoring, release conditions, payment plans, or supervision conditions without individualized findings that the restriction is necessary, nonpunitive, affordable, and the least restrictive lawful means available.
+
+**Classification:**
+
+- Wealth-based liberty denial is a **Class 3 felony**
+- Where the citizen remains jailed solely because of inability to pay, loses employment, housing, custody, medical care, education, benefits, or pleads guilty to escape detention, the offense is a **Class 2 felony**
+- Where death, suicide, or serious bodily injury results, Section 11 applies
+
+#### 2.10.4 Clerk Access Obstruction
+
+> A court clerk, city clerk, county clerk, agency clerk, records clerk, filing-office employee, court administrator, public-meeting administrator, election clerk, or any government actor responsible for receiving, docketing, timestamping, certifying, preserving, or producing public records commits **clerk access obstruction** where the actor refuses, delays, misroutes, buries, rejects, alters, or conditions access to a filing, petition, complaint, notice, appeal, public-record request, docket entry, meeting record, certified copy, agenda item, election document, Citizen Council document, or other citizen submission without lawful written authority.
+
+**Includes, Without Limitation:**
+
+- Refusing to file, timestamp, scan, docket, certify, transmit, or receipt a citizen's filing because the citizen is self-represented, unpopular, critical of government, invoking rights, or seeking accountability
+- Telling a citizen that a clerk "cannot accept" a filing, complaint, public-record request, notice, petition, appeal, or Council document without identifying the specific law that forbids acceptance
+- Requiring unnecessary appointments, portals, accounts, attorney signatures, formatting conditions, excessive copies, unofficial fees, or informal permission before accepting a document
+- Withholding forms, fee-waiver information, appeal instructions, certified copies, meeting minutes, agendas, recordings, docket information, or records needed to preserve a right
+- Refusing to provide a written rejection, date-stamped receipt, tracking number, or appeal path when access is denied
+
+**Classification:**
+
+- Clerk access obstruction is a **Class 1 misdemeanor**
+- Where the obstruction causes missed deadline, default, dismissal, warrant, loss of appeal, denial of public meeting participation, election harm, loss of benefits, loss of custody, loss of housing, loss of license, or inability to seek protection from violence, the offense is a **Class 3 felony**
+- Where the obstruction is intentional, retaliatory, discriminatory, election-related, or directed at a Citizen Council, complainant, witness, constitutional objection, or public-record request concerning government misconduct, the offense is a **Class 2 felony**
+- Charge cumulatively under §17.9, §2.10.1, §17.4A, §1.13, or §9.9 where applicable
+
+#### 2.10.5 Docket, Agenda, and Minutes Distortion
+
+> A clerk, court administrator, city recorder, county clerk, public-meeting officer, election official, records custodian, or other government actor commits **docket, agenda, and minutes distortion** where the actor falsifies, omits, alters, backdates, postdates, mislabels, conceals, or selectively publishes a docket entry, filing timestamp, public-meeting notice, agenda, minutes, recording, vote record, certified copy, election record, petition record, or public-record log.
+
+**Includes, Without Limitation:**
+
+- Altering the date, time, sequence, title, party, case number, receipt, agenda item, vote, or disposition of a filing or public action
+- Publishing minutes or agendas that omit citizen objections, public comments, dissenting votes, recusals, conflicts of interest, constitutional objections, or Council-related matters
+- Creating a public record that makes a late action appear timely, an unlawful meeting appear noticed, a rejected filing appear absent, or a contested action appear unanimous
+- Removing metadata, audit logs, draft histories, recording segments, vote records, or filing logs necessary to verify the official record
+
+**Classification:**
+
+- Docket, agenda, and minutes distortion is a **Class 3 felony**
+- Where the distortion affects court access, criminal prosecution, child custody, election administration, public debt, public contracts, zoning, property rights, Citizen Council action, or constitutional rights, the offense is a **Class 2 felony**
+- Where the distortion is coordinated by multiple actors, conceals corruption, changes an election outcome, causes incarceration, or defeats a citizen's ability to challenge government action, the offense is a **capital offense**
+- Charge cumulatively under §17.4, §17.4A, §17.6, §17.20, §17.21, or §1.7 where applicable
+
+#### 2.10.6 Citizen Filing Gatekeeping
+
+> A clerk, court actor, city clerk, county clerk, administrative hearing officer, records custodian, or agency employee commits **citizen filing gatekeeping** where the actor imposes an unauthorized barrier between a citizen and the citizen's ability to file, object, appeal, complain, petition, request records, request a hearing, challenge a statute, or place a matter before a lawful decisionmaker.
+
+**Prohibited Barriers Include, Without Limitation:**
+
+- Requiring a lawyer where law permits self-representation
+- Refusing plain-language filings because they are not written in preferred legal style, agency style, or court style
+- Rejecting filings for curable formatting issues without accepting them for filing and issuing a written deficiency notice
+- Refusing filings that accuse government actors of crime, corruption, oath violation, constitutional violation, or misconduct
+- Redirecting the citizen in circles between departments, clerks, websites, help desks, supervisors, or courts until the deadline passes
+
+**Classification:**
+
+- Citizen filing gatekeeping is a **Class 1 misdemeanor**
+- Where the barrier prevents timely filing, appeal, hearing, complaint intake, public-record access, election participation, or preservation of a right, the offense is a **Class 3 felony**
+- Where the barrier is used against a Citizen Council, constitutional challenge, public corruption complaint, criminal defendant, parent facing child removal, detained person, disabled person, elderly person, or non-English speaker, the offense is a **Class 2 felony**
 
 ## Section 3 — Mens Rea: Criminal and Civil
 
@@ -1728,106 +2093,7 @@ Where suicidal ideation under this section progresses to an act of suicide, the 
 
 ### 7.3 Hearsay and Statement Evidence for Penalty Enhancements
 
-Penalty enhancements under this section may be supported by statement evidence admissible under Section 8, including testimony that a witness heard a government actor, victim, family member, officer, official, or other person make a relevant statement. A statement may not be rejected merely because it is labeled hearsay where the same kind of statement would be admitted or used against a citizen.
-
----
-
-## Section 8 — Hearsay and Equal Use of Statement Evidence
-
-### 8.1 Purpose
-
-This section fixes the hearsay gap.
-
-The ordinary hearsay doctrine grew from a real concern: an out-of-court statement may be unreliable because the original speaker is not present, not under oath, and not available for cross-examination. That concern is legitimate when applied honestly.
-
-But the doctrine has often operated unevenly. Statements made by a citizen are frequently admitted against the citizen as admissions, confessions, statements against interest, background facts, officer testimony, recorded statements, business records, jail calls, texts, emails, or other exceptions. Meanwhile, similar statements offered by the citizen for defense, mitigation, impeachment, context, innocence, coercion, bias, or government misconduct are often excluded as "hearsay."
-
-This asymmetry also damages cross-examination. When the state is allowed to build its prosecution through hearsay, summaries of statements, reports about what someone said, officer descriptions of interviews, or selective fragments of out-of-court speech, but the defendant is not allowed to present comparable hearsay to explain, contradict, contextualize, impeach, or defend against that material, cross-examination becomes unreliable. The defendant is forced to fight a partial representation of truth while being denied the statement evidence needed to expose the partiality.
-
-This Act rejects one-way hearsay. If a statement can be used as ammunition against a citizen, the same kind of statement can be used by the citizen, the defense, a claimant, a Citizen Council, or any proceeding under this Act where it tends to show innocence, mitigation, context, government misconduct, bias, retaliation, coercion, unreliability, penalty enhancement, or a protected right.
-
-### 8.2 Representation of Truth; Testimony Is Also a Report
-
-For purposes of this Act, a spoken or written statement is a **representation of truth**, not truth itself. That is true whether the statement is made in court or out of court.
-
-When a witness testifies, *"I heard him say that,"* the witness is testifying to a fact: that the witness heard the statement. The trier of fact may still decide whether the witness is credible, whether the statement was actually made, what the statement meant, whether the original speaker was truthful, and how much weight the statement deserves.
-
-The same is true of ordinary testimony. A witness who says *"I saw it happen"* is also giving a representation of perceived truth. The testimony is evidence, not reality itself. The law may test it through oath, cross-examination, contradiction, corroboration, impeachment, logic, and jury evaluation, but it is still a human report.
-
-Because all testimonial evidence is a human representation of truth, hearsay may not be treated as categorically worthless for the citizen and categorically useful for the government. Reliability is a question of weight, context, corroboration, confrontation, and fairness — not a one-way label.
-
-### 8.3 Equal Use Rule
-
-In any criminal, civil, administrative, Citizen Council, conviction-review, penalty-enhancement, or other proceeding under this Act:
-
-- A statement category admitted against a citizen shall be equally available to the citizen when offered for defense, mitigation, impeachment, context, innocence, explanation, or proof of government misconduct
-- A statement category admitted for the government shall be equally available against the government, a government actor, a government body, or a contractor exercising delegated public power
-- A court may not admit an out-of-court statement because it helps the prosecution while excluding a materially similar out-of-court statement because it helps the defense
-- A court may not treat a citizen's words as reliable when used against the citizen and unreliable when used for the citizen
-- A court may not treat government records, police summaries, officer testimony about statements, agency notes, jail calls, recorded statements, text messages, emails, dispatch logs, interview summaries, or official reports as reliable for prosecution while treating comparable defense evidence as inadmissible hearsay
-
-The controlling principle is symmetry: hearsay rules may test reliability, but they may not create a government advantage.
-
-### 8.4 Defense-Favorable Statement Evidence
-
-The following statement evidence is admissible when offered by a citizen, accused person, claimant, defense counsel, Citizen Council, or other non-government party to show innocence, mitigation, context, unreliability, rights violation, government misconduct, retaliation, coercion, bias, penalty enhancement, or any defense recognized by law:
-
-- A statement heard by a witness
-- A prior statement by a witness, victim, government actor, investigator, informant, complainant, or third party
-- A statement by a government actor, agency employee, contractor, jail official, officer, prosecutor, judge, clerk, or public servant
-- A statement in a government record, police report, dispatch log, body-camera recording, jail call, agency note, email, text message, letter, form, database entry, or official communication
-- A statement showing fear, confusion, distress, coercion, motive, bias, retaliation, pressure, intimidation, family threat, suicidal ideation, psychological harm, or state of mind
-- A statement explaining why a citizen acted, refused consent, fled, complied, froze, remained silent, invoked rights, signed a document, entered a plea, failed to appear, missed a deadline, or appeared confused
-- A statement tending to show that a government actor knew, should have known, ignored, concealed, distorted, or recklessly disregarded facts relevant to a citizen's rights
-
-This section applies whether the statement is offered for the truth of the matter asserted, for the fact that the statement was made, for notice, for state of mind, for motive, for context, for impeachment, for pattern, for corroboration, or for any other logically relevant purpose.
-
-### 8.5 Government Admissions and Public-Power Statements
-
-For purposes of this Act, a statement by a government actor concerning official conduct, public duty, investigation, enforcement, custody, prosecution, adjudication, records, policy, training, supervision, funding, discipline, or rights compliance is admissible against:
-
-- The speaker
-- The speaker's office or agency
-- Any government body responsible for the actor's authority
-- Any government actor who adopted, repeated, relied upon, concealed, failed to correct, or acted upon the statement
-
-The government may not claim that a government actor's statement is merely private, informal, unauthenticated, or unofficial where the statement concerns public power, official conduct, or the rights of a citizen affected by that power.
-
-### 8.6 No One-Way Exception
-
-No hearsay exception, exemption, doctrine, custom, evidentiary shortcut, or officer-testimony practice may operate only in favor of the prosecution or government.
-
-If the prosecution may introduce a citizen's out-of-court statement as an admission, then the citizen may introduce relevant out-of-court statements by government actors, witnesses, alleged victims, informants, officers, agencies, or third parties when those statements support the citizen's defense or show government misconduct.
-
-If the government may use a statement to prove guilt, knowledge, motive, identity, intent, state of mind, course of conduct, notice, context, or absence of mistake, then the citizen may use comparable statement evidence to prove innocence, lawful motive, fear, confusion, coercion, self-defense, necessity, rights invocation, retaliation, bias, misconduct, lack of intent, or reasonable doubt.
-
-### 8.7 Confrontation, Reliability, and Weight
-
-This section does not abolish the right of confrontation. Where the Constitution requires confrontation before testimonial hearsay may be used against an accused citizen, that constitutional protection remains fully in force.
-
-This section prevents confrontation and hearsay doctrines from being inverted into a shield for the government. A citizen may waive confrontation as to defense-favorable evidence the citizen offers. The government may not invoke the citizen's confrontation right to block the citizen from presenting defense evidence.
-
-Courts may still consider reliability, prejudice, confusion, fabrication risk, cumulative proof, and authentication, but those concerns must be applied evenhandedly. Where reliability concerns exist, the preferred remedy is disclosure, cross-examination, limiting instruction, weight assessment, corroboration inquiry, or continuance — not categorical exclusion that benefits the government.
-
-### 8.8 Criminal Classification for One-Way Hearsay Suppression
-
-A government actor commits **one-way hearsay suppression** where the actor knowingly or recklessly:
-
-- Argues, rules, instructs, trains, or enforces that a category of statement evidence is admissible when used against a citizen but inadmissible when used for the citizen
-- Excludes, suppresses, discourages, mislabels, conceals, or threatens sanctions over defense-favorable statement evidence while using materially similar statement evidence for prosecution or government advantage
-- Invokes hearsay to block evidence of innocence, mitigation, coercion, bias, retaliation, psychological harm, suicidal ideation, government misconduct, official notice, or rights violation while relying on comparable hearsay against the citizen
-- Instructs a jury, Council, agency, or trier of fact to disregard defense-favorable statement evidence solely because it is hearsay, while allowing comparable government-favorable statement evidence
-
-**Classification:**
-
-- One-way hearsay suppression is a **Class 3 felony**
-- Where the suppression affects charging, plea negotiations, conviction, custody, probation, parole, family separation, loss of housing, loss of livelihood, denial of benefits, or penalty enhancement, the offense is a **Class 2 felony**
-- Where the suppression contributes to wrongful conviction, prolonged incarceration, death in custody, capital sentence, suicide, or serious bodily injury, the offense is a **capital offense**, and Section 12 applies where the elements are met
-- The offense may be charged cumulatively with obstruction of justice, malicious prosecution, deliberate record distortion, public-record spoliation, judicial recklessness, constructive denial of counsel, or any other applicable offense under this Act
-
-### 8.9 Construction
-
-This section shall be construed broadly in favor of the citizen's ability to present evidence and against one-way evidentiary doctrines that advantage public power. A statement's status as hearsay affects weight and testing; it shall not be used as a selective weapon to prevent the citizen from telling the whole truth.
+Penalty enhancements under this section may be supported by statement evidence admissible under Section 2.3, including testimony that a witness heard a government actor, victim, family member, officer, official, or other person make a relevant statement. A statement may not be rejected merely because it is labeled hearsay where the same kind of statement would be admitted or used against a citizen.
 
 ---
 
@@ -2218,7 +2484,7 @@ The reviewing judge **may not** decline review or refuse to nullify on the follo
 A judge who refuses, delays, or refuses to engage in good faith with a Joint Declaration of Logical Consistency Review commits one or more of the following offenses under this title:
 
 - **Anarchy (§1.10)** — refusing to apply a clearly required legal standard while invoking judicial authority is conduct without lawful basis
-- **Reckless prosecution (§2.1.2)** — failing to perform the review duty owed to citizens
+- **Reckless prosecution (§2.5.2)** — failing to perform the review duty owed to citizens
 - **Obstruction (§1.8)** — where the refusal is motivated by the title or affiliation of those who benefit from the inconsistent law
 
 The doctrine of judicial immunity does not apply, consistent with Section 5.1.
@@ -2268,7 +2534,7 @@ A unanimous Council of eighteen (18) or more citizens may, by Joint Declaration 
 A judge or executive official who refuses to give effect to a unanimous 18-member Joint Declaration of Conviction Review commits:
 
 - **Anarchy (§1.10)** — for refusing to apply the legal standard set by this Act while invoking official authority
-- **Reckless prosecution (§2.1.2)** — for the harm imposed on a citizen who would otherwise have been freed, restored, or spared
+- **Reckless prosecution (§2.5.2)** — for the harm imposed on a citizen who would otherwise have been freed, restored, or spared
 - **Obstruction (§1.8)** — where refusal is motivated by the convicted person's status, the system's institutional interests, or political considerations
 
 The doctrine of judicial immunity does not apply, consistent with Section 5.1.
@@ -2472,9 +2738,9 @@ The U.S. Supreme Court has repeatedly recognized that state law may provide **mo
 Such conduct may be charged, depending on the elements established, as one or more of the following offenses under this title:
 
 - **§1.10 Anarchy** — acting completely outside the law where no actual preemption exists (the judge invokes federal authority but lacks any statutory or constitutional basis for the nullification)
-- **§2.1.2 Reckless Prosecution** — issuing a ruling without engaging on the merits or providing reasoning sufficient to identify the supposedly preemptive federal provision
-- **§2.3.1.2 Judicial Duty to Engage on the Merits** — failing to engage with the substance of the Act and the actual federal-state legal framework
-- **§2.3.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — failing to apply the constitutional principles that distinguish actual preemption from a state's grant of greater protection
+- **§2.5.2 Reckless Prosecution** — issuing a ruling without engaging on the merits or providing reasoning sufficient to identify the supposedly preemptive federal provision
+- **§2.7.1.2 Judicial Duty to Engage on the Merits** — failing to engage with the substance of the Act and the actual federal-state legal framework
+- **§2.7.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — failing to apply the constitutional principles that distinguish actual preemption from a state's grant of greater protection
 - **§1.6 Cabalism** — where the improper nullification is the result of small-group coordination of judicial actors producing unjust outcomes for Utah citizens
 - **§1.7 Government Racketeering** — where the nullification is part of a coordinated pattern or scheme using federal judicial authority to extract benefit, punish, or coerce citizens
 - **§1.9 Treason** — where the improper nullification rises to **constitutional warfare** under §1.9: a sustained or coordinated attempt to subvert the Utah Constitution and the protection of Utah citizens by an actor sworn to uphold both that Constitution and the U.S. Constitution
@@ -2494,7 +2760,7 @@ A Citizen Council under Section 9 may investigate and issue a Joint Declaration 
 Specifically, a Citizen Council may, for the same course of conduct, file:
 
 - **(a)** A **Joint Declaration of Prosecution** with the **United States Attorney** for the district, for presentation to a **federal grand jury**, addressing any applicable federal offense (e.g., 18 U.S.C. §§ 241–242, deprivation of rights under color of law); **and concurrently**
-- **(b)** A **Joint Declaration of Prosecution** with the **Utah County Prosecutor's Office** or, where applicable, the **Office of the Governor** under Section 9.5, addressing the federal judge's violations of the substantive offenses of this Act (Anarchy under §1.10, Cabalism under §1.6, Government Racketeering under §1.7, Treason under §1.9, the Judicial Duty offenses of §§2.3.1.1–2.3.1.4, etc., as the elements may be established)
+- **(b)** A **Joint Declaration of Prosecution** with the **Utah County Prosecutor's Office** or, where applicable, the **Office of the Governor** under Section 9.5, addressing the federal judge's violations of the substantive offenses of this Act (Anarchy under §1.10, Cabalism under §1.6, Government Racketeering under §1.7, Treason under §1.9, the Judicial Duty offenses of §§2.7.1.1–2.3.1.4, etc., as the elements may be established)
 
 Both filings may proceed **simultaneously and independently**. Disposition or declination at either level shall **not** bar prosecution at the other (consistent with the concurrent-jurisdiction principle of Section 9.10). Conviction or acquittal under one shall **not** preclude prosecution under the other for the same conduct, where each prosecution rests on a distinct sovereign's law.
 
@@ -2651,8 +2917,8 @@ A government actor's good-faith reliance on the apparent existence or facial val
 Such conduct may be charged, depending on the elements established, as one or more of:
 
 - **§1.10 Anarchy** — acting completely outside the law in issuing or enforcing the repugnant instrument
-- **§2.3.1.2 Judicial Duty to Engage on the Merits** — where the instrument is a judicial judgment, order, or warrant issued without the engagement required by this Act
-- **§2.3.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — where the issuing or enforcing actor failed to apply the constitutional principles that render the instrument null
+- **§2.7.1.2 Judicial Duty to Engage on the Merits** — where the instrument is a judicial judgment, order, or warrant issued without the engagement required by this Act
+- **§2.7.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — where the issuing or enforcing actor failed to apply the constitutional principles that render the instrument null
 - **§1.6 Cabalism** — where the issuance or enforcement is part of small-group coordination producing unjust outcomes for citizens
 - **§1.7 Government Racketeering** — where part of a pattern or scheme using authority to extract benefit, punish, or coerce
 - **§1.9 Treason** — where the issuance or enforcement constitutes constitutional warfare against Utah citizens, the Utah Constitution, or the U.S. Constitution
@@ -2662,45 +2928,6 @@ Such conduct may be charged, depending on the elements established, as one or mo
 
 The doctrine of judicial, prosecutorial, qualified, or sovereign immunity does **not** apply (consistent with §5.1.1).
 
-### 16.3A Constitutional Objection Obstruction
-
-> A government actor who is informed by a citizen that a statute, ordinance, regulation, order, warrant, policy, or other government instrument is unconstitutional, repugnant, void, or unenforceable has an immediate duty to pause enforcement long enough to consider the claim in good faith against the Constitution of the United States, the Utah Constitution, this Act, and any authority identified by the citizen.
-
-**Offense:**
-
-A government actor commits **constitutional objection obstruction** where:
-
-- A citizen states, orally or in writing, that the government instrument being invoked is unconstitutional, repugnant, void, or unenforceable
-- The citizen identifies, in substance, the right, constitutional provision, statutory provision, logical inconsistency, or conflict that makes the instrument unenforceable
-- The government actor continues, threatens to continue, directs, signs, authorizes, or attempts enforcement without good-faith engagement with the citizen's objection
-- The instrument is in fact repugnant, void, or unenforceable under Section 16.5 or any other provision of this Act
-
-**Actors Covered:**
-
-This section applies to every government actor, including without limitation:
-
-- A peace officer, deputy, federal agent, code-enforcement officer, regulator, school official, detention officer, or other executive actor who attempts to enforce the instrument against the citizen
-- A judge, magistrate, administrative law judge, clerk, bailiff, or other court actor who issues, signs, approves, maintains, or enforces the instrument after the objection is raised
-- A prosecutor or agency attorney who relies on, threatens to rely on, or seeks punishment under the instrument after the objection is raised
-
-**Good-Faith Engagement Required:**
-
-Good-faith engagement requires more than saying *"take it up with the judge,"* *"tell it to the court,"* *"I just enforce the law,"* *"the legislature passed it,"* *"policy says so,"* or words to similar effect. At minimum, the actor must identify the lawful authority the actor believes overrides the citizen's objection, or must suspend enforcement until a competent determination can be made under Section 16.4 or Section 9.14.
-
-**Classification:**
-
-- Constitutional objection obstruction is a **Class 2 felony**
-- Where the continued enforcement causes actual deprivation of liberty, property, parental rights, bodily autonomy, livelihood, or any other protected right, the conduct may be charged cumulatively under **§1.3 (Battery)**
-- Where the actor is a judge or judicial officer, the conduct may be charged cumulatively under **§2.3.1.2 (Judicial Duty to Engage on the Merits)** and **§2.3.1.4 (Judicial Duty to Apply Mandatory Rules and Correct Errors)**
-- Where the continued enforcement is part of a pattern, policy, coordinated practice, or institutional scheme, it may be charged cumulatively under **§1.6 (Cabalism)**, **§1.7 (Government Racketeering)**, or **§1.9 (Treason)** where the elements are met
-
-**Defenses Limited:**
-
-- Ignorance of the Constitution, this Act, or the right identified by the citizen is not a defense
-- Reliance on departmental policy, training, superior orders, common practice, legislative enactment, or the facial existence of the instrument is not a defense
-- The citizen is not required to cite a case name, statute number, section number, or exact legal phrase where the citizen's objection fairly identifies the constitutional or legal conflict in substance
-- The absence of a prior court ruling declaring the instrument unconstitutional is not a defense where the instrument is repugnant under Section 16.5
-
 ### 16.4 Determination of Repugnance
 
 A determination that a government instrument is repugnant under this Section may be made by:
@@ -2709,7 +2936,7 @@ A determination that a government instrument is repugnant under this Section may
 - **A Citizen Council under Section 9.14 (Logical Consistency Review)** by unanimous vote of twelve (12) or more members
 - **A Citizen Council under any other applicable provision of Section 9** in the course of investigating or charging conduct under this title
 
-A determination by any of the above is **binding within the State of Utah** and shall be given effect by all government actors immediately and without delay. Failure to give effect to such a determination is itself reachable conduct under §1.10 (Anarchy), §2.3.1.4 (Judicial Duty to Apply Mandatory Rules), or §1.8 (Obstruction).
+A determination by any of the above is **binding within the State of Utah** and shall be given effect by all government actors immediately and without delay. Failure to give effect to such a determination is itself reachable conduct under §1.10 (Anarchy), §2.7.1.4 (Judicial Duty to Apply Mandatory Rules), or §1.8 (Obstruction).
 
 ### 16.5 Standard for Repugnance
 
@@ -2758,7 +2985,7 @@ The criminal and civil mens rea framework of **Section 3** governs each offense 
 | Color of Authority Assault | §1.2 (Assault — Government Context) |
 | Civil Rights Battery | §1.3 (Battery — Government Context) |
 | Selective Enforcement of Law | §1.8 (Obstruction of Justice — Selective Non-Prosecution) |
-| Procedural Suppression | §2.2.1.1 (Disclose Adverse Evidence) + §2.3.1.2 (Engage on the Merits) |
+| Procedural Suppression | §2.6.1.1 (Disclose Adverse Evidence) + §2.7.1.2 (Engage on the Merits) |
 | Authority Abuse Under Color of Court | §1.7 (Government Racketeering) + §1.13 (Official Intimidation) |
 
 ---
@@ -2861,7 +3088,7 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 
 **Cumulative Charging:**
 
-Conduct under this section may be charged cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.2.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.14 (Malicious Prosecution), §1.3 (Battery), §1.13 (Official Intimidation), §1.6 (Cabalism), or §1.7 (Government Racketeering), where the elements are met.
+Conduct under this section may be charged cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.14 (Malicious Prosecution), §1.3 (Battery), §1.13 (Official Intimidation), §1.6 (Cabalism), or §1.7 (Government Racketeering), where the elements are met.
 
 **Defenses Limited:**
 
@@ -2900,9 +3127,9 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 **Classification:**
 
 - **Class 2 felony** (capital offense where committed with malice, or where the distortion affected a criminal prosecution against a citizen)
-- Where the distortion contributed to a wrongful conviction, charge cumulatively under §2.1.3 (Wrongful Conviction as Conspiracy)
-- Where committed by a prosecutor, may also be charged under §2.2.1.1
-- Where committed by a judge or court personnel, may also be charged under §2.3.1.4
+- Where the distortion contributed to a wrongful conviction, charge cumulatively under §2.5.3 (Wrongful Conviction as Conspiracy)
+- Where committed by a prosecutor, may also be charged under §2.6.1.1
+- Where committed by a judge or court personnel, may also be charged under §2.7.1.4
 - Penalty enhancements under Section 7 apply
 
 ### 17.4A Public-Record Spoliation
@@ -2920,7 +3147,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 - Public-record spoliation is a **Class 3 felony**
 - Where the missing or damaged record concerns force, custody, interrogation, exculpatory evidence, property seizure, child removal, jail medical care, court access, or criminal prosecution, the offense is a **Class 2 felony**
 - Where the spoliation contributes to wrongful conviction, incarceration, child removal, death, suicide, or serious bodily injury, the offense is a **capital offense**, and Section 11 applies where the elements are met
-- Charge cumulatively under §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.2.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), or any underlying offense
+- Charge cumulatively under §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), or any underlying offense
 
 ### 17.4B Forensic Truth Corruption
 
@@ -2937,7 +3164,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 - Forensic truth corruption is a **Class 2 felony**
 - Where the corrupted forensic evidence contributes to plea, incarceration, conviction, sex-offender registration, family separation, professional discipline, immigration consequence, or capital exposure, the offense is a **capital offense**
 - Where death, capital sentence, death in custody, or suicide results, Section 11 applies
-- Charge cumulatively under §17.4, §17.4A, §2.2.1.1, §1.14, and §9.15 where applicable
+- Charge cumulatively under §17.4, §17.4A, §2.6.1.1, §1.14, and §9.15 where applicable
 
 ### 17.4C Wrongful-Conviction Chain Liability
 
@@ -2951,7 +3178,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 
 - The classification mirrors the deprivation caused, with a **Class 2 felony floor** where incarceration, conviction, plea coercion, or loss of liberty results
 - Where the conduct contributes to long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 7 apply
-- This section is cumulative to §2.1.3, §2.2.1.1, §2.2.1.2, §1.14, §17.4, §17.4A, and §17.4B
+- This section is cumulative to §2.5.3, §2.6.1.1, §2.6.1.2, §1.14, §17.4, §17.4A, and §17.4B
 
 ### 17.5 Gross Dereliction of Public Duty
 
@@ -3127,7 +3354,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 **Classification:**
 
 - Policy shield statement is a **Class 3 felony**
-- Where the statement is used to obtain consent, entry, waiver, payment, compliance, silence, surrender of property, or abandonment of a legal claim, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), or §16.3A (Constitutional Objection Obstruction)
+- Where the statement is used to obtain consent, entry, waiver, payment, compliance, silence, surrender of property, or abandonment of a legal claim, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), or §2.9 (Constitutional Objection Obstruction)
 
 **Defenses Limited:**
 
@@ -3167,7 +3394,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 
 **Cumulative Charging:**
 
-Conduct under this section may be charged cumulatively under §1.3 (Battery), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3 (Issuance and Enforcement of Repugnant Instruments), §16.3A (Constitutional Objection Obstruction), §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.9 (Failure of Transparency), or §17.23 (Regulatory Weaponization), where the elements are met.
+Conduct under this section may be charged cumulatively under §1.3 (Battery), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3 (Issuance and Enforcement of Repugnant Instruments), §2.9 (Constitutional Objection Obstruction), §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.9 (Failure of Transparency), or §17.23 (Regulatory Weaponization), where the elements are met.
 
 ### 17.9D Recording-Right Interference
 
@@ -3250,7 +3477,7 @@ The existence of an official transcript, official audio, official video, docket 
 - Minor isolated constructive denial is a **Class 1 misdemeanor**
 - Where a protected right, livelihood, housing, family status, medical access, education, legal defense, benefits, licensing, or court access is affected, the offense is a **Class 3 felony**
 - Where done intentionally, discriminatorily, or in retaliation, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.2, §17.9, §17.9A, §17.16A, or §1.13 where the elements are met
+- Charge cumulatively under §17.2, §17.9, §17.9A, §2.10.1, or §1.13 where the elements are met
 
 ### 17.9I Poverty-Based Family Separation
 
@@ -3368,7 +3595,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 
 - Negligent failure: **infraction** under §3.3; **Class 1 misdemeanor** where measurable harm results or the failure repeats after notice
 - Reckless failure: **Class 3 felony**
-- Intentional failure (including intentional omission of exculpatory material): **Class 2 felony**, and may be charged cumulatively under §17.4 (Deliberate Record Distortion) and §2.2.1.1 (where the prosecutor's downstream Brady duty is implicated)
+- Intentional failure (including intentional omission of exculpatory material): **Class 2 felony**, and may be charged cumulatively under §17.4 (Deliberate Record Distortion) and §2.6.1.1 (where the prosecutor's downstream Brady duty is implicated)
 
 ### 17.14 Enforcement Without Articulable Basis
 
@@ -3402,87 +3629,6 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 - Where death results: chargeable as homicide under generally applicable law, and as a capital offense under Section 11 where the elements are met
 - May be charged cumulatively with §1.3 (Battery), §17.12 (Escalation Misconduct), and §1.12 (Terrorism) as applicable
 
-### 17.15A Custodial Rights Interference
-
-> A peace officer, detention officer, investigator, prosecutor, or other government actor commits **custodial rights interference** where, after a citizen is arrested, detained, accused, or otherwise subjected to custodial questioning, the actor knowingly or recklessly uses questioning, delay, confusion, deception, repetition, implied pressure, or procedural manipulation to obtain speech from the citizen in violation of the citizen's right to remain silent, right against self-incrimination, right to counsel, or right to due process.
-
-**Duty Triggered by Custody, Accusation, or Warning:**
-
-The duties in this section arise immediately when any of the following occurs:
-
-- The citizen is arrested, handcuffed, jailed, booked, transported in custody, or otherwise not free to leave
-- The citizen is directly accused of a crime by a government actor
-- A government actor begins questioning reasonably likely to elicit an incriminating statement
-- A government actor gives, reads, summarizes, or invokes a Miranda warning or equivalent rights advisement
-- The citizen states, asks for, or otherwise indicates a wish to remain silent, to stop answering, to speak with counsel, to call counsel, or to have counsel present
-
-**Affirmative Duties:**
-
-Once a duty is triggered under this section, the government actor shall:
-
-- Stop all interrogation immediately when the citizen invokes silence or counsel
-- Ask only questions reasonably necessary to determine whether the citizen understands the rights advisement, and shall not use comprehension questions as a gateway to substantive interrogation
-- Treat confusion, hesitation, distress, intoxication, disability, language barrier, youth, exhaustion, or mental-health impairment as requiring clarification and protection of rights, not as an opportunity to secure a waiver
-- Provide counsel before any further questioning where counsel is requested or where the citizen cannot knowingly and voluntarily waive rights
-- Record custodial questioning in full where practicable, including the rights advisement, any waiver, any invocation, all pauses, all officer statements, and all citizen responses
-- Preserve all recordings, notes, forms, body-camera footage, interview-room footage, transport recordings, booking recordings, and related metadata
-
-**Prohibited Conduct Includes, Without Limitation:**
-
-- Continuing to question the citizen after the citizen invokes silence or counsel
-- Continuing to ask variations of *"do you understand?"*, *"are you sure?"*, *"you know this is your chance to explain, right?"*, or similar questions after a rights advisement where the purpose or reasonably foreseeable effect is to induce the citizen to keep talking
-- Treating a citizen's answer to a comprehension question as a waiver of rights, unless the citizen separately, clearly, knowingly, and voluntarily waives the right to silence and the right to counsel
-- Repeating Miranda warnings, waiver forms, or comprehension questions in a manner designed to wear down resistance or convert silence into speech
-- Telling or implying that silence, requesting counsel, refusing to sign a waiver, or asking to stop questioning will make things worse for the citizen
-- Suggesting that cooperation is required, expected, morally necessary, or the only way to avoid harsher treatment, where the citizen has not validly waived rights
-- Using booking, transport, medical, welfare-check, identification, or administrative questions as a pretext to elicit incriminating statements
-- Moving the citizen to another officer, room, agency, jail unit, transport vehicle, or interview setting to restart questioning after invocation
-- Questioning through a third party, family member, informant, jail staff member, social worker, school official, or other intermediary to evade the citizen's invocation
-- Failing to record or preserve a custodial interview where recording was practicable, or selectively recording only the portion favorable to the government
-- Misstating the citizen's words, silence, hesitation, invocation, or refusal as cooperation, waiver, confession, consciousness of guilt, or admission
-
-**Miranda Cycling and Comprehension Traps:**
-
-> It is a distinct violation of this section for a government actor to use the required rights advisement itself as an instrument of coercion, confusion, or entrapment.
-
-This includes repeatedly returning to *"do you understand these rights?"*, *"with these rights in mind..."*, waiver paperwork, initials, signatures, or similar formalities after the citizen has invoked or hesitated, where the actor's purpose or reasonably foreseeable effect is to cause the citizen to speak when the citizen has not freely chosen to waive rights.
-
-**Effect on Statements and Evidence:**
-
-- Any statement obtained in violation of this section is presumptively involuntary and inadmissible in any criminal, civil, administrative, immigration, school-disciplinary, parole, probation, pretrial-release, or licensing proceeding
-- Derivative evidence obtained because of the violation is presumptively tainted unless the government proves by clear and convincing evidence that the evidence would have been discovered through wholly independent lawful means
-- A prosecutor who knowingly uses, threatens to use, or fails to disclose the violation concerning a statement obtained under this section may be charged cumulatively under §2.2.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), or §17.5 (Gross Dereliction of Public Duty), as applicable
-
-**Classification:**
-
-- Reckless violation: **Class 3 felony**
-- Intentional violation: **Class 2 felony**
-- Violation producing a confession, admission, plea, conviction, probation revocation, parole revocation, immigration consequence, school expulsion, professional discipline, or other material deprivation of rights: **Class 2 felony**, chargeable cumulatively under §1.3 (Battery)
-- Violation committed with malice, as part of a pattern, or against a child, disabled person, intoxicated person, mentally impaired person, non-English speaker without adequate interpretation, or citizen in medical or psychological crisis: **capital offense**
-- Where the violation contributes to long-term incarceration, wrongful conviction, death in custody, capital sentence, or suicide, the penalty enhancements of Section 7 and the death-resulting provisions of Section 12 apply
-
-**Defenses Limited:**
-
-- "The citizen kept talking" is not a defense where the actor's conduct foreseeably caused, induced, pressured, confused, or exploited the continued speech
-- "The question was only procedural" is not a defense where the question was used or reasonably likely to elicit an incriminating response
-- "The citizen signed a form" is not a defense where the waiver was obtained through confusion, repetition, fatigue, fear, deception, disability, language barrier, youth, or implied threat
-- Departmental policy, training custom, professional habit, or "standard interview technique" is not a defense
-
-### 17.15B Badge Display Failure
-
-> A peace officer or other government actor exercising public enforcement authority commits **badge display failure** where the actor refuses or fails, upon request, to identify the actor's name, badge number or employee identifier, agency, and supervisor or chain of command during non-undercover public enforcement.
-
-**Classification:**
-
-- Badge display failure is an **infraction**
-- A second or subsequent violation within twenty-four (24) months is a **Class 1 misdemeanor**
-- Where the refusal is used to conceal force, detention, search, seizure, retaliation, or other misconduct, charge cumulatively under §17.4 (Deliberate Record Distortion), §17.9 (Failure of Transparency), or the underlying offense
-
-**Limitations:**
-
-- Undercover operations and immediate life-safety emergencies may delay identification only as long as reasonably necessary
-- Once the safety condition ends, identification must be provided without further request
-
 ### 17.15C Rights Dismissal Infraction
 
 > A peace officer or other government actor exercising enforcement authority commits **rights dismissal** where the actor mocks, laughs at, belittles, ignores, dismisses, or treats as suspicious a citizen's invocation of rights, including refusal of consent, request for counsel, assertion of silence, objection to a search, constitutional objection, request to record, or request for lawful authority.
@@ -3490,7 +3636,7 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 **Classification:**
 
 - Rights dismissal is a **Class 1 misdemeanor**
-- Where the dismissal is followed by enforcement, detention, search, seizure, citation, arrest, interrogation, or other deprivation, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), §16.3A (Constitutional Objection Obstruction), or §17.15A (Custodial Rights Interference)
+- Where the dismissal is followed by enforcement, detention, search, seizure, citation, arrest, interrogation, or other deprivation, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), §2.9 (Constitutional Objection Obstruction), or §2.8.1 (Custodial Rights Interference)
 
 ### 17.15D False Authority Gesture
 
@@ -3501,22 +3647,6 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - False authority gesture is a **Class 1 misdemeanor**
 - Where the gesture causes a reasonable citizen to believe they are not free to leave, must surrender a right, must permit a search, must answer questions, or must comply with an unlawful command, charge cumulatively under §1.2 (Assault), §1.13 (Official Intimidation), or §17.14 (Enforcement Without Articulable Basis)
 - Where actual detention, search, seizure, use of force, or rights deprivation results, charge cumulatively under §1.3 (Battery)
-
-### 17.15E Unrecorded Enforcement Contact
-
-> A peace officer, detention officer, investigator, code-enforcement officer, school resource officer, or other government actor equipped with required recording equipment commits **unrecorded enforcement contact** where the actor fails to activate, maintain, preserve, or disclose required recording during a citizen contact involving enforcement, detention, search, seizure, questioning, citation, arrest, use of force, complaint intake, child removal, or threat of official action.
-
-**Classification:**
-
-- Unrecorded enforcement contact is a **Class 3 felony**
-- Where the failure to record affects force, custody, interrogation, consent, search, seizure, complaint evidence, child removal, or criminal prosecution, charge cumulatively under §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), or any underlying offense
-- Where the missing recording would likely have contained exculpatory or impeachment evidence, prosecutors have disclosure duties under §2.2.1.1
-
-**Defenses Limited:**
-
-- Accidental failure is not a defense where the actor failed to perform required equipment checks, failed to report the failure promptly, or continued enforcement after discovering the failure
-- Technical failure is not a defense unless documented contemporaneously and preserved in the official record
-- Muting, obscuring, disabling, delaying activation, or selectively recording is treated as intentional failure unless clearly justified by an immediate lawful necessity
 
 ### 17.15F Crisis-Response Misconduct
 
@@ -3548,16 +3678,6 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Unjustified electronic monitoring or surveillance is a **Class 3 felony**
 - Where technical violations cause jail, job loss, housing loss, medical denial, family separation, conviction pressure, or debt, the offense is a **Class 2 felony**
 
-### 17.15I Custodial Medical Abandonment
-
-> A government actor commits **custodial medical abandonment** where the actor, jail, prison, detention center, holding facility, hospital guard unit, transport unit, or responsible agency fails to provide necessary medical care, medication, disability accommodation, mental-health care, suicide prevention, withdrawal care, hygiene, food, water, safe housing, or protection from known violence to a person in custody.
-
-**Classification:**
-
-- Custodial medical abandonment is a **Class 3 felony**
-- Where serious illness, injury, suicide attempt, withdrawal crisis, sexual assault, prolonged isolation harm, denial of prescribed medication, or disability aggravation results, the offense is a **Class 2 felony**
-- Where death, suicide, or serious bodily injury results, the offense is a **capital offense**, and Section 11 applies where the elements are met
-
 ### 17.15J Custodial Sexual Domination
 
 > A government actor commits **custodial sexual domination** where the actor uses custody, detention, supervision, probation, parole, foster placement, institutional control, immigration detention, jail employment, prison authority, release authority, housing control, medical access, food access, hygiene access, or family-contact control to obtain sexual contact, sexual exposure, sexualized speech, voyeuristic access, romantic communication, silence, or non-reporting concerning sexual misconduct.
@@ -3571,16 +3691,6 @@ No person in custody, detention, supervision, placement, institutional control, 
 - Custodial sexual domination is a **capital offense**
 - Where the abuse contributes to suicide, death, serious bodily injury, pregnancy, sexually transmitted infection, or prolonged psychological harm, Section 11 and the penalty enhancements of Section 7 apply
 - Permanent ineligibility under Section 11 applies
-
-### 17.15K Citizenship-Claim Detention Obstruction
-
-> A government actor commits **citizenship-claim detention obstruction** where the actor detains, extends detention, transfers, reports, refuses release, honors a detainer, or facilitates removal against a person who claims U.S. citizenship, lawful status, mistaken identity, or lack of probable cause, without prompt good-faith investigation and neutral legal authority.
-
-**Classification:**
-
-- Citizenship-claim detention obstruction is a **Class 2 felony**
-- Where the person is transferred out of state, placed in removal proceedings, deported, separated from family, denied medication, or held more than forty-eight (48) hours after lawful release eligibility, the offense is a **capital offense**
-- Charge cumulatively under §1.3 (Battery), §16.3A, §17.9K, or §17.15I where applicable
 
 ### 17.15L Home-Invasion Under Color of Warrant
 
@@ -3610,29 +3720,11 @@ No person in custody, detention, supervision, placement, institutional control, 
 - Where the failure causes detention, injury, denial of medical care, unlawful search, retaliation, fabricated charge, loss of evidence, or jail abuse, the offense is a **Class 2 felony**
 - Where the failure is intentional, retaliatory, part of a pattern, or causes death, serious bodily injury, suicide, sexual abuse, wrongful conviction, or prolonged incarceration, the offense is a **capital offense**, and Section 11 applies where the elements are met
 
-### 17.15N Sheriff Custody and Release Obstruction
-
-> A sheriff, jail official, detention officer, marshal, transport officer, court-security officer, or custody contractor commits **sheriff custody and release obstruction** where the actor refuses, delays, conditions, or obstructs lawful release, attorney access, court access, Citizen Council access, family notification, medical access, medication, interpreter access, disability accommodation, records access, complaint filing, or production of custody records for a person in custody.
-
-**Includes, Without Limitation:**
-
-- Holding a citizen after lawful release eligibility, posting of bond, dismissal, court order, writ, detainer expiration, or correction of identity
-- Refusing timely access to counsel, legal mail, filing materials, court orders, medication, medical requests, grievance forms, body-camera footage, jail recordings, or booking records
-- Conditioning release, visitation, medical care, phone access, complaint access, or records access on waiver, silence, payment, apology, cooperation, plea, or abandonment of a right
-- Using "jail policy," "security," "classification," "computer delay," "transport availability," or "we are waiting on paperwork" as a pretext to continue custody or deny required access
-
-**Classification:**
-
-- Sheriff custody and release obstruction is a **Class 3 felony**
-- Where the obstruction causes additional confinement, missed court deadline, loss of counsel, medical crisis, family separation, job loss, housing loss, immigration consequence, or inability to preserve evidence, the offense is a **Class 2 felony**
-- Where the obstruction is intentional, retaliatory, discriminatory, or affects a child, disabled person, non-English speaker, medically dependent person, pregnant person, or person in behavioral-health crisis, the offense is a **capital offense**
-- Charge cumulatively under §1.3, §1.13, §17.9K, §17.15I, or §17.15K where applicable
-
 ---
 
 ### Subpart C — Judicial, Clerk, and Court-Access Offenses
 
-The offenses of Subpart C apply to judges, other judicial officers (§1.1), clerks, court administrators, city clerks, county clerks, records custodians, public-meeting administrators, and other actors whose duties affect court access, filing access, public records, public meetings, or official dockets, in addition to the duties imposed on judges under §§2.3.1.1 through 2.3.1.4.
+The offenses of Subpart C apply to judges, other judicial officers (§1.1), clerks, court administrators, city clerks, county clerks, records custodians, public-meeting administrators, and other actors whose duties affect court access, filing access, public records, public meetings, or official dockets, in addition to the duties imposed on judges under §§2.7.1.1 through 2.3.1.4.
 
 ### 17.16 Judicial Recklessness
 
@@ -3646,54 +3738,15 @@ The offenses of Subpart C apply to judges, other judicial officers (§1.1), cler
 
 **Distinction from Other Judicial Duties:**
 
-- **§2.3.1.2 (Engage on the Merits)** focuses on the failure to engage and to issue a reasoned ruling
-- **§2.3.1.4 (Apply Mandatory Rules and Correct Errors)** focuses on the failure to apply mandatory rules and correct errors when discovered
+- **§2.7.1.2 (Engage on the Merits)** focuses on the failure to engage and to issue a reasoned ruling
+- **§2.7.1.4 (Apply Mandatory Rules and Correct Errors)** focuses on the failure to apply mandatory rules and correct errors when discovered
 - **This section** reaches the substantive content of rulings that, even with engagement and rule-application, still depart grossly from clearly established law, the rights of the parties, or the evidence
 
 **Classification:**
 
 - **Class 2 felony** (capital offense where part of a pattern, or where the ruling produced a wrongful conviction or sustained deprivation of rights)
 - Judicial immunity does not apply, consistent with §5.1
-- May be charged cumulatively with §§2.3.1.2 and 2.3.1.4, and where applicable §2.1.3 (Wrongful Conviction as Conspiracy) and §1.6 (Cabalism)
-
-### 17.16A Court Access Burdening
-
-> A court actor commits **court access burdening** where the actor gives misleading filing instructions, hides or withholds required forms, refuses to provide required access information, misdirects a citizen about filing location or procedure, refuses to accept a filing without lawful basis, or imposes informal barriers that burden a citizen's access to the courts.
-
-**Actors Covered:**
-
-This section applies to judges, magistrates, clerks, court administrators, bailiffs, self-help center staff, filing-office staff, probation or pretrial officers acting as court gatekeepers, and any other government actor whose conduct affects a citizen's practical access to court process.
-
-**Classification:**
-
-- Court access burdening is a **Class 1 misdemeanor**
-- Where the burden causes missed deadline, default, dismissal, warrant, detention, loss of appeal, loss of custody, loss of housing, loss of benefits, or inability to seek protection from violence, the conduct is a **Class 3 felony**
-- Where the burden is intentional, retaliatory, discriminatory, or part of a pattern, charge cumulatively under §17.2 (Institutional Retaliation), §17.9 (Failure of Transparency), §1.13 (Official Intimidation), or §1.10 (Anarchy), as applicable
-
-**Defenses Limited:**
-
-- "We do not give legal advice" is not a defense to refusing access to forms, filing instructions, fee-waiver information, docket information, interpreter access, disability accommodation, or other required procedural access
-- Local custom, staffing shortage, software limits, or personal irritation with the citizen is not a defense
-
-### 17.16B Constructive Denial of Counsel Under Color of Law
-
-> A government actor commits **constructive denial of counsel under color of law** where the actor funds, administers, contracts, assigns, pressures, or adjudicates a criminal, juvenile, family, immigration, child-welfare, contempt, probation, parole, or detention system while knowing that counsel is unavailable, unreasonably delayed, overloaded, conflicted, denied confidential access, denied discovery, or structurally unable to provide meaningful defense.
-
-**Classification:**
-
-- Constructive denial of counsel is a **Class 2 felony**
-- Where the failure produces plea coercion, incarceration, conviction, deportation, loss of parental rights, detention, contempt, probation or parole revocation, or death-penalty exposure, the offense is a **capital offense**
-- Judges, prosecutors, public-defense administrators, contract managers, county officials, state officials, and court actors may be charged cumulatively where they knowingly maintain or rely on the defective system
-
-### 17.16C Wealth-Based Liberty Denial
-
-> A judge, magistrate, prosecutor, pretrial officer, sheriff, jail official, clerk, or other court actor commits **wealth-based liberty denial** where the actor seeks, orders, maintains, or administers pretrial detention, bail, bond, fees, GPS monitoring, release conditions, payment plans, or supervision conditions without individualized findings that the restriction is necessary, nonpunitive, affordable, and the least restrictive lawful means available.
-
-**Classification:**
-
-- Wealth-based liberty denial is a **Class 3 felony**
-- Where the citizen remains jailed solely because of inability to pay, loses employment, housing, custody, medical care, education, benefits, or pleads guilty to escape detention, the offense is a **Class 2 felony**
-- Where death, suicide, or serious bodily injury results, Section 11 applies
+- May be charged cumulatively with §§2.7.1.2 and 2.3.1.4, and where applicable §2.5.3 (Wrongful Conviction as Conspiracy) and §1.6 (Cabalism)
 
 ### 17.16D Guardianship Rights Plunder
 
@@ -3704,61 +3757,6 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 - Guardianship rights plunder is a **Class 2 felony**
 - Where housing, medical care, family contact, estate assets, voting rights, liberty, bodily autonomy, communication, or ability to challenge the guardianship is materially deprived, the offense is a **capital offense**
 - Where death, serious injury, suicide, or life-threatening medical crisis results, Section 11 applies
-
-### 17.16E Clerk Access Obstruction
-
-> A court clerk, city clerk, county clerk, agency clerk, records clerk, filing-office employee, court administrator, public-meeting administrator, election clerk, or any government actor responsible for receiving, docketing, timestamping, certifying, preserving, or producing public records commits **clerk access obstruction** where the actor refuses, delays, misroutes, buries, rejects, alters, or conditions access to a filing, petition, complaint, notice, appeal, public-record request, docket entry, meeting record, certified copy, agenda item, election document, Citizen Council document, or other citizen submission without lawful written authority.
-
-**Includes, Without Limitation:**
-
-- Refusing to file, timestamp, scan, docket, certify, transmit, or receipt a citizen's filing because the citizen is self-represented, unpopular, critical of government, invoking rights, or seeking accountability
-- Telling a citizen that a clerk "cannot accept" a filing, complaint, public-record request, notice, petition, appeal, or Council document without identifying the specific law that forbids acceptance
-- Requiring unnecessary appointments, portals, accounts, attorney signatures, formatting conditions, excessive copies, unofficial fees, or informal permission before accepting a document
-- Withholding forms, fee-waiver information, appeal instructions, certified copies, meeting minutes, agendas, recordings, docket information, or records needed to preserve a right
-- Refusing to provide a written rejection, date-stamped receipt, tracking number, or appeal path when access is denied
-
-**Classification:**
-
-- Clerk access obstruction is a **Class 1 misdemeanor**
-- Where the obstruction causes missed deadline, default, dismissal, warrant, loss of appeal, denial of public meeting participation, election harm, loss of benefits, loss of custody, loss of housing, loss of license, or inability to seek protection from violence, the offense is a **Class 3 felony**
-- Where the obstruction is intentional, retaliatory, discriminatory, election-related, or directed at a Citizen Council, complainant, witness, constitutional objection, or public-record request concerning government misconduct, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.9, §17.16A, §17.4A, §1.13, or §9.9 where applicable
-
-### 17.16F Docket, Agenda, and Minutes Distortion
-
-> A clerk, court administrator, city recorder, county clerk, public-meeting officer, election official, records custodian, or other government actor commits **docket, agenda, and minutes distortion** where the actor falsifies, omits, alters, backdates, postdates, mislabels, conceals, or selectively publishes a docket entry, filing timestamp, public-meeting notice, agenda, minutes, recording, vote record, certified copy, election record, petition record, or public-record log.
-
-**Includes, Without Limitation:**
-
-- Altering the date, time, sequence, title, party, case number, receipt, agenda item, vote, or disposition of a filing or public action
-- Publishing minutes or agendas that omit citizen objections, public comments, dissenting votes, recusals, conflicts of interest, constitutional objections, or Council-related matters
-- Creating a public record that makes a late action appear timely, an unlawful meeting appear noticed, a rejected filing appear absent, or a contested action appear unanimous
-- Removing metadata, audit logs, draft histories, recording segments, vote records, or filing logs necessary to verify the official record
-
-**Classification:**
-
-- Docket, agenda, and minutes distortion is a **Class 3 felony**
-- Where the distortion affects court access, criminal prosecution, child custody, election administration, public debt, public contracts, zoning, property rights, Citizen Council action, or constitutional rights, the offense is a **Class 2 felony**
-- Where the distortion is coordinated by multiple actors, conceals corruption, changes an election outcome, causes incarceration, or defeats a citizen's ability to challenge government action, the offense is a **capital offense**
-- Charge cumulatively under §17.4, §17.4A, §17.6, §17.20, §17.21, or §1.7 where applicable
-
-### 17.16G Citizen Filing Gatekeeping
-
-> A clerk, court actor, city clerk, county clerk, administrative hearing officer, records custodian, or agency employee commits **citizen filing gatekeeping** where the actor imposes an unauthorized barrier between a citizen and the citizen's ability to file, object, appeal, complain, petition, request records, request a hearing, challenge a statute, or place a matter before a lawful decisionmaker.
-
-**Prohibited Barriers Include, Without Limitation:**
-
-- Requiring a lawyer where law permits self-representation
-- Refusing plain-language filings because they are not written in preferred legal style, agency style, or court style
-- Rejecting filings for curable formatting issues without accepting them for filing and issuing a written deficiency notice
-- Refusing filings that accuse government actors of crime, corruption, oath violation, constitutional violation, or misconduct
-- Redirecting the citizen in circles between departments, clerks, websites, help desks, supervisors, or courts until the deadline passes
-
-**Classification:**
-
-- Citizen filing gatekeeping is a **Class 1 misdemeanor**
-- Where the barrier prevents timely filing, appeal, hearing, complaint intake, public-record access, election participation, or preservation of a right, the offense is a **Class 3 felony**
-- Where the barrier is used against a Citizen Council, constitutional challenge, public corruption complaint, criminal defendant, parent facing child removal, detained person, disabled person, elderly person, or non-English speaker, the offense is a **Class 2 felony**
 
 ---
 
@@ -3944,7 +3942,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 - Constitutional-objection override by high office is a **Class 2 felony**
 - Where the override results in arrest, citation, detention, child removal, property seizure, loss of license, loss of benefits, denial of court access, or retaliation against the objecting citizen, the offense is a **capital offense**
 - Where the actor issued a written correction, suspended enforcement, sought neutral judicial review, or publicly dissociated from the unlawful enforcement before citizen harm occurred, that corrective action may be considered in mitigation but does not erase liability for earlier completed violations
-- Charge cumulatively under §16.3A, §17.14, §17.23, §1.10, or §1.13 where applicable
+- Charge cumulatively under §2.9, §17.14, §17.23, §1.10, or §1.13 where applicable
 
 ### 17.24E Eminent-Domain Valuation Manipulation
 
@@ -3981,7 +3979,7 @@ Refusal by the owner to accept the government's offered price, refusal to waive 
 - Where the conduct causes loss of home, farm, business, livelihood, family land, inheritance property, religious property, community institution, or property necessary for medical care, disability access, work, or survival, the offense is a **Class 1 felony**
 - Where the conduct is coordinated with a private developer, donor, contractor, political ally, or public-private beneficiary for private gain, the offense is a **capital offense**
 - Where the conduct results in homelessness, death, suicide, serious bodily injury, catastrophic financial ruin, or permanent loss of family property, Section 12 and the penalty enhancements of Section 7 apply
-- Charge cumulatively under §1.3 (Battery), §1.6 (Cabalism), §1.7 (Government Racketeering), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3, §16.3A, §17.2, §17.9E, §17.9F, §17.23, §17.24C, or §17.24D where the elements are met
+- Charge cumulatively under §1.3 (Battery), §1.6 (Cabalism), §1.7 (Government Racketeering), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3, §2.9, §17.2, §17.9E, §17.9F, §17.23, §17.24C, or §17.24D where the elements are met
 
 ---
 

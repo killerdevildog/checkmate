@@ -12,7 +12,7 @@ The criminal and civil mens rea framework of **Section 3** governs each offense 
 | Color of Authority Assault | §1.2 (Assault — Government Context) |
 | Civil Rights Battery | §1.3 (Battery — Government Context) |
 | Selective Enforcement of Law | §1.8 (Obstruction of Justice — Selective Non-Prosecution) |
-| Procedural Suppression | §2.2.1.1 (Disclose Adverse Evidence) + §2.3.1.2 (Engage on the Merits) |
+| Procedural Suppression | §2.6.1.1 (Disclose Adverse Evidence) + §2.7.1.2 (Engage on the Merits) |
 | Authority Abuse Under Color of Court | §1.7 (Government Racketeering) + §1.13 (Official Intimidation) |
 
 ---
@@ -115,7 +115,7 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 
 **Cumulative Charging:**
 
-Conduct under this section may be charged cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.2.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.14 (Malicious Prosecution), §1.3 (Battery), §1.13 (Official Intimidation), §1.6 (Cabalism), or §1.7 (Government Racketeering), where the elements are met.
+Conduct under this section may be charged cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.14 (Malicious Prosecution), §1.3 (Battery), §1.13 (Official Intimidation), §1.6 (Cabalism), or §1.7 (Government Racketeering), where the elements are met.
 
 **Defenses Limited:**
 
@@ -154,9 +154,9 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 **Classification:**
 
 - **Class 2 felony** (capital offense where committed with malice, or where the distortion affected a criminal prosecution against a citizen)
-- Where the distortion contributed to a wrongful conviction, charge cumulatively under §2.1.3 (Wrongful Conviction as Conspiracy)
-- Where committed by a prosecutor, may also be charged under §2.2.1.1
-- Where committed by a judge or court personnel, may also be charged under §2.3.1.4
+- Where the distortion contributed to a wrongful conviction, charge cumulatively under §2.5.3 (Wrongful Conviction as Conspiracy)
+- Where committed by a prosecutor, may also be charged under §2.6.1.1
+- Where committed by a judge or court personnel, may also be charged under §2.7.1.4
 - Penalty enhancements under Section 7 apply
 
 ### 17.4A Public-Record Spoliation
@@ -174,7 +174,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 - Public-record spoliation is a **Class 3 felony**
 - Where the missing or damaged record concerns force, custody, interrogation, exculpatory evidence, property seizure, child removal, jail medical care, court access, or criminal prosecution, the offense is a **Class 2 felony**
 - Where the spoliation contributes to wrongful conviction, incarceration, child removal, death, suicide, or serious bodily injury, the offense is a **capital offense**, and Section 11 applies where the elements are met
-- Charge cumulatively under §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.2.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), or any underlying offense
+- Charge cumulatively under §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), or any underlying offense
 
 ### 17.4B Forensic Truth Corruption
 
@@ -191,7 +191,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 - Forensic truth corruption is a **Class 2 felony**
 - Where the corrupted forensic evidence contributes to plea, incarceration, conviction, sex-offender registration, family separation, professional discipline, immigration consequence, or capital exposure, the offense is a **capital offense**
 - Where death, capital sentence, death in custody, or suicide results, Section 11 applies
-- Charge cumulatively under §17.4, §17.4A, §2.2.1.1, §1.14, and §9.15 where applicable
+- Charge cumulatively under §17.4, §17.4A, §2.6.1.1, §1.14, and §9.15 where applicable
 
 ### 17.4C Wrongful-Conviction Chain Liability
 
@@ -205,7 +205,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 
 - The classification mirrors the deprivation caused, with a **Class 2 felony floor** where incarceration, conviction, plea coercion, or loss of liberty results
 - Where the conduct contributes to long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 7 apply
-- This section is cumulative to §2.1.3, §2.2.1.1, §2.2.1.2, §1.14, §17.4, §17.4A, and §17.4B
+- This section is cumulative to §2.5.3, §2.6.1.1, §2.6.1.2, §1.14, §17.4, §17.4A, and §17.4B
 
 ### 17.5 Gross Dereliction of Public Duty
 
@@ -381,7 +381,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 **Classification:**
 
 - Policy shield statement is a **Class 3 felony**
-- Where the statement is used to obtain consent, entry, waiver, payment, compliance, silence, surrender of property, or abandonment of a legal claim, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), or §16.3A (Constitutional Objection Obstruction)
+- Where the statement is used to obtain consent, entry, waiver, payment, compliance, silence, surrender of property, or abandonment of a legal claim, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), or §2.9 (Constitutional Objection Obstruction)
 
 **Defenses Limited:**
 
@@ -421,7 +421,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 
 **Cumulative Charging:**
 
-Conduct under this section may be charged cumulatively under §1.3 (Battery), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3 (Issuance and Enforcement of Repugnant Instruments), §16.3A (Constitutional Objection Obstruction), §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.9 (Failure of Transparency), or §17.23 (Regulatory Weaponization), where the elements are met.
+Conduct under this section may be charged cumulatively under §1.3 (Battery), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3 (Issuance and Enforcement of Repugnant Instruments), §2.9 (Constitutional Objection Obstruction), §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.9 (Failure of Transparency), or §17.23 (Regulatory Weaponization), where the elements are met.
 
 ### 17.9D Recording-Right Interference
 
@@ -504,7 +504,7 @@ The existence of an official transcript, official audio, official video, docket 
 - Minor isolated constructive denial is a **Class 1 misdemeanor**
 - Where a protected right, livelihood, housing, family status, medical access, education, legal defense, benefits, licensing, or court access is affected, the offense is a **Class 3 felony**
 - Where done intentionally, discriminatorily, or in retaliation, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.2, §17.9, §17.9A, §17.16A, or §1.13 where the elements are met
+- Charge cumulatively under §17.2, §17.9, §17.9A, §2.10.1, or §1.13 where the elements are met
 
 ### 17.9I Poverty-Based Family Separation
 
@@ -622,7 +622,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 
 - Negligent failure: **infraction** under §3.3; **Class 1 misdemeanor** where measurable harm results or the failure repeats after notice
 - Reckless failure: **Class 3 felony**
-- Intentional failure (including intentional omission of exculpatory material): **Class 2 felony**, and may be charged cumulatively under §17.4 (Deliberate Record Distortion) and §2.2.1.1 (where the prosecutor's downstream Brady duty is implicated)
+- Intentional failure (including intentional omission of exculpatory material): **Class 2 felony**, and may be charged cumulatively under §17.4 (Deliberate Record Distortion) and §2.6.1.1 (where the prosecutor's downstream Brady duty is implicated)
 
 ### 17.14 Enforcement Without Articulable Basis
 
@@ -656,87 +656,6 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 - Where death results: chargeable as homicide under generally applicable law, and as a capital offense under Section 11 where the elements are met
 - May be charged cumulatively with §1.3 (Battery), §17.12 (Escalation Misconduct), and §1.12 (Terrorism) as applicable
 
-### 17.15A Custodial Rights Interference
-
-> A peace officer, detention officer, investigator, prosecutor, or other government actor commits **custodial rights interference** where, after a citizen is arrested, detained, accused, or otherwise subjected to custodial questioning, the actor knowingly or recklessly uses questioning, delay, confusion, deception, repetition, implied pressure, or procedural manipulation to obtain speech from the citizen in violation of the citizen's right to remain silent, right against self-incrimination, right to counsel, or right to due process.
-
-**Duty Triggered by Custody, Accusation, or Warning:**
-
-The duties in this section arise immediately when any of the following occurs:
-
-- The citizen is arrested, handcuffed, jailed, booked, transported in custody, or otherwise not free to leave
-- The citizen is directly accused of a crime by a government actor
-- A government actor begins questioning reasonably likely to elicit an incriminating statement
-- A government actor gives, reads, summarizes, or invokes a Miranda warning or equivalent rights advisement
-- The citizen states, asks for, or otherwise indicates a wish to remain silent, to stop answering, to speak with counsel, to call counsel, or to have counsel present
-
-**Affirmative Duties:**
-
-Once a duty is triggered under this section, the government actor shall:
-
-- Stop all interrogation immediately when the citizen invokes silence or counsel
-- Ask only questions reasonably necessary to determine whether the citizen understands the rights advisement, and shall not use comprehension questions as a gateway to substantive interrogation
-- Treat confusion, hesitation, distress, intoxication, disability, language barrier, youth, exhaustion, or mental-health impairment as requiring clarification and protection of rights, not as an opportunity to secure a waiver
-- Provide counsel before any further questioning where counsel is requested or where the citizen cannot knowingly and voluntarily waive rights
-- Record custodial questioning in full where practicable, including the rights advisement, any waiver, any invocation, all pauses, all officer statements, and all citizen responses
-- Preserve all recordings, notes, forms, body-camera footage, interview-room footage, transport recordings, booking recordings, and related metadata
-
-**Prohibited Conduct Includes, Without Limitation:**
-
-- Continuing to question the citizen after the citizen invokes silence or counsel
-- Continuing to ask variations of *"do you understand?"*, *"are you sure?"*, *"you know this is your chance to explain, right?"*, or similar questions after a rights advisement where the purpose or reasonably foreseeable effect is to induce the citizen to keep talking
-- Treating a citizen's answer to a comprehension question as a waiver of rights, unless the citizen separately, clearly, knowingly, and voluntarily waives the right to silence and the right to counsel
-- Repeating Miranda warnings, waiver forms, or comprehension questions in a manner designed to wear down resistance or convert silence into speech
-- Telling or implying that silence, requesting counsel, refusing to sign a waiver, or asking to stop questioning will make things worse for the citizen
-- Suggesting that cooperation is required, expected, morally necessary, or the only way to avoid harsher treatment, where the citizen has not validly waived rights
-- Using booking, transport, medical, welfare-check, identification, or administrative questions as a pretext to elicit incriminating statements
-- Moving the citizen to another officer, room, agency, jail unit, transport vehicle, or interview setting to restart questioning after invocation
-- Questioning through a third party, family member, informant, jail staff member, social worker, school official, or other intermediary to evade the citizen's invocation
-- Failing to record or preserve a custodial interview where recording was practicable, or selectively recording only the portion favorable to the government
-- Misstating the citizen's words, silence, hesitation, invocation, or refusal as cooperation, waiver, confession, consciousness of guilt, or admission
-
-**Miranda Cycling and Comprehension Traps:**
-
-> It is a distinct violation of this section for a government actor to use the required rights advisement itself as an instrument of coercion, confusion, or entrapment.
-
-This includes repeatedly returning to *"do you understand these rights?"*, *"with these rights in mind..."*, waiver paperwork, initials, signatures, or similar formalities after the citizen has invoked or hesitated, where the actor's purpose or reasonably foreseeable effect is to cause the citizen to speak when the citizen has not freely chosen to waive rights.
-
-**Effect on Statements and Evidence:**
-
-- Any statement obtained in violation of this section is presumptively involuntary and inadmissible in any criminal, civil, administrative, immigration, school-disciplinary, parole, probation, pretrial-release, or licensing proceeding
-- Derivative evidence obtained because of the violation is presumptively tainted unless the government proves by clear and convincing evidence that the evidence would have been discovered through wholly independent lawful means
-- A prosecutor who knowingly uses, threatens to use, or fails to disclose the violation concerning a statement obtained under this section may be charged cumulatively under §2.2.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), or §17.5 (Gross Dereliction of Public Duty), as applicable
-
-**Classification:**
-
-- Reckless violation: **Class 3 felony**
-- Intentional violation: **Class 2 felony**
-- Violation producing a confession, admission, plea, conviction, probation revocation, parole revocation, immigration consequence, school expulsion, professional discipline, or other material deprivation of rights: **Class 2 felony**, chargeable cumulatively under §1.3 (Battery)
-- Violation committed with malice, as part of a pattern, or against a child, disabled person, intoxicated person, mentally impaired person, non-English speaker without adequate interpretation, or citizen in medical or psychological crisis: **capital offense**
-- Where the violation contributes to long-term incarceration, wrongful conviction, death in custody, capital sentence, or suicide, the penalty enhancements of Section 7 and the death-resulting provisions of Section 12 apply
-
-**Defenses Limited:**
-
-- "The citizen kept talking" is not a defense where the actor's conduct foreseeably caused, induced, pressured, confused, or exploited the continued speech
-- "The question was only procedural" is not a defense where the question was used or reasonably likely to elicit an incriminating response
-- "The citizen signed a form" is not a defense where the waiver was obtained through confusion, repetition, fatigue, fear, deception, disability, language barrier, youth, or implied threat
-- Departmental policy, training custom, professional habit, or "standard interview technique" is not a defense
-
-### 17.15B Badge Display Failure
-
-> A peace officer or other government actor exercising public enforcement authority commits **badge display failure** where the actor refuses or fails, upon request, to identify the actor's name, badge number or employee identifier, agency, and supervisor or chain of command during non-undercover public enforcement.
-
-**Classification:**
-
-- Badge display failure is an **infraction**
-- A second or subsequent violation within twenty-four (24) months is a **Class 1 misdemeanor**
-- Where the refusal is used to conceal force, detention, search, seizure, retaliation, or other misconduct, charge cumulatively under §17.4 (Deliberate Record Distortion), §17.9 (Failure of Transparency), or the underlying offense
-
-**Limitations:**
-
-- Undercover operations and immediate life-safety emergencies may delay identification only as long as reasonably necessary
-- Once the safety condition ends, identification must be provided without further request
-
 ### 17.15C Rights Dismissal Infraction
 
 > A peace officer or other government actor exercising enforcement authority commits **rights dismissal** where the actor mocks, laughs at, belittles, ignores, dismisses, or treats as suspicious a citizen's invocation of rights, including refusal of consent, request for counsel, assertion of silence, objection to a search, constitutional objection, request to record, or request for lawful authority.
@@ -744,7 +663,7 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 **Classification:**
 
 - Rights dismissal is a **Class 1 misdemeanor**
-- Where the dismissal is followed by enforcement, detention, search, seizure, citation, arrest, interrogation, or other deprivation, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), §16.3A (Constitutional Objection Obstruction), or §17.15A (Custodial Rights Interference)
+- Where the dismissal is followed by enforcement, detention, search, seizure, citation, arrest, interrogation, or other deprivation, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), §2.9 (Constitutional Objection Obstruction), or §2.8.1 (Custodial Rights Interference)
 
 ### 17.15D False Authority Gesture
 
@@ -755,22 +674,6 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - False authority gesture is a **Class 1 misdemeanor**
 - Where the gesture causes a reasonable citizen to believe they are not free to leave, must surrender a right, must permit a search, must answer questions, or must comply with an unlawful command, charge cumulatively under §1.2 (Assault), §1.13 (Official Intimidation), or §17.14 (Enforcement Without Articulable Basis)
 - Where actual detention, search, seizure, use of force, or rights deprivation results, charge cumulatively under §1.3 (Battery)
-
-### 17.15E Unrecorded Enforcement Contact
-
-> A peace officer, detention officer, investigator, code-enforcement officer, school resource officer, or other government actor equipped with required recording equipment commits **unrecorded enforcement contact** where the actor fails to activate, maintain, preserve, or disclose required recording during a citizen contact involving enforcement, detention, search, seizure, questioning, citation, arrest, use of force, complaint intake, child removal, or threat of official action.
-
-**Classification:**
-
-- Unrecorded enforcement contact is a **Class 3 felony**
-- Where the failure to record affects force, custody, interrogation, consent, search, seizure, complaint evidence, child removal, or criminal prosecution, charge cumulatively under §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), or any underlying offense
-- Where the missing recording would likely have contained exculpatory or impeachment evidence, prosecutors have disclosure duties under §2.2.1.1
-
-**Defenses Limited:**
-
-- Accidental failure is not a defense where the actor failed to perform required equipment checks, failed to report the failure promptly, or continued enforcement after discovering the failure
-- Technical failure is not a defense unless documented contemporaneously and preserved in the official record
-- Muting, obscuring, disabling, delaying activation, or selectively recording is treated as intentional failure unless clearly justified by an immediate lawful necessity
 
 ### 17.15F Crisis-Response Misconduct
 
@@ -802,16 +705,6 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Unjustified electronic monitoring or surveillance is a **Class 3 felony**
 - Where technical violations cause jail, job loss, housing loss, medical denial, family separation, conviction pressure, or debt, the offense is a **Class 2 felony**
 
-### 17.15I Custodial Medical Abandonment
-
-> A government actor commits **custodial medical abandonment** where the actor, jail, prison, detention center, holding facility, hospital guard unit, transport unit, or responsible agency fails to provide necessary medical care, medication, disability accommodation, mental-health care, suicide prevention, withdrawal care, hygiene, food, water, safe housing, or protection from known violence to a person in custody.
-
-**Classification:**
-
-- Custodial medical abandonment is a **Class 3 felony**
-- Where serious illness, injury, suicide attempt, withdrawal crisis, sexual assault, prolonged isolation harm, denial of prescribed medication, or disability aggravation results, the offense is a **Class 2 felony**
-- Where death, suicide, or serious bodily injury results, the offense is a **capital offense**, and Section 11 applies where the elements are met
-
 ### 17.15J Custodial Sexual Domination
 
 > A government actor commits **custodial sexual domination** where the actor uses custody, detention, supervision, probation, parole, foster placement, institutional control, immigration detention, jail employment, prison authority, release authority, housing control, medical access, food access, hygiene access, or family-contact control to obtain sexual contact, sexual exposure, sexualized speech, voyeuristic access, romantic communication, silence, or non-reporting concerning sexual misconduct.
@@ -825,16 +718,6 @@ No person in custody, detention, supervision, placement, institutional control, 
 - Custodial sexual domination is a **capital offense**
 - Where the abuse contributes to suicide, death, serious bodily injury, pregnancy, sexually transmitted infection, or prolonged psychological harm, Section 11 and the penalty enhancements of Section 7 apply
 - Permanent ineligibility under Section 11 applies
-
-### 17.15K Citizenship-Claim Detention Obstruction
-
-> A government actor commits **citizenship-claim detention obstruction** where the actor detains, extends detention, transfers, reports, refuses release, honors a detainer, or facilitates removal against a person who claims U.S. citizenship, lawful status, mistaken identity, or lack of probable cause, without prompt good-faith investigation and neutral legal authority.
-
-**Classification:**
-
-- Citizenship-claim detention obstruction is a **Class 2 felony**
-- Where the person is transferred out of state, placed in removal proceedings, deported, separated from family, denied medication, or held more than forty-eight (48) hours after lawful release eligibility, the offense is a **capital offense**
-- Charge cumulatively under §1.3 (Battery), §16.3A, §17.9K, or §17.15I where applicable
 
 ### 17.15L Home-Invasion Under Color of Warrant
 
@@ -864,29 +747,11 @@ No person in custody, detention, supervision, placement, institutional control, 
 - Where the failure causes detention, injury, denial of medical care, unlawful search, retaliation, fabricated charge, loss of evidence, or jail abuse, the offense is a **Class 2 felony**
 - Where the failure is intentional, retaliatory, part of a pattern, or causes death, serious bodily injury, suicide, sexual abuse, wrongful conviction, or prolonged incarceration, the offense is a **capital offense**, and Section 11 applies where the elements are met
 
-### 17.15N Sheriff Custody and Release Obstruction
-
-> A sheriff, jail official, detention officer, marshal, transport officer, court-security officer, or custody contractor commits **sheriff custody and release obstruction** where the actor refuses, delays, conditions, or obstructs lawful release, attorney access, court access, Citizen Council access, family notification, medical access, medication, interpreter access, disability accommodation, records access, complaint filing, or production of custody records for a person in custody.
-
-**Includes, Without Limitation:**
-
-- Holding a citizen after lawful release eligibility, posting of bond, dismissal, court order, writ, detainer expiration, or correction of identity
-- Refusing timely access to counsel, legal mail, filing materials, court orders, medication, medical requests, grievance forms, body-camera footage, jail recordings, or booking records
-- Conditioning release, visitation, medical care, phone access, complaint access, or records access on waiver, silence, payment, apology, cooperation, plea, or abandonment of a right
-- Using "jail policy," "security," "classification," "computer delay," "transport availability," or "we are waiting on paperwork" as a pretext to continue custody or deny required access
-
-**Classification:**
-
-- Sheriff custody and release obstruction is a **Class 3 felony**
-- Where the obstruction causes additional confinement, missed court deadline, loss of counsel, medical crisis, family separation, job loss, housing loss, immigration consequence, or inability to preserve evidence, the offense is a **Class 2 felony**
-- Where the obstruction is intentional, retaliatory, discriminatory, or affects a child, disabled person, non-English speaker, medically dependent person, pregnant person, or person in behavioral-health crisis, the offense is a **capital offense**
-- Charge cumulatively under §1.3, §1.13, §17.9K, §17.15I, or §17.15K where applicable
-
 ---
 
 ### Subpart C — Judicial, Clerk, and Court-Access Offenses
 
-The offenses of Subpart C apply to judges, other judicial officers (§1.1), clerks, court administrators, city clerks, county clerks, records custodians, public-meeting administrators, and other actors whose duties affect court access, filing access, public records, public meetings, or official dockets, in addition to the duties imposed on judges under §§2.3.1.1 through 2.3.1.4.
+The offenses of Subpart C apply to judges, other judicial officers (§1.1), clerks, court administrators, city clerks, county clerks, records custodians, public-meeting administrators, and other actors whose duties affect court access, filing access, public records, public meetings, or official dockets, in addition to the duties imposed on judges under §§2.7.1.1 through 2.3.1.4.
 
 ### 17.16 Judicial Recklessness
 
@@ -900,54 +765,15 @@ The offenses of Subpart C apply to judges, other judicial officers (§1.1), cler
 
 **Distinction from Other Judicial Duties:**
 
-- **§2.3.1.2 (Engage on the Merits)** focuses on the failure to engage and to issue a reasoned ruling
-- **§2.3.1.4 (Apply Mandatory Rules and Correct Errors)** focuses on the failure to apply mandatory rules and correct errors when discovered
+- **§2.7.1.2 (Engage on the Merits)** focuses on the failure to engage and to issue a reasoned ruling
+- **§2.7.1.4 (Apply Mandatory Rules and Correct Errors)** focuses on the failure to apply mandatory rules and correct errors when discovered
 - **This section** reaches the substantive content of rulings that, even with engagement and rule-application, still depart grossly from clearly established law, the rights of the parties, or the evidence
 
 **Classification:**
 
 - **Class 2 felony** (capital offense where part of a pattern, or where the ruling produced a wrongful conviction or sustained deprivation of rights)
 - Judicial immunity does not apply, consistent with §5.1
-- May be charged cumulatively with §§2.3.1.2 and 2.3.1.4, and where applicable §2.1.3 (Wrongful Conviction as Conspiracy) and §1.6 (Cabalism)
-
-### 17.16A Court Access Burdening
-
-> A court actor commits **court access burdening** where the actor gives misleading filing instructions, hides or withholds required forms, refuses to provide required access information, misdirects a citizen about filing location or procedure, refuses to accept a filing without lawful basis, or imposes informal barriers that burden a citizen's access to the courts.
-
-**Actors Covered:**
-
-This section applies to judges, magistrates, clerks, court administrators, bailiffs, self-help center staff, filing-office staff, probation or pretrial officers acting as court gatekeepers, and any other government actor whose conduct affects a citizen's practical access to court process.
-
-**Classification:**
-
-- Court access burdening is a **Class 1 misdemeanor**
-- Where the burden causes missed deadline, default, dismissal, warrant, detention, loss of appeal, loss of custody, loss of housing, loss of benefits, or inability to seek protection from violence, the conduct is a **Class 3 felony**
-- Where the burden is intentional, retaliatory, discriminatory, or part of a pattern, charge cumulatively under §17.2 (Institutional Retaliation), §17.9 (Failure of Transparency), §1.13 (Official Intimidation), or §1.10 (Anarchy), as applicable
-
-**Defenses Limited:**
-
-- "We do not give legal advice" is not a defense to refusing access to forms, filing instructions, fee-waiver information, docket information, interpreter access, disability accommodation, or other required procedural access
-- Local custom, staffing shortage, software limits, or personal irritation with the citizen is not a defense
-
-### 17.16B Constructive Denial of Counsel Under Color of Law
-
-> A government actor commits **constructive denial of counsel under color of law** where the actor funds, administers, contracts, assigns, pressures, or adjudicates a criminal, juvenile, family, immigration, child-welfare, contempt, probation, parole, or detention system while knowing that counsel is unavailable, unreasonably delayed, overloaded, conflicted, denied confidential access, denied discovery, or structurally unable to provide meaningful defense.
-
-**Classification:**
-
-- Constructive denial of counsel is a **Class 2 felony**
-- Where the failure produces plea coercion, incarceration, conviction, deportation, loss of parental rights, detention, contempt, probation or parole revocation, or death-penalty exposure, the offense is a **capital offense**
-- Judges, prosecutors, public-defense administrators, contract managers, county officials, state officials, and court actors may be charged cumulatively where they knowingly maintain or rely on the defective system
-
-### 17.16C Wealth-Based Liberty Denial
-
-> A judge, magistrate, prosecutor, pretrial officer, sheriff, jail official, clerk, or other court actor commits **wealth-based liberty denial** where the actor seeks, orders, maintains, or administers pretrial detention, bail, bond, fees, GPS monitoring, release conditions, payment plans, or supervision conditions without individualized findings that the restriction is necessary, nonpunitive, affordable, and the least restrictive lawful means available.
-
-**Classification:**
-
-- Wealth-based liberty denial is a **Class 3 felony**
-- Where the citizen remains jailed solely because of inability to pay, loses employment, housing, custody, medical care, education, benefits, or pleads guilty to escape detention, the offense is a **Class 2 felony**
-- Where death, suicide, or serious bodily injury results, Section 11 applies
+- May be charged cumulatively with §§2.7.1.2 and 2.3.1.4, and where applicable §2.5.3 (Wrongful Conviction as Conspiracy) and §1.6 (Cabalism)
 
 ### 17.16D Guardianship Rights Plunder
 
@@ -958,61 +784,6 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 - Guardianship rights plunder is a **Class 2 felony**
 - Where housing, medical care, family contact, estate assets, voting rights, liberty, bodily autonomy, communication, or ability to challenge the guardianship is materially deprived, the offense is a **capital offense**
 - Where death, serious injury, suicide, or life-threatening medical crisis results, Section 11 applies
-
-### 17.16E Clerk Access Obstruction
-
-> A court clerk, city clerk, county clerk, agency clerk, records clerk, filing-office employee, court administrator, public-meeting administrator, election clerk, or any government actor responsible for receiving, docketing, timestamping, certifying, preserving, or producing public records commits **clerk access obstruction** where the actor refuses, delays, misroutes, buries, rejects, alters, or conditions access to a filing, petition, complaint, notice, appeal, public-record request, docket entry, meeting record, certified copy, agenda item, election document, Citizen Council document, or other citizen submission without lawful written authority.
-
-**Includes, Without Limitation:**
-
-- Refusing to file, timestamp, scan, docket, certify, transmit, or receipt a citizen's filing because the citizen is self-represented, unpopular, critical of government, invoking rights, or seeking accountability
-- Telling a citizen that a clerk "cannot accept" a filing, complaint, public-record request, notice, petition, appeal, or Council document without identifying the specific law that forbids acceptance
-- Requiring unnecessary appointments, portals, accounts, attorney signatures, formatting conditions, excessive copies, unofficial fees, or informal permission before accepting a document
-- Withholding forms, fee-waiver information, appeal instructions, certified copies, meeting minutes, agendas, recordings, docket information, or records needed to preserve a right
-- Refusing to provide a written rejection, date-stamped receipt, tracking number, or appeal path when access is denied
-
-**Classification:**
-
-- Clerk access obstruction is a **Class 1 misdemeanor**
-- Where the obstruction causes missed deadline, default, dismissal, warrant, loss of appeal, denial of public meeting participation, election harm, loss of benefits, loss of custody, loss of housing, loss of license, or inability to seek protection from violence, the offense is a **Class 3 felony**
-- Where the obstruction is intentional, retaliatory, discriminatory, election-related, or directed at a Citizen Council, complainant, witness, constitutional objection, or public-record request concerning government misconduct, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.9, §17.16A, §17.4A, §1.13, or §9.9 where applicable
-
-### 17.16F Docket, Agenda, and Minutes Distortion
-
-> A clerk, court administrator, city recorder, county clerk, public-meeting officer, election official, records custodian, or other government actor commits **docket, agenda, and minutes distortion** where the actor falsifies, omits, alters, backdates, postdates, mislabels, conceals, or selectively publishes a docket entry, filing timestamp, public-meeting notice, agenda, minutes, recording, vote record, certified copy, election record, petition record, or public-record log.
-
-**Includes, Without Limitation:**
-
-- Altering the date, time, sequence, title, party, case number, receipt, agenda item, vote, or disposition of a filing or public action
-- Publishing minutes or agendas that omit citizen objections, public comments, dissenting votes, recusals, conflicts of interest, constitutional objections, or Council-related matters
-- Creating a public record that makes a late action appear timely, an unlawful meeting appear noticed, a rejected filing appear absent, or a contested action appear unanimous
-- Removing metadata, audit logs, draft histories, recording segments, vote records, or filing logs necessary to verify the official record
-
-**Classification:**
-
-- Docket, agenda, and minutes distortion is a **Class 3 felony**
-- Where the distortion affects court access, criminal prosecution, child custody, election administration, public debt, public contracts, zoning, property rights, Citizen Council action, or constitutional rights, the offense is a **Class 2 felony**
-- Where the distortion is coordinated by multiple actors, conceals corruption, changes an election outcome, causes incarceration, or defeats a citizen's ability to challenge government action, the offense is a **capital offense**
-- Charge cumulatively under §17.4, §17.4A, §17.6, §17.20, §17.21, or §1.7 where applicable
-
-### 17.16G Citizen Filing Gatekeeping
-
-> A clerk, court actor, city clerk, county clerk, administrative hearing officer, records custodian, or agency employee commits **citizen filing gatekeeping** where the actor imposes an unauthorized barrier between a citizen and the citizen's ability to file, object, appeal, complain, petition, request records, request a hearing, challenge a statute, or place a matter before a lawful decisionmaker.
-
-**Prohibited Barriers Include, Without Limitation:**
-
-- Requiring a lawyer where law permits self-representation
-- Refusing plain-language filings because they are not written in preferred legal style, agency style, or court style
-- Rejecting filings for curable formatting issues without accepting them for filing and issuing a written deficiency notice
-- Refusing filings that accuse government actors of crime, corruption, oath violation, constitutional violation, or misconduct
-- Redirecting the citizen in circles between departments, clerks, websites, help desks, supervisors, or courts until the deadline passes
-
-**Classification:**
-
-- Citizen filing gatekeeping is a **Class 1 misdemeanor**
-- Where the barrier prevents timely filing, appeal, hearing, complaint intake, public-record access, election participation, or preservation of a right, the offense is a **Class 3 felony**
-- Where the barrier is used against a Citizen Council, constitutional challenge, public corruption complaint, criminal defendant, parent facing child removal, detained person, disabled person, elderly person, or non-English speaker, the offense is a **Class 2 felony**
 
 ---
 
@@ -1198,7 +969,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 - Constitutional-objection override by high office is a **Class 2 felony**
 - Where the override results in arrest, citation, detention, child removal, property seizure, loss of license, loss of benefits, denial of court access, or retaliation against the objecting citizen, the offense is a **capital offense**
 - Where the actor issued a written correction, suspended enforcement, sought neutral judicial review, or publicly dissociated from the unlawful enforcement before citizen harm occurred, that corrective action may be considered in mitigation but does not erase liability for earlier completed violations
-- Charge cumulatively under §16.3A, §17.14, §17.23, §1.10, or §1.13 where applicable
+- Charge cumulatively under §2.9, §17.14, §17.23, §1.10, or §1.13 where applicable
 
 ### 17.24E Eminent-Domain Valuation Manipulation
 
@@ -1235,7 +1006,7 @@ Refusal by the owner to accept the government's offered price, refusal to waive 
 - Where the conduct causes loss of home, farm, business, livelihood, family land, inheritance property, religious property, community institution, or property necessary for medical care, disability access, work, or survival, the offense is a **Class 1 felony**
 - Where the conduct is coordinated with a private developer, donor, contractor, political ally, or public-private beneficiary for private gain, the offense is a **capital offense**
 - Where the conduct results in homelessness, death, suicide, serious bodily injury, catastrophic financial ruin, or permanent loss of family property, Section 12 and the penalty enhancements of Section 7 apply
-- Charge cumulatively under §1.3 (Battery), §1.6 (Cabalism), §1.7 (Government Racketeering), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3, §16.3A, §17.2, §17.9E, §17.9F, §17.23, §17.24C, or §17.24D where the elements are met
+- Charge cumulatively under §1.3 (Battery), §1.6 (Cabalism), §1.7 (Government Racketeering), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3, §2.9, §17.2, §17.9E, §17.9F, §17.23, §17.24C, or §17.24D where the elements are met
 
 ---
 

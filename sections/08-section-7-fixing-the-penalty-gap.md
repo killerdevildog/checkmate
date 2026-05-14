@@ -26,6 +26,6 @@ Where suicidal ideation under this section progresses to an act of suicide, the 
 
 ### 7.3 Hearsay and Statement Evidence for Penalty Enhancements
 
-Penalty enhancements under this section may be supported by statement evidence admissible under Section 8, including testimony that a witness heard a government actor, victim, family member, officer, official, or other person make a relevant statement. A statement may not be rejected merely because it is labeled hearsay where the same kind of statement would be admitted or used against a citizen.
+Penalty enhancements under this section may be supported by statement evidence admissible under Section 2.3, including testimony that a witness heard a government actor, victim, family member, officer, official, or other person make a relevant statement. A statement may not be rejected merely because it is labeled hearsay where the same kind of statement would be admitted or used against a citizen.
 
 ---
