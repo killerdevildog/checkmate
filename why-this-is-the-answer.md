@@ -20,6 +20,22 @@ The wall is made of several specific doctrines:
 
 The wall is not absolute. But the gaps in it are narrow, hard to find, and almost always require prior case law the citizen does not have, lawyers the citizen cannot afford, or a sympathetic federal judge the citizen has no way to choose.
 
+## The discipline gap: citizens, the military, and the missing third
+
+There are three regimes of personal discipline at work in our society today.
+
+**Citizens are disciplined by the criminal code.** When a citizen violates the law, the criminal code reaches them. The architecture is centuries old and well-developed: investigation, charging, prosecution, conviction, sentence. The State has spent generations refining the system that disciplines its citizens.
+
+**The military is disciplined by the Uniform Code of Military Justice (UCMJ).** When a service member violates military duty — through fraud, dereliction of duty, conduct unbecoming, disobedience of orders, abuse of subordinates, mishandling of classified material, sexual misconduct, perjury, or any of the dozens of substantive offenses defined in Articles 77 through 134 — military justice reaches them through courts-martial and the broader UCMJ enforcement architecture. The military maintains this code because authority over others, when undisciplined, is dangerous. The UCMJ exists because the military recognizes that elementary fact and built a real disciplinary mechanism around it.
+
+**Ordinary government power lacks the equivalent discipline.** When a judge, prosecutor, peace officer, regulator, elected official, agency administrator, or other government actor violates the rights of a citizen under color of authority, no equivalent code reaches the actor. Internal-affairs review is run by the same institution. Civil suits are blocked by immunity. Criminal prosecution depends on prosecutors who share an office, a profession, or a political circle with the accused. Judicial-conduct commissions decide which judges to discipline behind closed doors. The system too often hides behind immunity doctrines, discretion, procedure, and institutional self-protection.
+
+That is the gap this Act exists to close: **the people in our society with the greatest delegated power are the only group with no equivalent disciplinary code reaching their misuse of that power.** Citizens have the criminal code. The military has the UCMJ. Government officials have, in practice, neither — only a patchwork of internal review, immunity-protected civil exposure, and prosecutorial discretion that almost never reaches them.
+
+Operation Checkmate is the **third leg of that stool**. It is the disciplinary code for ordinary government power — drafted with the same architecture the State has long used to discipline citizens and the same architecture the military has long used to discipline its own. The duties are explicit. The offenses are defined. The failures-to-perform are reachable. The immunity doctrines are abrogated within the scope of the Act. And the enforcement mechanism — citizen-forced prosecution through Section 9 — provides what internal review and civil suit have never delivered.
+
+If a private citizen who shoplifts a sandwich faces criminal prosecution, and if a service member who falsifies a logbook faces UCMJ charges, then a prosecutor who hides exculpatory evidence, a judge who refuses to recuse from a case where the judge has a financial interest, an officer who continues interrogation after a citizen invokes counsel, or a city council member who retaliates against a critic by manipulating zoning power must face a comparable disciplinary mechanism. There is no honest answer for why the most powerful actors in our system would be the only ones outside the reach of disciplined accountability.
+
 ## The asymmetry: citizens are criminally bound — officials are not
 
 A citizen of Utah is bound by hundreds of affirmative duties enforced by criminal law. Failure to perform these duties is itself a crime. Examples are everywhere in daily life:
