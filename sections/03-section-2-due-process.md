@@ -289,7 +289,7 @@ A person who is **unable or unwilling** to perform the documentation required by
 > A judge who **knowingly allows a juror to be seated on a criminal jury** despite that juror's demonstrated inability or unwillingness to perform the documentation requirement, or who fails to make reasonable inquiry into juror eligibility under this subsection, has engaged in **obstruction of justice** within the meaning of this title.
 
 - Obstruction of justice under this subsection is a **Class 2 felony** under this title
-- The penalty enhancements of Section 7 apply, including where the resulting conviction caused long-term deprivation of rights or psychological harm to the accused
+- The penalty enhancements of Section 5.6 apply, including where the resulting conviction caused long-term deprivation of rights or psychological harm to the accused
 - The doctrine of judicial immunity **does not apply**, consistent with Section 5.1
 - A judge's violation of this subsection is independently chargeable from any other violation by the same judge
 
@@ -339,7 +339,7 @@ A wrongful conviction by a unanimous or near-unanimous jury that is subsequently
 
 **Underlying Offense:**
 
-A wrongful conviction by a juror under this section constitutes a **Battery** under Section 1.3 — an unlawful deprivation of the convicted person's liberty through direct action — and carries the Class 2 felony classification of that section, subject to the penalty enhancements of Section 7.
+A wrongful conviction by a juror under this section constitutes a **Battery** under Section 1.3 — an unlawful deprivation of the convicted person's liberty through direct action — and carries the Class 2 felony classification of that section, subject to the penalty enhancements of Section 5.6.
 
 **Limited Scope — What Is and Is Not Reachable:**
 
@@ -359,7 +359,7 @@ A wrongful conviction by a juror under this section constitutes a **Battery** un
 Where a wrongful conviction under this subsection results in:
 
 - The convicted person's **death** — by capital sentence carried out, by death in custody, or by suicide consistent with Section 12.1 — the conduct shall be charged under Section 12 as applicable, **including capital classification under Section 12.1** where the convicted person's suicide is shown to be a direct or proximate result of the wrongful conviction
-- **Long-term incarceration** of the convicted person — the penalty enhancements of Section 7 (long-term deprivation of rights, victim restrained or unable to leave) apply
+- **Long-term incarceration** of the convicted person — the penalty enhancements of Section 5.6 (long-term deprivation of rights, victim restrained or unable to leave) apply
 - **Repeated wrongful convictions** by the same juror, the same jury panel, or in coordination with the same prosecutor or judge — the pattern may be charged additionally as **Cabalism (Section 1.6)** or **Government Racketeering (Section 1.7)**
 
 ### 2.6 Prosecutors
@@ -390,7 +390,7 @@ The duties in this subsection are affirmative and continuing. A prosecutor must 
 > A prosecutor's failure to disclose adverse evidence to the jury, where the prosecutor knew or should have known the evidence would tend to undermine the prosecution's claim or establish innocence, is **Obstruction of Justice** under this title.
 
 - Charging follows the framework of Section 1.8: the **class of the obstruction mirrors the class of the offense being prosecuted**, with a **Class 2 felony floor**
-- Where the failure is intentional, penalty enhancements under Section 7 apply
+- Where the failure is intentional, penalty enhancements under Section 5.6 apply
 - Where the failure is committed with malice (intent to obtain a conviction the prosecutor knows or recklessly disregards as wrongful), the conduct is also chargeable as **Malicious Prosecution under Section 1.14**
 
 **Note on *Brady v. Maryland*:**
@@ -422,8 +422,8 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 > Where a prosecutor knows of facts that would warrant reduction or dismissal under this subsection and **fails to seek** such reduction or dismissal, the prosecutor commits a **Class 3 felony** under this title.
 
 - The failure is reachable whether the case is **pre-trial, mid-trial, post-trial, or post-conviction** (including years after conviction)
-- Where the failure was intentional, penalty enhancements under Section 7 apply, and the conduct may be elevated to **Malicious Prosecution (§1.14)** or charged cumulatively
-- Where the failure causes the citizen to suffer continuing incarceration or other deprivation of rights, the long-term-deprivation enhancement of Section 7 applies
+- Where the failure was intentional, penalty enhancements under Section 5.6 apply, and the conduct may be elevated to **Malicious Prosecution (§1.14)** or charged cumulatively
+- Where the failure causes the citizen to suffer continuing incarceration or other deprivation of rights, the long-term-deprivation enhancement of Section 5.6 applies
 - Where the failure causes the citizen's death — carried out capital sentence, death in custody, or suicide consistent with Section 12.1 — the conduct is elevated to a **capital offense**
 
 **Continuing Nature:**
@@ -436,6 +436,58 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 **Construction:**
 
 This subsection shall be construed broadly in favor of the accused and convicted person, consistent with Section 1.5.2. The prosecutor's duty runs to the **truth**, not to the conviction; failure to act on the truth, when known, is itself reachable conduct under this title.
+
+##### 2.6.1.3 Duty to Investigate Actual Innocence
+
+> A prosecutor has an **affirmative and continuing duty**, in every criminal proceeding the prosecutor handles, directs, supervises, or inherits, to investigate the **actual innocence** of the accused with the same diligence the prosecutor applies to investigating guilt.
+
+The prosecutor's function is to determine the **truth of what actually happened**, not to find and maintain guilt. A just system does not pay prosecutors to assemble, defend, and prolong a conviction once one has the appearance of being supportable. A just system pays prosecutors to test the State's case honestly, including by actively investigating the possibility that the accused is innocent of the offense charged, of any greater offense within it, or of any offense at all.
+
+This duty applies even where, and especially where, the initial appearance of the evidence is consistent with guilt. The appearance of guilt does not extinguish the prosecutor's duty to look for what might displace that appearance.
+
+**Application — When the Duty Applies:**
+
+This duty applies in every case the prosecutor handles or supervises, including without limitation cases in which:
+
+- The accused has been arrested, charged, indicted, or convicted by a jury
+- Police investigators have reported the case as solved
+- The accused has confessed, where the confession may be the product of coercion, false promise, custodial pressure, mental impairment, intoxication, language barrier, youth, or any other factor affecting voluntariness
+- A co-defendant, informant, jailhouse witness, or cooperating witness has implicated the accused
+- A plea has been offered or accepted
+- A direct appeal has been exhausted
+- Years or decades have passed since conviction
+
+**Affirmative Investigative Duties:**
+
+In every case the prosecutor handles or supervises, the prosecutor shall:
+
+- **Personally evaluate** the strength of the State's evidence on the merits, separately from and independently of the charging recommendation of police or investigators
+- Identify and pursue **affirmative lines of inquiry** that could establish the actual innocence of the accused — alibi witnesses, alternative suspects, surveillance footage, forensic evidence that has not been tested, witness recantations, contemporaneous records, third-party confessions, body-camera footage, jail recordings, digital records
+- Direct or arrange **independent forensic testing** of evidence where the available science could exonerate the accused (DNA, ballistics, fingerprint, toxicology, digital forensics, latent-print re-examination)
+- Review prior police investigative work for indicia of **tunnel vision, confirmation bias, premature closure, suggestive identification procedures, or coercive interrogation**
+- Re-examine the case when new facts or new scientific methods come into the prosecutor's possession or could reasonably be obtained
+- Continue to investigate innocence at every stage of the case — **pretrial, mid-trial, post-trial, and post-conviction**
+
+**No Closure on Charging, Conviction, or Time:**
+
+> The duty to investigate actual innocence is **not extinguished** by the filing of charges, a grand-jury indictment, a trial conviction, a guilty plea, an exhausted appeal, the passage of time, or the prosecutor's transfer from the office.
+
+A prosecutor who learns of evidence of actual innocence at any point — including years or decades after conviction — has a continuing duty under this subsection, in addition to the duty to seek reduction or dismissal under §2.6.1.2, to act on that evidence. The duty passes to **successor prosecutors** in the office of record, who may not invoke unfamiliarity with an inherited case to avoid the duty.
+
+**Failure — Cumulative with Existing Provisions:**
+
+A prosecutor who fails to perform the duty of this subsection commits, depending on the elements established:
+
+- **Failure to Serve** under §1.15.1 (default Class 3 felony)
+- **Obstruction of Justice** under §1.8 where the failure is motivated by status, affiliation, political pressure, institutional reputation, or office convenience
+- **Malicious Prosecution** under §1.14 where the failure is accompanied by knowing or reckless disregard of clear evidence of innocence
+- **Failure to Seek Reduction or Dismissal** under §2.6.1.2.1 where the inadequate investigation produced a continued prosecution that should have ended
+- **Malicious Case Maintenance** under §2.6.2.8 where the failure preserves a prosecution the prosecutor knows or recklessly disregards should not continue
+- Where the failure contributes to wrongful conviction, long-term incarceration, family separation, capital sentence, death in custody, or suicide consistent with Section 12.1, the offense is a **capital offense**
+
+**Construction:**
+
+This subsection shall be construed broadly in favor of the accused and the convicted person. The prosecutor's duty runs to the **truth of what actually happened**, not to securing or maintaining a conviction once one is on the books. A prosecutor who treats charged-and-convicted as the end of the inquiry has abandoned the lawful function of the office and acts outside the role recognized by this Act.
 
 #### 2.6.2 Prosecutorial Offenses
 
@@ -630,7 +682,7 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 
 > A judge who **knows of grounds for recusal** under this section and either **fails to recuse**, or **conceals** the grounds, commits a **Class 2 felony** under this title.
 
-- Where the failure was intentional, penalty enhancements under Section 7 apply
+- Where the failure was intentional, penalty enhancements under Section 5.6 apply
 - Where committed with malice (e.g., to obtain a particular outcome favorable to the judge or to a connected party), the conduct is elevated to a **capital offense** per the mens rea framework of Section 3
 - A pattern of failures to recuse may be additionally charged as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
 - A conviction or judgment entered after a failure-to-recuse is presumptively subject to vacatur on direct or collateral review
@@ -652,7 +704,7 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 - Where a judge knowingly fails to engage with the evidence or law on the merits, the conduct is **reckless prosecution** under Section 2.5.2 — a **Class 2 felony**
 - Where the failure rises to acting completely outside the judicial role (e.g., issuing rulings with no factual or legal basis), the conduct is **Anarchy** under Section 1.10
 - A pattern of such failures may be charged additionally as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
-- Penalty enhancements under Section 7 apply, particularly the long-term-deprivation enhancement where a citizen suffers continuing consequences
+- Penalty enhancements under Section 5.6 apply, particularly the long-term-deprivation enhancement where a citizen suffers continuing consequences
 
 ##### 2.7.1.3 Prohibition on Ex Parte Communications
 
@@ -710,6 +762,28 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 **Construction:**
 
 This subsection shall be construed broadly in favor of the citizen affected by the judicial failure, consistent with Section 1.5.2. The judge's duty runs to the **law as written and to the citizen as protected by it** — not to institutional convenience, professional courtesy, or the maintenance of past practice.
+
+#### 2.7.2 Judicial Recklessness
+
+> A judge commits **judicial recklessness** where the judge issues a ruling or order with gross disregard for clearly established law, the rights protected under §1.5, or the evidence in the record of the case before them.
+
+**Elements:**
+
+- The actor is a judge or other judicial officer (§1.1)
+- The ruling or order at issue departed grossly from clearly established law, the rights protected under §1.5, or the evidence in the record
+- The judge was aware, or in reckless disregard of clear evidence should have been aware, of the departure
+
+**Distinction from Other Judicial Duties:**
+
+- **§2.7.1.2 (Engage on the Merits)** focuses on the failure to engage and to issue a reasoned ruling
+- **§2.7.1.4 (Apply Mandatory Rules and Correct Errors)** focuses on the failure to apply mandatory rules and correct errors when discovered
+- **This subsection** reaches the substantive content of rulings that, even with engagement and rule-application, still depart grossly from clearly established law, the rights of the parties, or the evidence
+
+**Classification:**
+
+- **Class 2 felony** (capital offense where part of a pattern, or where the ruling produced a wrongful conviction or sustained deprivation of rights)
+- Judicial immunity does not apply, consistent with §5.1
+- May be charged cumulatively with §§2.7.1.2 and 2.7.1.4, and where applicable §2.5.3 (Wrongful Conviction as Conspiracy) and §1.6 (Cabalism)
 
 ### 2.8 Officers
 
@@ -772,7 +846,7 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Intentional violation: **Class 2 felony**
 - Violation producing a confession, admission, plea, conviction, probation revocation, parole revocation, immigration consequence, school expulsion, professional discipline, or other material deprivation of rights: **Class 2 felony**, chargeable cumulatively under §1.3 (Battery)
 - Violation committed with malice, as part of a pattern, or against a child, disabled person, intoxicated person, mentally impaired person, non-English speaker without adequate interpretation, or citizen in medical or psychological crisis: **capital offense**
-- Where the violation contributes to long-term incarceration, wrongful conviction, death in custody, capital sentence, or suicide, the penalty enhancements of Section 7 and the death-resulting provisions of Section 12 apply
+- Where the violation contributes to long-term incarceration, wrongful conviction, death in custody, capital sentence, or suicide, the penalty enhancements of Section 5.6 and the death-resulting provisions of Section 12 apply
 
 **Defenses Limited:**
 
@@ -849,6 +923,78 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Where the obstruction causes additional confinement, missed court deadline, loss of counsel, medical crisis, family separation, job loss, housing loss, immigration consequence, or inability to preserve evidence, the offense is a **Class 2 felony**
 - Where the obstruction is intentional, retaliatory, discriminatory, or affects a child, disabled person, non-English speaker, medically dependent person, pregnant person, or person in behavioral-health crisis, the offense is a **capital offense**
 - Charge cumulatively under §1.3, §1.13, §17.9K, §2.8.4, or §2.8.5 where applicable
+
+#### 2.8.7 Crisis-Response Misconduct
+
+> A government actor commits **crisis-response misconduct** where the actor treats a known or reasonably apparent behavioral-health, disability, medical, intoxication, dementia, autism, seizure, trauma, withdrawal, or suicide crisis as ordinary criminal defiance, and escalates force, detention, interrogation, citation, arrest, or charges instead of using available noncriminal alternatives.
+
+**Classification:**
+
+- Crisis-response misconduct is a **Class 3 felony**
+- Where injury, involuntary hospitalization, jail, loss of housing, criminal charges, loss of benefits, or family separation results, the offense is a **Class 2 felony**
+- Where death or serious bodily injury results, the offense is a **capital offense**, and Section 11 applies where the elements are met
+
+#### 2.8.8 Technical-Violation Incarceration Abuse
+
+> A government actor commits **technical-violation incarceration abuse** where the actor seeks, orders, causes, recommends, or maintains jail, prison, detention, revocation, hold, or custody for a technical violation of probation, parole, pretrial release, diversion, school supervision, immigration supervision, or administrative supervision that does not involve new criminal conduct, actual danger, or willful refusal where reasonable alternatives exist.
+
+**Classification:**
+
+- Technical-violation incarceration abuse is a **Class 3 felony**
+- Where incarceration, job loss, housing loss, family separation, medical interruption, benefit loss, immigration consequence, or plea pressure results, the offense is a **Class 2 felony**
+- Charge cumulatively under §17.9E (Revenue Extraction), §2.8.9 (Electronic Custody Abuse), or §1.3 (Battery), where the elements are met
+
+#### 2.8.9 Electronic Custody Abuse
+
+> A government actor commits **electronic custody abuse** where the actor imposes, extends, monetizes, or enforces electronic monitoring, GPS tracking, app check-ins, curfews, exclusion zones, device fees, remote alcohol testing, location surveillance, or similar electronic restraint without individualized necessity, ability-to-pay findings, meaningful review, and less restrictive alternatives.
+
+**Classification:**
+
+- Minor excessive electronic conditions are a **Class 1 misdemeanor**
+- Unjustified electronic monitoring or surveillance is a **Class 3 felony**
+- Where technical violations cause jail, job loss, housing loss, medical denial, family separation, conviction pressure, or debt, the offense is a **Class 2 felony**
+
+#### 2.8.10 Custodial Sexual Domination
+
+> A government actor commits **custodial sexual domination** where the actor uses custody, detention, supervision, probation, parole, foster placement, institutional control, immigration detention, jail employment, prison authority, release authority, housing control, medical access, food access, hygiene access, or family-contact control to obtain sexual contact, sexual exposure, sexualized speech, voyeuristic access, romantic communication, silence, or non-reporting concerning sexual misconduct.
+
+**Consent Bar:**
+
+No person in custody, detention, supervision, placement, institutional control, or material dependency on a government actor can validly consent to sexual contact with the actor exercising that power.
+
+**Classification:**
+
+- Custodial sexual domination is a **capital offense**
+- Where the abuse contributes to suicide, death, serious bodily injury, pregnancy, sexually transmitted infection, or prolonged psychological harm, Section 11 and the penalty enhancements of Section 5.6 apply
+- Permanent ineligibility under Section 11 applies
+
+#### 2.8.11 Home-Invasion Under Color of Warrant
+
+> A government actor commits **home-invasion under color of warrant** where the actor seeks, signs, approves, executes, or supervises a search, arrest, no-knock entry, nighttime raid, forced entry, flashbang deployment, SWAT deployment, or militarized operation using false, stale, misleading, omitted, boilerplate, or insufficient facts, or where less dangerous means were reasonably available.
+
+**Classification:**
+
+- Home-invasion under color of warrant is a **Class 2 felony**
+- Where a child, elder, disabled person, sleeping person, uninvolved resident, or person in medical or mental-health crisis is endangered, the offense is a **capital offense**
+- Where death, serious bodily injury, suicide, or life-threatening medical crisis results, Section 11 applies
+- Charge cumulatively under §1.3 (Battery), §1.10 (Anarchy), §17.4, §17.13, §17.14, or §17.15, where applicable
+
+#### 2.8.12 Sheriff Command Responsibility Failure
+
+> A sheriff, undersheriff, chief deputy, jail commander, marshal, constable, federal marshal, or other command-level enforcement actor commits **sheriff command responsibility failure** where the actor knowingly maintains, approves, ratifies, ignores, or fails to correct a policy, custom, training failure, supervision failure, jail practice, warrant practice, transport practice, or deputy conduct pattern that violates this Act or foreseeably causes violations of rights protected under §1.5.
+
+**Includes, Without Limitation:**
+
+- Allowing deputies, jail staff, transport officers, court-security officers, or contractors to repeatedly violate recording, identification, force, custody, medical, complaint-intake, or rights-advisement duties
+- Maintaining a jail, booking, warrant, detainer, release, transport, visitation, medical, or grievance practice that foreseeably deprives citizens of liberty, counsel, medical care, family contact, records access, or court access
+- Retaining or promoting an actor after clear notice of repeated constitutional violations, fabricated charges, unlawful searches, retaliatory arrests, custodial abuse, or records manipulation
+- Failing to train or supervise subordinates on the requirements of this Act after a Citizen Council, court, prosecutor, public defender, auditor, complainant, or internal report gives notice of a recurring violation
+
+**Classification:**
+
+- Sheriff command responsibility failure is a **Class 3 felony**
+- Where the failure causes detention, injury, denial of medical care, unlawful search, retaliation, fabricated charge, loss of evidence, or jail abuse, the offense is a **Class 2 felony**
+- Where the failure is intentional, retaliatory, part of a pattern, or causes death, serious bodily injury, suicide, sexual abuse, wrongful conviction, or prolonged incarceration, the offense is a **capital offense**, and Section 11 applies where the elements are met
 
 ### 2.9 Constitutional Objection Duty
 
@@ -1269,3 +1415,13 @@ The offenses of this subsection apply to both prosecutors and public defenders, 
 - **Class 2 felony**
 - Where the unlawful detention causes prolonged incarceration, family separation, medical crisis, suicide, or death in custody, the offense is a **capital offense**, and Section 12 applies where the elements are met
 - May be charged cumulatively under §1.3 (Battery), §2.6.2.1 (Charging Without Probable Cause), and §2.8.6 (Sheriff Custody and Release Obstruction)
+
+#### 2.10.7 Guardianship Rights Plunder
+
+> A court actor, guardian, conservator, public guardian, agency, attorney, fiduciary, evaluator, contractor, or service provider commits **guardianship rights plunder** where the actor uses guardianship, conservatorship, protective placement, representative payee status, court evaluation, or fiduciary authority to unnecessarily strip rights, isolate the person, seize assets, block family contact, control medical decisions, hide records, charge unreasonable fees, neglect care, or prevent the person from challenging the arrangement.
+
+**Classification:**
+
+- Guardianship rights plunder is a **Class 2 felony**
+- Where housing, medical care, family contact, estate assets, voting rights, liberty, bodily autonomy, communication, or ability to challenge the guardianship is materially deprived, the offense is a **capital offense**
+- Where death, serious injury, suicide, or life-threatening medical crisis results, Section 11 applies

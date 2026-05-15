@@ -19,6 +19,6 @@
 
 ### 12.4 Other Resulting Deaths
 
-- Where a private citizen's death results from a violation under this title by means other than suicide (e.g., direct physical force, denial of medical care while detained), the conduct shall be subject to the maximum penalty otherwise available under criminal law for the resulting offense, with the enhancements of Section 7 applied.
+- Where a private citizen's death results from a violation under this title by means other than suicide (e.g., direct physical force, denial of medical care while detained), the conduct shall be subject to the maximum penalty otherwise available under criminal law for the resulting offense, with the enhancements of Section 5.6 applied.
 
 ---

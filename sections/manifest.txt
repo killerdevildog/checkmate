@@ -5,8 +5,6 @@
 04-section-3-mens-rea-criminal-and-civil.md
 05-section-4-knowing-and-cognate-terms.md
 06-section-5-fixing-immunity-and-accountability-gaps.md
-07-section-6-fixing-the-equal-application-gap.md
-08-section-7-fixing-the-penalty-gap.md
 10-section-9-activation-of-prosecution-citizen-council-and-joint-declaration.md
 11-section-10-retroactive-civil-applicability.md
 12-section-11-forfeiture-of-state-benefits-and-office.md

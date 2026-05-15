@@ -101,6 +101,169 @@ Government actors may consider some of these duties inconvenient, excessive, or 
 
 This Act gives citizens documented triggers to hold government agents accountable to the highest rank in the American system: the citizen whose rights the government exists to serve.
 
+### Why This Is the Answer
+
+#### The problem in one sentence
+
+Government officials have, over time, built around themselves a wall of legal immunities that makes it nearly impossible for ordinary citizens to hold them personally accountable when they abuse public power.
+
+#### The wall
+
+The wall is made of several specific doctrines:
+
+**Sovereign immunity.** The State and its agencies cannot be sued without the State's consent. Most states, including Utah, have only partial waivers (the Utah Governmental Immunity Act, Title 63G Chapter 7), and those waivers are narrow, full of exceptions, and easy for the State to limit further.
+
+**Qualified immunity.** Government officials performing discretionary functions cannot be sued for civil-rights violations unless the right violated was "clearly established" by an earlier court decision involving nearly identical facts. In practice, this means an officer or official can violate a right that any reasonable person would recognize as a violation, and still walk away because no prior case had ruled on the exact factual pattern. *Harlow v. Fitzgerald*, 457 U.S. 800 (1982), and the long line of cases applying it.
+
+**Judicial immunity.** Judges cannot be sued, civilly and in many cases criminally, for acts performed in their judicial capacity — even when those acts are alleged to be malicious, corrupt, in excess of jurisdiction, procedurally defective, or grievously injurious to a citizen. *Bradley v. Fisher*, 80 U.S. 335 (1872); *Stump v. Sparkman*, 435 U.S. 349 (1978); *Mireles v. Waco*, 502 U.S. 9 (1991).
+
+**Prosecutorial immunity.** Prosecutors enjoy absolute civil immunity for acts performed within their advocate role — initiating prosecutions, presenting evidence, examining witnesses, charging decisions, plea negotiations, and grand-jury presentations — even where the prosecutor is alleged to have knowingly used false testimony, fabricated evidence, or suppressed exculpatory evidence. *Imbler v. Pachtman*, 424 U.S. 409 (1976).
+
+**Legislative immunity, executive immunity, governmental-function immunity, discretionary-function immunity, and analogous state-law doctrines** wrap around the rest of the system.
+
+The wall is not absolute. But the gaps in it are narrow, hard to find, and almost always require prior case law the citizen does not have, lawyers the citizen cannot afford, or a sympathetic federal judge the citizen has no way to choose.
+
+#### The discipline gap: citizens, the military, and the missing third
+
+There are three regimes of personal discipline at work in our society today.
+
+**Citizens are disciplined by the criminal code.** When a citizen violates the law, the criminal code reaches them. The architecture is centuries old and well-developed: investigation, charging, prosecution, conviction, sentence. The State has spent generations refining the system that disciplines its citizens.
+
+**The military is disciplined by the Uniform Code of Military Justice (UCMJ).** When a service member violates military duty — through fraud, dereliction of duty, conduct unbecoming, disobedience of orders, abuse of subordinates, mishandling of classified material, sexual misconduct, perjury, or any of the dozens of substantive offenses defined in Articles 77 through 134 — military justice reaches them through courts-martial and the broader UCMJ enforcement architecture. The military maintains this code because authority over others, when undisciplined, is dangerous. The UCMJ exists because the military recognizes that elementary fact and built a real disciplinary mechanism around it.
+
+**Ordinary government power lacks the equivalent discipline.** When a judge, prosecutor, peace officer, regulator, elected official, agency administrator, or other government actor violates the rights of a citizen under color of authority, no equivalent code reaches the actor. Internal-affairs review is run by the same institution. Civil suits are blocked by immunity. Criminal prosecution depends on prosecutors who share an office, a profession, or a political circle with the accused. Judicial-conduct commissions decide which judges to discipline behind closed doors. The system too often hides behind immunity doctrines, discretion, procedure, and institutional self-protection.
+
+That is the gap this Act exists to close: **the people in our society with the greatest delegated power are the only group with no equivalent disciplinary code reaching their misuse of that power.** Citizens have the criminal code. The military has the UCMJ. Government officials have, in practice, neither — only a patchwork of internal review, immunity-protected civil exposure, and prosecutorial discretion that almost never reaches them.
+
+Operation Checkmate is the **third leg of that stool**. It is the disciplinary code for ordinary government power — drafted with the same architecture the State has long used to discipline citizens and the same architecture the military has long used to discipline its own. The duties are explicit. The offenses are defined. The failures-to-perform are reachable. The immunity doctrines are abrogated within the scope of the Act. And the enforcement mechanism — citizen-forced prosecution through Section 9 — provides what internal review and civil suit have never delivered.
+
+If a private citizen who shoplifts a sandwich faces criminal prosecution, and if a service member who falsifies a logbook faces UCMJ charges, then a prosecutor who hides exculpatory evidence, a judge who refuses to recuse from a case where the judge has a financial interest, an officer who continues interrogation after a citizen invokes counsel, or a city council member who retaliates against a critic by manipulating zoning power must face a comparable disciplinary mechanism. There is no honest answer for why the most powerful actors in our system would be the only ones outside the reach of disciplined accountability.
+
+#### The asymmetry: citizens are criminally bound — officials are not
+
+A citizen of Utah is bound by hundreds of affirmative duties enforced by criminal law. Failure to perform these duties is itself a crime. Examples are everywhere in daily life:
+
+- **Pulling over when an officer signals.** Failure to stop is "fleeing" or "evading," a misdemeanor and in many circumstances a felony. Utah Code §41-6a-210.
+- **Producing a driver license, registration, and proof of insurance when stopped.** Refusal is a separate offense. Utah Code §41-6a-209.
+- **Stopping at the scene of an accident.** Leaving = "hit and run," a misdemeanor or felony depending on injury. Utah Code §41-6a-401, 402.
+- **Reporting an accident involving injury, death, or property damage** to law enforcement. Failure = misdemeanor or felony.
+- **Filing tax returns and paying taxes.** Failure = tax evasion, a state and federal crime.
+- **Registering with the Selective Service** (males 18–25). Failure = federal felony, 50 U.S.C. § 3811.
+- **Reporting suspected child abuse, if a mandatory reporter** (teachers, medical professionals, social workers, clergy in some jurisdictions). Failure = misdemeanor or felony.
+- **Showing up when subpoenaed as a witness.** Failure = contempt of court.
+- **Showing up for jury duty.** Failure = contempt.
+- **Being truthful on government forms.** False statement = perjury or false-statement felony — federally, 18 U.S.C. § 1001.
+- **Sex-offender registration.** Failure to register or update = felony.
+- **Maintaining motor-vehicle financial responsibility.** Operating without it = class C misdemeanor. Utah Code §41-12a-302.
+- **Sending children to school.** Truancy can produce contempt, fines, and in some jurisdictions jail for the parent.
+- **Yielding to emergency vehicles.** Failure = misdemeanor.
+- **Stopping at red lights and stop signs.** Failure = infraction or misdemeanor.
+- **Paying court-ordered child support.** Failure = contempt and, where willful, criminal nonsupport.
+- **Surrendering firearms under a qualifying protective order.** Failure = federal felony, 18 U.S.C. § 922(g)(8).
+- **Notifying the DMV of address change within the statutory period.** Failure = misdemeanor.
+- **Identifying yourself when an officer has reasonable suspicion**, in stop-and-identify jurisdictions. Failure = misdemeanor.
+- **Lying to a federal officer.** False statement = federal felony, 18 U.S.C. § 1001 (the Martha Stewart conviction).
+- **Lying under oath in any proceeding.** Perjury = felony.
+- **Tampering with or destroying evidence**, even one's own. Felony.
+- **Failing to appear in court** after release on bond. Misdemeanor or felony, plus bond forfeiture.
+- **Failing to obey a lawful court order.** Civil and criminal contempt.
+
+That is a partial list. The point is the **pattern**: where the State decides that public order or safety requires a citizen to act, the State enforces that requirement with the criminal law. The State does not say "we hope citizens will pull over." It says "if you do not pull over, you have committed a crime." It does not say "we hope citizens will file taxes." It says "if you do not file taxes, you have committed a crime." It does not say "we hope citizens will register if they have been convicted of a sex offense." It says "if you fail to register, you have committed a felony."
+
+The State has built an entire architecture of citizen affirmative duties enforced by criminal law because, the State explains, **public order requires it**.
+
+Now turn the question around.
+
+A government official holds delegated public power. That power can take a citizen's liberty, property, family, livelihood, reputation, and life. The misuse of that power is at least as dangerous to public order as a citizen's failure to file a tax return — and is often dramatically more dangerous. Yet the State that bound the citizen with criminal-law duties has, for itself, declined to do the same.
+
+- A citizen who lies on a tax form commits a felony. A prosecutor who lies to a jury hides behind absolute prosecutorial immunity.
+- A citizen who fails to stop for an officer commits a crime. An officer who continues to question a person who has invoked counsel faces, under current law, no criminal consequence at all.
+- A citizen who fails to register as a sex offender commits a felony. A judge who fails to disclose a financial interest in a case faces, at most, judicial-conduct review behind closed doors.
+- A citizen who lies to a federal officer commits a felony. A federal official who lies to Congress about whether the agency collects data on millions of Americans gives "the least untruthful" answer and keeps the job.
+- A citizen who fails to pay court-ordered child support faces contempt and criminal nonsupport. A government that funds a public-defense system at a level that makes effective representation impossible faces nothing.
+- A citizen who tampers with evidence is a felon. A police department that fails to preserve body-camera footage that would have impeached an officer's testimony faces, at most, a discovery sanction the prosecutor will negotiate around.
+- A citizen who fails to appear in court is jailed. A prosecutor who fails to disclose exculpatory evidence under *Brady* almost never faces personal consequence — the remedy, if there is one, is reversal of the conviction, not punishment of the prosecutor.
+- A citizen who refuses to identify themselves to a peace officer in a lawful stop is jailed. A peace officer who refuses to identify themselves to a citizen who asks during a lawful encounter faces no criminal liability under most existing law.
+
+The asymmetry is the point of this Act. **If citizens are required, on pain of criminal prosecution, to perform affirmative duties — to register, to file, to stop, to disclose, to report, to identify themselves, to pay, to appear, to surrender, to be truthful — then government officials, who hold delegated public power and whose failure can take a citizen's liberty or life, must be required to perform parallel affirmative duties on the same terms.**
+
+There is no principled basis for the asymmetry. The traditional answer — that immunity is necessary so officials can do their jobs without fear — does not survive scrutiny. Citizens do their jobs every day under the threat of criminal prosecution for tax fraud, perjury, fleeing, hit-and-run, failure to register, failure to pay, failure to appear. Citizens manage to do their jobs anyway. So can officials. The duties this Act imposes are not novel intrusions; they are the parallel of duties the State has already long imposed on the citizens it governs.
+
+Operation Checkmate ends the asymmetry. It defines official affirmative duties parallel to the duties already imposed on citizens, and it makes failure to perform those duties criminal — exactly as the State has long made failure to perform citizen duties criminal. **What is good enough for the citizen is good enough for the official.**
+
+#### Why civil reform alone doesn't work
+
+For decades, reformers have tried to chip away at the wall by **removing immunities in civil cases**. Some states have ended qualified immunity in their civil-rights statutes. Some legislatures have expanded sovereign-immunity waivers. Some plaintiffs have won landmark cases.
+
+It hasn't been enough. Two structural reasons:
+
+**1. The official is still not personally on the hook.** Even where civil immunity is removed, the State or municipality pays the judgment. The official keeps the job, keeps the pension, keeps the title. The taxpayer pays. The official walks away.
+
+**2. The right to sue requires money, time, lawyers, and survival.** A citizen who has been harmed by government — wrongfully arrested, wrongfully prosecuted, wrongfully convicted, wrongfully separated from their children, wrongfully foreclosed, wrongfully deported — usually does not have the resources to file and prosecute a civil case against the State and its lawyers. The wall stays standing because the people on the wrong side of it cannot afford the rope to climb over.
+
+#### The criminal-law key
+
+Criminal prosecution operates differently from civil suit. In a criminal case:
+
+- **The prosecutor — not the harmed citizen — bears the cost** of bringing the case.
+- **The official is personally on the hook.** A criminal conviction goes on a person, not on a public budget. The State cannot indemnify a person out of a criminal record.
+- **The remedies are personal:** loss of office, loss of pension, prison, fines, permanent disqualification from holding public power again.
+- **Most of the immunity doctrines do not apply, or apply far more weakly, to criminal prosecution.** Judicial immunity is a civil-liability doctrine. Prosecutorial immunity (under *Imbler*) is a civil-liability doctrine. Qualified immunity is a civil-liability doctrine. Sovereign immunity is a civil-liability doctrine. These doctrines were built to protect officials from being **sued** — not from being **charged**.
+
+What this means is simple and powerful: **if a citizen can convert official misconduct into a crime, the wall comes down for that conduct.**
+
+#### Why making it a crime is the answer — not a step, the answer
+
+Operation Checkmate uses this insight as its central engine.
+
+**It defines official misconduct as crime.** Assault under color of authority, battery, obstruction, malicious prosecution, recklessly maintaining a known-false case, falsifying records, wrongful conviction, retaliation against whistleblowers and complainants, refusal to recuse, ex parte communications about pending cases, ineffective assistance of counsel, custodial coercion, badge coercion, eminent-domain manipulation, regulatory weaponization — these are not civil torts in this Act. They are crimes.
+
+**It creates affirmative duties and makes the failure to perform them a crime.** A prosecutor's duty to disclose adverse evidence to the jury — failure is criminal. A prosecutor's duty to investigate actual innocence — failure is criminal. A prosecutor's duty to seek dismissal when the evidence collapses — failure is criminal. A judge's duty to recuse where there is a conflict — failure is criminal. A judge's duty to engage with the merits — failure is criminal. An officer's duty to honor an invocation of rights, to record the encounter, to identify themselves — failure is criminal. A public defender's duty to refuse a caseload that prevents effective representation — failure is criminal. The State's duty to fund a public-defense system at a level that permits effective representation — failure is criminal.
+
+This converts **inaction** into reachable conduct. Most immunity doctrines protect official **action**; they have weaker hold on the active concealment of a duty owed to a citizen. By turning the duty itself into a criminal predicate, the bill brings the failure inside the criminal law's reach.
+
+**It explicitly abrogates immunity within the scope of the Act.** Section 5.1.1 names the doctrines — judicial immunity (Bradley, Pierson, Stump, Mireles), prosecutorial immunity (Imbler), qualified immunity (Harlow and progeny), sovereign immunity, legislative immunity, executive immunity, governmental-function immunity, discretionary-function immunity — and abrogates each of them within the State of Utah for any offense defined in this Act. Whatever residual application those doctrines might still have to criminal prosecution, this Act removes any application within its scope.
+
+#### The piece that makes it real: citizen-forced prosecution
+
+A criminal law is only as strong as the willingness of the prosecutor to use it. If the official whose conduct is being prosecuted is in the same office, party, agency, fraternal lodge, or political circle as the prosecutor, a normal criminal-law fix would die in the prosecutor's office. The wall would just shift one room over.
+
+Operation Checkmate closes that gap with the **Citizen Council** mechanism (Section 9). Twelve or more citizens — meeting outside the judicial process, without judicial supervision, without the cooperation of any government office — can issue a **Joint Declaration of Prosecution**. That Declaration has the legal force of a grand-jury indictment when filed in court. The County Prosecutor's Office **must** prosecute it. If the County Prosecutor declines, has a conflict, or fails to act within thirty days, the Office of the Governor must designate counsel to prosecute the matter without further delay.
+
+The Citizen Council can also issue Council Declarations to compel production of records, to seek warrants, and to seek arrests — with the Sheriff's Office obligated to enforce. Inmates can form Citizen Councils from inside facilities. **Logical Consistency Review** (twelve unanimous citizens) can nullify a statute that conflicts with controlling law. **Conviction Review** (eighteen unanimous citizens) can nullify, reduce, or extend public forgiveness to a criminal conviction.
+
+The citizens are the activator. The citizens force the prosecution. The citizens decide what the official prosecutor is too captured, too political, too tired, or too friendly to charge.
+
+#### Why this — and not another civil suit, another reform, another commission
+
+Civil suits depend on lawyers and money the harmed citizen does not have.
+
+Internal-affairs investigations are run by the same institutions whose officers are being investigated.
+
+Civilian review boards have no power to charge anything.
+
+Federal monitorships have repeatedly failed to address misconduct.
+
+The Inspector General's office reports to the executive whose conduct is often in question.
+
+The professional-discipline boards police their own.
+
+The Judicial Conduct Commission decides which judges to discipline behind closed doors.
+
+Operation Checkmate routes around every one of these dead ends. It puts a substantive criminal predicate on the conduct, makes the failure to perform a duty also criminal, abrogates the immunity doctrines that would shield the conduct from civil reach, and gives the citizens themselves — not the captured offices — the power to force the prosecution.
+
+#### Where the wall stands
+
+**Where the wall stands today:** a citizen harmed by official misconduct must usually find a lawyer, file a civil case in federal or state court, survive qualified-immunity dismissal motions, hope for a sympathetic judge, hope a jury awards meaningful damages, hope the State does not appeal, hope the official (who keeps the job through all of it) eventually faces some consequence, and most often watches the entire thing settle for a sum the State pays from the same taxes the citizen paid in.
+
+**Where the wall stands after this Act:** the misconduct is itself a crime. The duty is itself a crime to fail to perform. The immunity is abrogated within the State of Utah for any offense in the Act. The citizens — twelve of them, organizing themselves outside any court or government office — file a Joint Declaration. The County Prosecutor must prosecute. The Sheriff must enforce. The official faces personal criminal liability, loss of office, loss of pension, and permanent disqualification from holding public power again.
+
+That is the answer.
+
+It is not a partial answer. It is not a proposal for civil reform. It is not a request for the legislature to be more careful. It is the structural mechanism that closes the gap between the citizen's right and the official's accountability for violating it. Every element of the bill — the offenses, the affirmative duties, the failure-to-perform liability, the immunity abrogation, the Citizen Council, the Joint Declaration, the mandatory-prosecution rule, the Sheriff-enforced Council Declarations, the Logical Consistency Review, the Conviction Review — is a piece of one machine. They work because they work together.
+
+There are no kings in America. This is what it takes to make that true in practice.
+
 ### The Moral Line
 
 A public office is not a throne.
@@ -202,7 +365,7 @@ A government actor may not avoid liability by delegating coercive, custodial, in
 Where a violation under this title results from action taken by a **collective body** (including but not limited to a city council, county commission, school board, regulatory commission, or zoning board), or by **multiple government actors acting in concert**:
 
 - Individual liability under Section 5 attaches to **each member or actor** who voted for, approved, ratified, signed, or knowingly facilitated the violating action
-- The penalty enhancements of Section 7 (multiple actors) shall apply
+- The penalty enhancements of Section 5.6 (multiple actors) shall apply
 - The conduct may be charged as a **conspiracy** where the elements are met, with each participating member treated as a co-conspirator
 - A vote, resolution, ordinance, directive, or policy adopted by such a body that authorizes or commands conduct violating this title is itself **an act under color of authority** for purposes of this statute, attributable to each member who supported it
 
@@ -516,7 +679,7 @@ Any statute, ordinance, regulation, rule, policy, practice, order, license condi
 
 **Construction:** For purposes of this section, "evil" means **any unjust law, regulation, enforcement action, or treatment of any person or entity**, and the term shall be construed broadly in favor of the citizen consistent with Section 1.5.2.
 
-**Classification:** Cabalism is a **Class 2 felony**, with the penalty enhancements of Section 7 available, including for sustained coordination, repeated acts, or significant impact on the affected citizens or entities.
+**Classification:** Cabalism is a **Class 2 felony**, with the penalty enhancements of Section 5.6 available, including for sustained coordination, repeated acts, or significant impact on the affected citizens or entities.
 
 ### 1.7 Government Racketeering
 
@@ -544,7 +707,7 @@ This section applies to any person acting under **color of federal or state law*
 
 - An individual instance of Government Racketeering is a **Class 2 felony**
 - A demonstrated **pattern** of Government Racketeering, or its operation as an ongoing scheme, is a **capital offense**
-- Penalty enhancements under Section 7 apply, including the multiple-actor enhancement
+- Penalty enhancements under Section 5.6 apply, including the multiple-actor enhancement
 - Conduct under this section may also be charged as a conspiracy under Section 1.1.1
 
 ### 1.8 Obstruction of Justice
@@ -565,7 +728,7 @@ This section applies to any person acting under **color of federal or state law*
 - Unless a more specific subsection states otherwise, obstruction of justice by a government actor is a **Class 3 felony**
 - Where the obstruction affects a criminal prosecution, custody, search, seizure, child removal, property deprivation, public record, election, Citizen Council proceeding, or protected right, the offense is a **Class 2 felony**
 - Where the obstruction contributes to wrongful conviction, long-term incarceration, death, suicide, child removal, loss of home, loss of livelihood, or a capital proceeding, the offense is a **capital offense**
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 
 #### 1.8.2 Selective Non-Prosecution
 
@@ -599,7 +762,7 @@ This section applies to any person acting under **color of federal or state law*
 - The classification of an obstruction offense under this section shall be **the same class as the underlying offense** that the official failed to prosecute, arrest, or charge
 - The **minimum classification is Class 2 felony** — where the underlying offense is a misdemeanor, infraction, or other lesser offense, the obstruction is nevertheless prosecuted as a Class 2 felony
 - Where the underlying offense is a **capital offense**, the obstruction takes that **same capital classification** under this section
-- Penalty enhancements under Section 7 apply, including the multiple-actor enhancement where two or more officials participated in or facilitated the obstruction
+- Penalty enhancements under Section 5.6 apply, including the multiple-actor enhancement where two or more officials participated in or facilitated the obstruction
 - Conduct under this section may be charged as a **conspiracy** under Section 1.1.1 where multiple officials acted in concert
 
 **Pattern of Selective Non-Prosecution:**
@@ -660,7 +823,7 @@ War against the state under this section includes, but is not limited to:
 > Treason under this section is a **capital offense** under this title.
 
 - The procedural safeguards of Section 12.3 apply (right to counsel, bifurcated guilt and sentencing phase, unanimous jury verdict on guilt and sentence, automatic appellate review)
-- The penalty enhancements of Section 7 apply, including for multiple actors and long-term deprivation of rights
+- The penalty enhancements of Section 5.6 apply, including for multiple actors and long-term deprivation of rights
 - Where multiple actors participated, the conduct is chargeable as a conspiracy under Section 1.1.1
 - Treason may be charged **cumulatively** with Cabalism (§1.6), Government Racketeering (§1.7), or any other applicable offense
 
@@ -714,7 +877,7 @@ This provision is consistent with, and reinforces, **Section 2.5.1** (Policy Is 
 **Classification:**
 
 - Anarchy is a **Class 2 felony** under this title
-- The penalty enhancements of Section 7 apply
+- The penalty enhancements of Section 5.6 apply
 - Where multiple actors participated, the conduct is chargeable as conspiracy under Section 1.1.1
 - Where anarchy is sustained, repeated, or part of a pattern, the conduct may be elevated and additionally charged under **Treason (§1.9)**, **Cabalism (§1.6)**, or **Government Racketeering (§1.7)**
 
@@ -766,7 +929,7 @@ Disclosures shall be **public records**, accessible without fee or undue procedu
 
 - An individual instance of Foreign-Funded Lobbying — by either the lobbyist or the receiving government actor — is a **Class 2 felony** under this title, as a form of **Cabalism (Section 1.6)**
 - A **pattern** of Foreign-Funded Lobbying, or sustained foreign-funded influence on Utah legislation in a manner that breaks or burdens Utah citizens, is chargeable as **Treason (Section 1.9)** under the financial-warfare, regulatory-warfare, or constitutional-warfare prongs of that section
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 - Charges under this section may be **cumulative** with Cabalism (§1.6), Government Racketeering (§1.7), Treason (§1.9), and Anarchy (§1.10)
 
 **Carve-Outs (Not Foreign-Funded Lobbying):**
@@ -820,7 +983,7 @@ The following are **not** prohibited under this section:
 - Terrorism under this section is a **capital offense**
 - Where terrorism results in the citizen's **suicide** consistent with Section 12.1, the conduct is elevated to a **capital offense**
 - Where terrorism is part of a sustained pattern, conduct may be additionally charged as **Treason (§1.9)**, **Cabalism (§1.6)**, or **Government Racketeering (§1.7)**
-- Penalty enhancements under Section 7 apply — particularly the suicidal-ideation, extreme-anxiety, and family-welfare-anxiety enhancements
+- Penalty enhancements under Section 5.6 apply — particularly the suicidal-ideation, extreme-anxiety, and family-welfare-anxiety enhancements
 - Where multiple actors participated, conduct is chargeable as conspiracy under Section 1.1.1
 
 **Threats Against Children — Kidnapping Component:**
@@ -876,7 +1039,7 @@ This section reaches government-actor conduct that:
 - Official Intimidation is a **Class 3 felony**
 - Where the conduct is mild and isolated, the prosecuting office may charge as a **Class 1 misdemeanor** based on severity and pattern, but the **default classification is Class 3 felony**
 - A sustained pattern of Official Intimidation against the same citizen, or against a class of citizens, may be **elevated and additionally charged as Terrorism (§1.12)**
-- Penalty enhancements under Section 7 apply — particularly the psychological-harm, family-welfare-anxiety, and self-welfare-anxiety enhancements
+- Penalty enhancements under Section 5.6 apply — particularly the psychological-harm, family-welfare-anxiety, and self-welfare-anxiety enhancements
 - Where multiple actors participated, conduct is chargeable as conspiracy under Section 1.1.1
 
 **Hierarchy of Anxiety-Inducing Offenses (for clarity):**
@@ -930,7 +1093,7 @@ Section 1.14 attaches **personal civil and criminal liability** to that conduct.
 - Malicious Prosecution is a **capital offense** under this title (consistent with the mens rea framework of Section 3.5, where malice elevates the underlying offense by two tiers)
 - Where the malicious prosecution resulted in a **conviction**, the government actor is also liable as a co-conspirator under Section 1.1.1 with any jurors found liable under Section 2.5.3 (wrongful conviction by jury)
 - Where the malicious prosecution resulted in the citizen's **death** — capital sentence carried out, death in custody, or suicide consistent with Section 12.1 — the conduct is **a capital offense** under this title
-- Penalty enhancements under Section 7 apply at maximum severity, including suicidal-ideation, family-anxiety, and long-term-deprivation enhancements
+- Penalty enhancements under Section 5.6 apply at maximum severity, including suicidal-ideation, family-anxiety, and long-term-deprivation enhancements
 
 **Defenses Limited:**
 
@@ -959,12 +1122,70 @@ For purposes of this Act, **failure to serve** means the failure of a government
 **Default Classification:**
 
 - Unless a specific section states a different classification, failure to serve is a **Class 3 felony**
-- Where the failure to serve is intentional, malicious, repeated, coordinated, concealed, or causes deprivation of rights, liberty, property, family, livelihood, safety, or access to justice, penalty enhancements under Section 7 apply
+- Where the failure to serve is intentional, malicious, repeated, coordinated, concealed, or causes deprivation of rights, liberty, property, family, livelihood, safety, or access to justice, penalty enhancements under Section 5.6 apply
 - Failure to serve may be charged cumulatively with any underlying offense or resulting harm caused, enabled, concealed, or prolonged by the failure
 
 ### 1.16 Mental-State Terms
 
 For purposes of this Act, the terms **[knowingly](#section-4--knowing-and-cognate-terms)**, **[intentionally](#32-criminal-mens-rea)**, **[recklessly](#32-criminal-mens-rea)**, **[negligently](#32-criminal-mens-rea)**, and **[maliciously](#32-criminal-mens-rea)** are defined and governed by Sections 3 and 4. Section 3 controls criminal and civil mens rea. Section 4 controls knowing and cognate terms. Where those terms appear in any offense, duty, enhancement, defense, or classification provision, Sections 3 and 4 control unless a more specific provision expressly states otherwise.
+
+### 1.17 Ineffective Assistance of Counsel
+
+For purposes of this title, **"ineffective assistance of counsel"** means representation by counsel — whether retained, appointed, contracted, court-assigned, deputized, or otherwise provided in or affecting any criminal, juvenile, civil-commitment, immigration, family, child-welfare, contempt, probation, parole, detention, or other proceeding in which a citizen faces deprivation of liberty, property, family integrity, or any other protected right — that fails to provide the citizen with the standard of representation required by §2.11.7, by the Sixth Amendment, by the Utah Constitution, or by the recognized professional standards informing those authorities.
+
+Ineffective assistance of counsel includes, without limitation:
+
+**Individual Ineffectiveness — Conduct of Specific Counsel:**
+
+- Counsel's performance falling below the standard of reasonably effective representation under the affirmative duties of §2.11.7
+- Failure to meet with the client before critical stages of the case
+- Failure to independently investigate the facts of the case
+- Failure to obtain, review, and use available discovery
+- Failure to communicate every plea offer, in plain language, with adequate time for the client to decide
+- Failure to fully advise on direct and material collateral consequences of plea or conviction (immigration, family, licensing, registry, housing, benefits, voting, firearms, employment)
+- Failure to file necessary motions to suppress, dismiss, sever, or otherwise protect the client's rights
+- Failure to maintain confidentiality and undivided loyalty
+- Failure to disclose a conflict of interest under §2.11.5
+- Failure to preserve the appellate record by timely objection, offer of proof, or motion
+- Any other failure to perform the affirmative duties of §2.11.7
+
+**Structural and Constructive Ineffectiveness — System-Caused Failure:**
+
+- Counsel was constructively absent at a critical stage of the proceeding, regardless of the attorney's individual diligence
+- Counsel was carrying an **overwhelming caseload** within the meaning of §2.11.8, regardless of the attorney's effort to perform on each case
+- The public-defense system was funded, contracted, or staffed at a level that made effective representation impossible — i.e., the structural failure addressed by §2.10.2 (Constructive Denial of Counsel under Color of Law)
+- The system imposed structural conflicts of interest, denied confidential communication facilities, denied access to investigative or expert resources, denied timely discovery, or otherwise prevented counsel from performing the duties of §2.11.7
+
+**No Prejudice Requirement Under This Act:**
+
+> The Strickland prejudice prong — requiring a citizen to show a reasonable probability that, but for counsel's deficient performance, the result would have been different — **does not apply** under this Act. A citizen whose counsel performed below the standard of effective representation under §2.11.7, or who was deprived of effective representation by the structural failures described above, has been denied the right to counsel within the meaning of this Act, whether or not the citizen can prove the outcome would have been different.
+
+The State's failure to provide effective counsel is itself the harm. Where the citizen has been denied effective assistance, the citizen is entitled to the remedies of this Act — including vacatur of any resulting conviction, judgment, plea, or adverse ruling; civil cause of action under Section 10; Citizen Council review under Sections 9 and 9.15; and prosecution of the responsible actors — without separately proving that a different outcome would have followed.
+
+**Distinguished from Reasonable Tactical Choice:**
+
+This definition does not reach reasonable strategic or tactical decisions made by counsel after adequate investigation, communication with the client, and consultation with available resources. Counsel's good-faith judgment on matters within the scope of effective representation is not ineffective assistance merely because the citizen, in hindsight, disagrees with the choice. The line is performance below the standard of §2.11.7, not difference of opinion within that standard.
+
+**Cross-References:**
+
+- Constructive Denial of Counsel Under Color of Law: §2.10.2
+- Affirmative Duties of Public Defenders: §2.11.7
+- Right to Refuse Overwhelming Caseload; State Liability: §2.11.8
+- Public Defender Offenses: §§2.11.1 through 2.11.6
+- Shared Attorney Offenses for Prosecutors and Public Defenders: §2.12
+- Malicious Prosecution: §1.14
+- Wrongful Conviction as Conspiracy (juror application): §2.5.3
+
+**Supporting Authorities Recognized by This Act:**
+
+The duties on which this definition depends build on, and codify, the following established right-to-counsel authorities, without being derived from or limited by them:
+
+- ***Powell v. Alabama***, 287 U.S. 45 (1932)
+- ***Gideon v. Wainwright***, 372 U.S. 335 (1963)
+- ***Argersinger v. Hamlin***, 407 U.S. 25 (1972)
+- ***Strickland v. Washington***, 466 U.S. 668 (1984) — this Act adopts *Strickland*'s performance prong as a floor, not a ceiling, and rejects *Strickland*'s prejudice prong for purposes of liability and remedy under this Act
+- ***United States v. Cronic***, 466 U.S. 648 (1984) — this Act broadens *Cronic*'s presumed-prejudice categories to include the structural failures defined in §§2.10.2 and 2.11.8
+- ***Padilla v. Kentucky***, 559 U.S. 356 (2010); ***Lafler v. Cooper***, 566 U.S. 156 (2012); ***Missouri v. Frye***, 566 U.S. 134 (2012)
 
 ## Section 2 — Due Process
 
@@ -1257,7 +1478,7 @@ A person who is **unable or unwilling** to perform the documentation required by
 > A judge who **knowingly allows a juror to be seated on a criminal jury** despite that juror's demonstrated inability or unwillingness to perform the documentation requirement, or who fails to make reasonable inquiry into juror eligibility under this subsection, has engaged in **obstruction of justice** within the meaning of this title.
 
 - Obstruction of justice under this subsection is a **Class 2 felony** under this title
-- The penalty enhancements of Section 7 apply, including where the resulting conviction caused long-term deprivation of rights or psychological harm to the accused
+- The penalty enhancements of Section 5.6 apply, including where the resulting conviction caused long-term deprivation of rights or psychological harm to the accused
 - The doctrine of judicial immunity **does not apply**, consistent with Section 5.1
 - A judge's violation of this subsection is independently chargeable from any other violation by the same judge
 
@@ -1307,7 +1528,7 @@ A wrongful conviction by a unanimous or near-unanimous jury that is subsequently
 
 **Underlying Offense:**
 
-A wrongful conviction by a juror under this section constitutes a **Battery** under Section 1.3 — an unlawful deprivation of the convicted person's liberty through direct action — and carries the Class 2 felony classification of that section, subject to the penalty enhancements of Section 7.
+A wrongful conviction by a juror under this section constitutes a **Battery** under Section 1.3 — an unlawful deprivation of the convicted person's liberty through direct action — and carries the Class 2 felony classification of that section, subject to the penalty enhancements of Section 5.6.
 
 **Limited Scope — What Is and Is Not Reachable:**
 
@@ -1327,7 +1548,7 @@ A wrongful conviction by a juror under this section constitutes a **Battery** un
 Where a wrongful conviction under this subsection results in:
 
 - The convicted person's **death** — by capital sentence carried out, by death in custody, or by suicide consistent with Section 12.1 — the conduct shall be charged under Section 12 as applicable, **including capital classification under Section 12.1** where the convicted person's suicide is shown to be a direct or proximate result of the wrongful conviction
-- **Long-term incarceration** of the convicted person — the penalty enhancements of Section 7 (long-term deprivation of rights, victim restrained or unable to leave) apply
+- **Long-term incarceration** of the convicted person — the penalty enhancements of Section 5.6 (long-term deprivation of rights, victim restrained or unable to leave) apply
 - **Repeated wrongful convictions** by the same juror, the same jury panel, or in coordination with the same prosecutor or judge — the pattern may be charged additionally as **Cabalism (Section 1.6)** or **Government Racketeering (Section 1.7)**
 
 ### 2.6 Prosecutors
@@ -1358,7 +1579,7 @@ The duties in this subsection are affirmative and continuing. A prosecutor must 
 > A prosecutor's failure to disclose adverse evidence to the jury, where the prosecutor knew or should have known the evidence would tend to undermine the prosecution's claim or establish innocence, is **Obstruction of Justice** under this title.
 
 - Charging follows the framework of Section 1.8: the **class of the obstruction mirrors the class of the offense being prosecuted**, with a **Class 2 felony floor**
-- Where the failure is intentional, penalty enhancements under Section 7 apply
+- Where the failure is intentional, penalty enhancements under Section 5.6 apply
 - Where the failure is committed with malice (intent to obtain a conviction the prosecutor knows or recklessly disregards as wrongful), the conduct is also chargeable as **Malicious Prosecution under Section 1.14**
 
 **Note on *Brady v. Maryland*:**
@@ -1390,8 +1611,8 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 > Where a prosecutor knows of facts that would warrant reduction or dismissal under this subsection and **fails to seek** such reduction or dismissal, the prosecutor commits a **Class 3 felony** under this title.
 
 - The failure is reachable whether the case is **pre-trial, mid-trial, post-trial, or post-conviction** (including years after conviction)
-- Where the failure was intentional, penalty enhancements under Section 7 apply, and the conduct may be elevated to **Malicious Prosecution (§1.14)** or charged cumulatively
-- Where the failure causes the citizen to suffer continuing incarceration or other deprivation of rights, the long-term-deprivation enhancement of Section 7 applies
+- Where the failure was intentional, penalty enhancements under Section 5.6 apply, and the conduct may be elevated to **Malicious Prosecution (§1.14)** or charged cumulatively
+- Where the failure causes the citizen to suffer continuing incarceration or other deprivation of rights, the long-term-deprivation enhancement of Section 5.6 applies
 - Where the failure causes the citizen's death — carried out capital sentence, death in custody, or suicide consistent with Section 12.1 — the conduct is elevated to a **capital offense**
 
 **Continuing Nature:**
@@ -1404,6 +1625,58 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 **Construction:**
 
 This subsection shall be construed broadly in favor of the accused and convicted person, consistent with Section 1.5.2. The prosecutor's duty runs to the **truth**, not to the conviction; failure to act on the truth, when known, is itself reachable conduct under this title.
+
+##### 2.6.1.3 Duty to Investigate Actual Innocence
+
+> A prosecutor has an **affirmative and continuing duty**, in every criminal proceeding the prosecutor handles, directs, supervises, or inherits, to investigate the **actual innocence** of the accused with the same diligence the prosecutor applies to investigating guilt.
+
+The prosecutor's function is to determine the **truth of what actually happened**, not to find and maintain guilt. A just system does not pay prosecutors to assemble, defend, and prolong a conviction once one has the appearance of being supportable. A just system pays prosecutors to test the State's case honestly, including by actively investigating the possibility that the accused is innocent of the offense charged, of any greater offense within it, or of any offense at all.
+
+This duty applies even where, and especially where, the initial appearance of the evidence is consistent with guilt. The appearance of guilt does not extinguish the prosecutor's duty to look for what might displace that appearance.
+
+**Application — When the Duty Applies:**
+
+This duty applies in every case the prosecutor handles or supervises, including without limitation cases in which:
+
+- The accused has been arrested, charged, indicted, or convicted by a jury
+- Police investigators have reported the case as solved
+- The accused has confessed, where the confession may be the product of coercion, false promise, custodial pressure, mental impairment, intoxication, language barrier, youth, or any other factor affecting voluntariness
+- A co-defendant, informant, jailhouse witness, or cooperating witness has implicated the accused
+- A plea has been offered or accepted
+- A direct appeal has been exhausted
+- Years or decades have passed since conviction
+
+**Affirmative Investigative Duties:**
+
+In every case the prosecutor handles or supervises, the prosecutor shall:
+
+- **Personally evaluate** the strength of the State's evidence on the merits, separately from and independently of the charging recommendation of police or investigators
+- Identify and pursue **affirmative lines of inquiry** that could establish the actual innocence of the accused — alibi witnesses, alternative suspects, surveillance footage, forensic evidence that has not been tested, witness recantations, contemporaneous records, third-party confessions, body-camera footage, jail recordings, digital records
+- Direct or arrange **independent forensic testing** of evidence where the available science could exonerate the accused (DNA, ballistics, fingerprint, toxicology, digital forensics, latent-print re-examination)
+- Review prior police investigative work for indicia of **tunnel vision, confirmation bias, premature closure, suggestive identification procedures, or coercive interrogation**
+- Re-examine the case when new facts or new scientific methods come into the prosecutor's possession or could reasonably be obtained
+- Continue to investigate innocence at every stage of the case — **pretrial, mid-trial, post-trial, and post-conviction**
+
+**No Closure on Charging, Conviction, or Time:**
+
+> The duty to investigate actual innocence is **not extinguished** by the filing of charges, a grand-jury indictment, a trial conviction, a guilty plea, an exhausted appeal, the passage of time, or the prosecutor's transfer from the office.
+
+A prosecutor who learns of evidence of actual innocence at any point — including years or decades after conviction — has a continuing duty under this subsection, in addition to the duty to seek reduction or dismissal under §2.6.1.2, to act on that evidence. The duty passes to **successor prosecutors** in the office of record, who may not invoke unfamiliarity with an inherited case to avoid the duty.
+
+**Failure — Cumulative with Existing Provisions:**
+
+A prosecutor who fails to perform the duty of this subsection commits, depending on the elements established:
+
+- **Failure to Serve** under §1.15.1 (default Class 3 felony)
+- **Obstruction of Justice** under §1.8 where the failure is motivated by status, affiliation, political pressure, institutional reputation, or office convenience
+- **Malicious Prosecution** under §1.14 where the failure is accompanied by knowing or reckless disregard of clear evidence of innocence
+- **Failure to Seek Reduction or Dismissal** under §2.6.1.2.1 where the inadequate investigation produced a continued prosecution that should have ended
+- **Malicious Case Maintenance** under §2.6.2.8 where the failure preserves a prosecution the prosecutor knows or recklessly disregards should not continue
+- Where the failure contributes to wrongful conviction, long-term incarceration, family separation, capital sentence, death in custody, or suicide consistent with Section 12.1, the offense is a **capital offense**
+
+**Construction:**
+
+This subsection shall be construed broadly in favor of the accused and the convicted person. The prosecutor's duty runs to the **truth of what actually happened**, not to securing or maintaining a conviction once one is on the books. A prosecutor who treats charged-and-convicted as the end of the inquiry has abandoned the lawful function of the office and acts outside the role recognized by this Act.
 
 #### 2.6.2 Prosecutorial Offenses
 
@@ -1598,7 +1871,7 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 
 > A judge who **knows of grounds for recusal** under this section and either **fails to recuse**, or **conceals** the grounds, commits a **Class 2 felony** under this title.
 
-- Where the failure was intentional, penalty enhancements under Section 7 apply
+- Where the failure was intentional, penalty enhancements under Section 5.6 apply
 - Where committed with malice (e.g., to obtain a particular outcome favorable to the judge or to a connected party), the conduct is elevated to a **capital offense** per the mens rea framework of Section 3
 - A pattern of failures to recuse may be additionally charged as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
 - A conviction or judgment entered after a failure-to-recuse is presumptively subject to vacatur on direct or collateral review
@@ -1620,7 +1893,7 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 - Where a judge knowingly fails to engage with the evidence or law on the merits, the conduct is **reckless prosecution** under Section 2.5.2 — a **Class 2 felony**
 - Where the failure rises to acting completely outside the judicial role (e.g., issuing rulings with no factual or legal basis), the conduct is **Anarchy** under Section 1.10
 - A pattern of such failures may be charged additionally as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
-- Penalty enhancements under Section 7 apply, particularly the long-term-deprivation enhancement where a citizen suffers continuing consequences
+- Penalty enhancements under Section 5.6 apply, particularly the long-term-deprivation enhancement where a citizen suffers continuing consequences
 
 ##### 2.7.1.3 Prohibition on Ex Parte Communications
 
@@ -1678,6 +1951,28 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 **Construction:**
 
 This subsection shall be construed broadly in favor of the citizen affected by the judicial failure, consistent with Section 1.5.2. The judge's duty runs to the **law as written and to the citizen as protected by it** — not to institutional convenience, professional courtesy, or the maintenance of past practice.
+
+#### 2.7.2 Judicial Recklessness
+
+> A judge commits **judicial recklessness** where the judge issues a ruling or order with gross disregard for clearly established law, the rights protected under §1.5, or the evidence in the record of the case before them.
+
+**Elements:**
+
+- The actor is a judge or other judicial officer (§1.1)
+- The ruling or order at issue departed grossly from clearly established law, the rights protected under §1.5, or the evidence in the record
+- The judge was aware, or in reckless disregard of clear evidence should have been aware, of the departure
+
+**Distinction from Other Judicial Duties:**
+
+- **§2.7.1.2 (Engage on the Merits)** focuses on the failure to engage and to issue a reasoned ruling
+- **§2.7.1.4 (Apply Mandatory Rules and Correct Errors)** focuses on the failure to apply mandatory rules and correct errors when discovered
+- **This subsection** reaches the substantive content of rulings that, even with engagement and rule-application, still depart grossly from clearly established law, the rights of the parties, or the evidence
+
+**Classification:**
+
+- **Class 2 felony** (capital offense where part of a pattern, or where the ruling produced a wrongful conviction or sustained deprivation of rights)
+- Judicial immunity does not apply, consistent with §5.1
+- May be charged cumulatively with §§2.7.1.2 and 2.7.1.4, and where applicable §2.5.3 (Wrongful Conviction as Conspiracy) and §1.6 (Cabalism)
 
 ### 2.8 Officers
 
@@ -1740,7 +2035,7 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Intentional violation: **Class 2 felony**
 - Violation producing a confession, admission, plea, conviction, probation revocation, parole revocation, immigration consequence, school expulsion, professional discipline, or other material deprivation of rights: **Class 2 felony**, chargeable cumulatively under §1.3 (Battery)
 - Violation committed with malice, as part of a pattern, or against a child, disabled person, intoxicated person, mentally impaired person, non-English speaker without adequate interpretation, or citizen in medical or psychological crisis: **capital offense**
-- Where the violation contributes to long-term incarceration, wrongful conviction, death in custody, capital sentence, or suicide, the penalty enhancements of Section 7 and the death-resulting provisions of Section 12 apply
+- Where the violation contributes to long-term incarceration, wrongful conviction, death in custody, capital sentence, or suicide, the penalty enhancements of Section 5.6 and the death-resulting provisions of Section 12 apply
 
 **Defenses Limited:**
 
@@ -1817,6 +2112,78 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Where the obstruction causes additional confinement, missed court deadline, loss of counsel, medical crisis, family separation, job loss, housing loss, immigration consequence, or inability to preserve evidence, the offense is a **Class 2 felony**
 - Where the obstruction is intentional, retaliatory, discriminatory, or affects a child, disabled person, non-English speaker, medically dependent person, pregnant person, or person in behavioral-health crisis, the offense is a **capital offense**
 - Charge cumulatively under §1.3, §1.13, §17.9K, §2.8.4, or §2.8.5 where applicable
+
+#### 2.8.7 Crisis-Response Misconduct
+
+> A government actor commits **crisis-response misconduct** where the actor treats a known or reasonably apparent behavioral-health, disability, medical, intoxication, dementia, autism, seizure, trauma, withdrawal, or suicide crisis as ordinary criminal defiance, and escalates force, detention, interrogation, citation, arrest, or charges instead of using available noncriminal alternatives.
+
+**Classification:**
+
+- Crisis-response misconduct is a **Class 3 felony**
+- Where injury, involuntary hospitalization, jail, loss of housing, criminal charges, loss of benefits, or family separation results, the offense is a **Class 2 felony**
+- Where death or serious bodily injury results, the offense is a **capital offense**, and Section 11 applies where the elements are met
+
+#### 2.8.8 Technical-Violation Incarceration Abuse
+
+> A government actor commits **technical-violation incarceration abuse** where the actor seeks, orders, causes, recommends, or maintains jail, prison, detention, revocation, hold, or custody for a technical violation of probation, parole, pretrial release, diversion, school supervision, immigration supervision, or administrative supervision that does not involve new criminal conduct, actual danger, or willful refusal where reasonable alternatives exist.
+
+**Classification:**
+
+- Technical-violation incarceration abuse is a **Class 3 felony**
+- Where incarceration, job loss, housing loss, family separation, medical interruption, benefit loss, immigration consequence, or plea pressure results, the offense is a **Class 2 felony**
+- Charge cumulatively under §17.9E (Revenue Extraction), §2.8.9 (Electronic Custody Abuse), or §1.3 (Battery), where the elements are met
+
+#### 2.8.9 Electronic Custody Abuse
+
+> A government actor commits **electronic custody abuse** where the actor imposes, extends, monetizes, or enforces electronic monitoring, GPS tracking, app check-ins, curfews, exclusion zones, device fees, remote alcohol testing, location surveillance, or similar electronic restraint without individualized necessity, ability-to-pay findings, meaningful review, and less restrictive alternatives.
+
+**Classification:**
+
+- Minor excessive electronic conditions are a **Class 1 misdemeanor**
+- Unjustified electronic monitoring or surveillance is a **Class 3 felony**
+- Where technical violations cause jail, job loss, housing loss, medical denial, family separation, conviction pressure, or debt, the offense is a **Class 2 felony**
+
+#### 2.8.10 Custodial Sexual Domination
+
+> A government actor commits **custodial sexual domination** where the actor uses custody, detention, supervision, probation, parole, foster placement, institutional control, immigration detention, jail employment, prison authority, release authority, housing control, medical access, food access, hygiene access, or family-contact control to obtain sexual contact, sexual exposure, sexualized speech, voyeuristic access, romantic communication, silence, or non-reporting concerning sexual misconduct.
+
+**Consent Bar:**
+
+No person in custody, detention, supervision, placement, institutional control, or material dependency on a government actor can validly consent to sexual contact with the actor exercising that power.
+
+**Classification:**
+
+- Custodial sexual domination is a **capital offense**
+- Where the abuse contributes to suicide, death, serious bodily injury, pregnancy, sexually transmitted infection, or prolonged psychological harm, Section 11 and the penalty enhancements of Section 5.6 apply
+- Permanent ineligibility under Section 11 applies
+
+#### 2.8.11 Home-Invasion Under Color of Warrant
+
+> A government actor commits **home-invasion under color of warrant** where the actor seeks, signs, approves, executes, or supervises a search, arrest, no-knock entry, nighttime raid, forced entry, flashbang deployment, SWAT deployment, or militarized operation using false, stale, misleading, omitted, boilerplate, or insufficient facts, or where less dangerous means were reasonably available.
+
+**Classification:**
+
+- Home-invasion under color of warrant is a **Class 2 felony**
+- Where a child, elder, disabled person, sleeping person, uninvolved resident, or person in medical or mental-health crisis is endangered, the offense is a **capital offense**
+- Where death, serious bodily injury, suicide, or life-threatening medical crisis results, Section 11 applies
+- Charge cumulatively under §1.3 (Battery), §1.10 (Anarchy), §17.4, §17.13, §17.14, or §17.15, where applicable
+
+#### 2.8.12 Sheriff Command Responsibility Failure
+
+> A sheriff, undersheriff, chief deputy, jail commander, marshal, constable, federal marshal, or other command-level enforcement actor commits **sheriff command responsibility failure** where the actor knowingly maintains, approves, ratifies, ignores, or fails to correct a policy, custom, training failure, supervision failure, jail practice, warrant practice, transport practice, or deputy conduct pattern that violates this Act or foreseeably causes violations of rights protected under §1.5.
+
+**Includes, Without Limitation:**
+
+- Allowing deputies, jail staff, transport officers, court-security officers, or contractors to repeatedly violate recording, identification, force, custody, medical, complaint-intake, or rights-advisement duties
+- Maintaining a jail, booking, warrant, detainer, release, transport, visitation, medical, or grievance practice that foreseeably deprives citizens of liberty, counsel, medical care, family contact, records access, or court access
+- Retaining or promoting an actor after clear notice of repeated constitutional violations, fabricated charges, unlawful searches, retaliatory arrests, custodial abuse, or records manipulation
+- Failing to train or supervise subordinates on the requirements of this Act after a Citizen Council, court, prosecutor, public defender, auditor, complainant, or internal report gives notice of a recurring violation
+
+**Classification:**
+
+- Sheriff command responsibility failure is a **Class 3 felony**
+- Where the failure causes detention, injury, denial of medical care, unlawful search, retaliation, fabricated charge, loss of evidence, or jail abuse, the offense is a **Class 2 felony**
+- Where the failure is intentional, retaliatory, part of a pattern, or causes death, serious bodily injury, suicide, sexual abuse, wrongful conviction, or prolonged incarceration, the offense is a **capital offense**, and Section 11 applies where the elements are met
 
 ### 2.9 Constitutional Objection Duty
 
@@ -2238,6 +2605,16 @@ The offenses of this subsection apply to both prosecutors and public defenders, 
 - Where the unlawful detention causes prolonged incarceration, family separation, medical crisis, suicide, or death in custody, the offense is a **capital offense**, and Section 12 applies where the elements are met
 - May be charged cumulatively under §1.3 (Battery), §2.6.2.1 (Charging Without Probable Cause), and §2.8.6 (Sheriff Custody and Release Obstruction)
 
+#### 2.10.7 Guardianship Rights Plunder
+
+> A court actor, guardian, conservator, public guardian, agency, attorney, fiduciary, evaluator, contractor, or service provider commits **guardianship rights plunder** where the actor uses guardianship, conservatorship, protective placement, representative payee status, court evaluation, or fiduciary authority to unnecessarily strip rights, isolate the person, seize assets, block family contact, control medical decisions, hide records, charge unreasonable fees, neglect care, or prevent the person from challenging the arrangement.
+
+**Classification:**
+
+- Guardianship rights plunder is a **Class 2 felony**
+- Where housing, medical care, family contact, estate assets, voting rights, liberty, bodily autonomy, communication, or ability to challenge the guardianship is materially deprived, the offense is a **capital offense**
+- Where death, serious injury, suicide, or life-threatening medical crisis results, Section 11 applies
+
 ## Section 3 — Mens Rea: Criminal and Civil
 
 ### 3.1 Two Tracks; Same Culpability Words
@@ -2398,7 +2775,9 @@ This section applies to every appearance of "knowingly" and cognate terms throug
 
 ---
 
-## Section 5 — Fixing Immunity and Accountability Gaps
+## Section 5 — Liability and Penalty Architecture
+
+This section sets the liability and penalty architecture of the Act. It abrogates the immunity doctrines that have shielded government actors from accountability, holds officials to the heightened public-servant standard demanded by their delegated power, and provides the penalty enhancements that attach to violations of the substantive offenses defined elsewhere in this Act.
 
 ### 5.1 Fixing the Immunity Gap
 
@@ -2410,7 +2789,7 @@ For purposes of this Act, **sovereign immunity** and **qualified immunity** prot
 
 A government actor may not claim immunity by first exceeding lawful authority and then arguing that the excess was "official." Conduct is official only to the extent it is a legitimate exercise of lawful power. Where the conduct violates this Act, violates due process, violates protected rights, or exceeds constitutional authority, the conduct is not legitimate authority for immunity purposes.
 
-### 5.1.1 Doctrines Creating the Immunity Gap
+#### 5.1.1 Doctrines Creating the Immunity Gap
 
 This subsection specifically abrogates, within the scope of this title and within the State of Utah, the following Supreme Court doctrines and any state-law analogues:
 
@@ -2455,11 +2834,11 @@ This doctrine is abrogated within the scope of this title. A prosecutor who comm
 
 **Legislative and Executive Immunity** — the doctrines that legislators are immune for acts in the legislative sphere and that executive officials enjoy varying degrees of immunity for official acts — including the Speech or Debate Clause analogues at the state level — are abrogated within the scope of this title for conduct meeting the elements of any offense defined herein.
 
-### 5.1.2 The Accountability Gap This Act Closes
+#### 5.1.2 The Accountability Gap This Act Closes
 
 > A government actor — judge, prosecutor, executive, legislator, or any person clothed with state power — is **no different from any other citizen in their accountability to the law**. The era of absolute immunity for those who govern, while ordinary citizens face the full weight of the law for far less serious conduct, ends with the adoption of this Act.
 
-The asymmetry the existing immunity doctrines create — where a judge can sterilize a child without due process, or order force against a public defender, or knowingly use false testimony — and answer to no one, while a citizen who jaywalks or fails to pay a parking ticket is fully liable — is itself a form of **unrighteous dominion** of the kind this Act exists to address. Removing that asymmetry is the work of this Act.
+The asymmetry the existing immunity doctrines create — where a judge can sterilize a child without due process, or order force against a public defender, or knowingly use false testimony — and answer to no one, while a citizen who jaywalks or fails to pay a parking ticket is fully liable — is itself a form of **abuse of authority** of the kind this Act exists to address. Removing that asymmetry is the work of this Act.
 
 ### 5.2 Fixing the Personal Accountability Gap
 
@@ -2488,28 +2867,24 @@ The conduct of a government actor while acting under color of authority is the c
 - The two principles operate in parallel: an actor cannot use official capacity to expand personal rights, and cannot use private capacity to escape the citizen-accountability mechanisms of this title
 - See Section 9.10 for the scope of Council jurisdiction over private-capacity conduct
 
----
-
-## Section 6 — Fixing the Equal-Application Gap
+### 5.5 Fixing the Equal-Application Gap
 
 > Government actors shall be held to at least the same criminal standard as private citizens when they act in a private capacity. When they act in an official capacity, under color of authority, or clothed with state power, they are held to a heightened public-servant duty because entrusted power lowers the threshold for liability.
 
-This section shall be read together with Sections 2.B and 5.3. A government actor remains a private citizen when acting outside official power, outside color of authority, and outside any use or reasonable appearance of public office. In that private-citizen capacity, the actor retains the same constitutional rights, defenses, and criminal-liability standards that apply to any other private citizen, subject to Citizen Council jurisdiction under Section 9.10 where applicable.
+This subsection shall be read together with Sections 2.2 and 5.3. A government actor remains a private citizen when acting outside official power, outside color of authority, and outside any use or reasonable appearance of public office. In that private-citizen capacity, the actor retains the same constitutional rights, defenses, and criminal-liability standards that apply to any other private citizen, subject to Citizen Council jurisdiction under Section 9.10 where applicable.
 
 When the same person acts in an official capacity, invokes official status, uses public resources, exercises delegated authority, appears to act under color of law, or is otherwise clothed with state power, the act is treated as an act of public power rather than merely private conduct. In that official-capacity context:
 
 - Private speech, conscience, association, privacy, search-and-seizure, or similar personal-rights claims do not excuse official conduct that violates this Act
 - The actor's public-servant duty is higher than the duty of an ordinary private citizen because the actor holds power in trust for the people
 - The liability threshold is lower than it would be for the same human being acting only as a private citizen, because official power can coerce, chill, restrain, or deprive rights without the same conduct being criminal if done by a private person
-- Abuse of authority, pretense of lawful authority, public office, public title, official appearance, or delegated power may aggravate the offense and support penalty enhancement under Section 7
+- Abuse of authority, pretense of lawful authority, public office, public title, official appearance, or delegated power may aggravate the offense and support penalty enhancement under §5.6
 
-Election to public office is not a defense, immunity, license, or enlargement of power. An elected official receives only the limited authority lawfully delegated to that office, and no more. The fact that an actor was chosen by voters does not authorize the actor to violate rights, exceed constitutional limits, abuse public power, retaliate against citizens, obstruct enforcement, or treat public office as personal dominion. Rights protected by this Act are enforceable against elected officials by the same civil and criminal mechanisms that apply to every other government actor, including the heightened official-capacity standard described in this section.
+Election to public office is not a defense, immunity, license, or enlargement of power. An elected official receives only the limited authority lawfully delegated to that office, and no more. The fact that an actor was chosen by voters does not authorize the actor to violate rights, exceed constitutional limits, abuse public power, retaliate against citizens, obstruct enforcement, or treat public office as personal dominion. Rights protected by this Act are enforceable against elected officials by the same civil and criminal mechanisms that apply to every other government actor, including the heightened official-capacity standard described in this subsection.
 
-Nothing in this section strips a public official of private-capacity constitutional rights when the official is not acting, appearing to act, or leveraging power as a government actor. This section prevents official power from being converted into a personal shield.
+Nothing in this subsection strips a public official of private-capacity constitutional rights when the official is not acting, appearing to act, or leveraging power as a government actor. This subsection prevents official power from being converted into a personal shield.
 
----
-
-## Section 7 — Fixing the Penalty Gap
+### 5.6 Fixing the Penalty Gap
 
 Penalties may be enhanced where:
 
@@ -2522,7 +2897,7 @@ Penalties may be enhanced where:
 - The violation caused the victim to experience **extreme anxiety, fear, or distress regarding the safety, welfare, livelihood, or liberty of their family or household members**
 - The violation produced **symptoms of psychological harm** (including but not limited to symptoms of acute stress, post-traumatic stress, depression, anxiety, fear, panic, sleep disruption, emotional distress, or loss of ordinary functioning), whether or not formally diagnosed
 
-### 7.1 Fixing the Psychological-Harm Evidence Gap
+#### 5.6.1 Fixing the Psychological-Harm Evidence Gap
 
 Psychological harm under this section may be established by any combination of:
 
@@ -2531,11 +2906,11 @@ Psychological harm under this section may be established by any combination of:
 - Records or evaluations from a licensed mental-health professional
 - Contemporaneous writings, communications, or other documentary evidence
 
-### 7.2 Fixing the Suicide-Charging Gap
+#### 5.6.2 Fixing the Suicide-Charging Gap
 
 Where suicidal ideation under this section progresses to an act of suicide, the conduct shall be charged under **Section 12.1 (Suicide of a Private Citizen)** rather than treated solely as an enhancement under this section.
 
-### 7.3 Hearsay and Statement Evidence for Penalty Enhancements
+#### 5.6.3 Hearsay and Statement Evidence for Penalty Enhancements
 
 Penalty enhancements under this section may be supported by statement evidence admissible under Section 2.3, including testimony that a witness heard a government actor, victim, family member, officer, official, or other person make a relevant statement. A statement may not be rejected merely because it is labeled hearsay where the same kind of statement would be admitted or used against a citizen.
 
@@ -2603,7 +2978,7 @@ The duty of the County or Municipal Prosecutor's Office to prosecute a Joint Dec
 ### 9.6 Protections for Council Members and Declarants
 
 - Any citizen who participates in a Citizen Council, signs a Joint Declaration of Prosecution, or testifies in any subsequent proceeding shall be protected from retaliation by any government actor
-- Retaliatory conduct shall itself be a violation of this title and shall trigger the enhancements of Section 7
+- Retaliatory conduct shall itself be a violation of this title and shall trigger the enhancements of Section 5.6
 - The identity of Council members and signatories may be kept confidential as among themselves; however, the names of signatories of a filed Joint Declaration shall be disclosed to the prosecuting office to the extent necessary to authenticate the Declaration and support the integrity of any resulting prosecution
 
 ### 9.7 Public Record and Annual Reporting
@@ -2706,7 +3081,7 @@ If the Declaration satisfies that standard, the judge shall approve the Declarat
 
 > Any government actor who interferes with a Citizen Council investigation, vote, Declaration of Prosecution, Declaration of Production of Records, Declaration of Warrant, or Declaration of Arrest in violation of this section commits a **Class 2 felony** under this title.
 
-- The penalty enhancements of Section 7 apply to interference under this section
+- The penalty enhancements of Section 5.6 apply to interference under this section
 - Multiple acts of interference, or interference by multiple actors in concert, shall be aggregated and may be charged as a conspiracy under Section 1.1.1
 - A judicial officer who issues an order in violation of this section is **personally liable** under this title; the doctrine of judicial immunity shall not apply, consistent with Section 5.1
 
@@ -2879,7 +3254,7 @@ This minimum age requirement applies equally to Inmate Citizen Councils under Se
 **Construction:**
 
 - This minimum age is a **participation threshold** for the Council mechanism only; it is not a limit on any substantive protection provided to citizens by this title
-- The protections of Sections 1.2 through 1.8 (and all other substantive protections of this title) apply to all persons regardless of age, and an offense against a minor under fourteen is no less an offense for that reason — and shall, where applicable, qualify for the penalty enhancements of Section 7
+- The protections of Sections 1.2 through 1.8 (and all other substantive protections of this title) apply to all persons regardless of age, and an offense against a minor under fourteen is no less an offense for that reason — and shall, where applicable, qualify for the penalty enhancements of Section 5.6
 - A Council member who participates in good-faith reliance on a co-member's representation of age does not lose protections under Sections 11.6 or 10.9 by reason of subsequent discovery that the co-member was under fourteen, provided the participating member acted in good faith
 
 ### 9.14 Logical Consistency Review of Statutes (12-Member Council)
@@ -3079,7 +3454,7 @@ The conduct need not independently constitute a criminal offense under this Act 
 
 ### 12.4 Other Resulting Deaths
 
-- Where a private citizen's death results from a violation under this title by means other than suicide (e.g., direct physical force, denial of medical care while detained), the conduct shall be subject to the maximum penalty otherwise available under criminal law for the resulting offense, with the enhancements of Section 7 applied.
+- Where a private citizen's death results from a violation under this title by means other than suicide (e.g., direct physical force, denial of medical care while detained), the conduct shall be subject to the maximum penalty otherwise available under criminal law for the resulting offense, with the enhancements of Section 5.6 applied.
 
 ---
 
@@ -3419,7 +3794,7 @@ This Section shall be construed:
 
 This Section catalogues additional offenses applicable to government actors by role — general public officials, police and sheriffs, judicial officers, clerks and records custodians, legislative and regulatory officials, executive officials, local governing bodies, and federal representatives or federal-office actors whose conduct harms Utah citizens. It **supplements** Section 1 and does not displace any offense already defined therein. Where a substantive offense in this Section overlaps with an offense already defined elsewhere in this Act, the prosecuting office may charge under either or both, **cumulatively**, consistent with §1.1.1 and the Statement of Intent's binding rules of construction.
 
-The criminal and civil mens rea framework of **Section 3** governs each offense in this Section. The penalty enhancements of **Section 7** apply in full. The Citizen Council activation, investigation, and prosecution mechanisms of **Section 9** apply without modification. The no-immunity rule of **Section 5.1** applies to every offense in this Section.
+The criminal and civil mens rea framework of **Section 3** governs each offense in this Section. The penalty enhancements of **Section 5.6** apply in full. The Citizen Council activation, investigation, and prosecution mechanisms of **Section 9** apply without modification. The no-immunity rule of **Section 5.1** applies to every offense in this Section.
 
 **Cross-References to Existing Offenses (Not Re-Defined Here):**
 
@@ -3454,7 +3829,7 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 - Reckless breach: **Class 3 felony**
 - Intentional breach: Class 2 felony per §3.4
 - Malicious breach: capital offense per §3.5
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 
 ### 17.2 Institutional Retaliation
 
@@ -3528,7 +3903,7 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 - Retaliatory charge fabrication is a **Class 2 felony**
 - Where the fabricated or retaliatory accusation is itself a felony, causes arrest, detention, incarceration, prosecution, conviction, probation or parole revocation, contempt, child removal, loss of employment, loss of housing, immigration consequence, or professional discipline, the offense is a **capital offense**
 - Where multiple government actors coordinate, approve, ratify, or knowingly rely on the fabricated or retaliatory charge, the offense is a **capital offense** and may be charged cumulatively as conspiracy under §1.1.1
-- Where the conduct contributes to wrongful conviction, long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 7 apply
+- Where the conduct contributes to wrongful conviction, long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 5.6 apply
 
 **Cumulative Charging:**
 
@@ -3555,7 +3930,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 
 - **Class 3 felony** by default
 - Where actual deprivation results, charge cumulatively under §1.3 (Battery)
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 
 ### 17.4 Deliberate Record Distortion
 
@@ -3574,7 +3949,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 - Where the distortion contributed to a wrongful conviction, charge cumulatively under §2.5.3 (Wrongful Conviction as Conspiracy)
 - Where committed by a prosecutor, may also be charged under §2.6.1.1
 - Where committed by a judge or court personnel, may also be charged under §2.7.1.4
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 
 ### 17.4A Public-Record Spoliation
 
@@ -3621,7 +3996,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 **Classification:**
 
 - The classification mirrors the deprivation caused, with a **Class 2 felony floor** where incarceration, conviction, plea coercion, or loss of liberty results
-- Where the conduct contributes to long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 7 apply
+- Where the conduct contributes to long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 5.6 apply
 - This section is cumulative to §2.5.3, §2.6.1.1, §2.6.1.2, §1.14, §17.4, §17.4A, and §17.4B
 
 ### 17.5 Gross Dereliction of Public Duty
@@ -3640,7 +4015,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 - Negligent failure: **infraction** under §3.3; **Class 1 misdemeanor** where measurable harm results or the failure repeats after notice
 - Reckless failure: **Class 3 felony**
 - Intentional failure: Class 2 felony per §3.4
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 
 ### 17.5A Incompetence in Office
 
@@ -3681,7 +4056,7 @@ For purposes of this section, **incompetence** means a present inability, unfitn
 - Incompetence in office is a **Class 2 felony** where the incompetence materially contributes to a citizen pleading guilty, being convicted of a crime, being sentenced, being incarcerated, being placed on a registry, losing custody of a child, losing professional licensure, or suffering long-term deprivation of rights
 - Incompetence in office is a **Class 1 felony** where the incompetence contributes to long-term incarceration, serious bodily harm, catastrophic financial harm, permanent family separation, irreversible immigration consequence, or widespread deprivation affecting multiple citizens
 - Incompetence in office is a **capital offense** where the incompetence materially contributes to a citizen's suicide, death in custody, execution, capital sentence, death resulting from custody or enforcement, or wrongful conviction carrying death, life imprisonment, or equivalent permanent deprivation of liberty
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 
 ### 17.6 Public Trust Fraud
 
@@ -3700,7 +4075,7 @@ For purposes of this section, **incompetence** means a present inability, unfitn
 - **Class 2 felony**
 - **Capital offense** where the false statement affected an emergency response, an election, a criminal prosecution, or a financial obligation falling on citizens
 - Where part of a coordinated pattern, charge cumulatively under §1.6 (Cabalism) or §1.7 (Government Racketeering)
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 
 ### 17.7 Oath Negligence
 
@@ -3775,7 +4150,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 **Classification:**
 
 - Complaint intake refusal is a **Class 3 felony**
-- Where the refusal concerns force, custody, prosecution, judicial conduct, child removal, sexual misconduct, retaliation, corruption, or any violation of this Act, penalty enhancements under Section 7 apply
+- Where the refusal concerns force, custody, prosecution, judicial conduct, child removal, sexual misconduct, retaliation, corruption, or any violation of this Act, penalty enhancements under Section 5.6 apply
 - Where the refusal is part of a pattern or coordinated practice, charge cumulatively under §1.6 (Cabalism), §1.7 (Government Racketeering), or §17.9 (Failure of Transparency)
 
 **Defenses Limited:**
@@ -3899,7 +4274,7 @@ The existence of an official transcript, official audio, official video, docket 
 
 - Property punishment without conviction is a **Class 3 felony**
 - Where the property is necessary for work, housing, family care, medical care, transport, disability access, communication, legal defense, or survival, the offense is a **Class 2 felony**
-- Where the taking causes loss of livelihood, homelessness, family separation, medical harm, or inability to defend a legal case, penalty enhancements under Section 7 apply
+- Where the taking causes loss of livelihood, homelessness, family separation, medical harm, or inability to defend a legal case, penalty enhancements under Section 5.6 apply
 - Charge cumulatively under §1.3 (Battery), §1.7 (Government Racketeering), §1.12 (Terrorism), §16.3, or §17.9E where the elements are met
 
 ### 17.9G Protected-Speech Suppression Under Color of Law
@@ -4020,7 +4395,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 
 - **Class 3 felony** (Class 2 where injury or rights deprivation results)
 - Where escalation produces use of force, charge cumulatively under §17.15 and §1.3 (Battery) as applicable
-- Penalty enhancements under Section 7 apply, particularly the long-term-deprivation-of-rights, family-welfare-anxiety, and psychological-harm enhancements
+- Penalty enhancements under Section 5.6 apply, particularly the long-term-deprivation-of-rights, family-welfare-anxiety, and psychological-harm enhancements
 
 ### 17.13 Investigative Negligence
 
@@ -4053,7 +4428,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 **Classification:**
 
 - **Class 3 felony** (Class 2 where conducted in reckless disregard of the citizen's clearly established rights, per §3.2)
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 - Where actual deprivation of rights results, charge cumulatively under §1.3 (Battery)
 
 ### 17.15 Reckless Force Deployment
@@ -4091,116 +4466,6 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 - False authority gesture is a **Class 1 misdemeanor**
 - Where the gesture causes a reasonable citizen to believe they are not free to leave, must surrender a right, must permit a search, must answer questions, or must comply with an unlawful command, charge cumulatively under §1.2 (Assault), §1.13 (Official Intimidation), or §17.14 (Enforcement Without Articulable Basis)
 - Where actual detention, search, seizure, use of force, or rights deprivation results, charge cumulatively under §1.3 (Battery)
-
-### 17.15F Crisis-Response Misconduct
-
-> A government actor commits **crisis-response misconduct** where the actor treats a known or reasonably apparent behavioral-health, disability, medical, intoxication, dementia, autism, seizure, trauma, withdrawal, or suicide crisis as ordinary criminal defiance, and escalates force, detention, interrogation, citation, arrest, or charges instead of using available noncriminal alternatives.
-
-**Classification:**
-
-- Crisis-response misconduct is a **Class 3 felony**
-- Where injury, involuntary hospitalization, jail, loss of housing, criminal charges, loss of benefits, or family separation results, the offense is a **Class 2 felony**
-- Where death or serious bodily injury results, the offense is a **capital offense**, and Section 11 applies where the elements are met
-
-### 17.15G Technical-Violation Incarceration Abuse
-
-> A government actor commits **technical-violation incarceration abuse** where the actor seeks, orders, causes, recommends, or maintains jail, prison, detention, revocation, hold, or custody for a technical violation of probation, parole, pretrial release, diversion, school supervision, immigration supervision, or administrative supervision that does not involve new criminal conduct, actual danger, or willful refusal where reasonable alternatives exist.
-
-**Classification:**
-
-- Technical-violation incarceration abuse is a **Class 3 felony**
-- Where incarceration, job loss, housing loss, family separation, medical interruption, benefit loss, immigration consequence, or plea pressure results, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.9E (Revenue Extraction), §17.15H (Electronic Custody Abuse), or §1.3 (Battery), where the elements are met
-
-### 17.15H Electronic Custody Abuse
-
-> A government actor commits **electronic custody abuse** where the actor imposes, extends, monetizes, or enforces electronic monitoring, GPS tracking, app check-ins, curfews, exclusion zones, device fees, remote alcohol testing, location surveillance, or similar electronic restraint without individualized necessity, ability-to-pay findings, meaningful review, and less restrictive alternatives.
-
-**Classification:**
-
-- Minor excessive electronic conditions are a **Class 1 misdemeanor**
-- Unjustified electronic monitoring or surveillance is a **Class 3 felony**
-- Where technical violations cause jail, job loss, housing loss, medical denial, family separation, conviction pressure, or debt, the offense is a **Class 2 felony**
-
-### 17.15J Custodial Sexual Domination
-
-> A government actor commits **custodial sexual domination** where the actor uses custody, detention, supervision, probation, parole, foster placement, institutional control, immigration detention, jail employment, prison authority, release authority, housing control, medical access, food access, hygiene access, or family-contact control to obtain sexual contact, sexual exposure, sexualized speech, voyeuristic access, romantic communication, silence, or non-reporting concerning sexual misconduct.
-
-**Consent Bar:**
-
-No person in custody, detention, supervision, placement, institutional control, or material dependency on a government actor can validly consent to sexual contact with the actor exercising that power.
-
-**Classification:**
-
-- Custodial sexual domination is a **capital offense**
-- Where the abuse contributes to suicide, death, serious bodily injury, pregnancy, sexually transmitted infection, or prolonged psychological harm, Section 11 and the penalty enhancements of Section 7 apply
-- Permanent ineligibility under Section 11 applies
-
-### 17.15L Home-Invasion Under Color of Warrant
-
-> A government actor commits **home-invasion under color of warrant** where the actor seeks, signs, approves, executes, or supervises a search, arrest, no-knock entry, nighttime raid, forced entry, flashbang deployment, SWAT deployment, or militarized operation using false, stale, misleading, omitted, boilerplate, or insufficient facts, or where less dangerous means were reasonably available.
-
-**Classification:**
-
-- Home-invasion under color of warrant is a **Class 2 felony**
-- Where a child, elder, disabled person, sleeping person, uninvolved resident, or person in medical or mental-health crisis is endangered, the offense is a **capital offense**
-- Where death, serious bodily injury, suicide, or life-threatening medical crisis results, Section 11 applies
-- Charge cumulatively under §1.3 (Battery), §1.10 (Anarchy), §17.4, §17.13, §17.14, or §17.15, where applicable
-
-### 17.15M Sheriff Command Responsibility Failure
-
-> A sheriff, undersheriff, chief deputy, jail commander, marshal, constable, federal marshal, or other command-level enforcement actor commits **sheriff command responsibility failure** where the actor knowingly maintains, approves, ratifies, ignores, or fails to correct a policy, custom, training failure, supervision failure, jail practice, warrant practice, transport practice, or deputy conduct pattern that violates this Act or foreseeably causes violations of rights protected under §1.5.
-
-**Includes, Without Limitation:**
-
-- Allowing deputies, jail staff, transport officers, court-security officers, or contractors to repeatedly violate recording, identification, force, custody, medical, complaint-intake, or rights-advisement duties
-- Maintaining a jail, booking, warrant, detainer, release, transport, visitation, medical, or grievance practice that foreseeably deprives citizens of liberty, counsel, medical care, family contact, records access, or court access
-- Retaining or promoting an actor after clear notice of repeated constitutional violations, fabricated charges, unlawful searches, retaliatory arrests, custodial abuse, or records manipulation
-- Failing to train or supervise subordinates on the requirements of this Act after a Citizen Council, court, prosecutor, public defender, auditor, complainant, or internal report gives notice of a recurring violation
-
-**Classification:**
-
-- Sheriff command responsibility failure is a **Class 3 felony**
-- Where the failure causes detention, injury, denial of medical care, unlawful search, retaliation, fabricated charge, loss of evidence, or jail abuse, the offense is a **Class 2 felony**
-- Where the failure is intentional, retaliatory, part of a pattern, or causes death, serious bodily injury, suicide, sexual abuse, wrongful conviction, or prolonged incarceration, the offense is a **capital offense**, and Section 11 applies where the elements are met
-
----
-
-### Subpart C — Judicial, Clerk, and Court-Access Offenses
-
-The offenses of Subpart C apply to judges, other judicial officers (§1.1), clerks, court administrators, city clerks, county clerks, records custodians, public-meeting administrators, and other actors whose duties affect court access, filing access, public records, public meetings, or official dockets, in addition to the duties imposed on judges under §§2.7.1.1 through 2.3.1.4.
-
-### 17.16 Judicial Recklessness
-
-> A judge commits **judicial recklessness** where the judge issues a ruling or order with gross disregard for clearly established law, the rights protected under §1.5, or the evidence in the record of the case before them.
-
-**Elements:**
-
-- The actor is a judge or other judicial officer (§1.1)
-- The ruling or order at issue departed grossly from clearly established law, the rights protected under §1.5, or the evidence in the record
-- The judge was aware, or in reckless disregard of clear evidence should have been aware, of the departure
-
-**Distinction from Other Judicial Duties:**
-
-- **§2.7.1.2 (Engage on the Merits)** focuses on the failure to engage and to issue a reasoned ruling
-- **§2.7.1.4 (Apply Mandatory Rules and Correct Errors)** focuses on the failure to apply mandatory rules and correct errors when discovered
-- **This section** reaches the substantive content of rulings that, even with engagement and rule-application, still depart grossly from clearly established law, the rights of the parties, or the evidence
-
-**Classification:**
-
-- **Class 2 felony** (capital offense where part of a pattern, or where the ruling produced a wrongful conviction or sustained deprivation of rights)
-- Judicial immunity does not apply, consistent with §5.1
-- May be charged cumulatively with §§2.7.1.2 and 2.3.1.4, and where applicable §2.5.3 (Wrongful Conviction as Conspiracy) and §1.6 (Cabalism)
-
-### 17.16D Guardianship Rights Plunder
-
-> A court actor, guardian, conservator, public guardian, agency, attorney, fiduciary, evaluator, contractor, or service provider commits **guardianship rights plunder** where the actor uses guardianship, conservatorship, protective placement, representative payee status, court evaluation, or fiduciary authority to unnecessarily strip rights, isolate the person, seize assets, block family contact, control medical decisions, hide records, charge unreasonable fees, neglect care, or prevent the person from challenging the arrangement.
-
-**Classification:**
-
-- Guardianship rights plunder is a **Class 2 felony**
-- Where housing, medical care, family contact, estate assets, voting rights, liberty, bodily autonomy, communication, or ability to challenge the guardianship is materially deprived, the offense is a **capital offense**
-- Where death, serious injury, suicide, or life-threatening medical crisis results, Section 11 applies
 
 ---
 
@@ -4243,7 +4508,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 - Negligent: **infraction** under §3.3, with restitution and structural remedies; **Class 1 misdemeanor** where measurable harm results or the conduct repeats after notice
 - Reckless: **Class 3 felony** where measurable harm results; **Class 1 misdemeanor** where harm is incipient
 - Intentional: Class 3 felony per §3.4
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 
 ### 17.18 Fiduciary Negligence in Office
 
@@ -4422,16 +4687,18 @@ Refusal by the owner to accept the government's offered price, refusal to waive 
 - Eminent-domain valuation manipulation is a **Class 2 felony**
 - Where the conduct causes loss of home, farm, business, livelihood, family land, inheritance property, religious property, community institution, or property necessary for medical care, disability access, work, or survival, the offense is a **Class 1 felony**
 - Where the conduct is coordinated with a private developer, donor, contractor, political ally, or public-private beneficiary for private gain, the offense is a **capital offense**
-- Where the conduct results in homelessness, death, suicide, serious bodily injury, catastrophic financial ruin, or permanent loss of family property, Section 12 and the penalty enhancements of Section 7 apply
+- Where the conduct results in homelessness, death, suicide, serious bodily injury, catastrophic financial ruin, or permanent loss of family property, Section 12 and the penalty enhancements of Section 5.6 apply
 - Charge cumulatively under §1.3 (Battery), §1.6 (Cabalism), §1.7 (Government Racketeering), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3, §2.9, §17.2, §17.9E, §17.9F, §17.23, §17.24C, or §17.24D where the elements are met
 
 ---
 
-### Subpart E — Obstruction of Utah's Federal Representatives Through Misleading Testimony
+### Subpart E — Federal Representative and Intergovernmental Obstruction
 
-The offense of Subpart E reaches a class of conduct that occurs outside Utah's borders but inflicts measurable harm on Utah citizens: the knowing misleading of, or obstruction of the truth-finding function of, a Utah United States Senator or Utah United States Representative during testimony before any committee, subcommittee, hearing, briefing, deposition, or interview of the United States Congress.
+The offenses of Subpart E reach a class of conduct that occurs outside Utah's borders but inflicts measurable harm on Utah citizens: the knowing misleading of Utah's federal representatives during congressional testimony (§17.25), the obstruction of constituent access to Utah's federal representatives (§17.25A), and the coordination across federal, state, and local channels to shield government misconduct from accountability under this Act (§17.25B).
 
 When a witness — whether a federal official, a corporate executive, an industry official, an agency employee, a contractor, or any other person — appears before Congress and knowingly misleads, the legislative judgments that Utah's representatives subsequently reach are necessarily based on something less than the truth. **Utah citizens are then misrepresented in Congress, because the votes their representatives cast were procured by deception.** That harm is reachable under this Act consistent with §16.7 and the dual-sovereignty principles cited therein.
+
+The constituent-obstruction and federal-state shielding offenses (§§17.25A, 17.25B) reach the parallel harm: a Utah citizen is denied access to, or representation by, the federal officials elected to serve them, and the misconduct that should be exposed is instead protected by coordinated obstruction across jurisdictions. This Subpart applies to Utah's federal representatives, congressional staff, federal-office actors, and intergovernmental actors whose conduct obstructs constituent accountability, shields government misconduct, or coordinates retaliation against Utah citizens seeking enforcement of this Act.
 
 ### 17.25 Misleading Testimony to Utah's Federal Representatives
 
@@ -4483,7 +4750,7 @@ In each of the foregoing instances, **Utah's federal representatives were member
   - The conduct produced subsequent congressional action (legislation, appropriation, regulation, or non-action) on the basis of the misleading record
 - Where the conduct is part of a coordinated effort by an industry, agency, organization, or other group to mislead Congress, charge **cumulatively** under §1.6 (Cabalism), §1.7 (Government Racketeering), and where the elements are met §1.9 (Treason — information-warfare prong)
 - Where the witness is a federal official acting under color of federal authority, the doctrine of *In re Neagle* and analogous federal-officer immunities are abrogated in this state consistent with §16.7
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 
 **Defenses Limited:**
 
@@ -4504,12 +4771,6 @@ This section applies to any person who knowingly engages in the conduct describe
 - Whether the person was under oath or affirmation at the time of the testimony
 
 Jurisdiction rests on the **harm to Utah citizens** through the misleading of their elected federal representatives. A person sufficiently connected to Utah by economic, regulatory, or political activity — including any business that operates in Utah, any federal agency whose conduct affects Utahns, and any official whose testimony shapes federal policy applicable in Utah — is reachable under this Act.
-
----
-
-### Subpart F — Federal Representative and Intergovernmental Accountability Offenses
-
-The offenses of Subpart F apply to Utah's federal representatives, congressional staff, federal-office actors, and intergovernmental actors whose conduct obstructs constituent accountability, shields government misconduct, or coordinates retaliation against Utah citizens seeking enforcement of this Act. This Subpart is read together with §16.7 and the jurisdictional-reach provisions above.
 
 ### 17.25A Federal Representative Constituent Obstruction
 
@@ -4564,7 +4825,7 @@ This Section does not displace any classification specified in Section 1 or else
 
 ### 17.27 Aggravating Factors (Cross-Reference)
 
-The penalty enhancements of **Section 7** apply in full to every offense under this Section. In addition to the enhancements enumerated at §7, conduct under this Section is subject to enhanced penalty where:
+The penalty enhancements of **Section 5.6** apply in full to every offense under this Section. In addition to the enhancements enumerated at §5.6, conduct under this Section is subject to enhanced penalty where:
 
 - The conduct was repeated
 - Vulnerable populations were harmed
@@ -4574,7 +4835,7 @@ The penalty enhancements of **Section 7** apply in full to every offense under t
 - Harm affected large numbers of citizens
 - The actor was acting under sworn-oath authority at the time of the conduct
 
-These factors are read together with §7. To the extent a factor is already enumerated at §7, this Section does not duplicate the enhancement; it identifies the factor for clarity in the role-specific contexts addressed by Subparts A through F.
+These factors are read together with §5.6. To the extent a factor is already enumerated at §5.6, this Section does not duplicate the enhancement; it identifies the factor for clarity in the role-specific contexts addressed by Subparts A through F.
 
 ---
 

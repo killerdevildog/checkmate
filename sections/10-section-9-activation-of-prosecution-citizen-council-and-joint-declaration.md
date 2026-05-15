@@ -60,7 +60,7 @@ The duty of the County or Municipal Prosecutor's Office to prosecute a Joint Dec
 ### 9.6 Protections for Council Members and Declarants
 
 - Any citizen who participates in a Citizen Council, signs a Joint Declaration of Prosecution, or testifies in any subsequent proceeding shall be protected from retaliation by any government actor
-- Retaliatory conduct shall itself be a violation of this title and shall trigger the enhancements of Section 7
+- Retaliatory conduct shall itself be a violation of this title and shall trigger the enhancements of Section 5.6
 - The identity of Council members and signatories may be kept confidential as among themselves; however, the names of signatories of a filed Joint Declaration shall be disclosed to the prosecuting office to the extent necessary to authenticate the Declaration and support the integrity of any resulting prosecution
 
 ### 9.7 Public Record and Annual Reporting
@@ -163,7 +163,7 @@ If the Declaration satisfies that standard, the judge shall approve the Declarat
 
 > Any government actor who interferes with a Citizen Council investigation, vote, Declaration of Prosecution, Declaration of Production of Records, Declaration of Warrant, or Declaration of Arrest in violation of this section commits a **Class 2 felony** under this title.
 
-- The penalty enhancements of Section 7 apply to interference under this section
+- The penalty enhancements of Section 5.6 apply to interference under this section
 - Multiple acts of interference, or interference by multiple actors in concert, shall be aggregated and may be charged as a conspiracy under Section 1.1.1
 - A judicial officer who issues an order in violation of this section is **personally liable** under this title; the doctrine of judicial immunity shall not apply, consistent with Section 5.1
 
@@ -336,7 +336,7 @@ This minimum age requirement applies equally to Inmate Citizen Councils under Se
 **Construction:**
 
 - This minimum age is a **participation threshold** for the Council mechanism only; it is not a limit on any substantive protection provided to citizens by this title
-- The protections of Sections 1.2 through 1.8 (and all other substantive protections of this title) apply to all persons regardless of age, and an offense against a minor under fourteen is no less an offense for that reason — and shall, where applicable, qualify for the penalty enhancements of Section 7
+- The protections of Sections 1.2 through 1.8 (and all other substantive protections of this title) apply to all persons regardless of age, and an offense against a minor under fourteen is no less an offense for that reason — and shall, where applicable, qualify for the penalty enhancements of Section 5.6
 - A Council member who participates in good-faith reliance on a co-member's representation of age does not lose protections under Sections 11.6 or 10.9 by reason of subsequent discovery that the co-member was under fourteen, provided the participating member acted in good faith
 
 ### 9.14 Logical Consistency Review of Statutes (12-Member Council)

@@ -65,7 +65,7 @@ A government actor may not avoid liability by delegating coercive, custodial, in
 Where a violation under this title results from action taken by a **collective body** (including but not limited to a city council, county commission, school board, regulatory commission, or zoning board), or by **multiple government actors acting in concert**:
 
 - Individual liability under Section 5 attaches to **each member or actor** who voted for, approved, ratified, signed, or knowingly facilitated the violating action
-- The penalty enhancements of Section 7 (multiple actors) shall apply
+- The penalty enhancements of Section 5.6 (multiple actors) shall apply
 - The conduct may be charged as a **conspiracy** where the elements are met, with each participating member treated as a co-conspirator
 - A vote, resolution, ordinance, directive, or policy adopted by such a body that authorizes or commands conduct violating this title is itself **an act under color of authority** for purposes of this statute, attributable to each member who supported it
 
@@ -379,7 +379,7 @@ Any statute, ordinance, regulation, rule, policy, practice, order, license condi
 
 **Construction:** For purposes of this section, "evil" means **any unjust law, regulation, enforcement action, or treatment of any person or entity**, and the term shall be construed broadly in favor of the citizen consistent with Section 1.5.2.
 
-**Classification:** Cabalism is a **Class 2 felony**, with the penalty enhancements of Section 7 available, including for sustained coordination, repeated acts, or significant impact on the affected citizens or entities.
+**Classification:** Cabalism is a **Class 2 felony**, with the penalty enhancements of Section 5.6 available, including for sustained coordination, repeated acts, or significant impact on the affected citizens or entities.
 
 ### 1.7 Government Racketeering
 
@@ -407,7 +407,7 @@ This section applies to any person acting under **color of federal or state law*
 
 - An individual instance of Government Racketeering is a **Class 2 felony**
 - A demonstrated **pattern** of Government Racketeering, or its operation as an ongoing scheme, is a **capital offense**
-- Penalty enhancements under Section 7 apply, including the multiple-actor enhancement
+- Penalty enhancements under Section 5.6 apply, including the multiple-actor enhancement
 - Conduct under this section may also be charged as a conspiracy under Section 1.1.1
 
 ### 1.8 Obstruction of Justice
@@ -428,7 +428,7 @@ This section applies to any person acting under **color of federal or state law*
 - Unless a more specific subsection states otherwise, obstruction of justice by a government actor is a **Class 3 felony**
 - Where the obstruction affects a criminal prosecution, custody, search, seizure, child removal, property deprivation, public record, election, Citizen Council proceeding, or protected right, the offense is a **Class 2 felony**
 - Where the obstruction contributes to wrongful conviction, long-term incarceration, death, suicide, child removal, loss of home, loss of livelihood, or a capital proceeding, the offense is a **capital offense**
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 
 #### 1.8.2 Selective Non-Prosecution
 
@@ -462,7 +462,7 @@ This section applies to any person acting under **color of federal or state law*
 - The classification of an obstruction offense under this section shall be **the same class as the underlying offense** that the official failed to prosecute, arrest, or charge
 - The **minimum classification is Class 2 felony** — where the underlying offense is a misdemeanor, infraction, or other lesser offense, the obstruction is nevertheless prosecuted as a Class 2 felony
 - Where the underlying offense is a **capital offense**, the obstruction takes that **same capital classification** under this section
-- Penalty enhancements under Section 7 apply, including the multiple-actor enhancement where two or more officials participated in or facilitated the obstruction
+- Penalty enhancements under Section 5.6 apply, including the multiple-actor enhancement where two or more officials participated in or facilitated the obstruction
 - Conduct under this section may be charged as a **conspiracy** under Section 1.1.1 where multiple officials acted in concert
 
 **Pattern of Selective Non-Prosecution:**
@@ -523,7 +523,7 @@ War against the state under this section includes, but is not limited to:
 > Treason under this section is a **capital offense** under this title.
 
 - The procedural safeguards of Section 12.3 apply (right to counsel, bifurcated guilt and sentencing phase, unanimous jury verdict on guilt and sentence, automatic appellate review)
-- The penalty enhancements of Section 7 apply, including for multiple actors and long-term deprivation of rights
+- The penalty enhancements of Section 5.6 apply, including for multiple actors and long-term deprivation of rights
 - Where multiple actors participated, the conduct is chargeable as a conspiracy under Section 1.1.1
 - Treason may be charged **cumulatively** with Cabalism (§1.6), Government Racketeering (§1.7), or any other applicable offense
 
@@ -577,7 +577,7 @@ This provision is consistent with, and reinforces, **Section 2.5.1** (Policy Is 
 **Classification:**
 
 - Anarchy is a **Class 2 felony** under this title
-- The penalty enhancements of Section 7 apply
+- The penalty enhancements of Section 5.6 apply
 - Where multiple actors participated, the conduct is chargeable as conspiracy under Section 1.1.1
 - Where anarchy is sustained, repeated, or part of a pattern, the conduct may be elevated and additionally charged under **Treason (§1.9)**, **Cabalism (§1.6)**, or **Government Racketeering (§1.7)**
 
@@ -629,7 +629,7 @@ Disclosures shall be **public records**, accessible without fee or undue procedu
 
 - An individual instance of Foreign-Funded Lobbying — by either the lobbyist or the receiving government actor — is a **Class 2 felony** under this title, as a form of **Cabalism (Section 1.6)**
 - A **pattern** of Foreign-Funded Lobbying, or sustained foreign-funded influence on Utah legislation in a manner that breaks or burdens Utah citizens, is chargeable as **Treason (Section 1.9)** under the financial-warfare, regulatory-warfare, or constitutional-warfare prongs of that section
-- Penalty enhancements under Section 7 apply
+- Penalty enhancements under Section 5.6 apply
 - Charges under this section may be **cumulative** with Cabalism (§1.6), Government Racketeering (§1.7), Treason (§1.9), and Anarchy (§1.10)
 
 **Carve-Outs (Not Foreign-Funded Lobbying):**
@@ -683,7 +683,7 @@ The following are **not** prohibited under this section:
 - Terrorism under this section is a **capital offense**
 - Where terrorism results in the citizen's **suicide** consistent with Section 12.1, the conduct is elevated to a **capital offense**
 - Where terrorism is part of a sustained pattern, conduct may be additionally charged as **Treason (§1.9)**, **Cabalism (§1.6)**, or **Government Racketeering (§1.7)**
-- Penalty enhancements under Section 7 apply — particularly the suicidal-ideation, extreme-anxiety, and family-welfare-anxiety enhancements
+- Penalty enhancements under Section 5.6 apply — particularly the suicidal-ideation, extreme-anxiety, and family-welfare-anxiety enhancements
 - Where multiple actors participated, conduct is chargeable as conspiracy under Section 1.1.1
 
 **Threats Against Children — Kidnapping Component:**
@@ -739,7 +739,7 @@ This section reaches government-actor conduct that:
 - Official Intimidation is a **Class 3 felony**
 - Where the conduct is mild and isolated, the prosecuting office may charge as a **Class 1 misdemeanor** based on severity and pattern, but the **default classification is Class 3 felony**
 - A sustained pattern of Official Intimidation against the same citizen, or against a class of citizens, may be **elevated and additionally charged as Terrorism (§1.12)**
-- Penalty enhancements under Section 7 apply — particularly the psychological-harm, family-welfare-anxiety, and self-welfare-anxiety enhancements
+- Penalty enhancements under Section 5.6 apply — particularly the psychological-harm, family-welfare-anxiety, and self-welfare-anxiety enhancements
 - Where multiple actors participated, conduct is chargeable as conspiracy under Section 1.1.1
 
 **Hierarchy of Anxiety-Inducing Offenses (for clarity):**
@@ -793,7 +793,7 @@ Section 1.14 attaches **personal civil and criminal liability** to that conduct.
 - Malicious Prosecution is a **capital offense** under this title (consistent with the mens rea framework of Section 3.5, where malice elevates the underlying offense by two tiers)
 - Where the malicious prosecution resulted in a **conviction**, the government actor is also liable as a co-conspirator under Section 1.1.1 with any jurors found liable under Section 2.5.3 (wrongful conviction by jury)
 - Where the malicious prosecution resulted in the citizen's **death** — capital sentence carried out, death in custody, or suicide consistent with Section 12.1 — the conduct is **a capital offense** under this title
-- Penalty enhancements under Section 7 apply at maximum severity, including suicidal-ideation, family-anxiety, and long-term-deprivation enhancements
+- Penalty enhancements under Section 5.6 apply at maximum severity, including suicidal-ideation, family-anxiety, and long-term-deprivation enhancements
 
 **Defenses Limited:**
 
@@ -822,9 +822,67 @@ For purposes of this Act, **failure to serve** means the failure of a government
 **Default Classification:**
 
 - Unless a specific section states a different classification, failure to serve is a **Class 3 felony**
-- Where the failure to serve is intentional, malicious, repeated, coordinated, concealed, or causes deprivation of rights, liberty, property, family, livelihood, safety, or access to justice, penalty enhancements under Section 7 apply
+- Where the failure to serve is intentional, malicious, repeated, coordinated, concealed, or causes deprivation of rights, liberty, property, family, livelihood, safety, or access to justice, penalty enhancements under Section 5.6 apply
 - Failure to serve may be charged cumulatively with any underlying offense or resulting harm caused, enabled, concealed, or prolonged by the failure
 
 ### 1.16 Mental-State Terms
 
 For purposes of this Act, the terms **[knowingly](#section-4--knowing-and-cognate-terms)**, **[intentionally](#32-criminal-mens-rea)**, **[recklessly](#32-criminal-mens-rea)**, **[negligently](#32-criminal-mens-rea)**, and **[maliciously](#32-criminal-mens-rea)** are defined and governed by Sections 3 and 4. Section 3 controls criminal and civil mens rea. Section 4 controls knowing and cognate terms. Where those terms appear in any offense, duty, enhancement, defense, or classification provision, Sections 3 and 4 control unless a more specific provision expressly states otherwise.
+
+### 1.17 Ineffective Assistance of Counsel
+
+For purposes of this title, **"ineffective assistance of counsel"** means representation by counsel — whether retained, appointed, contracted, court-assigned, deputized, or otherwise provided in or affecting any criminal, juvenile, civil-commitment, immigration, family, child-welfare, contempt, probation, parole, detention, or other proceeding in which a citizen faces deprivation of liberty, property, family integrity, or any other protected right — that fails to provide the citizen with the standard of representation required by §2.11.7, by the Sixth Amendment, by the Utah Constitution, or by the recognized professional standards informing those authorities.
+
+Ineffective assistance of counsel includes, without limitation:
+
+**Individual Ineffectiveness — Conduct of Specific Counsel:**
+
+- Counsel's performance falling below the standard of reasonably effective representation under the affirmative duties of §2.11.7
+- Failure to meet with the client before critical stages of the case
+- Failure to independently investigate the facts of the case
+- Failure to obtain, review, and use available discovery
+- Failure to communicate every plea offer, in plain language, with adequate time for the client to decide
+- Failure to fully advise on direct and material collateral consequences of plea or conviction (immigration, family, licensing, registry, housing, benefits, voting, firearms, employment)
+- Failure to file necessary motions to suppress, dismiss, sever, or otherwise protect the client's rights
+- Failure to maintain confidentiality and undivided loyalty
+- Failure to disclose a conflict of interest under §2.11.5
+- Failure to preserve the appellate record by timely objection, offer of proof, or motion
+- Any other failure to perform the affirmative duties of §2.11.7
+
+**Structural and Constructive Ineffectiveness — System-Caused Failure:**
+
+- Counsel was constructively absent at a critical stage of the proceeding, regardless of the attorney's individual diligence
+- Counsel was carrying an **overwhelming caseload** within the meaning of §2.11.8, regardless of the attorney's effort to perform on each case
+- The public-defense system was funded, contracted, or staffed at a level that made effective representation impossible — i.e., the structural failure addressed by §2.10.2 (Constructive Denial of Counsel under Color of Law)
+- The system imposed structural conflicts of interest, denied confidential communication facilities, denied access to investigative or expert resources, denied timely discovery, or otherwise prevented counsel from performing the duties of §2.11.7
+
+**No Prejudice Requirement Under This Act:**
+
+> The Strickland prejudice prong — requiring a citizen to show a reasonable probability that, but for counsel's deficient performance, the result would have been different — **does not apply** under this Act. A citizen whose counsel performed below the standard of effective representation under §2.11.7, or who was deprived of effective representation by the structural failures described above, has been denied the right to counsel within the meaning of this Act, whether or not the citizen can prove the outcome would have been different.
+
+The State's failure to provide effective counsel is itself the harm. Where the citizen has been denied effective assistance, the citizen is entitled to the remedies of this Act — including vacatur of any resulting conviction, judgment, plea, or adverse ruling; civil cause of action under Section 10; Citizen Council review under Sections 9 and 9.15; and prosecution of the responsible actors — without separately proving that a different outcome would have followed.
+
+**Distinguished from Reasonable Tactical Choice:**
+
+This definition does not reach reasonable strategic or tactical decisions made by counsel after adequate investigation, communication with the client, and consultation with available resources. Counsel's good-faith judgment on matters within the scope of effective representation is not ineffective assistance merely because the citizen, in hindsight, disagrees with the choice. The line is performance below the standard of §2.11.7, not difference of opinion within that standard.
+
+**Cross-References:**
+
+- Constructive Denial of Counsel Under Color of Law: §2.10.2
+- Affirmative Duties of Public Defenders: §2.11.7
+- Right to Refuse Overwhelming Caseload; State Liability: §2.11.8
+- Public Defender Offenses: §§2.11.1 through 2.11.6
+- Shared Attorney Offenses for Prosecutors and Public Defenders: §2.12
+- Malicious Prosecution: §1.14
+- Wrongful Conviction as Conspiracy (juror application): §2.5.3
+
+**Supporting Authorities Recognized by This Act:**
+
+The duties on which this definition depends build on, and codify, the following established right-to-counsel authorities, without being derived from or limited by them:
+
+- ***Powell v. Alabama***, 287 U.S. 45 (1932)
+- ***Gideon v. Wainwright***, 372 U.S. 335 (1963)
+- ***Argersinger v. Hamlin***, 407 U.S. 25 (1972)
+- ***Strickland v. Washington***, 466 U.S. 668 (1984) — this Act adopts *Strickland*'s performance prong as a floor, not a ceiling, and rejects *Strickland*'s prejudice prong for purposes of liability and remedy under this Act
+- ***United States v. Cronic***, 466 U.S. 648 (1984) — this Act broadens *Cronic*'s presumed-prejudice categories to include the structural failures defined in §§2.10.2 and 2.11.8
+- ***Padilla v. Kentucky***, 559 U.S. 356 (2010); ***Lafler v. Cooper***, 566 U.S. 156 (2012); ***Missouri v. Frye***, 566 U.S. 134 (2012)
