@@ -141,7 +141,23 @@ If a private citizen who shoplifts a sandwich faces criminal prosecution, and if
 
 #### The asymmetry: citizens are criminally bound — officials are not
 
-A citizen of Utah is bound by hundreds of affirmative duties enforced by criminal law. Failure to perform these duties is itself a crime. Examples are everywhere in daily life:
+A citizen of Utah is bound by hundreds of affirmative duties enforced by criminal law. Failure to perform these duties is itself a crime.
+
+Two terms are important to keep straight before reading what follows, because the most common reply to this section is "of course citizens have to do those things — they have to." That reply gives the game away. *Of course* citizens have to. That is the entire point. Citizens are required, on pain of criminal consequence, to perform their duties. Government officials must be required on the same terms.
+
+**A "duty"** is a legally enforceable obligation to act, or to refrain from acting, in a specific way. A duty is **not optional** — failure to perform it carries legal consequence, often criminal. The examples below are all duties: failure to perform them is a crime.
+
+**"Discretion"** is the lawful choice — granted by law — of how or whether to take certain actions within an authorized space. A citizen has wide discretion in matters of personal liberty: where to live, what to think, what to say, who to associate with, what work to take, what beliefs to hold. **But discretion is bounded by law.** A citizen has discretion to drive a car, but exercising that discretion while drunk is a crime. A citizen has discretion to speak, but exercising that discretion under oath while knowingly lying is perjury — a crime. A citizen has discretion to manage personal finances, but exercising that discretion to hide income from taxation is a crime. A citizen has discretion to keep and bear arms, but exercising that discretion to assault someone is a crime. Across countless examples, the citizen's discretion is **inside the criminal-law fence**: lawful choice within boundaries, with criminal consequence the moment the boundaries are crossed.
+
+Government officials, like citizens, exercise discretion in their offices. A prosecutor has discretion about which cases to charge and how to charge them. A judge has discretion in sentencing within statutory ranges. An officer has discretion about which violations to address and which to let pass. **What the Act criminalizes** is the use of "discretion" as a shield for decisions that do not serve actual justice — only the **perceived justice** the institution produces — and that do not rest on the **actual truth** of what happened, only on the **assumed or constructed truth** the prosecutor or other actor finds convenient. Discretion exercised in service of institutional comfort, conviction rate, career advancement, docket pressure, political preference, agency reputation, or any narrative that displaces objective reality is **not lawful discretion**. It is the unlawful exercise of public power, and this Act treats it as criminal.
+
+The parallel that already exists for citizens is the same: **when discretion is exercised in a way that violates law, criminal consequence attaches.** For citizens, that consequence has always been there — a citizen has discretion to speak, but speaking falsely under oath is a crime; a citizen has discretion to drive, but driving drunk is a crime. For officials, immunity doctrines have removed that consequence. This Act puts it back.
+
+**The lawful discretion of a government actor has three hard limits.** No discretion authorizes the violation of a citizen's protected rights. No discretion authorizes breaking the law in order to enforce the law. No discretion authorizes interpreting the law in favor of the government actor, the office, the agency, or the State's institutional interest — the lawful purpose of every interpretive choice an official makes is **the actual truth and the protection of the citizen whose rights are at issue**, not the convenience of the office, the reputation of the agency, the career of the prosecutor, the docket of the judge, or the comfort of the State. Where an official's discretion crosses any of those three lines, it is not lawful discretion at all. It is the unlawful exercise of public power, and this Act treats it as such.
+
+Citizens do not get to invoke "I had discretion" as a shield against perjury, hit-and-run, tax fraud, or any of the dozens of crimes that punish the unlawful exercise of personal liberty. Officials should not get to invoke "I had discretion" as a shield against malicious prosecution, knowing use of false evidence, refusal to recuse from a case where they have a financial interest, or any of the dozens of crimes that punish the unlawful exercise of public power.
+
+With that framing in place, the citizen duties enforced by criminal law are everywhere in daily life:
 
 - **Pulling over when an officer signals.** Failure to stop is "fleeing" or "evading," a misdemeanor and in many circumstances a felony. Utah Code §41-6a-210.
 - **Producing a driver license, registration, and proof of insurance when stopped.** Refusal is a separate offense. Utah Code §41-6a-209.
@@ -300,9 +316,13 @@ Let us stop it.
 
 ## Section 1 — Definitions
 
-This section defines words and phrases as they are used in this Act. These definitions control when this Act gives a term a special, expanded, narrowed, or bill-specific meaning.
+This section establishes (1) the **definitions** of terms used throughout this Act, and (2) the **misconceptions** that this Act explicitly rejects when those terms are interpreted in any proceeding under this title.
 
-### 1.1 Government Actor
+### 1.1 Definitions
+
+The following definitions control when this Act gives a term a special, expanded, narrowed, or bill-specific meaning. Where a definition in this subsection differs from a definition used in other Utah law, this subsection controls within the scope of this Act.
+
+#### 1.1.1 Government Actor
 
 For purposes of this title, **"government actor"** means any individual acting under the authority or color of law of any jurisdiction — federal, state, county, municipal, or special district (including school district) — including but not limited to the categories below.
 
@@ -360,7 +380,7 @@ For purposes of this title, **"government actor"** means any individual acting u
 
 A government actor may not avoid liability by delegating coercive, custodial, investigative, medical, benefits, family-regulation, surveillance, data-processing, detention, forensic, probation, parole, monitoring, child-welfare, guardianship, or enforcement functions to a private contractor, vendor, nonprofit, evaluator, service provider, or other intermediary. Any private person or entity exercising delegated government power, controlling access to a government benefit, operating a detention or supervision function, providing required medical care in custody, processing evidence, administering a coercive government program, or supplying a tool on which government action is based is a government actor for purposes of this Act.
 
-### 1.1.1 Collective Bodies and Conspiracy Enhancement
+##### 1.1.1.1 Collective Bodies and Conspiracy Enhancement
 
 Where a violation under this title results from action taken by a **collective body** (including but not limited to a city council, county commission, school board, regulatory commission, or zoning board), or by **multiple government actors acting in concert**:
 
@@ -371,7 +391,7 @@ Where a violation under this title results from action taken by a **collective b
 
 A member who voted against, formally objected to, or publicly dissociated from the violating action on the record shall not be liable under this subsection for that action.
 
-### 1.1.2 Entity-Level Government Actors
+##### 1.1.1.2 Entity-Level Government Actors
 
 > For purposes of this title, the term **"government actor" includes not only individuals**, but also **government bodies and entities themselves** when they engage in conduct constituting a violation under this title.
 
@@ -423,7 +443,7 @@ A government body is liable as a government actor under this title where:
 
 **Entity Liability Is Separate and Cumulative:**
 
-- Liability of an entity under this section is **separate from and additional to** the individual liability of its members, personnel, officers, and agents under Section 5 and Section 1.1.1
+- Liability of an entity under this section is **separate from and additional to** the individual liability of its members, personnel, officers, and agents under Section 5 and Section 1.1.1.1
 - Prosecution or civil action against the entity does **not** preclude, limit, or substitute for prosecution or civil action against the individual actors
 - Settlement, fines, or forfeiture imposed on the entity does **not** offset or reduce liability of any individual actor
 
@@ -439,7 +459,7 @@ A government body is liable as a government actor under this title where:
 
 > Under no circumstances may a government body's funds, insurance, or other resources be used to **indemnify, reimburse, or pay legal fees** of any individual government actor found liable under this title. This prohibition applies notwithstanding any contrary provision in any contract, collective-bargaining agreement, statute, ordinance, or policy.
 
-### 1.1.3 Jurors as Government Actors
+##### 1.1.1.3 Jurors as Government Actors
 
 > A juror, when seated and acting on a jury, exercises **state power** to determine guilt, innocence, indictment, accusation, or any other formal step that may authorize the deprivation of a citizen's liberty, property, rights, reputation, or life. For purposes of this title, a juror is a **government actor** with respect to that exercise of power.
 
@@ -447,7 +467,7 @@ This includes, without limitation, jurors seated on **grand juries**, **petit ju
 
 Juror rights, juror duties, and crimes applicable to jurors are set out in **Section 2 — Due Process**.
 
-### 1.1.4 Clothed with State Power
+##### 1.1.1.4 Clothed with State Power
 
 For purposes of this title, a person is **"clothed with state power"** when the person's authority, leverage, command, coercive ability, access, title, office, badge, robe, commission, contract, appointment, delegation, or public role comes from the government, is presented as government authority, or is reasonably understood by a citizen as backed by government authority.
 
@@ -459,11 +479,11 @@ This phrase includes, without limitation:
 
 A person may be clothed with state power even when the specific act is unlawful, unauthorized, outside policy, or in excess of lawful authority, so long as the person could act, command, pressure, or gain compliance because of actual, apparent, delegated, or claimed government authority.
 
-### 1.1.5 Color of Law
+##### 1.1.1.5 Color of Law
 
 For purposes of this title, a person acts **"under color of law"** when the person exercises, appears to exercise, or claims to exercise power held only because of a government position, public office, delegated authority, public contract, deputization, badge, robe, commission, official access, public title, or other indicia of state authority. The act may be lawful or unlawful, but it is performed through the apparatus, appearance, or leverage of public power.
 
-Operation Checkmate uses "color of law" as a central trigger for the substantive offenses in this Act. It marks the line between conduct by an ordinary private citizen and conduct by a person exercising, invoking, or misusing state power. See Section 1.1 (Government Actor) and Section 5.3 (Official-Capacity Rights Gap).
+Operation Checkmate uses "color of law" as a central trigger for the substantive offenses in this Act. It marks the line between conduct by an ordinary private citizen and conduct by a person exercising, invoking, or misusing state power. See Section 1.1.1 (Government Actor) and Section 5.3 (Official-Capacity Rights Gap).
 
 A person acts under color of law where the person:
 
@@ -478,25 +498,25 @@ Statutory analogues include:
 - **18 U.S.C. § 242** — criminal liability for deprivation of rights under color of law
 - **18 U.S.C. § 241** — criminal conspiracy to interfere with protected rights
 
-### 1.1.6 Judicial Immunity
+##### 1.1.1.6 Judicial Immunity
 
 For purposes of this title, **"judicial immunity"** means the doctrine that a judge cannot be sued, civilly and in many cases criminally, for acts performed in a judicial capacity, even when those acts are alleged to be malicious, corrupt, in excess of jurisdiction, procedurally defective, or grievously injurious to a citizen.
 
 Operation Checkmate abrogates judicial immunity within the scope of this title. See Section 5.1.1. A judge who commits a violation of any provision of this Act is personally liable, civilly and criminally, with no threshold immunity inquiry. The cases at **L.7** through **L.10**, and any state-law analogues, provide no defense to civil or criminal liability under this Act.
 
-### 1.1.7 Prosecutorial Immunity
+##### 1.1.1.7 Prosecutorial Immunity
 
 For purposes of this title, **"prosecutorial immunity"** means the doctrine that a prosecutor enjoys absolute civil immunity for acts performed within the prosecutor's advocate role, including initiating prosecutions, presenting evidence, examining witnesses, charging decisions, plea negotiations, and grand-jury presentations, even where the prosecutor is alleged to have knowingly used false testimony, fabricated evidence, or suppressed exculpatory evidence.
 
-Operation Checkmate abrogates prosecutorial immunity within the scope of this title. See Section 5.1.1. A prosecutor who commits a violation under this Act, including selective non-prosecution under §1.8, knowing use of false evidence under §1.3 (Battery), or obstruction of a Citizen Council under §9.9, is personally liable, civilly and criminally, without regard to whether the conduct fell within the advocate function. The cases at **L.11** through **L.14**, and any state-law analogues, provide no defense to civil or criminal liability under this Act.
+Operation Checkmate abrogates prosecutorial immunity within the scope of this title. See Section 5.1.1. A prosecutor who commits a violation under this Act, including selective non-prosecution under §1.1.8, knowing use of false evidence under §1.1.3 (Battery), or obstruction of a Citizen Council under §9.9, is personally liable, civilly and criminally, without regard to whether the conduct fell within the advocate function. The cases at **L.11** through **L.14**, and any state-law analogues, provide no defense to civil or criminal liability under this Act.
 
-### 1.1.8 Qualified Immunity
+##### 1.1.1.8 Qualified Immunity
 
 For purposes of this title, **"qualified immunity"** means the doctrine that protects government officials performing discretionary functions from civil liability unless their conduct violated a clearly established statutory or constitutional right of which a reasonable person would have known.
 
 Operation Checkmate abrogates qualified immunity within the scope of this title. See Section 5.1.1. Liability under this Act is determined by the substantive elements of the offense and the actor's mental state under Sections 3 and 4, not by whether a prior court has previously ruled the same factual pattern unlawful. The "clearly established law" inquiry has no application under this title. The cases at **L.15** through **L.18**, and any state-law analogues, provide no defense to civil or criminal liability under this Act.
 
-### 1.1.9 Justice
+##### 1.1.1.9 Justice
 
 For purposes of this title, **"justice"** means the lawful and truthful administration of rights, duties, evidence, procedure, and remedies so that citizens receive what the law actually requires: fair process, honest treatment, protection of rights, correction of wrongs, and decisions based on truth and law rather than power, favoritism, fear, convenience, or institutional self-protection.
 
@@ -510,7 +530,7 @@ Justice requires, at minimum:
 
 A proceeding does not become justice merely because a government actor uses official procedure. If a government actor's failure, distortion, concealment, delay, refusal, or bad-faith performance makes the process functionally false, futile, inaccessible, or rigged, the process has ceased to be justice within the meaning of this Act.
 
-### 1.1.10 Logical Consistency
+##### 1.1.1.10 Logical Consistency
 
 For purposes of this title, **"logical consistency"** means that law, facts, procedure, explanation, enforcement, and remedy must fit together without contradiction, double standard, circular reasoning, false premise, hidden exception, or selective application.
 
@@ -524,7 +544,7 @@ Logical consistency requires, at minimum:
 
 Where a government actor's explanation, order, enforcement act, ruling, record, defense, or refusal depends on contradiction, selective reasoning, or a result-driven exception, it lacks logical consistency within the meaning of this Act.
 
-### 1.2 Assault (Government Context)
+#### 1.1.2 Assault (Government Context)
 
 An assault occurs when a government actor, while acting under color of authority:
 
@@ -540,7 +560,7 @@ This includes, but is not limited to:
 
 **Classification:** Assault by a government actor is a **Class 3 felony**.
 
-### 1.3 Battery (Government Context)
+#### 1.1.3 Battery (Government Context)
 
 A battery occurs when a government actor:
 
@@ -555,7 +575,7 @@ This includes:
 
 **Classification:** Battery by a government actor is a **Class 2 felony** (or higher, depending on severity).
 
-### 1.4 Infraction (Government Context)
+#### 1.1.4 Infraction (Government Context)
 
 An infraction occurs when a government actor, while acting under color of authority:
 
@@ -570,9 +590,9 @@ This includes, but is not limited to:
 
 **Classification:** An infraction by a government actor under this section is an **infraction**, subject to escalation to a **Class 1 misdemeanor** upon repeat occurrence by the same actor or where the conduct is part of a pattern.
 
-**Note on Aggregation:** Repeated infractions by the same actor, or by multiple actors against the same citizen in a coordinated manner, may be aggregated and charged as assault under Section 1.2.
+**Note on Aggregation:** Repeated infractions by the same actor, or by multiple actors against the same citizen in a coordinated manner, may be aggregated and charged as assault under Section 1.1.2.
 
-### 1.5 Protected Rights (Scope)
+#### 1.1.5 Protected Rights (Scope)
 
 For purposes of this title, the term **"rights"** shall be construed in the **broadest possible sense** and shall include, without limitation, all of the following — whether written or unwritten, enumerated or unenumerated, codified or recognized only by tradition or natural-law principle.
 
@@ -599,7 +619,7 @@ For purposes of this title, the term **"rights"** shall be construed in the **br
 - Rights long recognized at **common law**, by tradition, or by the natural-rights heritage on which constitutional protections rest — **whether or not formally written or codified**
 - Rights inherent to human dignity and personal sovereignty, regardless of any written enumeration
 
-### 1.5.1 Illustrative (Non-Exhaustive) Examples
+##### 1.1.5.1 Illustrative (Non-Exhaustive) Examples
 
 The following are **expressly included** as protected rights under this title. This list is illustrative, not exhaustive — the absence of a right from this list shall **not** be construed to exclude it:
 
@@ -618,13 +638,13 @@ The following are **expressly included** as protected rights under this title. T
 - The right to **refuse self-incrimination** and to remain silent
 - The right to a **fair and public trial**, to confront witnesses, and to the assistance of counsel
 
-### 1.5.2 Rule of Construction
+##### 1.1.5.2 Rule of Construction
 
 > Where any ambiguity exists as to whether a particular interest constitutes a "right" under this title, the ambiguity shall be resolved **in favor of the citizen and against the government actor**.
 
 The fact that a right is unwritten, unenumerated, or has not previously been formally adjudicated shall **not** preclude its protection under this title where the right is recognized by tradition, common law, natural-law principles, international human-rights norms, or generally accepted principles of human dignity.
 
-### 1.5.3 Practical Means of Exercising a Right
+##### 1.1.5.3 Practical Means of Exercising a Right
 
 > A protected right includes the practical means reasonably necessary for an ordinary citizen to exercise that right.
 
@@ -647,17 +667,17 @@ The lawful limit of a right is actual unlawful harm, direct rights-violating con
 
 Mere fear of harm, generalized discomfort, annoyance, inconvenience, offense, public disagreement, political hostility, administrative preference, or the government's desire to avoid controversy is not itself harm and does not convert lawful exercise of a right into unlawful conduct. A government actor may not label the exercise of a protected right as a nuisance, disturbance, threat, disorder, obstruction, safety issue, or administrative burden unless the citizen's conduct actually crosses a lawful boundary independent of the government actor's dislike of the right being exercised.
 
-Where the State of Utah, any municipality, any county, any agency, any court, or any government actor converts a protected right or the practical means of exercising that right into a mere privilege, permission system, wealth condition, retaliation-vulnerable benefit, or discretionary favor, the conduct is a violation of this title and is punishable as **Obstruction of a Private Citizen** under Section 1.8, and may also be charged as Assault (§1.2), Battery (§1.3), Anarchy (§1.10), Terrorism (§1.12), Official Intimidation (§1.13), or Issuance and Enforcement of Repugnant Instruments (§16.3), where the elements are met.
+Where the State of Utah, any municipality, any county, any agency, any court, or any government actor converts a protected right or the practical means of exercising that right into a mere privilege, permission system, wealth condition, retaliation-vulnerable benefit, or discretionary favor, the conduct is a violation of this title and is punishable as **Obstruction of a Private Citizen** under Section 1.1.8, and may also be charged as Assault (§1.1.2), Battery (§1.1.3), Anarchy (§1.1.10), Terrorism (§1.1.12), Official Intimidation (§1.1.13), or Issuance and Enforcement of Repugnant Instruments (§16.3), where the elements are met.
 
 Any statute, ordinance, regulation, rule, policy, practice, order, license condition, permit condition, fee schedule, enforcement theory, or other government instrument outside this Act that is inconsistent with this subsection is, to the extent of the inconsistency, treated as repealed, superseded, null, void, and unenforceable within the State of Utah. No government actor may enforce, rely upon, revive, preserve, or defend such an inconsistent instrument against a citizen. Enforcement of such an instrument is independently chargeable under Section 16.3 and any other applicable provision of this Act.
 
-### 1.6 Cabalism (Government Context)
+#### 1.1.6 Cabalism (Government Context)
 
 **Cabalism** occurs when a small group of persons acting under color of law — federal, state, county, or municipal — combine, conspire, or coordinate, openly or secretly, to control or unduly influence political, governmental, regulatory, judicial, or law-enforcement affairs in a manner that affects citizens unjustly.
 
 **Elements:**
 
-- **Two or more government actors** as defined in Section 1.1
+- **Two or more government actors** as defined in Section 1.1.1
 - Acting in concert, coordination, common purpose, or tacit understanding
 - To control, direct, capture, or unduly influence the conduct of public affairs, public office, or the exercise of state power
 - Producing, intending to produce, or recklessly causing an unjust effect upon one or more citizens, groups, or entities
@@ -668,7 +688,7 @@ Any statute, ordinance, regulation, rule, policy, practice, order, license condi
 - Securing **profit, financial benefit, or material advantage** for the actors or their affiliates
 - Imposing or enforcing any **unjust law, regulation, ordinance, or policy**
 - Subjecting any citizen, group, or entity to **unjust treatment** of any kind
-- Suppressing dissent, speech, lawful assembly, or the exercise of any right protected under Section 1.5
+- Suppressing dissent, speech, lawful assembly, or the exercise of any right protected under Section 1.1.5
 - Enforcement of any law, order, or judgment that **unreasonably affects a citizen's family**, including but not limited to child-support, alimony, garnishment, or similar orders calibrated or enforced in a manner that makes it **nearly impossible for a parent (mother or father) to thrive** — as distinguished from merely "getting by" — and that thereby damages the parent's ability to provide for, be present with, or maintain a healthy relationship with their children
 - **Taking, seizure, forfeiture, encumbrance, or destruction of property** in a manner that makes it **difficult or impossible for a citizen to run a lawful business, earn a living, or sustain a household**, including but not limited to:
   - Civil asset forfeiture without conviction
@@ -677,11 +697,11 @@ Any statute, ordinance, regulation, rule, policy, practice, order, license condi
   - Regulatory or enforcement action calibrated to drive a citizen out of business or into financial distress
   - Seizure or impoundment of vehicles, tools, equipment, inventory, or premises essential to a citizen's livelihood
 
-**Construction:** For purposes of this section, "evil" means **any unjust law, regulation, enforcement action, or treatment of any person or entity**, and the term shall be construed broadly in favor of the citizen consistent with Section 1.5.2.
+**Construction:** For purposes of this section, "evil" means **any unjust law, regulation, enforcement action, or treatment of any person or entity**, and the term shall be construed broadly in favor of the citizen consistent with Section 1.1.5.2.
 
 **Classification:** Cabalism is a **Class 2 felony**, with the penalty enhancements of Section 5.6 available, including for sustained coordination, repeated acts, or significant impact on the affected citizens or entities.
 
-### 1.7 Government Racketeering
+#### 1.1.7 Government Racketeering
 
 **Government Racketeering** occurs when any combination of public officials, government actors, or persons acting under color of federal or state law use the authority, indicia, or apparatus of public office to:
 
@@ -701,24 +721,24 @@ Any statute, ordinance, regulation, rule, policy, practice, order, license condi
 
 **Scope of Application:**
 
-This section applies to any person acting under **color of federal or state law**, including all categories enumerated in Section 1.1, and including federal officers, peace officers, prosecutors, judges, regulators, and elected officials at any level.
+This section applies to any person acting under **color of federal or state law**, including all categories enumerated in Section 1.1.1, and including federal officers, peace officers, prosecutors, judges, regulators, and elected officials at any level.
 
 **Classification:**
 
 - An individual instance of Government Racketeering is a **Class 2 felony**
 - A demonstrated **pattern** of Government Racketeering, or its operation as an ongoing scheme, is a **capital offense**
 - Penalty enhancements under Section 5.6 apply, including the multiple-actor enhancement
-- Conduct under this section may also be charged as a conspiracy under Section 1.1.1
+- Conduct under this section may also be charged as a conspiracy under Section 1.1.1.1
 
-### 1.8 Obstruction of Justice
+#### 1.1.8 Obstruction of Justice
 
-#### 1.8.1 General Definition — Government Context
+##### 1.1.8.1 General Definition — Government Context
 
 > A government actor commits **obstruction of [justice](#d5-justice)** under this title where the actor, while acting under color of authority, fails or refuses to perform a duty, performs a duty in an extremely erroneous or corrupt manner, conceals or distorts a required act, or otherwise interferes with a proceeding, investigation, record, duty, or official function so substantially that the proceeding or performance of public duty ceases to be justice in any meaningful sense.
 
 **Includes, but is not limited to:**
 
-- Failure to perform an affirmative duty under Section 1.16 where the failure materially affects a citizen's rights, liberty, property, due process, safety, or access to justice
+- Failure to perform an affirmative duty under Section 1.1.16 where the failure materially affects a citizen's rights, liberty, property, due process, safety, or access to justice
 - Failure to create, preserve, disclose, correct, transmit, file, investigate, review, decide, prosecute, charge, arrest, release, or remedy where the actor has a duty to do so
 - Use of official position, delay, silence, selective action, paperwork, procedure, or institutional control to prevent the truth, law, evidence, or citizen's rights from operating in a proceeding or official function
 - Conduct that makes a proceeding, investigation, trial, hearing, appeal, record, enforcement action, or government duty functionally false, futile, rigged, inaccessible, or meaningless
@@ -730,7 +750,7 @@ This section applies to any person acting under **color of federal or state law*
 - Where the obstruction contributes to wrongful conviction, long-term incarceration, death, suicide, child removal, loss of home, loss of livelihood, or a capital proceeding, the offense is a **capital offense**
 - Penalty enhancements under Section 5.6 apply
 
-#### 1.8.2 Selective Non-Prosecution
+##### 1.1.8.2 Selective Non-Prosecution
 
 > A **government official** commits **obstruction of justice** under this title when, with respect to a private person who is **also an agent of the state**, who holds any official title, or who is **associated with any group, organization, church, fraternal order, company, or other entity**, the official:
 >
@@ -763,14 +783,14 @@ This section applies to any person acting under **color of federal or state law*
 - The **minimum classification is Class 2 felony** — where the underlying offense is a misdemeanor, infraction, or other lesser offense, the obstruction is nevertheless prosecuted as a Class 2 felony
 - Where the underlying offense is a **capital offense**, the obstruction takes that **same capital classification** under this section
 - Penalty enhancements under Section 5.6 apply, including the multiple-actor enhancement where two or more officials participated in or facilitated the obstruction
-- Conduct under this section may be charged as a **conspiracy** under Section 1.1.1 where multiple officials acted in concert
+- Conduct under this section may be charged as a **conspiracy** under Section 1.1.1.1 where multiple officials acted in concert
 
 **Pattern of Selective Non-Prosecution:**
 
 A demonstrated pattern of selective non-prosecution under this section — favoring persons sharing a common title, status, or affiliation — shall be subject to additional charging under:
 
-- **Cabalism (Section 1.6)** where small-group control of public affairs produces unjust outcomes
-- **Government Racketeering (Section 1.7)** where the pattern operates as an ongoing scheme
+- **Cabalism (Section 1.1.6)** where small-group control of public affairs produces unjust outcomes
+- **Government Racketeering (Section 1.1.7)** where the pattern operates as an ongoing scheme
 
 These additional charges are **cumulative**, not alternative, to the underlying obstruction charges under this section.
 
@@ -784,7 +804,7 @@ A Citizen Council acting under Section 9 may investigate and issue a Joint Decla
 - **Resource constraints, caseload prioritization, or institutional policy** are not defenses where similarly situated persons without the same title, status, or affiliation would have been prosecuted, arrested, or charged
 - The fact that the official did not personally know the protected person is not a defense where the official knew or should have known of the title, status, or affiliation that motivated the inaction
 
-### 1.9 Treason
+#### 1.1.9 Treason
 
 > A government actor commits **treason** under this title where the actor, while acting under color of law or otherwise from a position of state authority, makes **war against the state** — meaning **war against the actual citizens of the state**, against the **Constitution of the United States**, or against the **Constitution of the State of Utah**.
 
@@ -813,7 +833,7 @@ War against the state under this section includes, but is not limited to:
 
 **Elements:**
 
-- The actor is a government actor as defined in Section 1.1
+- The actor is a government actor as defined in Section 1.1.1
 - The actor's conduct is **sustained, coordinated, or part of a pattern** — single isolated acts of misconduct without the war-like character are reachable under other sections of this title, not this section
 - The conduct is directed against **citizens collectively**, against the **U.S. Constitution**, or against the **Utah Constitution**
 - The actor knew, or in reckless disregard of clear evidence should have known, that the conduct was directed against the foregoing
@@ -824,24 +844,24 @@ War against the state under this section includes, but is not limited to:
 
 - The procedural safeguards of Section 12.3 apply (right to counsel, bifurcated guilt and sentencing phase, unanimous jury verdict on guilt and sentence, automatic appellate review)
 - The penalty enhancements of Section 5.6 apply, including for multiple actors and long-term deprivation of rights
-- Where multiple actors participated, the conduct is chargeable as a conspiracy under Section 1.1.1
-- Treason may be charged **cumulatively** with Cabalism (§1.6), Government Racketeering (§1.7), or any other applicable offense
+- Where multiple actors participated, the conduct is chargeable as a conspiracy under Section 1.1.1.1
+- Treason may be charged **cumulatively** with Cabalism (§1.1.6), Government Racketeering (§1.1.7), or any other applicable offense
 
 **Defenses Limited:**
 
 - **Following orders** is not a defense (consistent with §5.2)
-- **Internal policy, departmental rule, agency guideline, or institutional practice** is not a defense (consistent with §2.5.1 and §1.10)
+- **Internal policy, departmental rule, agency guideline, or institutional practice** is not a defense (consistent with §2.5.1 and §1.1.10)
 - The fact that the financial, regulatory, or procedural framework being used to wage war was **formally enacted in statute or rule** is **not, by itself, a defense** where that framework was used as an instrument of war on citizens
 - The actor's status as a duly elected, appointed, or commissioned official is not a defense
 - The doctrine of qualified, judicial, or sovereign immunity does not apply, consistent with Section 5.1
 
-### 1.10 Anarchy
+#### 1.1.10 Anarchy
 
 > A government actor commits **anarchy** under this title where the actor, while exercising or invoking the authority of public office, **acts completely outside the law** — that is, without lawful basis, without legal authority, and without any colorable claim of legality.
 
 **Elements:**
 
-- The actor is a government actor as defined in Section 1.1
+- The actor is a government actor as defined in Section 1.1.1
 - The actor's conduct purports to invoke, rely on, or be cloaked in the authority of public office
 - The conduct **lacks any lawful basis** — no statute, regulation, ordinance, common-law authority, court order, or constitutional provision authorizes it
 - The actor knew, or in reckless disregard of clear evidence should have known, that the conduct was without lawful basis
@@ -869,21 +889,21 @@ This provision is consistent with, and reinforces, **Section 2.5.1** (Policy Is 
 
 **Distinction from Other Offenses:**
 
-- **Anarchy** is conduct **without any** lawful basis — distinct from a violation that exceeds lawful authority but operates within a recognized framework (which is reachable under §§1.2, 1.3, 1.4, etc.)
-- **Cabalism (§1.6)** requires small-group coordination producing unjust outcomes; anarchy can be committed by an individual actor
-- **Government Racketeering (§1.7)** involves combinations of officials extracting payment; anarchy is broader, reaching any conduct outside the law
-- **Treason (§1.9)** requires sustained or coordinated war against citizens, the U.S. Constitution, or the Utah Constitution; anarchy reaches isolated lawless conduct that does not rise to the level of war
+- **Anarchy** is conduct **without any** lawful basis — distinct from a violation that exceeds lawful authority but operates within a recognized framework (which is reachable under §§1.1.2, 1.3, 1.4, etc.)
+- **Cabalism (§1.1.6)** requires small-group coordination producing unjust outcomes; anarchy can be committed by an individual actor
+- **Government Racketeering (§1.1.7)** involves combinations of officials extracting payment; anarchy is broader, reaching any conduct outside the law
+- **Treason (§1.1.9)** requires sustained or coordinated war against citizens, the U.S. Constitution, or the Utah Constitution; anarchy reaches isolated lawless conduct that does not rise to the level of war
 
 **Classification:**
 
 - Anarchy is a **Class 2 felony** under this title
 - The penalty enhancements of Section 5.6 apply
-- Where multiple actors participated, the conduct is chargeable as conspiracy under Section 1.1.1
-- Where anarchy is sustained, repeated, or part of a pattern, the conduct may be elevated and additionally charged under **Treason (§1.9)**, **Cabalism (§1.6)**, or **Government Racketeering (§1.7)**
+- Where multiple actors participated, the conduct is chargeable as conspiracy under Section 1.1.1.1
+- Where anarchy is sustained, repeated, or part of a pattern, the conduct may be elevated and additionally charged under **Treason (§1.1.9)**, **Cabalism (§1.1.6)**, or **Government Racketeering (§1.1.7)**
 
-### 1.11 Foreign-Funded Lobbying — A Form of Cabalism
+#### 1.1.11 Foreign-Funded Lobbying — A Form of Cabalism
 
-> **Foreign-Funded Lobbying** is a form of **Cabalism (Section 1.6)** — and, in aggravated cases involving sustained or coordinated harm to Utah citizens, of **Treason (Section 1.9)** — wherein lobbyists paid by interests outside the State of Utah influence the laws, regulations, or policies of Utah in a manner that displaces the voice and interest of the actual citizens of Utah.
+> **Foreign-Funded Lobbying** is a form of **Cabalism (Section 1.1.6)** — and, in aggravated cases involving sustained or coordinated harm to Utah citizens, of **Treason (Section 1.1.9)** — wherein lobbyists paid by interests outside the State of Utah influence the laws, regulations, or policies of Utah in a manner that displaces the voice and interest of the actual citizens of Utah.
 
 **Statement of Concern:**
 
@@ -927,10 +947,10 @@ Disclosures shall be **public records**, accessible without fee or undue procedu
 
 **Classification:**
 
-- An individual instance of Foreign-Funded Lobbying — by either the lobbyist or the receiving government actor — is a **Class 2 felony** under this title, as a form of **Cabalism (Section 1.6)**
-- A **pattern** of Foreign-Funded Lobbying, or sustained foreign-funded influence on Utah legislation in a manner that breaks or burdens Utah citizens, is chargeable as **Treason (Section 1.9)** under the financial-warfare, regulatory-warfare, or constitutional-warfare prongs of that section
+- An individual instance of Foreign-Funded Lobbying — by either the lobbyist or the receiving government actor — is a **Class 2 felony** under this title, as a form of **Cabalism (Section 1.1.6)**
+- A **pattern** of Foreign-Funded Lobbying, or sustained foreign-funded influence on Utah legislation in a manner that breaks or burdens Utah citizens, is chargeable as **Treason (Section 1.1.9)** under the financial-warfare, regulatory-warfare, or constitutional-warfare prongs of that section
 - Penalty enhancements under Section 5.6 apply
-- Charges under this section may be **cumulative** with Cabalism (§1.6), Government Racketeering (§1.7), Treason (§1.9), and Anarchy (§1.10)
+- Charges under this section may be **cumulative** with Cabalism (§1.1.6), Government Racketeering (§1.1.7), Treason (§1.1.9), and Anarchy (§1.1.10)
 
 **Carve-Outs (Not Foreign-Funded Lobbying):**
 
@@ -948,7 +968,7 @@ The following are **not** prohibited under this section:
 - The fact that the lobbyist personally agreed with the position advocated is not a defense
 - A claim that the lobbyist's funding source was "merely a domestic subsidiary" of a foreign entity is not a defense where the ultimate funding source, traced through any chain of intermediaries, is foreign
 
-### 1.12 Terrorism (Government Context)
+#### 1.1.12 Terrorism (Government Context)
 
 > A government actor commits **terrorism** under this title where the actor, while acting under color of law or invoking the authority of public office, uses **any form of terror** — threat, intimidation, coercion, or pressure designed to instill fear — directed at a citizen, in a manner that targets:
 >
@@ -982,39 +1002,39 @@ The following are **not** prohibited under this section:
 
 - Terrorism under this section is a **capital offense**
 - Where terrorism results in the citizen's **suicide** consistent with Section 12.1, the conduct is elevated to a **capital offense**
-- Where terrorism is part of a sustained pattern, conduct may be additionally charged as **Treason (§1.9)**, **Cabalism (§1.6)**, or **Government Racketeering (§1.7)**
+- Where terrorism is part of a sustained pattern, conduct may be additionally charged as **Treason (§1.1.9)**, **Cabalism (§1.1.6)**, or **Government Racketeering (§1.1.7)**
 - Penalty enhancements under Section 5.6 apply — particularly the suicidal-ideation, extreme-anxiety, and family-welfare-anxiety enhancements
-- Where multiple actors participated, conduct is chargeable as conspiracy under Section 1.1.1
+- Where multiple actors participated, conduct is chargeable as conspiracy under Section 1.1.1.1
 
 **Threats Against Children — Kidnapping Component:**
 
 > Where a government actor **threatens to take, remove, or separate a citizen's child** from the citizen without lawful basis, the conduct constitutes **terrorism under this section AND a threat of kidnapping** under generally applicable criminal law.
 
-- Where the threat is **carried out** — that is, the child is actually taken without lawful basis — the actor is liable under terrorism (§1.12), kidnapping under generally applicable law, **Battery (§1.3)** for unlawful deprivation of liberty and parental rights, and any other applicable offense, **cumulatively**
+- Where the threat is **carried out** — that is, the child is actually taken without lawful basis — the actor is liable under terrorism (§1.1.12), kidnapping under generally applicable law, **Battery (§1.1.3)** for unlawful deprivation of liberty and parental rights, and any other applicable offense, **cumulatively**
 - "Lawful basis" for purposes of this subsection means an order issued in accordance with due process, supported by clear and competent evidence, and not procured through fraud, perjury, or fabrication
 
 **Defenses Limited:**
 
 - The fact that the threatened action was **technically authorized by statute or regulation** is not a defense where the threat was used as an instrument of coercion rather than for the lawful purpose of the underlying authority
 - A claim that the actor was "just doing their job" is not a defense where the conduct met the elements above
-- Internal policy is not a defense (consistent with §2.5.1 and §1.10)
+- Internal policy is not a defense (consistent with §2.5.1 and §1.1.10)
 
-### 1.13 Official Intimidation (Lesser Included Offense)
+#### 1.1.13 Official Intimidation (Lesser Included Offense)
 
-> A government actor commits **official intimidation** under this title where the actor, while acting under color of law or invoking the authority of public office, engages in conduct that **causes undue anxiety, fear, or distress** to a citizen — without rising to the level of assault, battery, or terrorism, but going beyond the minor expressive conduct addressed in Section 1.4.
+> A government actor commits **official intimidation** under this title where the actor, while acting under color of law or invoking the authority of public office, engages in conduct that **causes undue anxiety, fear, or distress** to a citizen — without rising to the level of assault, battery, or terrorism, but going beyond the minor expressive conduct addressed in Section 1.1.4.
 
 **Naming Note:**
 
-This offense is named **"Official Intimidation"** to distinguish it from terrorism (§1.12), assault (§1.2), and battery (§1.3). It captures the harm of official conduct that produces unjustified anxiety in a citizen about their rights, family, finances, livelihood, or future, even where no specific threat to defend rights or specific terror is present.
+This offense is named **"Official Intimidation"** to distinguish it from terrorism (§1.1.12), assault (§1.1.2), and battery (§1.1.3). It captures the harm of official conduct that produces unjustified anxiety in a citizen about their rights, family, finances, livelihood, or future, even where no specific threat to defend rights or specific terror is present.
 
 **Conduct Reachable:**
 
 This section reaches government-actor conduct that:
 
 - Creates **undue anxiety, worry, fear, or distress** in a citizen about their rights, wellbeing, family, finances, livelihood, or future
-- Falls **short of the immediate fear-to-defend-rights** standard of Section 1.2 (Assault)
-- Falls **short of the targeting-of-wellbeing or terror** standard of Section 1.12 (Terrorism)
-- Goes **beyond the minor expressive conduct** addressed in Section 1.4 (Infraction)
+- Falls **short of the immediate fear-to-defend-rights** standard of Section 1.1.2 (Assault)
+- Falls **short of the targeting-of-wellbeing or terror** standard of Section 1.1.12 (Terrorism)
+- Goes **beyond the minor expressive conduct** addressed in Section 1.1.4 (Infraction)
 
 **Examples Include, But Are Not Limited To:**
 
@@ -1038,9 +1058,9 @@ This section reaches government-actor conduct that:
 
 - Official Intimidation is a **Class 3 felony**
 - Where the conduct is mild and isolated, the prosecuting office may charge as a **Class 1 misdemeanor** based on severity and pattern, but the **default classification is Class 3 felony**
-- A sustained pattern of Official Intimidation against the same citizen, or against a class of citizens, may be **elevated and additionally charged as Terrorism (§1.12)**
+- A sustained pattern of Official Intimidation against the same citizen, or against a class of citizens, may be **elevated and additionally charged as Terrorism (§1.1.12)**
 - Penalty enhancements under Section 5.6 apply — particularly the psychological-harm, family-welfare-anxiety, and self-welfare-anxiety enhancements
-- Where multiple actors participated, conduct is chargeable as conspiracy under Section 1.1.1
+- Where multiple actors participated, conduct is chargeable as conspiracy under Section 1.1.1.1
 
 **Hierarchy of Anxiety-Inducing Offenses (for clarity):**
 
@@ -1048,27 +1068,27 @@ The Act recognizes a graduated set of offenses for government-actor conduct that
 
 | Offense | Standard | Class |
 |---|---|---|
-| **§1.4 Infraction** | Minor expressive coercive conduct (smirks, "you're too close," etc.) | Infraction (escalates to Class 1 misdemeanor on repeat) |
-| **§1.13 Official Intimidation** | Undue anxiety, fear, or distress without immediate threat to rights or systemic terror | Class 3 felony (or Class 1 misdemeanor for mild/isolated) |
-| **§1.2 Assault** | Reasonable fear of needing to defend rights, including in court | Class 3 felony |
-| **§1.12 Terrorism** | Terror or threats targeting financial, family, business, or other wellbeing | Capital offense |
-| **§1.3 Battery** | Actual deprivation, restraint, harm, or violation of rights | Class 2 felony or higher |
+| **§1.1.4 Infraction** | Minor expressive coercive conduct (smirks, "you're too close," etc.) | Infraction (escalates to Class 1 misdemeanor on repeat) |
+| **§1.1.13 Official Intimidation** | Undue anxiety, fear, or distress without immediate threat to rights or systemic terror | Class 3 felony (or Class 1 misdemeanor for mild/isolated) |
+| **§1.1.2 Assault** | Reasonable fear of needing to defend rights, including in court | Class 3 felony |
+| **§1.1.12 Terrorism** | Terror or threats targeting financial, family, business, or other wellbeing | Capital offense |
+| **§1.1.3 Battery** | Actual deprivation, restraint, harm, or violation of rights | Class 2 felony or higher |
 
 ---
 
-#### Prosecutorial Offenses — Protecting the Presumption of Innocence
+##### Prosecutorial Offenses — Protecting the Presumption of Innocence
 
-The prosecutor's affirmative duties to disclose adverse evidence and seek reduction or dismissal are set out in **Sections 2.2.1.1 and 2.2.1.2** as due-process duties. Section 1.14 defines the broader offense of malicious prosecution, making the **presumption of innocence operational, not aspirational**.
+The prosecutor's affirmative duties to disclose adverse evidence and seek reduction or dismissal are set out in **Sections 2.2.1.1 and 2.2.1.2** as due-process duties. Section 1.1.14 defines the broader offense of malicious prosecution, making the **presumption of innocence operational, not aspirational**.
 
 The presumption of innocence is foundational to American criminal law, but in practice it is too often a courtroom slogan rather than a binding constraint. A prosecutor who hides exculpatory evidence, who pushes a case forward while knowing or recklessly disregarding clear evidence that the accused is innocent, or who refuses to seek dismissal when the evidence has collapsed, treats the presumption as a hurdle to overcome rather than a guarantee to honor.
 
 > The presumption of innocence is the **citizen's right**, not the prosecutor's gift. A prosecutor who acts as if the accused must prove innocence — rather than as if the prosecution must prove guilt — acts against the foundation of the system itself, and is reachable under this title.
 
-Section 1.14 attaches **personal civil and criminal liability** to that conduct. It operates together with **Section 2.5.2 (Mandatory Juror Documentation)**, which requires the trier of fact to engage with each piece of evidence — including the exculpatory evidence the prosecutor is required to surface under §2.6.1.1.
+Section 1.1.14 attaches **personal civil and criminal liability** to that conduct. It operates together with **Section 2.5.2 (Mandatory Juror Documentation)**, which requires the trier of fact to engage with each piece of evidence — including the exculpatory evidence the prosecutor is required to surface under §2.6.1.1.
 
 ---
 
-### 1.14 Malicious Prosecution
+#### 1.1.14 Malicious Prosecution
 
 > A government actor commits **malicious prosecution** under this title where the actor **initiates, continues, directs, approves, facilitates, or materially supports** the prosecution of a citizen for an offense after the actor **knows, or in reckless disregard of clear evidence should know, that the citizen is innocent** of the offense charged.
 
@@ -1091,7 +1111,7 @@ Section 1.14 attaches **personal civil and criminal liability** to that conduct.
 **Classification:**
 
 - Malicious Prosecution is a **capital offense** under this title (consistent with the mens rea framework of Section 3.5, where malice elevates the underlying offense by two tiers)
-- Where the malicious prosecution resulted in a **conviction**, the government actor is also liable as a co-conspirator under Section 1.1.1 with any jurors found liable under Section 2.5.3 (wrongful conviction by jury)
+- Where the malicious prosecution resulted in a **conviction**, the government actor is also liable as a co-conspirator under Section 1.1.1.1 with any jurors found liable under Section 2.5.3 (wrongful conviction by jury)
 - Where the malicious prosecution resulted in the citizen's **death** — capital sentence carried out, death in custody, or suicide consistent with Section 12.1 — the conduct is **a capital offense** under this title
 - Penalty enhancements under Section 5.6 apply at maximum severity, including suicidal-ideation, family-anxiety, and long-term-deprivation enhancements
 
@@ -1102,7 +1122,7 @@ Section 1.14 attaches **personal civil and criminal liability** to that conduct.
 - "Following orders" / acting on a supervisor's recommendation is **not** a defense (consistent with Section 5.2)
 - A belief that the citizen is "probably guilty of something else" is **not** a defense to prosecution for the actual offense charged
 
-### 1.15 Affirmative Duties
+#### 1.1.15 Affirmative Duties
 
 For purposes of this Act, an **affirmative duty** is a mandatory duty imposed on or arising from a government actor's office, role, oath, authority, legal responsibility, constitutional responsibility, professional function, or exercise of state power to take a required action, make a required disclosure, perform a required review, correct a known error, preserve a required record, or otherwise act to protect a citizen's rights, liberty, property, due process, safety, or access to justice.
 
@@ -1115,7 +1135,7 @@ An affirmative duty need not be expressly listed in this Act if the duty is reas
 - Good faith, office custom, workload, professional courtesy, internal policy, or "that is not how we usually do it" is not a defense where the duty was known, obvious, or reasonably knowable
 - A failure to perform an affirmative duty may be charged cumulatively with any offense caused, enabled, concealed, or prolonged by the failure
 
-#### 1.15.1 Failure to Serve
+##### 1.1.15.1 Failure to Serve
 
 For purposes of this Act, **failure to serve** means the failure of a government actor to perform an affirmative duty imposed by this Act, by the actor's office, by law, or by the Constitution.
 
@@ -1125,11 +1145,11 @@ For purposes of this Act, **failure to serve** means the failure of a government
 - Where the failure to serve is intentional, malicious, repeated, coordinated, concealed, or causes deprivation of rights, liberty, property, family, livelihood, safety, or access to justice, penalty enhancements under Section 5.6 apply
 - Failure to serve may be charged cumulatively with any underlying offense or resulting harm caused, enabled, concealed, or prolonged by the failure
 
-### 1.16 Mental-State Terms
+#### 1.1.16 Mental-State Terms
 
 For purposes of this Act, the terms **[knowingly](#section-4--knowing-and-cognate-terms)**, **[intentionally](#32-criminal-mens-rea)**, **[recklessly](#32-criminal-mens-rea)**, **[negligently](#32-criminal-mens-rea)**, and **[maliciously](#32-criminal-mens-rea)** are defined and governed by Sections 3 and 4. Section 3 controls criminal and civil mens rea. Section 4 controls knowing and cognate terms. Where those terms appear in any offense, duty, enhancement, defense, or classification provision, Sections 3 and 4 control unless a more specific provision expressly states otherwise.
 
-### 1.17 Ineffective Assistance of Counsel
+#### 1.1.17 Ineffective Assistance of Counsel
 
 For purposes of this title, **"ineffective assistance of counsel"** means representation by counsel — whether retained, appointed, contracted, court-assigned, deputized, or otherwise provided in or affecting any criminal, juvenile, civil-commitment, immigration, family, child-welfare, contempt, probation, parole, detention, or other proceeding in which a citizen faces deprivation of liberty, property, family integrity, or any other protected right — that fails to provide the citizen with the standard of representation required by §2.11.7, by the Sixth Amendment, by the Utah Constitution, or by the recognized professional standards informing those authorities.
 
@@ -1173,7 +1193,7 @@ This definition does not reach reasonable strategic or tactical decisions made b
 - Right to Refuse Overwhelming Caseload; State Liability: §2.11.8
 - Public Defender Offenses: §§2.11.1 through 2.11.6
 - Shared Attorney Offenses for Prosecutors and Public Defenders: §2.12
-- Malicious Prosecution: §1.14
+- Malicious Prosecution: §1.1.14
 - Wrongful Conviction as Conspiracy (juror application): §2.5.3
 
 **Supporting Authorities Recognized by This Act:**
@@ -1186,6 +1206,44 @@ The duties on which this definition depends build on, and codify, the following 
 - ***Strickland v. Washington***, 466 U.S. 668 (1984) — this Act adopts *Strickland*'s performance prong as a floor, not a ceiling, and rejects *Strickland*'s prejudice prong for purposes of liability and remedy under this Act
 - ***United States v. Cronic***, 466 U.S. 648 (1984) — this Act broadens *Cronic*'s presumed-prejudice categories to include the structural failures defined in §§2.10.2 and 2.11.8
 - ***Padilla v. Kentucky***, 559 U.S. 356 (2010); ***Lafler v. Cooper***, 566 U.S. 156 (2012); ***Missouri v. Frye***, 566 U.S. 134 (2012)
+
+### 1.2 Misconceptions
+
+This subsection identifies common misconceptions that have shaped — and continue to shape — how the legal system treats core concepts in ways this Act explicitly rejects. Where a court, government actor, juror, council, or proceeding under this Act encounters one of these misconceptions, this subsection controls.
+
+#### 1.2.1 Actual Truth vs. Perceived Truth vs. Representation of Truth
+
+For purposes of this Act, three distinct concepts must be carefully separated. Conflating them is itself a source of injustice.
+
+**Actual Truth.** The actual truth is **what actually happened** — the objective reality of events, conduct, circumstances, and conditions, regardless of how any person, government actor, court, jury, official, witness, document, recording, or instrument characterizes it. The actual truth exists independently of any human description of it. The actual truth is what this Act seeks to protect, and what every government actor exercising state power has a duty to honor.
+
+**Perceived Truth.** The perceived truth is **what a person honestly believed**, at the relevant moment, about what was happening — based on the information available, the limits of attention, the angle of view, the state of training, the influence of bias, and the constraints of human memory and perception. A person's perceived truth may align with the actual truth, or may diverge from it in any degree, whether or not the person realizes the divergence. Perceived truth is a mental state — an honest belief at a moment in time. **Perceived truth is not a synonym for actual truth.**
+
+**Representation of Truth.** A representation of truth is **the after-the-fact account** by which one person or entity conveys what they claim happened or perceived. A representation includes any spoken statement, written statement, affidavit, declaration, sworn or unsworn testimony, government report, official record, government instrument, charging document, warrant application, body-camera recording, transcript, summary, exhibit, photograph, video, audio recording, forensic report, or expert opinion. A representation may be accurate, partially accurate, mistaken, incomplete, exaggerated, minimized, framed to mislead, coerced, coached, fabricated, or otherwise diverge from the actual truth in any degree. **A representation is not the actual truth, and is not a synonym for the actual truth.** The label, formality, oath, signature, certification, official seal, government letterhead, or other indicia of authority attached to a representation does not convert the representation into the actual truth.
+
+**Why the Three Are Different:**
+
+The three layers can disagree with each other:
+
+- The **actual truth** of a use-of-force incident is what physically happened — the angle of contact, the force applied, the citizen's conduct in real time, and the surrounding facts.
+- The **perceived truth** of an officer at the scene may be that the citizen made a "furtive movement" — an honest belief, formed in the moment, that may or may not align with the actual movement.
+- The **representation of truth** in the officer's after-the-fact report may say "the suspect reached for what I believed to be a weapon" — a written account of the perceived truth, which may or may not align with either the actual truth or the officer's actual perception in the moment.
+
+The three can disagree honestly (the report accurately reflects an honest perception that diverged from reality). They can disagree dishonestly (the report misrepresents either the actual truth or the actual perception). They can be tested against one another by other evidence — body-camera footage, witness statements, physical evidence, prior records, contradictions in the actor's later statements.
+
+**Operational Rule:**
+
+In every proceeding under this Act:
+
+- The trier of fact, Citizen Council, court, jury, or other competent fact-finder shall treat every representation of truth — including official reports, sworn affidavits, witness testimony, and expert opinions — as a **representation subject to evaluation**, not as the actual truth itself.
+- The trier of fact may credit, partially credit, or reject any representation based on its consistency with other evidence, the credibility of its source, contradictions in the record, missing or unrecorded portions, the surrounding circumstances, and the demonstrated reliability of the actor making the representation.
+- Where a government actor relies on a representation as if it were the actual truth — and where the actor knew, or in reckless disregard of clear evidence should have known under Section 4, that the representation was distorted, contradicted, manufactured, missing material content, or otherwise unreliable — the actor's reliance is itself reachable conduct under this title.
+
+**Misconception Rejected:**
+
+> This Act explicitly rejects the misconception that an official record, a sworn statement, a certified copy, an officer's testimony, a forensic report, a confession, a guilty plea, or any other formal artifact of the legal process **is itself the actual truth**. These are representations. They are evaluated as representations. They do not bind the trier of fact's inquiry into what actually happened.
+
+This rejection is consistent with §2.3.2 (Representation of Truth; Testimony Is Also a Report), which carries this principle into the hearsay and statement-evidence framework, and with §1.1.1.1.10 (Logical Consistency), which forbids treating the same fact as true for government advantage and false for citizen protection.
 
 ## Section 2 — Due Process
 
@@ -1352,7 +1410,7 @@ Jury service exercises state power. Because a jury may authorize the deprivation
 
 #### 2.5.1 Juror Rights, Verdict Options, and Independent Deliberation
 
-The rights in this subsection are **protected rights** under Section 1.5. Interference with, denial of, chilling of, or retaliation against these rights is reachable under the protected-rights provisions of this Act.
+The rights in this subsection are **protected rights** under Section 1.1.5. Interference with, denial of, chilling of, or retaliation against these rights is reachable under the protected-rights provisions of this Act.
 
 > Every juror in any criminal proceeding prosecuted by the state, county, or municipality, in any **court of record** or **court not of record**, has the rights set out in this subsection. The court shall **inform every prospective and seated juror of these rights**, in plain language, before voir dire, before opening arguments, and again before deliberation.
 
@@ -1403,7 +1461,7 @@ The reason: group deliberation, while permitted, can **distort a juror's percept
 
 Where a juror who asked a question is excused, removed, replaced, or threatened with removal, the court shall immediately pause the proceeding and conduct an open inquiry on the record to determine whether the removal was caused in whole or in part by the juror's question.
 
-A judge who excuses, removes, replaces, threatens, or penalizes a juror because the juror asked a question, or who fails to conduct the required open inquiry after such a removal, commits **obstruction of justice** under Section 1.8 and violates the juror's protected rights under this subsection.
+A judge who excuses, removes, replaces, threatens, or penalizes a juror because the juror asked a question, or who fails to conduct the required open inquiry after such a removal, commits **obstruction of justice** under Section 1.1.8 and violates the juror's protected rights under this subsection.
 
 **Right Against Removal for Disagreement:**
 
@@ -1493,7 +1551,7 @@ A person who is **unable or unwilling** to perform the documentation required by
 **Construction:**
 
 - This subsection shall be construed to **maximize the accused's and convicted person's ability to appeal on the facts**
-- Ambiguity as to the sufficiency of juror documentation shall be resolved **in favor of the accused or convicted person**, consistent with Section 1.5.2
+- Ambiguity as to the sufficiency of juror documentation shall be resolved **in favor of the accused or convicted person**, consistent with Section 1.1.5.2
 - This subsection adds to, and does not limit, any other right of the accused or convicted person under federal, state, or international law
 
 #### 2.5.3 Crimes Applicable to Jurors; Wrongful Conviction as Conspiracy
@@ -1522,19 +1580,19 @@ A federal forum, federal label, federal prosecutor, federal courthouse, or feder
 
 **Wrongful Conviction Treated as Conspiracy:**
 
-> Where two or more jurors join in a verdict to convict an otherwise innocent person, and the conduct meets the standard above, the conduct **shall be charged as a conspiracy** under Section 1.1.1, with each participating juror treated as a co-conspirator.
+> Where two or more jurors join in a verdict to convict an otherwise innocent person, and the conduct meets the standard above, the conduct **shall be charged as a conspiracy** under Section 1.1.1.1, with each participating juror treated as a co-conspirator.
 
 A wrongful conviction by a unanimous or near-unanimous jury that is subsequently shown to have been against an innocent person, where the elements of this subsection are met, shall be **presumptively chargeable as a conspiracy** of the convicting jurors. A juror who voted to **acquit** or who is shown by the deliberation record to have actively dissented from the conviction is **not** subject to liability under this subsection for that verdict.
 
 **Underlying Offense:**
 
-A wrongful conviction by a juror under this section constitutes a **Battery** under Section 1.3 — an unlawful deprivation of the convicted person's liberty through direct action — and carries the Class 2 felony classification of that section, subject to the penalty enhancements of Section 5.6.
+A wrongful conviction by a juror under this section constitutes a **Battery** under Section 1.1.3 — an unlawful deprivation of the convicted person's liberty through direct action — and carries the Class 2 felony classification of that section, subject to the penalty enhancements of Section 5.6.
 
 **Limited Scope — What Is and Is Not Reachable:**
 
 - **Honest disagreement, reasonable mistake, or good-faith error** in evaluating the evidence presented is **not** chargeable as the felony offense of wrongful conviction under this subsection unless the knowledge or reckless-disregard standard is met
 - **Reasonable doubt resolved against the defendant** in good faith is not chargeable as the felony offense of wrongful conviction under this subsection unless the knowledge or reckless-disregard standard is met
-- A good-faith or negligent juror violation that falls short of wrongful-conviction liability may still be charged as an **infraction** under Section 1.4, or as a **Class 1 misdemeanor** where the conduct repeats, continues after correction, disregards a documentation duty, or materially burdens a citizen's rights
+- A good-faith or negligent juror violation that falls short of wrongful-conviction liability may still be charged as an **infraction** under Section 1.1.4, or as a **Class 1 misdemeanor** where the conduct repeats, continues after correction, disregards a documentation duty, or materially burdens a citizen's rights
 - This subsection applies only to verdicts subsequently shown to have been wrongful by **exoneration, DNA evidence, post-conviction relief, witness recantation, prosecutorial admission, or other competent evidence of actual innocence**, **and** where the juror's conduct meets the knowledge or reckless-disregard standard above
 
 **Doctrines That Do Not Bar Prosecution:**
@@ -1549,7 +1607,7 @@ Where a wrongful conviction under this subsection results in:
 
 - The convicted person's **death** — by capital sentence carried out, by death in custody, or by suicide consistent with Section 12.1 — the conduct shall be charged under Section 12 as applicable, **including capital classification under Section 12.1** where the convicted person's suicide is shown to be a direct or proximate result of the wrongful conviction
 - **Long-term incarceration** of the convicted person — the penalty enhancements of Section 5.6 (long-term deprivation of rights, victim restrained or unable to leave) apply
-- **Repeated wrongful convictions** by the same juror, the same jury panel, or in coordination with the same prosecutor or judge — the pattern may be charged additionally as **Cabalism (Section 1.6)** or **Government Racketeering (Section 1.7)**
+- **Repeated wrongful convictions** by the same juror, the same jury panel, or in coordination with the same prosecutor or judge — the pattern may be charged additionally as **Cabalism (Section 1.1.6)** or **Government Racketeering (Section 1.1.7)**
 
 ### 2.6 Prosecutors
 
@@ -1578,9 +1636,9 @@ The duties in this subsection are affirmative and continuing. A prosecutor must 
 
 > A prosecutor's failure to disclose adverse evidence to the jury, where the prosecutor knew or should have known the evidence would tend to undermine the prosecution's claim or establish innocence, is **Obstruction of Justice** under this title.
 
-- Charging follows the framework of Section 1.8: the **class of the obstruction mirrors the class of the offense being prosecuted**, with a **Class 2 felony floor**
+- Charging follows the framework of Section 1.1.8: the **class of the obstruction mirrors the class of the offense being prosecuted**, with a **Class 2 felony floor**
 - Where the failure is intentional, penalty enhancements under Section 5.6 apply
-- Where the failure is committed with malice (intent to obtain a conviction the prosecutor knows or recklessly disregards as wrongful), the conduct is also chargeable as **Malicious Prosecution under Section 1.14**
+- Where the failure is committed with malice (intent to obtain a conviction the prosecutor knows or recklessly disregards as wrongful), the conduct is also chargeable as **Malicious Prosecution under Section 1.1.14**
 
 **Note on *Brady v. Maryland*:**
 
@@ -1611,7 +1669,7 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 > Where a prosecutor knows of facts that would warrant reduction or dismissal under this subsection and **fails to seek** such reduction or dismissal, the prosecutor commits a **Class 3 felony** under this title.
 
 - The failure is reachable whether the case is **pre-trial, mid-trial, post-trial, or post-conviction** (including years after conviction)
-- Where the failure was intentional, penalty enhancements under Section 5.6 apply, and the conduct may be elevated to **Malicious Prosecution (§1.14)** or charged cumulatively
+- Where the failure was intentional, penalty enhancements under Section 5.6 apply, and the conduct may be elevated to **Malicious Prosecution (§1.1.14)** or charged cumulatively
 - Where the failure causes the citizen to suffer continuing incarceration or other deprivation of rights, the long-term-deprivation enhancement of Section 5.6 applies
 - Where the failure causes the citizen's death — carried out capital sentence, death in custody, or suicide consistent with Section 12.1 — the conduct is elevated to a **capital offense**
 
@@ -1624,7 +1682,7 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 
 **Construction:**
 
-This subsection shall be construed broadly in favor of the accused and convicted person, consistent with Section 1.5.2. The prosecutor's duty runs to the **truth**, not to the conviction; failure to act on the truth, when known, is itself reachable conduct under this title.
+This subsection shall be construed broadly in favor of the accused and convicted person, consistent with Section 1.1.5.2. The prosecutor's duty runs to the **truth**, not to the conviction; failure to act on the truth, when known, is itself reachable conduct under this title.
 
 ##### 2.6.1.3 Duty to Investigate Actual Innocence
 
@@ -1667,9 +1725,9 @@ A prosecutor who learns of evidence of actual innocence at any point — includi
 
 A prosecutor who fails to perform the duty of this subsection commits, depending on the elements established:
 
-- **Failure to Serve** under §1.15.1 (default Class 3 felony)
-- **Obstruction of Justice** under §1.8 where the failure is motivated by status, affiliation, political pressure, institutional reputation, or office convenience
-- **Malicious Prosecution** under §1.14 where the failure is accompanied by knowing or reckless disregard of clear evidence of innocence
+- **Failure to Serve** under §1.1.15.1 (default Class 3 felony)
+- **Obstruction of Justice** under §1.1.8 where the failure is motivated by status, affiliation, political pressure, institutional reputation, or office convenience
+- **Malicious Prosecution** under §1.1.14 where the failure is accompanied by knowing or reckless disregard of clear evidence of innocence
 - **Failure to Seek Reduction or Dismissal** under §2.6.1.2.1 where the inadequate investigation produced a continued prosecution that should have ended
 - **Malicious Case Maintenance** under §2.6.2.8 where the failure preserves a prosecution the prosecutor knows or recklessly disregards should not continue
 - Where the failure contributes to wrongful conviction, long-term incarceration, family separation, capital sentence, death in custody, or suicide consistent with Section 12.1, the offense is a **capital offense**
@@ -1699,7 +1757,7 @@ These offenses apply to elected prosecutors, deputy prosecutors, and any attorne
 - Reckless: **Class 3 felony**
 - Intentional: **Class 2 felony**
 - Where the charging causes wrongful conviction, wrongful incarceration, family separation, or suicide consistent with Section 12.1, the conduct is a **capital offense**
-- May be charged cumulatively under §1.14 (Malicious Prosecution), §2.6.1.2.1 (Failure to Seek Reduction or Dismissal), §17.2 (Institutional Retaliation), or §17.2B (Retaliatory Charge Fabrication) where the elements are met
+- May be charged cumulatively under §1.1.14 (Malicious Prosecution), §2.6.1.2.1 (Failure to Seek Reduction or Dismissal), §17.2 (Institutional Retaliation), or §17.2B (Retaliatory Charge Fabrication) where the elements are met
 
 ##### 2.6.2.2 Reckless Overcharging
 
@@ -1717,7 +1775,7 @@ These offenses apply to elected prosecutors, deputy prosecutors, and any attorne
 - **Class 3 felony** by default
 - **Class 2 felony** where the overcharging produces a plea, conviction, incarceration, family separation, or other material deprivation of rights
 - Where the overcharging contributes to wrongful conviction, prolonged incarceration, or suicide, the offense is a **capital offense**, and Section 12 applies where the elements are met
-- May be charged cumulatively under §2.6.2.1 (Charging Without Probable Cause), §2.6.2.6 (Coercive Plea Bargaining), and §1.14 (Malicious Prosecution)
+- May be charged cumulatively under §2.6.2.1 (Charging Without Probable Cause), §2.6.2.6 (Coercive Plea Bargaining), and §1.1.14 (Malicious Prosecution)
 
 ##### 2.6.2.3 Suppression of Favorable Evidence
 
@@ -1737,7 +1795,7 @@ This subsection identifies the active concealment side of the disclosure duty in
 
 - **Class 2 felony**
 - Where the suppression contributes to wrongful conviction, prolonged incarceration, death in custody, suicide, family separation, or capital sentence, the offense is a **capital offense**, and Section 12 applies where the elements are met
-- May be charged cumulatively under §2.6.1.1.1 (Failure to Disclose), §1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), §17.4A (Public-Record Spoliation), and §2.3.8 (One-Way Hearsay Suppression)
+- May be charged cumulatively under §2.6.1.1.1 (Failure to Disclose), §1.1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), §17.4A (Public-Record Spoliation), and §2.3.8 (One-Way Hearsay Suppression)
 
 ##### 2.6.2.4 False Representation to the Court
 
@@ -1756,11 +1814,11 @@ This subsection identifies the active concealment side of the disclosure duty in
 
 - **Class 2 felony**
 - Where the false representation affected a charging decision, plea, conviction, sentence, custody status, or other material outcome, the offense is a **capital offense**
-- May be charged cumulatively under §17.4 (Deliberate Record Distortion), §17.6 (Public Trust Fraud), §1.14 (Malicious Prosecution), and §1.8 (Obstruction)
+- May be charged cumulatively under §17.4 (Deliberate Record Distortion), §17.6 (Public Trust Fraud), §1.1.14 (Malicious Prosecution), and §1.1.8 (Obstruction)
 
 ##### 2.6.2.5 Retaliatory Prosecution
 
-> A prosecutor commits **retaliatory prosecution** when the prosecutor initiates, increases, maintains, or threatens charges to punish a person for exercising a protected right under §1.5 or for engaging in any other lawful conduct the prosecutor opposes.
+> A prosecutor commits **retaliatory prosecution** when the prosecutor initiates, increases, maintains, or threatens charges to punish a person for exercising a protected right under §1.1.5 or for engaging in any other lawful conduct the prosecutor opposes.
 
 **Examples:**
 
@@ -1775,7 +1833,7 @@ This subsection identifies the active concealment side of the disclosure duty in
 
 - **Class 2 felony**
 - Where the retaliation results in conviction, incarceration, family separation, or other material deprivation of rights, the offense is a **capital offense**
-- May be charged cumulatively under §17.2 (Institutional Retaliation), §17.2B (Retaliatory Charge Fabrication), §1.13 (Official Intimidation), §1.6 (Cabalism), and §1.7 (Government Racketeering)
+- May be charged cumulatively under §17.2 (Institutional Retaliation), §17.2B (Retaliatory Charge Fabrication), §1.1.13 (Official Intimidation), §1.1.6 (Cabalism), and §1.1.7 (Government Racketeering)
 
 ##### 2.6.2.6 Coercive Plea Bargaining
 
@@ -1793,7 +1851,7 @@ This subsection identifies the active concealment side of the disclosure duty in
 
 - **Class 2 felony**
 - Where the coercion produces a guilty plea, conviction, incarceration, family separation, or other material deprivation of rights, the offense is a **capital offense**
-- May be charged cumulatively under §1.12 (Terrorism), §1.13 (Official Intimidation), §2.10.2 (Constructive Denial of Counsel), and §1.14 (Malicious Prosecution)
+- May be charged cumulatively under §1.1.12 (Terrorism), §1.1.13 (Official Intimidation), §2.10.2 (Constructive Denial of Counsel), and §1.1.14 (Malicious Prosecution)
 
 **Defenses Limited:**
 
@@ -1817,7 +1875,7 @@ This subsection identifies the active concealment side of the disclosure duty in
 
 - **Class 2 felony**
 - Where the manipulation contributes to wrongful conviction, sex-offender registration, family separation, deportation, or capital sentence, the offense is a **capital offense**, and Section 12 applies where the elements are met
-- May be charged cumulatively under §17.4 (Deliberate Record Distortion), §17.4B (Forensic Truth Corruption), §1.14 (Malicious Prosecution), and §1.8 (Obstruction)
+- May be charged cumulatively under §17.4 (Deliberate Record Distortion), §17.4B (Forensic Truth Corruption), §1.1.14 (Malicious Prosecution), and §1.1.8 (Obstruction)
 
 ##### 2.6.2.8 Malicious Case Maintenance
 
@@ -1837,7 +1895,7 @@ This subsection identifies the malicious-continuation aspect of the prosecutor's
 
 - **Class 2 felony**
 - Where the malicious maintenance contributes to wrongful conviction, long-term incarceration, death in custody, capital sentence, or suicide, the offense is a **capital offense**, and Section 12 applies where the elements are met
-- This subsection is cumulative to §1.14 (Malicious Prosecution), §2.6.1.2.1 (Failure to Seek Reduction or Dismissal), §17.4 (Deliberate Record Distortion), and the wrongful-conviction conspiracy provisions of §2.5.3
+- This subsection is cumulative to §1.1.14 (Malicious Prosecution), §2.6.1.2.1 (Failure to Seek Reduction or Dismissal), §17.4 (Deliberate Record Distortion), and the wrongful-conviction conspiracy provisions of §2.5.3
 
 ### 2.7 Judges
 
@@ -1873,7 +1931,7 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 
 - Where the failure was intentional, penalty enhancements under Section 5.6 apply
 - Where committed with malice (e.g., to obtain a particular outcome favorable to the judge or to a connected party), the conduct is elevated to a **capital offense** per the mens rea framework of Section 3
-- A pattern of failures to recuse may be additionally charged as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
+- A pattern of failures to recuse may be additionally charged as **Cabalism (§1.1.6)** or **Government Racketeering (§1.1.7)**
 - A conviction or judgment entered after a failure-to-recuse is presumptively subject to vacatur on direct or collateral review
 
 ##### 2.7.1.2 Judicial Duty to Engage on the Merits
@@ -1891,8 +1949,8 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 **Failure — Reckless Prosecution / Anarchy:**
 
 - Where a judge knowingly fails to engage with the evidence or law on the merits, the conduct is **reckless prosecution** under Section 2.5.2 — a **Class 2 felony**
-- Where the failure rises to acting completely outside the judicial role (e.g., issuing rulings with no factual or legal basis), the conduct is **Anarchy** under Section 1.10
-- A pattern of such failures may be charged additionally as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
+- Where the failure rises to acting completely outside the judicial role (e.g., issuing rulings with no factual or legal basis), the conduct is **Anarchy** under Section 1.1.10
+- A pattern of such failures may be charged additionally as **Cabalism (§1.1.6)** or **Government Racketeering (§1.1.7)**
 - Penalty enhancements under Section 5.6 apply, particularly the long-term-deprivation enhancement where a citizen suffers continuing consequences
 
 ##### 2.7.1.3 Prohibition on Ex Parte Communications
@@ -1950,16 +2008,16 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 
 **Construction:**
 
-This subsection shall be construed broadly in favor of the citizen affected by the judicial failure, consistent with Section 1.5.2. The judge's duty runs to the **law as written and to the citizen as protected by it** — not to institutional convenience, professional courtesy, or the maintenance of past practice.
+This subsection shall be construed broadly in favor of the citizen affected by the judicial failure, consistent with Section 1.1.5.2. The judge's duty runs to the **law as written and to the citizen as protected by it** — not to institutional convenience, professional courtesy, or the maintenance of past practice.
 
 #### 2.7.2 Judicial Recklessness
 
-> A judge commits **judicial recklessness** where the judge issues a ruling or order with gross disregard for clearly established law, the rights protected under §1.5, or the evidence in the record of the case before them.
+> A judge commits **judicial recklessness** where the judge issues a ruling or order with gross disregard for clearly established law, the rights protected under §1.1.5, or the evidence in the record of the case before them.
 
 **Elements:**
 
-- The actor is a judge or other judicial officer (§1.1)
-- The ruling or order at issue departed grossly from clearly established law, the rights protected under §1.5, or the evidence in the record
+- The actor is a judge or other judicial officer (§1.1.1)
+- The ruling or order at issue departed grossly from clearly established law, the rights protected under §1.1.5, or the evidence in the record
 - The judge was aware, or in reckless disregard of clear evidence should have been aware, of the departure
 
 **Distinction from Other Judicial Duties:**
@@ -1972,7 +2030,7 @@ This subsection shall be construed broadly in favor of the citizen affected by t
 
 - **Class 2 felony** (capital offense where part of a pattern, or where the ruling produced a wrongful conviction or sustained deprivation of rights)
 - Judicial immunity does not apply, consistent with §5.1
-- May be charged cumulatively with §§2.7.1.2 and 2.7.1.4, and where applicable §2.5.3 (Wrongful Conviction as Conspiracy) and §1.6 (Cabalism)
+- May be charged cumulatively with §§2.7.1.2 and 2.7.1.4, and where applicable §2.5.3 (Wrongful Conviction as Conspiracy) and §1.1.6 (Cabalism)
 
 ### 2.8 Officers
 
@@ -2027,13 +2085,13 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 
 - Any statement obtained in violation of this section is presumptively involuntary and inadmissible in any criminal, civil, administrative, immigration, school-disciplinary, parole, probation, pretrial-release, or licensing proceeding
 - Derivative evidence obtained because of the violation is presumptively tainted unless the government proves by clear and convincing evidence that the evidence would have been discovered through wholly independent lawful means
-- A prosecutor who knowingly uses, threatens to use, or fails to disclose the violation concerning a statement obtained under this section may be charged cumulatively under §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), or §17.5 (Gross Dereliction of Public Duty), as applicable
+- A prosecutor who knowingly uses, threatens to use, or fails to disclose the violation concerning a statement obtained under this section may be charged cumulatively under §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), or §17.5 (Gross Dereliction of Public Duty), as applicable
 
 **Classification:**
 
 - Reckless violation: **Class 3 felony**
 - Intentional violation: **Class 2 felony**
-- Violation producing a confession, admission, plea, conviction, probation revocation, parole revocation, immigration consequence, school expulsion, professional discipline, or other material deprivation of rights: **Class 2 felony**, chargeable cumulatively under §1.3 (Battery)
+- Violation producing a confession, admission, plea, conviction, probation revocation, parole revocation, immigration consequence, school expulsion, professional discipline, or other material deprivation of rights: **Class 2 felony**, chargeable cumulatively under §1.1.3 (Battery)
 - Violation committed with malice, as part of a pattern, or against a child, disabled person, intoxicated person, mentally impaired person, non-English speaker without adequate interpretation, or citizen in medical or psychological crisis: **capital offense**
 - Where the violation contributes to long-term incarceration, wrongful conviction, death in custody, capital sentence, or suicide, the penalty enhancements of Section 5.6 and the death-resulting provisions of Section 12 apply
 
@@ -2093,7 +2151,7 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 
 - Citizenship-claim detention obstruction is a **Class 2 felony**
 - Where the person is transferred out of state, placed in removal proceedings, deported, separated from family, denied medication, or held more than forty-eight (48) hours after lawful release eligibility, the offense is a **capital offense**
-- Charge cumulatively under §1.3 (Battery), §2.9 (Constitutional Objection Duty), §17.9K (Language-Access Obstruction), or §2.8.4 (Custodial Medical Abandonment) where applicable
+- Charge cumulatively under §1.1.3 (Battery), §2.9 (Constitutional Objection Duty), §17.9K (Language-Access Obstruction), or §2.8.4 (Custodial Medical Abandonment) where applicable
 
 #### 2.8.6 Sheriff Custody and Release Obstruction
 
@@ -2111,7 +2169,7 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Sheriff custody and release obstruction is a **Class 3 felony**
 - Where the obstruction causes additional confinement, missed court deadline, loss of counsel, medical crisis, family separation, job loss, housing loss, immigration consequence, or inability to preserve evidence, the offense is a **Class 2 felony**
 - Where the obstruction is intentional, retaliatory, discriminatory, or affects a child, disabled person, non-English speaker, medically dependent person, pregnant person, or person in behavioral-health crisis, the offense is a **capital offense**
-- Charge cumulatively under §1.3, §1.13, §17.9K, §2.8.4, or §2.8.5 where applicable
+- Charge cumulatively under §1.1.3, §1.1.13, §17.9K, §2.8.4, or §2.8.5 where applicable
 
 #### 2.8.7 Crisis-Response Misconduct
 
@@ -2131,7 +2189,7 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 
 - Technical-violation incarceration abuse is a **Class 3 felony**
 - Where incarceration, job loss, housing loss, family separation, medical interruption, benefit loss, immigration consequence, or plea pressure results, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.9E (Revenue Extraction), §2.8.9 (Electronic Custody Abuse), or §1.3 (Battery), where the elements are met
+- Charge cumulatively under §17.9E (Revenue Extraction), §2.8.9 (Electronic Custody Abuse), or §1.1.3 (Battery), where the elements are met
 
 #### 2.8.9 Electronic Custody Abuse
 
@@ -2166,11 +2224,11 @@ No person in custody, detention, supervision, placement, institutional control, 
 - Home-invasion under color of warrant is a **Class 2 felony**
 - Where a child, elder, disabled person, sleeping person, uninvolved resident, or person in medical or mental-health crisis is endangered, the offense is a **capital offense**
 - Where death, serious bodily injury, suicide, or life-threatening medical crisis results, Section 11 applies
-- Charge cumulatively under §1.3 (Battery), §1.10 (Anarchy), §17.4, §17.13, §17.14, or §17.15, where applicable
+- Charge cumulatively under §1.1.3 (Battery), §1.1.10 (Anarchy), §17.4, §17.13, §17.14, or §17.15, where applicable
 
 #### 2.8.12 Sheriff Command Responsibility Failure
 
-> A sheriff, undersheriff, chief deputy, jail commander, marshal, constable, federal marshal, or other command-level enforcement actor commits **sheriff command responsibility failure** where the actor knowingly maintains, approves, ratifies, ignores, or fails to correct a policy, custom, training failure, supervision failure, jail practice, warrant practice, transport practice, or deputy conduct pattern that violates this Act or foreseeably causes violations of rights protected under §1.5.
+> A sheriff, undersheriff, chief deputy, jail commander, marshal, constable, federal marshal, or other command-level enforcement actor commits **sheriff command responsibility failure** where the actor knowingly maintains, approves, ratifies, ignores, or fails to correct a policy, custom, training failure, supervision failure, jail practice, warrant practice, transport practice, or deputy conduct pattern that violates this Act or foreseeably causes violations of rights protected under §1.1.5.
 
 **Includes, Without Limitation:**
 
@@ -2213,9 +2271,9 @@ Good-faith engagement requires more than saying *"take it up with the judge,"* *
 **Classification:**
 
 - Constitutional objection obstruction is a **Class 2 felony**
-- Where the continued enforcement causes actual deprivation of liberty, property, parental rights, bodily autonomy, livelihood, or any other protected right, the conduct may be charged cumulatively under **§1.3 (Battery)**
+- Where the continued enforcement causes actual deprivation of liberty, property, parental rights, bodily autonomy, livelihood, or any other protected right, the conduct may be charged cumulatively under **§1.1.3 (Battery)**
 - Where the actor is a judge or judicial officer, the conduct may be charged cumulatively under **§2.7.1.2 (Judicial Duty to Engage on the Merits)** and **§2.7.1.4 (Judicial Duty to Apply Mandatory Rules and Correct Errors)**
-- Where the continued enforcement is part of a pattern, policy, coordinated practice, or institutional scheme, it may be charged cumulatively under **§1.6 (Cabalism)**, **§1.7 (Government Racketeering)**, or **§1.9 (Treason)** where the elements are met
+- Where the continued enforcement is part of a pattern, policy, coordinated practice, or institutional scheme, it may be charged cumulatively under **§1.1.6 (Cabalism)**, **§1.1.7 (Government Racketeering)**, or **§1.1.9 (Treason)** where the elements are met
 
 **Defenses Limited:**
 
@@ -2240,7 +2298,7 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 
 - Court access burdening is a **Class 1 misdemeanor**
 - Where the burden causes missed deadline, default, dismissal, warrant, detention, loss of appeal, loss of custody, loss of housing, loss of benefits, or inability to seek protection from violence, the conduct is a **Class 3 felony**
-- Where the burden is intentional, retaliatory, discriminatory, or part of a pattern, charge cumulatively under §17.2 (Institutional Retaliation), §17.9 (Failure of Transparency), §1.13 (Official Intimidation), or §1.10 (Anarchy), as applicable
+- Where the burden is intentional, retaliatory, discriminatory, or part of a pattern, charge cumulatively under §17.2 (Institutional Retaliation), §17.9 (Failure of Transparency), §1.1.13 (Official Intimidation), or §1.1.10 (Anarchy), as applicable
 
 **Defenses Limited:**
 
@@ -2284,7 +2342,7 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 - Clerk access obstruction is a **Class 1 misdemeanor**
 - Where the obstruction causes missed deadline, default, dismissal, warrant, loss of appeal, denial of public meeting participation, election harm, loss of benefits, loss of custody, loss of housing, loss of license, or inability to seek protection from violence, the offense is a **Class 3 felony**
 - Where the obstruction is intentional, retaliatory, discriminatory, election-related, or directed at a Citizen Council, complainant, witness, constitutional objection, or public-record request concerning government misconduct, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.9, §2.10.1, §17.4A, §1.13, or §9.9 where applicable
+- Charge cumulatively under §17.9, §2.10.1, §17.4A, §1.1.13, or §9.9 where applicable
 
 #### 2.10.5 Docket, Agenda, and Minutes Distortion
 
@@ -2302,7 +2360,7 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 - Docket, agenda, and minutes distortion is a **Class 3 felony**
 - Where the distortion affects court access, criminal prosecution, child custody, election administration, public debt, public contracts, zoning, property rights, Citizen Council action, or constitutional rights, the offense is a **Class 2 felony**
 - Where the distortion is coordinated by multiple actors, conceals corruption, changes an election outcome, causes incarceration, or defeats a citizen's ability to challenge government action, the offense is a **capital offense**
-- Charge cumulatively under §17.4, §17.4A, §17.6, §17.20, §17.21, or §1.7 where applicable
+- Charge cumulatively under §17.4, §17.4A, §17.6, §17.20, §17.21, or §1.1.7 where applicable
 
 #### 2.10.6 Citizen Filing Gatekeeping
 
@@ -2324,7 +2382,7 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 
 ### 2.11 Public Defenders
 
-Public defenders, court-appointed counsel, contract public defenders, and any attorney paid, appointed, or authorized by the state to represent indigent defendants exercise delegated public authority within the criminal justice system. They are government actors within the meaning of §1.1 with respect to their public-defense function, and the duties and offenses of this subsection apply to that function.
+Public defenders, court-appointed counsel, contract public defenders, and any attorney paid, appointed, or authorized by the state to represent indigent defendants exercise delegated public authority within the criminal justice system. They are government actors within the meaning of §1.1.1 with respect to their public-defense function, and the duties and offenses of this subsection apply to that function.
 
 This subsection does **not** apply to private defense counsel retained by private contract, unless that attorney is acting under public appointment, public contract, or delegated state authority.
 
@@ -2435,7 +2493,7 @@ This subsection does **not** apply to private defense counsel retained by privat
 - **Capital offense**
 - Permanent disqualification from public-defense work applies
 - Civil liability to the harmed citizen applies under Section 10
-- May be charged cumulatively as conspiracy under §1.1.1 with any other actor who participated in the false conviction, including jurors under §2.5.3, prosecutors under §1.14, and judges under §2.7.1
+- May be charged cumulatively as conspiracy under §1.1.1.1 with any other actor who participated in the false conviction, including jurors under §2.5.3, prosecutors under §1.1.14, and judges under §2.7.1
 
 #### 2.11.7 Affirmative Duties of Public Defenders
 
@@ -2513,7 +2571,7 @@ A court that receives a public defender's notice of overwhelming caseload **shal
 - Order the contracting authority to fund additional counsel where existing counsel cannot be reallocated
 - **Not** hold the attorney in contempt, sanction the attorney, refer the attorney for professional discipline, or otherwise penalize the attorney for the refusal
 
-A court's refusal to accept a public defender's notice of overwhelming caseload, or a court's imposition of contempt or sanctions on an attorney for invoking this right, is itself a violation reachable under §2.7.1.4 (Judicial Duty to Apply Mandatory Rules and Correct Errors) and §2.10.2 (Constructive Denial of Counsel), and may be charged cumulatively under §1.8 (Obstruction) and §17.2 (Institutional Retaliation).
+A court's refusal to accept a public defender's notice of overwhelming caseload, or a court's imposition of contempt or sanctions on an attorney for invoking this right, is itself a violation reachable under §2.7.1.4 (Judicial Duty to Apply Mandatory Rules and Correct Errors) and §2.10.2 (Constructive Denial of Counsel), and may be charged cumulatively under §1.1.8 (Obstruction) and §17.2 (Institutional Retaliation).
 
 **State Liability for Caseload-Caused Ineffective Assistance:**
 
@@ -2522,11 +2580,11 @@ A court's refusal to accept a public defender's notice of overwhelming caseload,
 This liability includes, without limitation:
 
 - **§2.10.2 Constructive Denial of Counsel** — the structural offense already defined in this Act, charged against the officials who fund, administer, contract, assign, or adjudicate the defective system
-- **§1.3 Battery** — for unlawful deprivation of the citizen's Sixth Amendment right to counsel through direct administrative action
+- **§1.1.3 Battery** — for unlawful deprivation of the citizen's Sixth Amendment right to counsel through direct administrative action
 - **§17.20 Deliberate Budget Concealment** — where the funding decision was concealed, misrepresented, or carried out while the responsible actors knew the funding was insufficient to support constitutionally adequate representation
 - **§17.21 Preferential Contracting Abuse** — where the public-defense contract was awarded based on lowest bid, political favoritism, or similar non-merit grounds resulting in known underfunding
 - **§17.24B Executive Refusal to Correct Rights Violations** — where the responsible executive actor had notice of the systemic failure and failed to correct it
-- **§1.1.2 Entity-Level Liability** — the State, county, municipality, public-defense agency, or contracting body is liable as an entity, separately and additionally to the individual actors
+- **§1.1.1.2 Entity-Level Liability** — the State, county, municipality, public-defense agency, or contracting body is liable as an entity, separately and additionally to the individual actors
 - **§11 Forfeiture** — applies to individual actors found liable
 - Civil cause of action under **§10**, with no statute of limitations under §10.3
 
@@ -2550,6 +2608,48 @@ The State of Utah, by adopting this Act, accepts that an attorney who is overwor
 
 This subsection shall be construed broadly in favor of the citizen's right to effective assistance of counsel and broadly in favor of the public defender's right and duty to refuse work that would deny that effective assistance to existing or prospective clients. The citizen, the attorney, and the constitutional system all bear the cost when the State assigns workloads beyond human capacity; this Act places that cost back on the State, where it belongs.
 
+#### 2.11.9 Parity of Arms — Equal Resourcing of Defense and Prosecution
+
+> The defense and the prosecution in any criminal proceeding must be **equivalently resourced**. The State of Utah may not provide the prosecution with more attorneys, more investigators, more expert witnesses, more forensic-testing capacity, more time, more funding, more institutional support, or any other material resource advantage in a case while providing the defense with less. Where the State so prosecutes, the State has not afforded effective assistance of counsel within the meaning of this Act.
+
+**Statement of Principle:**
+
+The adversarial system rests on the assumption that two equivalently equipped sides can test the truth between them. When one side is resourced by the State at a level the other cannot match, the contest is no longer a search for truth — it becomes a foregone conclusion the State has paid for. A trial in which the prosecution operates with a team of attorneys, investigators, and experts while the defense is a single overworked attorney with no investigator, no expert, and no time is not an adversarial proceeding. It is a procedural ritual ending in conviction.
+
+**Parity Requirements:**
+
+In every criminal proceeding within the scope of this Act, the State shall ensure, through funding, contracting, assignment, and administration:
+
+- **Equal numbers of attorneys** — the defense team shall include at least as many attorneys assigned to the case as the prosecution team
+- **Equal investigative resources** — the defense shall have access to investigators of equivalent number, training, and capacity to those available to the prosecution
+- **Equal expert-witness access** — the defense shall have funding sufficient to retain expert witnesses of comparable expertise to those the prosecution intends to call
+- **Equal forensic capacity** — the defense shall have equivalent access to laboratory testing, independent re-testing, and independent forensic review of any evidence the prosecution intends to introduce
+- **Equal preparation time** — neither side shall have a scheduling advantage; continuances, extensions, and time allocations available to the prosecution shall be equally available to the defense
+- **Equal discovery, review, and administrative capacity** — the defense shall have paralegal, e-discovery, document-review, and clerical capacity comparable to that available to the prosecution
+- **Equal funding** — the per-case funding for the defense shall be no less than the per-case funding for the prosecution, and the aggregate funding for public defense within a jurisdiction shall be no less than the aggregate funding for prosecution within that jurisdiction
+
+**Determination of Parity:**
+
+Parity is determined by a reasonable comparison of the resources actually available to the prosecution and the defense in the specific case, supported by documentary evidence of staffing, funding, time allocation, and access. A defendant or defender who alleges lack of parity may file a notice with the court requiring the State to disclose, on the record, the prosecution-side resources committed to the case — including attorney hours, investigator hours, expert retainers, forensic-testing budget, and administrative support. Refusal to disclose is itself reachable under §17.9 (Failure of Transparency) and §1.1.8 (Obstruction).
+
+**Consequence of Non-Parity:**
+
+- A criminal proceeding conducted without parity is presumptively a **constructive denial of counsel** under §2.10.2, and produces **ineffective assistance of counsel** within the meaning of §1.1.17, without need to show outcome-determinative prejudice
+- Any conviction resulting from a non-parity proceeding is **presumptively subject to vacatur** on direct or collateral review
+- The State, the prosecuting office, and the responsible budgeting / contracting / administering officials are personally and institutionally liable under §2.10.2 (Constructive Denial of Counsel), §2.11.8 (State Liability for Caseload-Caused Ineffective Assistance), §17.20 (Deliberate Budget Concealment), §17.21 (Preferential Contracting Abuse), and §17.24B (Executive Refusal to Correct Rights Violations), where the elements are met
+- Citizens may seek civil remedy under Section 10 and Citizen Council action under Section 9
+
+**Defenses Limited:**
+
+- "Other states do it this way" is not a defense
+- "The defense did not request parity" is not a defense; the State's duty under this subsection is **affirmative**, not waiver-conditioned
+- "Resource constraints" is not a defense; if the State cannot fund parity at the current charging volume, the State must reduce charging volume, reallocate funds, or accept the dismissal of cases that cannot be lawfully prosecuted on parity terms
+- The fact that the defense is provided by a private retained attorney does not relieve the State of the parity duty where State action is the source of the imbalance (e.g., where prosecution-side discovery, expert access, or institutional resources are denied to the defense)
+
+**Construction:**
+
+This subsection shall be construed broadly in favor of the citizen's right to an equivalently resourced defense. The adversarial system does not function — and is not adversarial — where one side is structurally outgunned by the State that prosecutes them. Parity is the floor on which effective assistance of counsel rests; without it, every other due-process protection in this Act is at risk of becoming procedural decoration over a foregone outcome.
+
 ### 2.12 Shared Offenses for Attorneys in the Criminal Process
 
 The offenses of this subsection apply to both prosecutors and public defenders, and to any other attorney participating in a public criminal proceeding under public appointment, public contract, or delegated state authority. They reach conduct in which an attorney's participation in the public criminal process itself becomes a violation of due process.
@@ -2569,7 +2669,7 @@ The offenses of this subsection apply to both prosecutors and public defenders, 
 
 - **Class 2 felony**
 - Where the collusion contributes to wrongful conviction, prolonged incarceration, family separation, capital sentence, or suicide, the offense is a **capital offense**
-- May be charged cumulatively as conspiracy under §1.1.1 and under §1.6 (Cabalism) or §1.7 (Government Racketeering)
+- May be charged cumulatively as conspiracy under §1.1.1.1 and under §1.1.6 (Cabalism) or §1.1.7 (Government Racketeering)
 
 #### 2.12.2 Public Rights Deception
 
@@ -2587,7 +2687,7 @@ The offenses of this subsection apply to both prosecutors and public defenders, 
 
 - **Class 2 felony**
 - Where the deception produces a plea, waiver, conviction, family separation, or other material deprivation of rights, the offense is a **capital offense**
-- May be charged cumulatively under §2.6.2.4 (False Representation to the Court), §2.6.2.6 (Coercive Plea Bargaining), §2.11.3 (Coercive Plea Pressure by Public Defender), and §1.13 (Official Intimidation)
+- May be charged cumulatively under §2.6.2.4 (False Representation to the Court), §2.6.2.6 (Coercive Plea Bargaining), §2.11.3 (Coercive Plea Pressure by Public Defender), and §1.1.13 (Official Intimidation)
 
 #### 2.12.3 Knowing Participation in Unlawful Detention
 
@@ -2603,7 +2703,7 @@ The offenses of this subsection apply to both prosecutors and public defenders, 
 
 - **Class 2 felony**
 - Where the unlawful detention causes prolonged incarceration, family separation, medical crisis, suicide, or death in custody, the offense is a **capital offense**, and Section 12 applies where the elements are met
-- May be charged cumulatively under §1.3 (Battery), §2.6.2.1 (Charging Without Probable Cause), and §2.8.6 (Sheriff Custody and Release Obstruction)
+- May be charged cumulatively under §1.1.3 (Battery), §2.6.2.1 (Charging Without Probable Cause), and §2.8.6 (Sheriff Custody and Release Obstruction)
 
 #### 2.10.7 Guardianship Rights Plunder
 
@@ -2812,7 +2912,7 @@ This subsection specifically abrogates, within the scope of this title and withi
 - **Imbler v. Pachtman, 424 U.S. 409 (1976)** — establishing absolute civil immunity for prosecutors acting within their "advocate" function, even where the prosecutor allegedly knowingly used perjured testimony to obtain a conviction
 - The line of cases applying *Imbler* to expand prosecutorial immunity to selective prosecution decisions, charging decisions, and grand jury presentations
 
-This doctrine is abrogated within the scope of this title. A prosecutor who commits a violation under this Act — including but not limited to **selective non-prosecution under §1.8**, **fabrication or knowing use of false evidence** under §1.3 (Battery), or **obstruction** of a Citizen Council under §9.9 — is **personally liable, civilly and criminally**, without regard to whether the conduct fell within the "advocate" role.
+This doctrine is abrogated within the scope of this title. A prosecutor who commits a violation under this Act — including but not limited to **selective non-prosecution under §1.1.8**, **fabrication or knowing use of false evidence** under §1.1.3 (Battery), or **obstruction** of a Citizen Council under §9.9 — is **personally liable, civilly and criminally**, without regard to whether the conduct fell within the "advocate" role.
 
 **Qualified Immunity** — the doctrine that government actors are immune from civil liability for constitutional violations unless those rights were "clearly established at the time of the conduct" — as developed in:
 
@@ -2830,7 +2930,7 @@ This doctrine is abrogated within the scope of this title. A prosecutor who comm
 - Governmental-function immunity
 - Discretionary-function immunity
 
-> The State of Utah, by adopting this Act, **expressly waives sovereign immunity** for any claim arising under this title. Sovereign and governmental immunity shall not bar civil suit against the State, its political subdivisions, its agencies, or any government actor under this title (consistent with Section 1.1.2 on Entity-Level Government Actors).
+> The State of Utah, by adopting this Act, **expressly waives sovereign immunity** for any claim arising under this title. Sovereign and governmental immunity shall not bar civil suit against the State, its political subdivisions, its agencies, or any government actor under this title (consistent with Section 1.1.1.2 on Entity-Level Government Actors).
 
 **Legislative and Executive Immunity** — the doctrines that legislators are immune for acts in the legislative sphere and that executive officials enjoy varying degrees of immunity for official acts — including the Speech or Debate Clause analogues at the state level — are abrogated within the scope of this title for conduct meeting the elements of any offense defined herein.
 
@@ -2851,7 +2951,7 @@ The asymmetry the existing immunity doctrines create — where a judge can steri
 
 The conduct of a government actor while acting under color of authority is the conduct of the state, and is therefore subject to the limitations imposed upon the state itself. Accordingly:
 
-- **Personal speech rights** do not insulate official utterances that coerce, intimidate, or direct a citizen to surrender lawful conduct (see Section 1.4)
+- **Personal speech rights** do not insulate official utterances that coerce, intimidate, or direct a citizen to surrender lawful conduct (see Section 1.1.4)
 - **Personal expressive rights** do not shield smirks, gestures, or other expressive conduct used as an instrument of authority
 - **Personal opinion or "off-duty mindset"** is not a defense where the actor was, by reasonable appearance, acting in or invoking their official capacity
 - The actor's status as a private rights-holder is **suspended for the duration and within the scope of the official act**
@@ -2932,7 +3032,7 @@ Penalty enhancements under this section may be supported by statement evidence a
 ### 9.2 Composition
 
 - A Council acting under this title shall consist of **twelve (12) or more citizens** of the jurisdiction in which the alleged conduct occurred
-- A Council member shall **not** be a government actor as defined in Section 1.1
+- A Council member shall **not** be a government actor as defined in Section 1.1.1
 - A Council member shall **not** be a current employee or contractor of any office whose conduct is the subject of the Council's deliberations, nor a former employee or contractor of any such office within the preceding five (5) years
 - A Council member shall **not** be a spouse, immediate family member, or financial dependent of any government actor whose conduct is the subject of the Council's deliberations
 
@@ -3082,7 +3182,7 @@ If the Declaration satisfies that standard, the judge shall approve the Declarat
 > Any government actor who interferes with a Citizen Council investigation, vote, Declaration of Prosecution, Declaration of Production of Records, Declaration of Warrant, or Declaration of Arrest in violation of this section commits a **Class 2 felony** under this title.
 
 - The penalty enhancements of Section 5.6 apply to interference under this section
-- Multiple acts of interference, or interference by multiple actors in concert, shall be aggregated and may be charged as a conspiracy under Section 1.1.1
+- Multiple acts of interference, or interference by multiple actors in concert, shall be aggregated and may be charged as a conspiracy under Section 1.1.1.1
 - A judicial officer who issues an order in violation of this section is **personally liable** under this title; the doctrine of judicial immunity shall not apply, consistent with Section 5.1
 
 ### 9.10 Investigation of Any Crime Committed by a Government Actor (Whether in Official or Private Capacity)
@@ -3225,7 +3325,7 @@ This subsection applies to every inmate of every facility, including:
 
 **Construction:**
 
-This subsection shall be construed broadly in favor of inmate access and inmate Council activity, consistent with Section 1.5.2. Any ambiguity as to whether a particular communication, activity, or material falls within the protections of this subsection shall be resolved **in favor of the inmate**.
+This subsection shall be construed broadly in favor of inmate access and inmate Council activity, consistent with Section 1.1.5.2. Any ambiguity as to whether a particular communication, activity, or material falls within the protections of this subsection shall be resolved **in favor of the inmate**.
 
 ### 9.13 Minimum Age Requirement
 
@@ -3302,9 +3402,9 @@ The reviewing judge **may not** decline review or refuse to nullify on the follo
 
 A judge who refuses, delays, or refuses to engage in good faith with a Joint Declaration of Logical Consistency Review commits one or more of the following offenses under this title:
 
-- **Anarchy (§1.10)** — refusing to apply a clearly required legal standard while invoking judicial authority is conduct without lawful basis
+- **Anarchy (§1.1.10)** — refusing to apply a clearly required legal standard while invoking judicial authority is conduct without lawful basis
 - **Reckless prosecution (§2.5.2)** — failing to perform the review duty owed to citizens
-- **Obstruction (§1.8)** — where the refusal is motivated by the title or affiliation of those who benefit from the inconsistent law
+- **Obstruction (§1.1.8)** — where the refusal is motivated by the title or affiliation of those who benefit from the inconsistent law
 
 The doctrine of judicial immunity does not apply, consistent with Section 5.1.
 
@@ -3319,7 +3419,7 @@ A unanimous Council of eighteen (18) or more citizens may, by Joint Declaration 
 - **Nullify** the conviction — the conviction is set aside with the legal effect of acquittal; the convicted person is restored to the status of one not convicted
 - **Reduce** the conviction — by class, sentence, fine, or other terms
 - **Spare** the convicted person from a sentence of **death** in capital cases
-- **Extend public forgiveness** to the convicted person — operating as a public restoration of standing, restoration of civil and political rights (including the right to vote, the right to keep and bear arms under Section 1.5, and any other rights forfeited by reason of the conviction), and a bar to use of the conviction for collateral consequences
+- **Extend public forgiveness** to the convicted person — operating as a public restoration of standing, restoration of civil and political rights (including the right to vote, the right to keep and bear arms under Section 1.1.5, and any other rights forfeited by reason of the conviction), and a bar to use of the conviction for collateral consequences
 
 **Composition:**
 
@@ -3352,15 +3452,15 @@ A unanimous Council of eighteen (18) or more citizens may, by Joint Declaration 
 
 A judge or executive official who refuses to give effect to a unanimous 18-member Joint Declaration of Conviction Review commits:
 
-- **Anarchy (§1.10)** — for refusing to apply the legal standard set by this Act while invoking official authority
+- **Anarchy (§1.1.10)** — for refusing to apply the legal standard set by this Act while invoking official authority
 - **Reckless prosecution (§2.5.2)** — for the harm imposed on a citizen who would otherwise have been freed, restored, or spared
-- **Obstruction (§1.8)** — where refusal is motivated by the convicted person's status, the system's institutional interests, or political considerations
+- **Obstruction (§1.1.8)** — where refusal is motivated by the convicted person's status, the system's institutional interests, or political considerations
 
 The doctrine of judicial immunity does not apply, consistent with Section 5.1.
 
 **Construction:**
 
-> The Conviction Review power exists to provide a citizen-driven remedy where the criminal-justice system has failed an individual. It is not a substitute for ordinary appellate review; it is a parallel safeguard for cases the ordinary system has not corrected. It shall be construed broadly in favor of the convicted person, consistent with Section 1.5.2.
+> The Conviction Review power exists to provide a citizen-driven remedy where the criminal-justice system has failed an individual. It is not a substitute for ordinary appellate review; it is a parallel safeguard for cases the ordinary system has not corrected. It shall be construed broadly in favor of the convicted person, consistent with Section 1.1.5.2.
 
 ---
 
@@ -3482,8 +3582,8 @@ This includes, without limitation, provisions of this Act that:
 - Eliminate qualified, judicial, or sovereign immunity for criminal violations under this title (Section 5.1)
 - Override existing rules of jury procedure, deliberation, and verdict (Sections 4.1.2 and 2.1.1)
 - Create new offenses (Sections 1.2, 1.3, 1.4, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11)
-- Subject government bodies and entities to liability (Section 1.1.2)
-- Restrict foreign-funded lobbying (Section 1.11)
+- Subject government bodies and entities to liability (Section 1.1.1.2)
+- Restrict foreign-funded lobbying (Section 1.1.11)
 - Amend or supplement the rights, protections, and procedures otherwise guaranteed by the Utah Constitution
 
 To the extent that adoption of this Act requires submission to the citizens of Utah for ratification under **Article XXIII** of the Utah Constitution or other applicable amendment procedures, this Act shall be so submitted. Upon ratification by the citizens, this Act shall stand as a **constitutional amendment of equal force** with all other provisions of the Utah Constitution.
@@ -3498,7 +3598,7 @@ To the extent that adoption of this Act requires submission to the citizens of U
 - **(d)** **Reduces the powers of the Citizen Council mechanism** (Section 9), including its investigative authority, the indictment-effect filing under Section 9.11, the Council Declaration powers under Section 9.8, or the inmate provisions of Section 9.12
 - **(e)** **Restores any statute of limitations** on civil or criminal actions under this title (contrary to Section 10.3)
 - **(f)** Limits the scope of **forfeiture** under Section 11 or restores any form of indemnification of individual actors from entity funds
-- **(g)** Diminishes any of the **substantive protections of Section 1.5** (Protected Rights)
+- **(g)** Diminishes any of the **substantive protections of Section 1.1.5** (Protected Rights)
 - **(h)** Removes the **age-14 minimum** for Council participation in a manner that disenfranchises young citizens, or otherwise narrows participation in the Citizen Council mechanism
 - **(i)** Otherwise tilts the balance of legal access, cost, procedural complexity, or institutional power **against the common citizen and in favor of those who hold money, power, status, or institutional position**
 
@@ -3524,7 +3624,7 @@ This Act **may** be amended in any manner that:
 - A citizen need not show personal injury beyond their **status as a citizen of Utah** subject to the Act
 - The cost-shifting and access provisions of this Act apply to such challenges; a citizen pursuing a challenge under this section shall not be required to post bond, advance fees, or bear costs that would deter the bringing of the challenge
 - A finding that an amendment, alteration, repeal, or interpretation violates Section 15.2 shall result in the **invalidation** of that change, with retroactive effect to the date of the offending change
-- A government actor who advances, sponsors, drafts, votes for, or implements an adverse amendment in violation of this section may be liable under **Section 1.7 (Government Racketeering)**, **Section 1.9 (Treason)** where the elements of constitutional warfare or financial warfare are met, or **Section 1.10 (Anarchy)** where the elements of acting outside the law are met
+- A government actor who advances, sponsors, drafts, votes for, or implements an adverse amendment in violation of this section may be liable under **Section 1.1.7 (Government Racketeering)**, **Section 1.1.9 (Treason)** where the elements of constitutional warfare or financial warfare are met, or **Section 1.1.10 (Anarchy)** where the elements of acting outside the law are met
 
 ### 15.5 Citizen Council Authority over Adverse Amendments
 
@@ -3556,13 +3656,13 @@ The U.S. Supreme Court has repeatedly recognized that state law may provide **mo
 
 Such conduct may be charged, depending on the elements established, as one or more of the following offenses under this title:
 
-- **§1.10 Anarchy** — acting completely outside the law where no actual preemption exists (the judge invokes federal authority but lacks any statutory or constitutional basis for the nullification)
+- **§1.1.10 Anarchy** — acting completely outside the law where no actual preemption exists (the judge invokes federal authority but lacks any statutory or constitutional basis for the nullification)
 - **§2.5.2 Reckless Prosecution** — issuing a ruling without engaging on the merits or providing reasoning sufficient to identify the supposedly preemptive federal provision
 - **§2.7.1.2 Judicial Duty to Engage on the Merits** — failing to engage with the substance of the Act and the actual federal-state legal framework
 - **§2.7.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — failing to apply the constitutional principles that distinguish actual preemption from a state's grant of greater protection
-- **§1.6 Cabalism** — where the improper nullification is the result of small-group coordination of judicial actors producing unjust outcomes for Utah citizens
-- **§1.7 Government Racketeering** — where the nullification is part of a coordinated pattern or scheme using federal judicial authority to extract benefit, punish, or coerce citizens
-- **§1.9 Treason** — where the improper nullification rises to **constitutional warfare** under §1.9: a sustained or coordinated attempt to subvert the Utah Constitution and the protection of Utah citizens by an actor sworn to uphold both that Constitution and the U.S. Constitution
+- **§1.1.6 Cabalism** — where the improper nullification is the result of small-group coordination of judicial actors producing unjust outcomes for Utah citizens
+- **§1.1.7 Government Racketeering** — where the nullification is part of a coordinated pattern or scheme using federal judicial authority to extract benefit, punish, or coerce citizens
+- **§1.1.9 Treason** — where the improper nullification rises to **constitutional warfare** under §1.1.9: a sustained or coordinated attempt to subvert the Utah Constitution and the protection of Utah citizens by an actor sworn to uphold both that Constitution and the U.S. Constitution
 
 **No Judicial Immunity for Improper Nullification:**
 
@@ -3579,7 +3679,7 @@ A Citizen Council under Section 9 may investigate and issue a Joint Declaration 
 Specifically, a Citizen Council may, for the same course of conduct, file:
 
 - **(a)** A **Joint Declaration of Prosecution** with the **United States Attorney** for the district, for presentation to a **federal grand jury**, addressing any applicable federal offense (e.g., 18 U.S.C. §§ 241–242, deprivation of rights under color of law); **and concurrently**
-- **(b)** A **Joint Declaration of Prosecution** with the **Utah County Prosecutor's Office** or, where applicable, the **Office of the Governor** under Section 9.5, addressing the federal judge's violations of the substantive offenses of this Act (Anarchy under §1.10, Cabalism under §1.6, Government Racketeering under §1.7, Treason under §1.9, the Judicial Duty offenses of §§2.7.1.1–2.3.1.4, etc., as the elements may be established)
+- **(b)** A **Joint Declaration of Prosecution** with the **Utah County Prosecutor's Office** or, where applicable, the **Office of the Governor** under Section 9.5, addressing the federal judge's violations of the substantive offenses of this Act (Anarchy under §1.1.10, Cabalism under §1.1.6, Government Racketeering under §1.1.7, Treason under §1.1.9, the Judicial Duty offenses of §§2.7.1.1–2.3.1.4, etc., as the elements may be established)
 
 Both filings may proceed **simultaneously and independently**. Disposition or declination at either level shall **not** bar prosecution at the other (consistent with the concurrent-jurisdiction principle of Section 9.10). Conviction or acquittal under one shall **not** preclude prosecution under the other for the same conduct, where each prosecution rests on a distinct sovereign's law.
 
@@ -3646,7 +3746,7 @@ For purposes of this Section:
 
 **Repugnancy** means a contradiction, conflict, incompatibility, or irreconcilable inconsistency between a government instrument and a higher controlling authority, including this Act, the Utah Constitution, the Constitution of the United States, protected rights, due process, or objective legal reality. A repugnant instrument is void because the government may not create enforceable authority from an instrument that contradicts the authority on which it depends.
 
-**Logical inconsistency** means the absence of logical consistency as defined in Section 1.1.10. A logical inconsistency exists where a government instrument, explanation, enforcement theory, or official defense depends on contradiction, double standard, false premise, circular reasoning, hidden exception, selective application, or treating the same fact as true for government advantage and false for citizen protection.
+**Logical inconsistency** means the absence of logical consistency as defined in Section 1.1.1.10. A logical inconsistency exists where a government instrument, explanation, enforcement theory, or official defense depends on contradiction, double standard, false premise, circular reasoning, hidden exception, selective application, or treating the same fact as true for government advantage and false for citizen protection.
 
 **Logical consistency** means that the instrument, facts, law, enforcement theory, and remedy fit together without contradiction. A government actor may not make enforcement lawful merely by giving an official name to an inconsistent act.
 
@@ -3695,7 +3795,7 @@ Under this Act, a Citizen Council may examine whether enforcement of a motor-veh
 - If the non-insurance alternatives exist only for citizens with substantial money, credit, assets, institutional access, or legal sophistication, the government may not pretend those alternatives make the mandate voluntary for poor, working, disabled, rural, young, elderly, or otherwise financially limited citizens
 - If every statutory option is a contract, a contract-like undertaking, a property pledge, a credit arrangement, a reserve requirement, or a policy-based financial obligation, the Council shall treat the scheme as a compelled financial-obligation scheme rather than a free choice
 - A financial-responsibility scheme must be examined from the position of the least financially powerful citizen who still needs ordinary transportation to work, court, school, medical care, food, family, worship, civic activity, or lawful daily life
-- The right to move from place to place on public roads may not be conditioned on a financial barrier so high that the poor are effectively priced out of ordinary movement, livelihood, or participation in civil society. A right to interstate travel without ordinary access to the roads, routes, and practical means of travel is not a right in any meaningful sense; it is a privilege reserved for those who can afford government-approved access. This principle is supported by Section 1.5.3 and by the travel and wealth-barrier authorities listed at **L.28** through **L.33**
+- The right to move from place to place on public roads may not be conditioned on a financial barrier so high that the poor are effectively priced out of ordinary movement, livelihood, or participation in civil society. A right to interstate travel without ordinary access to the roads, routes, and practical means of travel is not a right in any meaningful sense; it is a privilege reserved for those who can afford government-approved access. This principle is supported by Section 1.1.5.3 and by the travel and wealth-barrier authorities listed at **L.28** through **L.33**
 - If a government actor treats failure to purchase an insurance contract from a private insurer as the crime, while ignoring lawful non-contract alternatives, the enforcement theory is logically inconsistent with the statute
 - If the state imposes criminal punishment solely because a citizen refuses to enter a private insurance contract, that application is repugnant to the protected liberty of contract and the corresponding liberty not to contract
 - If the state claims it has identified a lawful, non-contract financial-responsibility alternative, the Council must examine whether that alternative is truly non-contractual, actually accessible to low-income citizens, and practically available without wealth, credit, large deposits, institutional status, or specialized legal assistance
@@ -3735,15 +3835,15 @@ A government actor's good-faith reliance on the apparent existence or facial val
 
 Such conduct may be charged, depending on the elements established, as one or more of:
 
-- **§1.10 Anarchy** — acting completely outside the law in issuing or enforcing the repugnant instrument
+- **§1.1.10 Anarchy** — acting completely outside the law in issuing or enforcing the repugnant instrument
 - **§2.7.1.2 Judicial Duty to Engage on the Merits** — where the instrument is a judicial judgment, order, or warrant issued without the engagement required by this Act
 - **§2.7.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — where the issuing or enforcing actor failed to apply the constitutional principles that render the instrument null
-- **§1.6 Cabalism** — where the issuance or enforcement is part of small-group coordination producing unjust outcomes for citizens
-- **§1.7 Government Racketeering** — where part of a pattern or scheme using authority to extract benefit, punish, or coerce
-- **§1.9 Treason** — where the issuance or enforcement constitutes constitutional warfare against Utah citizens, the Utah Constitution, or the U.S. Constitution
-- **§1.8 Obstruction of Justice** — where the issuance or enforcement is motivated by the protected status of any beneficiary
-- **§1.12 Terrorism** or **§1.13 Official Intimidation** — where the instrument is used to threaten or coerce a citizen's wellbeing
-- **§1.3 Battery** — where enforcement actually deprives the citizen of rights, liberty, or property
+- **§1.1.6 Cabalism** — where the issuance or enforcement is part of small-group coordination producing unjust outcomes for citizens
+- **§1.1.7 Government Racketeering** — where part of a pattern or scheme using authority to extract benefit, punish, or coerce
+- **§1.1.9 Treason** — where the issuance or enforcement constitutes constitutional warfare against Utah citizens, the Utah Constitution, or the U.S. Constitution
+- **§1.1.8 Obstruction of Justice** — where the issuance or enforcement is motivated by the protected status of any beneficiary
+- **§1.1.12 Terrorism** or **§1.1.13 Official Intimidation** — where the instrument is used to threaten or coerce a citizen's wellbeing
+- **§1.1.3 Battery** — where enforcement actually deprives the citizen of rights, liberty, or property
 
 The doctrine of judicial, prosecutorial, qualified, or sovereign immunity does **not** apply (consistent with §5.1.1).
 
@@ -3755,7 +3855,7 @@ A determination that a government instrument is repugnant under this Section may
 - **A Citizen Council under Section 9.14 (Logical Consistency Review)** by unanimous vote of twelve (12) or more members
 - **A Citizen Council under any other applicable provision of Section 9** in the course of investigating or charging conduct under this title
 
-A determination by any of the above is **binding within the State of Utah** and shall be given effect by all government actors immediately and without delay. Failure to give effect to such a determination is itself reachable conduct under §1.10 (Anarchy), §2.7.1.4 (Judicial Duty to Apply Mandatory Rules), or §1.8 (Obstruction).
+A determination by any of the above is **binding within the State of Utah** and shall be given effect by all government actors immediately and without delay. Failure to give effect to such a determination is itself reachable conduct under §1.1.10 (Anarchy), §2.7.1.4 (Judicial Duty to Apply Mandatory Rules), or §1.1.8 (Obstruction).
 
 ### 16.5 Standard for Repugnance
 
@@ -3763,7 +3863,7 @@ A government instrument is **repugnant** for purposes of this Section where:
 
 - It directly **contradicts** a provision of this Act, the Utah Constitution, or the U.S. Constitution;
 - Its enforcement would require a citizen to **surrender or violate a right** protected by any of the foregoing;
-- It rests on **authority that does not exist**, or that has been removed or limited by this Act, the Utah Constitution, or the U.S. Constitution (compare §1.10 Anarchy);
+- It rests on **authority that does not exist**, or that has been removed or limited by this Act, the Utah Constitution, or the U.S. Constitution (compare §1.1.10 Anarchy);
 - It exists as a **workaround or evasion** of any provision of this Act; or
 - Compliance with it would **itself constitute a violation** of this Act.
 
@@ -3784,7 +3884,7 @@ The full Council powers and protections of Section 9 — including no-judicial-g
 This Section shall be construed:
 
 - **Broadly in favor of nullity** where any genuine conflict exists between a government instrument and the cited authorities
-- **Against** government instruments that purport to compel surrender of rights protected under §1.5
+- **Against** government instruments that purport to compel surrender of rights protected under §1.1.5
 - Consistent with the binding rules of construction in the Statement of Intent
 - In recognition that the principle that **"a law repugnant to the Constitution is void"** is a foundational principle of American constitutional law established in **Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)** — and that this Section codifies and operationalizes that principle for **all** government instruments, not statutes alone
 
@@ -3792,7 +3892,7 @@ This Section shall be construed:
 
 ## Section 17 — Role-Specific Public Official Offenses
 
-This Section catalogues additional offenses applicable to government actors by role — general public officials, police and sheriffs, judicial officers, clerks and records custodians, legislative and regulatory officials, executive officials, local governing bodies, and federal representatives or federal-office actors whose conduct harms Utah citizens. It **supplements** Section 1 and does not displace any offense already defined therein. Where a substantive offense in this Section overlaps with an offense already defined elsewhere in this Act, the prosecuting office may charge under either or both, **cumulatively**, consistent with §1.1.1 and the Statement of Intent's binding rules of construction.
+This Section catalogues additional offenses applicable to government actors by role — general public officials, police and sheriffs, judicial officers, clerks and records custodians, legislative and regulatory officials, executive officials, local governing bodies, and federal representatives or federal-office actors whose conduct harms Utah citizens. It **supplements** Section 1 and does not displace any offense already defined therein. Where a substantive offense in this Section overlaps with an offense already defined elsewhere in this Act, the prosecuting office may charge under either or both, **cumulatively**, consistent with §1.1.1.1 and the Statement of Intent's binding rules of construction.
 
 The criminal and civil mens rea framework of **Section 3** governs each offense in this Section. The penalty enhancements of **Section 5.6** apply in full. The Citizen Council activation, investigation, and prosecution mechanisms of **Section 9** apply without modification. The no-immunity rule of **Section 5.1** applies to every offense in this Section.
 
@@ -3800,18 +3900,18 @@ The criminal and civil mens rea framework of **Section 3** governs each offense 
 
 | Concept | Defined At |
 |---|---|
-| Official Intimidation | §1.13 |
-| Color of Authority Assault | §1.2 (Assault — Government Context) |
-| Civil Rights Battery | §1.3 (Battery — Government Context) |
-| Selective Enforcement of Law | §1.8 (Obstruction of Justice — Selective Non-Prosecution) |
+| Official Intimidation | §1.1.13 |
+| Color of Authority Assault | §1.1.2 (Assault — Government Context) |
+| Civil Rights Battery | §1.1.3 (Battery — Government Context) |
+| Selective Enforcement of Law | §1.1.8 (Obstruction of Justice — Selective Non-Prosecution) |
 | Procedural Suppression | §2.6.1.1 (Disclose Adverse Evidence) + §2.7.1.2 (Engage on the Merits) |
-| Authority Abuse Under Color of Court | §1.7 (Government Racketeering) + §1.13 (Official Intimidation) |
+| Authority Abuse Under Color of Court | §1.1.7 (Government Racketeering) + §1.1.13 (Official Intimidation) |
 
 ---
 
 ### Subpart A — General Public Official Offenses
 
-The offenses of Subpart A apply to **all government actors** as defined in §1.1 — including, without limitation, police officers, judges, prosecutors, regulators, elected officials, city and county council members, public administrators, and government employees acting under public authority.
+The offenses of Subpart A apply to **all government actors** as defined in §1.1.1 — including, without limitation, police officers, judges, prosecutors, regulators, elected officials, city and county council members, public administrators, and government employees acting under public authority.
 
 ### 17.1 Civic Breach of Trust
 
@@ -3833,7 +3933,7 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 
 ### 17.2 Institutional Retaliation
 
-> A government actor commits **institutional retaliation** where the actor takes, directs, or facilitates adverse action against a citizen — directly, indirectly, formally, or informally — because of the citizen's status or conduct as a whistleblower, journalist, complainant, critic, political opponent, or person otherwise exercising a right protected under §1.5.
+> A government actor commits **institutional retaliation** where the actor takes, directs, or facilitates adverse action against a citizen — directly, indirectly, formally, or informally — because of the citizen's status or conduct as a whistleblower, journalist, complainant, critic, political opponent, or person otherwise exercising a right protected under §1.1.5.
 
 **Elements:**
 
@@ -3845,7 +3945,7 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 
 - **Class 2 felony** (capital offense where committed with malice or as part of a coordinated pattern)
 - Where the retaliation targets a Citizen Council member, declarant, or witness under Section 9, the offense is also reachable under §9.6, **cumulatively**
-- Where the retaliation is part of a pattern or coordinated by multiple actors, charge cumulatively under §1.6 (Cabalism), §1.7 (Government Racketeering), or §1.9 (Treason — procedural-warfare prong)
+- Where the retaliation is part of a pattern or coordinated by multiple actors, charge cumulatively under §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), or §1.1.9 (Treason — procedural-warfare prong)
 
 ### 17.2A Process-Stacking Retaliation
 
@@ -3871,7 +3971,7 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 - Process-stacking retaliation is a **Class 2 felony**
 - Where multiple agencies, offices, departments, courts, schools, contractors, or government actors participate, the offense is elevated to a **capital offense**
 - Where the conduct affects housing, employment, children, liberty, medical care, education, immigration status, professional licensing, safety, or access to court, the offense is elevated to a **capital offense**
-- Charge cumulatively under §17.2 (Institutional Retaliation), §1.13 (Official Intimidation), §1.12 (Terrorism), §1.6 (Cabalism), or §1.7 (Government Racketeering), where the elements are met
+- Charge cumulatively under §17.2 (Institutional Retaliation), §1.1.13 (Official Intimidation), §1.1.12 (Terrorism), §1.1.6 (Cabalism), or §1.1.7 (Government Racketeering), where the elements are met
 
 **Defenses Limited:**
 
@@ -3902,12 +4002,12 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 
 - Retaliatory charge fabrication is a **Class 2 felony**
 - Where the fabricated or retaliatory accusation is itself a felony, causes arrest, detention, incarceration, prosecution, conviction, probation or parole revocation, contempt, child removal, loss of employment, loss of housing, immigration consequence, or professional discipline, the offense is a **capital offense**
-- Where multiple government actors coordinate, approve, ratify, or knowingly rely on the fabricated or retaliatory charge, the offense is a **capital offense** and may be charged cumulatively as conspiracy under §1.1.1
+- Where multiple government actors coordinate, approve, ratify, or knowingly rely on the fabricated or retaliatory charge, the offense is a **capital offense** and may be charged cumulatively as conspiracy under §1.1.1.1
 - Where the conduct contributes to wrongful conviction, long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 5.6 apply
 
 **Cumulative Charging:**
 
-Conduct under this section may be charged cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.14 (Malicious Prosecution), §1.3 (Battery), §1.13 (Official Intimidation), §1.6 (Cabalism), or §1.7 (Government Racketeering), where the elements are met.
+Conduct under this section may be charged cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.1.14 (Malicious Prosecution), §1.1.3 (Battery), §1.1.13 (Official Intimidation), §1.1.6 (Cabalism), or §1.1.7 (Government Racketeering), where the elements are met.
 
 **Defenses Limited:**
 
@@ -3923,13 +4023,13 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 
 - The actor is a government actor
 - The conduct was performed under color of authority
-- The actor acted with reckless disregard (per §3.2) toward a right protected under §1.5
+- The actor acted with reckless disregard (per §3.2) toward a right protected under §1.1.5
 - The conduct created a substantial and unjustifiable risk of rights deprivation
 
 **Classification:**
 
 - **Class 3 felony** by default
-- Where actual deprivation results, charge cumulatively under §1.3 (Battery)
+- Where actual deprivation results, charge cumulatively under §1.1.3 (Battery)
 - Penalty enhancements under Section 5.6 apply
 
 ### 17.4 Deliberate Record Distortion
@@ -3983,7 +4083,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 - Forensic truth corruption is a **Class 2 felony**
 - Where the corrupted forensic evidence contributes to plea, incarceration, conviction, sex-offender registration, family separation, professional discipline, immigration consequence, or capital exposure, the offense is a **capital offense**
 - Where death, capital sentence, death in custody, or suicide results, Section 11 applies
-- Charge cumulatively under §17.4, §17.4A, §2.6.1.1, §1.14, and §9.15 where applicable
+- Charge cumulatively under §17.4, §17.4A, §2.6.1.1, §1.1.14, and §9.15 where applicable
 
 ### 17.4C Wrongful-Conviction Chain Liability
 
@@ -3997,7 +4097,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 
 - The classification mirrors the deprivation caused, with a **Class 2 felony floor** where incarceration, conviction, plea coercion, or loss of liberty results
 - Where the conduct contributes to long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 5.6 apply
-- This section is cumulative to §2.5.3, §2.6.1.1, §2.6.1.2, §1.14, §17.4, §17.4A, and §17.4B
+- This section is cumulative to §2.5.3, §2.6.1.1, §2.6.1.2, §1.1.14, §17.4, §17.4A, and §17.4B
 
 ### 17.5 Gross Dereliction of Public Duty
 
@@ -4074,7 +4174,7 @@ For purposes of this section, **incompetence** means a present inability, unfitn
 
 - **Class 2 felony**
 - **Capital offense** where the false statement affected an emergency response, an election, a criminal prosecution, or a financial obligation falling on citizens
-- Where part of a coordinated pattern, charge cumulatively under §1.6 (Cabalism) or §1.7 (Government Racketeering)
+- Where part of a coordinated pattern, charge cumulatively under §1.1.6 (Cabalism) or §1.1.7 (Government Racketeering)
 - Penalty enhancements under Section 5.6 apply
 
 ### 17.7 Oath Negligence
@@ -4135,7 +4235,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 
 - **Infraction** — administrative fine up to five thousand dollars ($5,000) per violation
 - **Class 1 misdemeanor** where the obstruction is intentional and sustained
-- **Class 3 felony** where the obstruction is part of a pattern, or designed to conceal misconduct otherwise reachable under this Act — and the underlying misconduct may be charged cumulatively under §1.8 (Obstruction) or §1.6 (Cabalism)
+- **Class 3 felony** where the obstruction is part of a pattern, or designed to conceal misconduct otherwise reachable under this Act — and the underlying misconduct may be charged cumulatively under §1.1.8 (Obstruction) or §1.1.6 (Cabalism)
 
 ### 17.9A Complaint Intake Refusal
 
@@ -4151,7 +4251,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 
 - Complaint intake refusal is a **Class 3 felony**
 - Where the refusal concerns force, custody, prosecution, judicial conduct, child removal, sexual misconduct, retaliation, corruption, or any violation of this Act, penalty enhancements under Section 5.6 apply
-- Where the refusal is part of a pattern or coordinated practice, charge cumulatively under §1.6 (Cabalism), §1.7 (Government Racketeering), or §17.9 (Failure of Transparency)
+- Where the refusal is part of a pattern or coordinated practice, charge cumulatively under §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), or §17.9 (Failure of Transparency)
 
 **Defenses Limited:**
 
@@ -4173,7 +4273,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 **Classification:**
 
 - Policy shield statement is a **Class 3 felony**
-- Where the statement is used to obtain consent, entry, waiver, payment, compliance, silence, surrender of property, or abandonment of a legal claim, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), or §2.9 (Constitutional Objection Obstruction)
+- Where the statement is used to obtain consent, entry, waiver, payment, compliance, silence, surrender of property, or abandonment of a legal claim, the conduct may be charged cumulatively under §1.1.2 (Assault), §1.1.3 (Battery), §1.1.13 (Official Intimidation), or §2.9 (Constitutional Objection Obstruction)
 
 **Defenses Limited:**
 
@@ -4213,7 +4313,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 
 **Cumulative Charging:**
 
-Conduct under this section may be charged cumulatively under §1.3 (Battery), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3 (Issuance and Enforcement of Repugnant Instruments), §2.9 (Constitutional Objection Obstruction), §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.9 (Failure of Transparency), or §17.23 (Regulatory Weaponization), where the elements are met.
+Conduct under this section may be charged cumulatively under §1.1.3 (Battery), §1.1.12 (Terrorism), §1.1.13 (Official Intimidation), §16.3 (Issuance and Enforcement of Repugnant Instruments), §2.9 (Constitutional Objection Obstruction), §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.9 (Failure of Transparency), or §17.23 (Regulatory Weaponization), where the elements are met.
 
 ### 17.9D Recording-Right Interference
 
@@ -4242,7 +4342,7 @@ The existence of an official transcript, official audio, official video, docket 
 - Threatening, detaining, citing, removing, excluding, restraining, blocking, seizing a device, searching a device, ordering deletion, stopping recording, or retaliating against recording is a **Class 3 felony**
 - Arrest, prosecution, fabricated charge, device destruction, data deletion, injury, use of force, contempt order, sanction, adverse ruling, custody consequence, or judicial order prohibiting citizen recording is a **Class 2 felony**
 - A judge, magistrate, or court actor who restricts citizen recording on the ground that only authorized, official, certified, or court-controlled recordings are permitted commits a **Class 2 felony**
-- Where the interference is part of a pattern, coordinated by multiple actors, or intended to conceal misconduct, charge cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.9 (Failure of Transparency), §1.6 (Cabalism), or §1.7 (Government Racketeering)
+- Where the interference is part of a pattern, coordinated by multiple actors, or intended to conceal misconduct, charge cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.9 (Failure of Transparency), §1.1.6 (Cabalism), or §1.1.7 (Government Racketeering)
 
 **Defenses Limited:**
 
@@ -4264,7 +4364,7 @@ The existence of an official transcript, official audio, official video, docket 
 
 - Revenue extraction under color of law is a **Class 3 felony**
 - Where inability to pay causes jail, license loss, job loss, housing loss, family separation, impoundment, cascading warrants, probation extension, or loss of benefits, the offense is a **Class 2 felony**
-- Where part of a pattern or budgeted scheme, charge cumulatively under §1.7 (Government Racketeering), §1.9 (Treason — financial-warfare prong), or §17.20 (Deliberate Budget Concealment)
+- Where part of a pattern or budgeted scheme, charge cumulatively under §1.1.7 (Government Racketeering), §1.1.9 (Treason — financial-warfare prong), or §17.20 (Deliberate Budget Concealment)
 
 ### 17.9F Property Punishment Without Conviction
 
@@ -4275,7 +4375,7 @@ The existence of an official transcript, official audio, official video, docket 
 - Property punishment without conviction is a **Class 3 felony**
 - Where the property is necessary for work, housing, family care, medical care, transport, disability access, communication, legal defense, or survival, the offense is a **Class 2 felony**
 - Where the taking causes loss of livelihood, homelessness, family separation, medical harm, or inability to defend a legal case, penalty enhancements under Section 5.6 apply
-- Charge cumulatively under §1.3 (Battery), §1.7 (Government Racketeering), §1.12 (Terrorism), §16.3, or §17.9E where the elements are met
+- Charge cumulatively under §1.1.3 (Battery), §1.1.7 (Government Racketeering), §1.1.12 (Terrorism), §16.3, or §17.9E where the elements are met
 
 ### 17.9G Protected-Speech Suppression Under Color of Law
 
@@ -4285,7 +4385,7 @@ The existence of an official transcript, official audio, official video, docket 
 
 - Protected-speech suppression is a **Class 3 felony**
 - Where arrest, prosecution, injury, device seizure, employment loss, school discipline, license loss, permit denial, or court sanction results, the offense is a **Class 2 felony**
-- Where the suppression is coordinated, repeated, or directed against a class of speakers, charge cumulatively under §17.2, §17.2A, §17.9D, §1.6, §1.7, or §1.9
+- Where the suppression is coordinated, repeated, or directed against a class of speakers, charge cumulatively under §17.2, §17.2A, §17.9D, §1.1.6, §1.1.7, or §1.1.9
 
 ### 17.9H Constructive Denial Under Color of Office
 
@@ -4296,7 +4396,7 @@ The existence of an official transcript, official audio, official video, docket 
 - Minor isolated constructive denial is a **Class 1 misdemeanor**
 - Where a protected right, livelihood, housing, family status, medical access, education, legal defense, benefits, licensing, or court access is affected, the offense is a **Class 3 felony**
 - Where done intentionally, discriminatorily, or in retaliation, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.2, §17.9, §17.9A, §2.10.1, or §1.13 where the elements are met
+- Charge cumulatively under §17.2, §17.9, §17.9A, §2.10.1, or §1.1.13 where the elements are met
 
 ### 17.9I Poverty-Based Family Separation
 
@@ -4306,7 +4406,7 @@ The existence of an official transcript, official audio, official video, docket 
 
 - Poverty-based family separation is a **Class 2 felony**
 - Where removal occurs without imminent danger, disability accommodation is denied, poverty is knowingly misrepresented as neglect, or reunification is conditioned on inaccessible services, the offense is a **capital offense**
-- Charge cumulatively under §1.3 (Battery), §1.12 (Terrorism), §17.2, §17.9H, §17.9J, or §17.9K where applicable
+- Charge cumulatively under §1.1.3 (Battery), §1.1.12 (Terrorism), §17.2, §17.9H, §17.9J, or §17.9K where applicable
 
 ### 17.9J Family-Rights Advisement Failure
 
@@ -4362,7 +4462,7 @@ The existence of an official transcript, official audio, official video, docket 
 **Classification:**
 
 - **Class 2 felony** (capital offense where committed with malice or as part of a pattern)
-- Where multiple officials participated, charge cumulatively as conspiracy under §1.1.1 and as Cabalism under §1.6 or Government Racketeering under §1.7
+- Where multiple officials participated, charge cumulatively as conspiracy under §1.1.1.1 and as Cabalism under §1.1.6 or Government Racketeering under §1.1.7
 
 ---
 
@@ -4378,7 +4478,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 
 - **Sexual badge coercion** — leveraging police authority to obtain sexual contact — is **per se** a **capital offense**, chargeable cumulatively under generally applicable sexual-assault and rape statutes; no immunity defense applies (per §5.1)
 - All other badge coercion: **Class 2 felony** by default, elevated per §3.4 / §3.5
-- Where a pattern exists, charge cumulatively under §1.7 (Government Racketeering) and §1.13 (Official Intimidation)
+- Where a pattern exists, charge cumulatively under §1.1.7 (Government Racketeering) and §1.1.13 (Official Intimidation)
 
 ### 17.12 Escalation Misconduct
 
@@ -4394,7 +4494,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 **Classification:**
 
 - **Class 3 felony** (Class 2 where injury or rights deprivation results)
-- Where escalation produces use of force, charge cumulatively under §17.15 and §1.3 (Battery) as applicable
+- Where escalation produces use of force, charge cumulatively under §17.15 and §1.1.3 (Battery) as applicable
 - Penalty enhancements under Section 5.6 apply, particularly the long-term-deprivation-of-rights, family-welfare-anxiety, and psychological-harm enhancements
 
 ### 17.13 Investigative Negligence
@@ -4420,16 +4520,16 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 
 > A peace officer commits **enforcement without articulable basis** where the officer detains, searches, cites, or threatens enforcement against a citizen without reasonably articulable legal grounds.
 
-**Distinction from §1.10 (Anarchy):**
+**Distinction from §1.1.10 (Anarchy):**
 
-- **§1.10 Anarchy** reaches conduct that has **no lawful basis whatsoever** — no statute, regulation, or constitutional authority authorizes it
+- **§1.1.10 Anarchy** reaches conduct that has **no lawful basis whatsoever** — no statute, regulation, or constitutional authority authorizes it
 - **This section** reaches conduct that purports to operate within a recognized legal framework but **lacks the articulable predicate** that the framework requires (e.g., reasonable suspicion, probable cause, or analogous standards)
 
 **Classification:**
 
 - **Class 3 felony** (Class 2 where conducted in reckless disregard of the citizen's clearly established rights, per §3.2)
 - Penalty enhancements under Section 5.6 apply
-- Where actual deprivation of rights results, charge cumulatively under §1.3 (Battery)
+- Where actual deprivation of rights results, charge cumulatively under §1.1.3 (Battery)
 
 ### 17.15 Reckless Force Deployment
 
@@ -4446,7 +4546,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 - **Class 2 felony**
 - **Capital offense** where serious bodily injury results
 - Where death results: chargeable as homicide under generally applicable law, and as a capital offense under Section 11 where the elements are met
-- May be charged cumulatively with §1.3 (Battery), §17.12 (Escalation Misconduct), and §1.12 (Terrorism) as applicable
+- May be charged cumulatively with §1.1.3 (Battery), §17.12 (Escalation Misconduct), and §1.1.12 (Terrorism) as applicable
 
 ### 17.15C Rights Dismissal Infraction
 
@@ -4455,7 +4555,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 **Classification:**
 
 - Rights dismissal is a **Class 1 misdemeanor**
-- Where the dismissal is followed by enforcement, detention, search, seizure, citation, arrest, interrogation, or other deprivation, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), §2.9 (Constitutional Objection Obstruction), or §2.8.1 (Custodial Rights Interference)
+- Where the dismissal is followed by enforcement, detention, search, seizure, citation, arrest, interrogation, or other deprivation, the conduct may be charged cumulatively under §1.1.2 (Assault), §1.1.3 (Battery), §1.1.13 (Official Intimidation), §2.9 (Constitutional Objection Obstruction), or §2.8.1 (Custodial Rights Interference)
 
 ### 17.15D False Authority Gesture
 
@@ -4464,14 +4564,14 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 **Classification:**
 
 - False authority gesture is a **Class 1 misdemeanor**
-- Where the gesture causes a reasonable citizen to believe they are not free to leave, must surrender a right, must permit a search, must answer questions, or must comply with an unlawful command, charge cumulatively under §1.2 (Assault), §1.13 (Official Intimidation), or §17.14 (Enforcement Without Articulable Basis)
-- Where actual detention, search, seizure, use of force, or rights deprivation results, charge cumulatively under §1.3 (Battery)
+- Where the gesture causes a reasonable citizen to believe they are not free to leave, must surrender a right, must permit a search, must answer questions, or must comply with an unlawful command, charge cumulatively under §1.1.2 (Assault), §1.1.13 (Official Intimidation), or §17.14 (Enforcement Without Articulable Basis)
+- Where actual detention, search, seizure, use of force, or rights deprivation results, charge cumulatively under §1.1.3 (Battery)
 
 ---
 
 ### Subpart D — Legislative, Executive, Council, and Regulatory Offenses
 
-The offenses of Subpart D apply to **state legislators, governors, lieutenant governors, attorneys general, county commissioners, county council members, city council members, mayors, executive-branch officials, agency heads, regulatory commissioners, and any government actor with budget, contracting, executive, legislative, or regulatory authority**. Subpart D shall be read together with the dissenting-member carve-out of §1.1.1 — a member who voted against, formally objected to, or publicly dissociated from the offending action on the record is not liable under this Subpart for that action.
+The offenses of Subpart D apply to **state legislators, governors, lieutenant governors, attorneys general, county commissioners, county council members, city council members, mayors, executive-branch officials, agency heads, regulatory commissioners, and any government actor with budget, contracting, executive, legislative, or regulatory authority**. Subpart D shall be read together with the dissenting-member carve-out of §1.1.1.1 — a member who voted against, formally objected to, or publicly dissociated from the offending action on the record is not liable under this Subpart for that action.
 
 #### Legislative Authority; Legitimate Power and Unconstitutional Use
 
@@ -4491,13 +4591,13 @@ The line is crossed when legislative power is used to create, preserve, or defen
 - Direct money, contracts, licenses, land-use benefits, regulatory advantages, exemptions, enforcement favors, or public resources to the legislator, the legislator's family, donors, allies, business associates, political supporters, or favored private interests for reasons other than legitimate public merit
 - Punish, burden, silence, inspect, cite, zone, regulate, defund, exclude, or target a citizen because the citizen criticized government, opposed a measure, requested records, asserted rights, assisted a Citizen Council, exposed corruption, or refused to provide political, financial, or personal support
 - Conceal conflicts of interest, financial benefit, donor influence, lobbyist drafting, outside funding, private promises, or other facts necessary for citizens to understand whose interest the legislation serves
-- Depend on a contradiction, false premise, circular reasoning, hidden exception, or double standard of the kind defined as logical inconsistency in Section 1.1.10
+- Depend on a contradiction, false premise, circular reasoning, hidden exception, or double standard of the kind defined as logical inconsistency in Section 1.1.1.10
 
 Where a statute or ordinance creates a situation like the motor-vehicle financial-responsibility example in Section 16.1A — including a scheme that appears to offer alternatives but in practical effect forces low-income citizens into a private insurance contract or other inaccessible financial undertaking under threat of criminal punishment — the legislation is **prima facie evidence of negligent use of legislative authority over a citizen**.
 
-Where legislative authority is used for personal gain, private enrichment, concealed self-dealing, donor reward, retaliation, or favoritism rather than legitimate public purpose, the conduct is criminal where the elements of this Act are met. Such conduct may be charged under this Subpart and, where applicable, as Cabalism (§1.6), Government Racketeering (§1.7), Obstruction (§1.8), Public Trust Fraud (§17.6), Preferential Contracting Abuse (§17.21), Regulatory Weaponization (§17.23), Local Governing-Body Retaliation (§17.24C), Constitutional-Objection Override (§17.24D), or any other applicable offense.
+Where legislative authority is used for personal gain, private enrichment, concealed self-dealing, donor reward, retaliation, or favoritism rather than legitimate public purpose, the conduct is criminal where the elements of this Act are met. Such conduct may be charged under this Subpart and, where applicable, as Cabalism (§1.1.6), Government Racketeering (§1.1.7), Obstruction (§1.1.8), Public Trust Fraud (§17.6), Preferential Contracting Abuse (§17.21), Regulatory Weaponization (§17.23), Local Governing-Body Retaliation (§17.24C), Constitutional-Objection Override (§17.24D), or any other applicable offense.
 
-Where a legislator, council member, commissioner, or other legislative actor voted against the unconstitutional or corrupt measure, formally objected to it, requested constitutional review, offered an amendment to remove the defect, disclosed the conflict, refused the private benefit, or publicly dissociated from the measure on the record, that conduct shall be considered evidence against liability consistent with §1.1.1. Where the actor sponsored, voted for, defended, funded, renewed, benefited from, concealed, or refused to correct the measure after the constitutional defect, corrupt purpose, conflict of interest, or personal-gain feature was known or reasonably knowable, that conduct may support liability under this Subpart and under any applicable offense listed above.
+Where a legislator, council member, commissioner, or other legislative actor voted against the unconstitutional or corrupt measure, formally objected to it, requested constitutional review, offered an amendment to remove the defect, disclosed the conflict, refused the private benefit, or publicly dissociated from the measure on the record, that conduct shall be considered evidence against liability consistent with §1.1.1.1. Where the actor sponsored, voted for, defended, funded, renewed, benefited from, concealed, or refused to correct the measure after the constitutional defect, corrupt purpose, conflict of interest, or personal-gain feature was known or reasonably knowable, that conduct may support liability under this Subpart and under any applicable offense listed above.
 
 ### 17.17 Reckless Public Expenditure
 
@@ -4527,7 +4627,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 **Classification:**
 
 - **Class 3 felony** (Class 2 felony where committed with malice or as part of a pattern)
-- May be charged cumulatively with §1.7 (Government Racketeering) and §17.21 (Preferential Contracting Abuse)
+- May be charged cumulatively with §1.1.7 (Government Racketeering) and §17.21 (Preferential Contracting Abuse)
 
 ### 17.20 Deliberate Budget Concealment
 
@@ -4546,7 +4646,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 **Classification:**
 
 - **Class 2 felony** (capital offense where the contract value exceeds one hundred thousand dollars ($100,000), or where the actor or a person within the actor's household received indirect personal benefit)
-- May be charged cumulatively with §1.6 (Cabalism), §1.7 (Government Racketeering), and §1.8 (Obstruction)
+- May be charged cumulatively with §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), and §1.1.8 (Obstruction)
 
 ### 17.22 Negligent Debt Expansion
 
@@ -4558,21 +4658,21 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 
 - Negligent: **infraction** under §3.3, with restitution and the forfeiture remedies of Section 11; **Class 1 misdemeanor** where measurable harm results or the conduct repeats after notice
 - Reckless: **Class 3 felony**
-- Intentional (where the actor knew the debt could not realistically be repaid by the affected entity without burdening citizens beyond reasonable foreseeability): **Class 2 felony**, and may be charged cumulatively under §1.9 (Treason — financial-warfare prong)
+- Intentional (where the actor knew the debt could not realistically be repaid by the affected entity without burdening citizens beyond reasonable foreseeability): **Class 2 felony**, and may be charged cumulatively under §1.1.9 (Treason — financial-warfare prong)
 
 ### 17.23 Regulatory Weaponization
 
 > A government actor commits **regulatory weaponization** where the actor uses regulations, licensing, inspections, or agency authority selectively against disfavored persons or groups.
 
-**Distinction from §1.9 (Treason — regulatory-warfare prong):**
+**Distinction from §1.1.9 (Treason — regulatory-warfare prong):**
 
-- **§1.9** requires sustained or coordinated regulatory warfare against citizens collectively, the U.S. Constitution, or the Utah Constitution
+- **§1.1.9** requires sustained or coordinated regulatory warfare against citizens collectively, the U.S. Constitution, or the Utah Constitution
 - **This section** reaches isolated or smaller-pattern selective regulatory action against a person or group, below the Treason threshold
 
 **Classification:**
 
 - **Class 2 felony** (capital offense where part of a pattern)
-- May be charged cumulatively under §1.7 (Government Racketeering), §1.8 (Obstruction), §1.13 (Official Intimidation), and where applicable §1.9 (Treason)
+- May be charged cumulatively under §1.1.7 (Government Racketeering), §1.1.8 (Obstruction), §1.1.13 (Official Intimidation), and where applicable §1.1.9 (Treason)
 
 ### 17.24 Emergency Power Abuse
 
@@ -4581,8 +4681,8 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 **Classification:**
 
 - **Class 2 felony**
-- **Capital offense** where invoked to suppress rights protected under §1.5, to bypass Section 9 Citizen Council mechanisms, or to procure contracts in violation of §17.21
-- May be charged cumulatively with §1.10 (Anarchy) where the emergency invocation lacked any lawful basis
+- **Capital offense** where invoked to suppress rights protected under §1.1.5, to bypass Section 9 Citizen Council mechanisms, or to procure contracts in violation of §17.21
+- May be charged cumulatively with §1.1.10 (Anarchy) where the emergency invocation lacked any lawful basis
 
 ### 17.24A Algorithmic Authority Abuse
 
@@ -4590,7 +4690,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 
 **Elements:**
 
-- The actor is a government actor, or a contractor or vendor acting as a government actor under §1.1
+- The actor is a government actor, or a contractor or vendor acting as a government actor under §1.1.1
 - The actor used, relied upon, procured, approved, or maintained an automated or algorithmic tool affecting a citizen
 - The tool materially influenced an official action, burden, classification, risk score, investigation, denial, detention, removal, discipline, or enforcement decision
 - The citizen was not given meaningful notice, explanation, access to contest the decision, and human review sufficient to challenge the tool's use
@@ -4604,7 +4704,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 
 ### 17.24B Executive Refusal to Correct Rights Violations
 
-> A governor, lieutenant governor, attorney general, mayor, county executive, county commissioner, city manager, agency head, department director, board chair, or other executive government actor commits **executive refusal to correct rights violations** where the actor receives credible notice that a subordinate office, agency, contractor, law-enforcement body, jail, regulatory body, clerk, or public program is violating this Act or rights protected under §1.5, and the actor refuses, delays, conceals, deflects, or fails to take available corrective action.
+> A governor, lieutenant governor, attorney general, mayor, county executive, county commissioner, city manager, agency head, department director, board chair, or other executive government actor commits **executive refusal to correct rights violations** where the actor receives credible notice that a subordinate office, agency, contractor, law-enforcement body, jail, regulatory body, clerk, or public program is violating this Act or rights protected under §1.1.5, and the actor refuses, delays, conceals, deflects, or fails to take available corrective action.
 
 **Credible Notice Includes, Without Limitation:**
 
@@ -4639,8 +4739,8 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 
 - Local governing-body retaliation is a **Class 2 felony**
 - Where the retaliation affects housing, utilities, business license, employment, land use, school access, child welfare, police contact, court access, public benefits, public meeting participation, or election participation, the offense is a **capital offense**
-- A member who voted against, formally objected to, or publicly dissociated from the retaliatory action on the record is not liable under this section for that action, consistent with §1.1.1
-- Charge cumulatively under §17.2, §17.2A, §17.23, §1.13, or §1.7 where applicable
+- A member who voted against, formally objected to, or publicly dissociated from the retaliatory action on the record is not liable under this section for that action, consistent with §1.1.1.1
+- Charge cumulatively under §17.2, §17.2A, §17.23, §1.1.13, or §1.1.7 where applicable
 
 ### 17.24D Constitutional-Objection Override by High Office
 
@@ -4651,7 +4751,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 - Constitutional-objection override by high office is a **Class 2 felony**
 - Where the override results in arrest, citation, detention, child removal, property seizure, loss of license, loss of benefits, denial of court access, or retaliation against the objecting citizen, the offense is a **capital offense**
 - Where the actor issued a written correction, suspended enforcement, sought neutral judicial review, or publicly dissociated from the unlawful enforcement before citizen harm occurred, that corrective action may be considered in mitigation but does not erase liability for earlier completed violations
-- Charge cumulatively under §2.9, §17.14, §17.23, §1.10, or §1.13 where applicable
+- Charge cumulatively under §2.9, §17.14, §17.23, §1.1.10, or §1.1.13 where applicable
 
 ### 17.24E Eminent-Domain Valuation Manipulation
 
@@ -4688,7 +4788,7 @@ Refusal by the owner to accept the government's offered price, refusal to waive 
 - Where the conduct causes loss of home, farm, business, livelihood, family land, inheritance property, religious property, community institution, or property necessary for medical care, disability access, work, or survival, the offense is a **Class 1 felony**
 - Where the conduct is coordinated with a private developer, donor, contractor, political ally, or public-private beneficiary for private gain, the offense is a **capital offense**
 - Where the conduct results in homelessness, death, suicide, serious bodily injury, catastrophic financial ruin, or permanent loss of family property, Section 12 and the penalty enhancements of Section 5.6 apply
-- Charge cumulatively under §1.3 (Battery), §1.6 (Cabalism), §1.7 (Government Racketeering), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3, §2.9, §17.2, §17.9E, §17.9F, §17.23, §17.24C, or §17.24D where the elements are met
+- Charge cumulatively under §1.1.3 (Battery), §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), §1.1.12 (Terrorism), §1.1.13 (Official Intimidation), §16.3, §2.9, §17.2, §17.9E, §17.9F, §17.23, §17.24C, or §17.24D where the elements are met
 
 ---
 
@@ -4748,7 +4848,7 @@ In each of the foregoing instances, **Utah's federal representatives were member
   - The misleading testimony related to a matter of national security, public health, financial stability, election integrity, or the constitutional rights of citizens; or
   - The testimony was given **under oath or affirmation**, even where the strict perjury threshold of literal falsehood is not met because the statement was technically true but materially misleading; or
   - The conduct produced subsequent congressional action (legislation, appropriation, regulation, or non-action) on the basis of the misleading record
-- Where the conduct is part of a coordinated effort by an industry, agency, organization, or other group to mislead Congress, charge **cumulatively** under §1.6 (Cabalism), §1.7 (Government Racketeering), and where the elements are met §1.9 (Treason — information-warfare prong)
+- Where the conduct is part of a coordinated effort by an industry, agency, organization, or other group to mislead Congress, charge **cumulatively** under §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), and where the elements are met §1.1.9 (Treason — information-warfare prong)
 - Where the witness is a federal official acting under color of federal authority, the doctrine of *In re Neagle* and analogous federal-officer immunities are abrogated in this state consistent with §16.7
 - Penalty enhancements under Section 5.6 apply
 
@@ -4767,7 +4867,7 @@ This section applies to any person who knowingly engages in the conduct describe
 
 - Whether the person is a Utah resident
 - Where the testimony was physically given
-- Whether the person is a government actor under §1.1
+- Whether the person is a government actor under §1.1.1
 - Whether the person was under oath or affirmation at the time of the testimony
 
 Jurisdiction rests on the **harm to Utah citizens** through the misleading of their elected federal representatives. A person sufficiently connected to Utah by economic, regulatory, or political activity — including any business that operates in Utah, any federal agency whose conduct affects Utahns, and any official whose testimony shapes federal policy applicable in Utah — is reachable under this Act.
@@ -4806,7 +4906,7 @@ Jurisdiction rests on the **harm to Utah citizens** through the misleading of th
 - Federal-state shielding coordination is a **Class 2 felony**
 - Where the coordination affects investigation of force, custody, death, sexual misconduct, child removal, public corruption, election administration, federal benefits, immigration detention, or constitutional rights, the offense is a **capital offense**
 - Where the coordination causes wrongful conviction, prolonged detention, death, suicide, serious bodily injury, or destruction of material evidence, Section 11 applies
-- Charge cumulatively under §1.6, §1.7, §1.9, §9.9, §17.2, §17.4A, or §17.24B where applicable
+- Charge cumulatively under §1.1.6, §1.1.7, §1.1.9, §9.9, §17.2, §17.4A, or §17.24B where applicable
 
 ---
 
@@ -4847,109 +4947,109 @@ The following Supreme Court cases inform the definitions in **Section 1**, the i
 
 **L.1 — *United States v. Classic*, 313 U.S. 299 (1941).**
 
-The foundational definition of "color of law." The Court held that *"misuse of power, possessed by virtue of state law and made possible only because the wrongdoer is clothed with the authority of state law, is action taken 'under color of' state law."* This formulation has been carried into every subsequent color-of-law case. *Referenced in §1.1.5 (Color of Law).*
+The foundational definition of "color of law." The Court held that *"misuse of power, possessed by virtue of state law and made possible only because the wrongdoer is clothed with the authority of state law, is action taken 'under color of' state law."* This formulation has been carried into every subsequent color-of-law case. *Referenced in §1.1.1.5 (Color of Law).*
 
 ---
 
 **L.2 — *Screws v. United States*, 325 U.S. 91 (1945).**
 
-Applied *Classic*'s definition in the criminal civil-rights context (now codified at 18 U.S.C. § 242). The Court confirmed that a state law-enforcement officer who exceeded or violated state law in the course of an arrest still acted under color of law, because the officer's ability to act at all came from the office. *Referenced in §1.1.5 (Color of Law).*
+Applied *Classic*'s definition in the criminal civil-rights context (now codified at 18 U.S.C. § 242). The Court confirmed that a state law-enforcement officer who exceeded or violated state law in the course of an arrest still acted under color of law, because the officer's ability to act at all came from the office. *Referenced in §1.1.1.5 (Color of Law).*
 
 ---
 
 **L.3 — *Monroe v. Pape*, 365 U.S. 167 (1961).**
 
-Applied the color-of-law doctrine in the civil-rights context under 42 U.S.C. § 1983. The Court held that police officers acting within the scope of their authority — but in violation of state law — were still acting "under color of" state law. *"Misuse of power" by an officer is itself action taken under color of law, even where the conduct is not authorized by state law.* *Referenced in §1.1.5 (Color of Law).*
+Applied the color-of-law doctrine in the civil-rights context under 42 U.S.C. § 1983. The Court held that police officers acting within the scope of their authority — but in violation of state law — were still acting "under color of" state law. *"Misuse of power" by an officer is itself action taken under color of law, even where the conduct is not authorized by state law.* *Referenced in §1.1.1.5 (Color of Law).*
 
 ---
 
 **L.4 — *Adickes v. S.H. Kress & Co.*, 398 U.S. 144 (1970).**
 
-Extended the color-of-law inquiry to **private conduct that is fairly attributable to the state**. Conduct that would otherwise be private becomes state action — and thus action under color of law — when it is taken in concert with, or with the encouragement of, state actors. *Referenced in §1.1.5 (Color of Law).*
+Extended the color-of-law inquiry to **private conduct that is fairly attributable to the state**. Conduct that would otherwise be private becomes state action — and thus action under color of law — when it is taken in concert with, or with the encouragement of, state actors. *Referenced in §1.1.1.5 (Color of Law).*
 
 ---
 
 **L.5 — *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982).**
 
-Set out a **two-part test** for whether private conduct is "under color of" state law: *(1)* the deprivation must result from the exercise of a right or privilege created by the state, by a state-imposed rule of conduct, or by a person for whom the state is responsible; and *(2)* the party charged with the deprivation must be a person who may fairly be said to be a state actor. *Referenced in §1.1.5 (Color of Law).*
+Set out a **two-part test** for whether private conduct is "under color of" state law: *(1)* the deprivation must result from the exercise of a right or privilege created by the state, by a state-imposed rule of conduct, or by a person for whom the state is responsible; and *(2)* the party charged with the deprivation must be a person who may fairly be said to be a state actor. *Referenced in §1.1.1.5 (Color of Law).*
 
 ---
 
 **L.6 — *West v. Atkins*, 487 U.S. 42 (1988).**
 
-Held that a **private physician** under contract with the state to provide medical care to prison inmates acted under color of state law. The case demonstrates that color-of-law liability can reach contractors, deputized private individuals, and others performing traditionally governmental functions — as reflected in the catch-all of Section 1.1 of this Act. *Referenced in §1.1.5 (Color of Law).*
+Held that a **private physician** under contract with the state to provide medical care to prison inmates acted under color of state law. The case demonstrates that color-of-law liability can reach contractors, deputized private individuals, and others performing traditionally governmental functions — as reflected in the catch-all of Section 1.1.1 of this Act. *Referenced in §1.1.1.5 (Color of Law).*
 
 ---
 
 **L.7 — *Bradley v. Fisher*, 80 U.S. (13 Wall.) 335 (1872).**
 
-The foundational judicial-immunity case. Justice Field wrote that judges enjoy absolute civil immunity for judicial acts done within jurisdiction *"however erroneous the act may have been, and however injurious in its consequences it may have proved to the plaintiff."* Critically, the Court held that immunity is **not lost by allegations that the act was done maliciously or corruptly**. *Referenced in §1.1.6 (Judicial Immunity); abrogated by §5.1.1.*
+The foundational judicial-immunity case. Justice Field wrote that judges enjoy absolute civil immunity for judicial acts done within jurisdiction *"however erroneous the act may have been, and however injurious in its consequences it may have proved to the plaintiff."* Critically, the Court held that immunity is **not lost by allegations that the act was done maliciously or corruptly**. *Referenced in §1.1.1.6 (Judicial Immunity); abrogated by §5.1.1.*
 
 ---
 
 **L.8 — *Pierson v. Ray*, 386 U.S. 547 (1967).**
 
-Extended *Bradley* to civil rights actions under 42 U.S.C. § 1983. The Court held that judges retain absolute immunity from § 1983 suits even where the judge is accused of acting in **bad faith or with malice**, reasoning that § 1983 was not intended to abolish the long-established common-law doctrine of judicial immunity. *Referenced in §1.1.6 (Judicial Immunity); abrogated by §5.1.1.*
+Extended *Bradley* to civil rights actions under 42 U.S.C. § 1983. The Court held that judges retain absolute immunity from § 1983 suits even where the judge is accused of acting in **bad faith or with malice**, reasoning that § 1983 was not intended to abolish the long-established common-law doctrine of judicial immunity. *Referenced in §1.1.1.6 (Judicial Immunity); abrogated by §5.1.1.*
 
 ---
 
 **L.9 — *Stump v. Sparkman*, 435 U.S. 349 (1978).**
 
-A state judge approved, **without a hearing and without due process**, a parental petition to surgically sterilize a fifteen-year-old girl. The girl was told she was having an appendectomy. The Supreme Court held the judge was absolutely immune from § 1983 liability, reasoning that "grave procedural errors" do not strip judicial immunity if the act is "judicial in nature" and within the judge's general jurisdiction. The case is widely regarded as the most extreme application of the doctrine. *Referenced in §1.1.6 (Judicial Immunity); abrogated by §5.1.1.*
+A state judge approved, **without a hearing and without due process**, a parental petition to surgically sterilize a fifteen-year-old girl. The girl was told she was having an appendectomy. The Supreme Court held the judge was absolutely immune from § 1983 liability, reasoning that "grave procedural errors" do not strip judicial immunity if the act is "judicial in nature" and within the judge's general jurisdiction. The case is widely regarded as the most extreme application of the doctrine. *Referenced in §1.1.1.6 (Judicial Immunity); abrogated by §5.1.1.*
 
 ---
 
 **L.10 — *Mireles v. Waco*, 502 U.S. 9 (1991).**
 
-Per curiam. A judge allegedly **ordered police to forcibly bring a public defender to his courtroom "with excessive force."** The Court applied absolute judicial immunity, holding that the order to use force was "judicial in nature" because it concerned bringing a party before the court — and therefore was immune even though it allegedly directed unlawful violence against an attorney. *Referenced in §1.1.6 (Judicial Immunity); abrogated by §5.1.1.*
+Per curiam. A judge allegedly **ordered police to forcibly bring a public defender to his courtroom "with excessive force."** The Court applied absolute judicial immunity, holding that the order to use force was "judicial in nature" because it concerned bringing a party before the court — and therefore was immune even though it allegedly directed unlawful violence against an attorney. *Referenced in §1.1.1.6 (Judicial Immunity); abrogated by §5.1.1.*
 
 ---
 
 **L.11 — *Imbler v. Pachtman*, 424 U.S. 409 (1976).**
 
-The foundational prosecutorial-immunity case. The Court held that prosecutors enjoy absolute civil immunity for acts intimately associated with the judicial phase of the criminal process — initiating prosecutions, presenting the state's case at trial — even where the prosecutor allegedly **knowingly used perjured testimony** and suppressed exculpatory evidence to obtain a conviction. *Referenced in §1.1.7 (Prosecutorial Immunity); abrogated by §5.1.1.*
+The foundational prosecutorial-immunity case. The Court held that prosecutors enjoy absolute civil immunity for acts intimately associated with the judicial phase of the criminal process — initiating prosecutions, presenting the state's case at trial — even where the prosecutor allegedly **knowingly used perjured testimony** and suppressed exculpatory evidence to obtain a conviction. *Referenced in §1.1.1.7 (Prosecutorial Immunity); abrogated by §5.1.1.*
 
 ---
 
 **L.12 — *Burns v. Reed*, 500 U.S. 478 (1991).**
 
-Refined *Imbler* by distinguishing between prosecutorial conduct in the "advocate" role (immune) and conduct as an investigator or legal advisor to police (not absolutely immune). *Referenced in §1.1.7 (Prosecutorial Immunity); abrogated by §5.1.1.*
+Refined *Imbler* by distinguishing between prosecutorial conduct in the "advocate" role (immune) and conduct as an investigator or legal advisor to police (not absolutely immune). *Referenced in §1.1.1.7 (Prosecutorial Immunity); abrogated by §5.1.1.*
 
 ---
 
 **L.13 — *Buckley v. Fitzsimmons*, 509 U.S. 259 (1993).**
 
-Continued the *Imbler* line; absolute immunity does not extend to a prosecutor's acts of investigation or fabrication of evidence prior to the existence of probable cause to arrest. *Referenced in §1.1.7 (Prosecutorial Immunity); abrogated by §5.1.1.*
+Continued the *Imbler* line; absolute immunity does not extend to a prosecutor's acts of investigation or fabrication of evidence prior to the existence of probable cause to arrest. *Referenced in §1.1.1.7 (Prosecutorial Immunity); abrogated by §5.1.1.*
 
 ---
 
 **L.14 — *Van de Kamp v. Goldstein*, 555 U.S. 335 (2009).**
 
-Extended absolute prosecutorial immunity to administrative supervision of office practices (such as failing to maintain a database of impeachment information about police informants), so long as the conduct is sufficiently "intimately associated with the judicial phase." *Referenced in §1.1.7 (Prosecutorial Immunity); abrogated by §5.1.1.*
+Extended absolute prosecutorial immunity to administrative supervision of office practices (such as failing to maintain a database of impeachment information about police informants), so long as the conduct is sufficiently "intimately associated with the judicial phase." *Referenced in §1.1.1.7 (Prosecutorial Immunity); abrogated by §5.1.1.*
 
 ---
 
 **L.15 — *Harlow v. Fitzgerald*, 457 U.S. 800 (1982).**
 
-The foundational case for the modern qualified-immunity doctrine. The Court replaced the older "subjective good faith" standard with an **objective "clearly established law"** test: officials are immune from civil liability *"insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known."* *Referenced in §1.1.8 (Qualified Immunity); abrogated by §5.1.1.*
+The foundational case for the modern qualified-immunity doctrine. The Court replaced the older "subjective good faith" standard with an **objective "clearly established law"** test: officials are immune from civil liability *"insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known."* *Referenced in §1.1.1.8 (Qualified Immunity); abrogated by §5.1.1.*
 
 ---
 
 **L.16 — *Anderson v. Creighton*, 483 U.S. 635 (1987).**
 
-Refined *Harlow* by emphasizing that "clearly established" must be assessed at a relatively high level of factual specificity — not at a general level of abstraction. *Referenced in §1.1.8 (Qualified Immunity); abrogated by §5.1.1.*
+Refined *Harlow* by emphasizing that "clearly established" must be assessed at a relatively high level of factual specificity — not at a general level of abstraction. *Referenced in §1.1.1.8 (Qualified Immunity); abrogated by §5.1.1.*
 
 ---
 
 **L.17 — *Saucier v. Katz*, 533 U.S. 194 (2001).**
 
-Established a mandatory two-step sequence for qualified-immunity analysis: first determine whether a constitutional right was violated; then determine whether the right was clearly established. *Referenced in §1.1.8 (Qualified Immunity); abrogated by §5.1.1.*
+Established a mandatory two-step sequence for qualified-immunity analysis: first determine whether a constitutional right was violated; then determine whether the right was clearly established. *Referenced in §1.1.1.8 (Qualified Immunity); abrogated by §5.1.1.*
 
 ---
 
 **L.18 — *Pearson v. Callahan*, 555 U.S. 223 (2009).**
 
-Modified *Saucier* by making the two-step sequence discretionary rather than mandatory. Courts may now resolve qualified-immunity claims solely on the "clearly established" prong without first deciding whether a constitutional right was violated. *Referenced in §1.1.8 (Qualified Immunity); abrogated by §5.1.1.*
+Modified *Saucier* by making the two-step sequence discretionary rather than mandatory. Courts may now resolve qualified-immunity claims solely on the "clearly established" prong without first deciding whether a constitutional right was violated. *Referenced in §1.1.1.8 (Qualified Immunity); abrogated by §5.1.1.*
 
 ---
 
