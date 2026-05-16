@@ -8,7 +8,7 @@ If any provision of this section requires constitutional force to operate fully 
 
 Due process under this Act means government by law, not government by the will, habit, policy, preference, fear, convenience, or personal judgment of government actors.
 
-This principle is grounded in Article VI, paragraph 2 of the Constitution of the United States, which provides that the Constitution, and federal laws made in pursuance of it, **"shall be the supreme Law of the Land."** It is also grounded in the Supreme Court's explanation in *Marbury v. Madison*, 5 U.S. 137 (1803), that the United States is **"a government of laws, and not of men,"** and that it is **"the province and duty of the judicial department to say what the law is."**
+This principle is grounded in Article VI, paragraph 2 of the Constitution of the United States, which provides that the Constitution, and federal laws made in pursuance of it, **"shall be the supreme Law of the Land."** It is also grounded in the Supreme Court's explanation in *Marbury v. Madison*, 5 U.S. 137 (1803), that the United States is **"a government of laws, and not of men."** The same principle applies to the State of Utah and to every state of the union: the State is, and must remain, a government of laws and not of men.
 
 Due process is not whatever a government actor, agency, court, legislature, police department, prosecutor's office, jail, school, or administrative body says it is. In *Murray's Lessee v. Hoboken Land & Improvement Co.*, 59 U.S. 272 (1856), the Supreme Court explained that **"due process of law"** carries the meaning of **"the law of the land"** and that due process is a restraint on legislative, executive, and judicial power.
 
