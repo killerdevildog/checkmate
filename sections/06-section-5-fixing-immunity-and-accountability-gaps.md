@@ -35,7 +35,7 @@ This subsection specifically abrogates, within the scope of this title and withi
 - **Imbler v. Pachtman, 424 U.S. 409 (1976)** — establishing absolute civil immunity for prosecutors acting within their "advocate" function, even where the prosecutor allegedly knowingly used perjured testimony to obtain a conviction
 - The line of cases applying *Imbler* to expand prosecutorial immunity to selective prosecution decisions, charging decisions, and grand jury presentations
 
-This doctrine is abrogated within the scope of this title. A prosecutor who commits a violation under this Act — including but not limited to **selective non-prosecution under §1.8**, **fabrication or knowing use of false evidence** under §1.3 (Battery), or **obstruction** of a Citizen Council under §9.9 — is **personally liable, civilly and criminally**, without regard to whether the conduct fell within the "advocate" role.
+This doctrine is abrogated within the scope of this title. A prosecutor who commits a violation under this Act — including but not limited to **selective non-prosecution under §1.1.8**, **fabrication or knowing use of false evidence** under §1.1.3 (Battery), or **obstruction** of a Citizen Council under §9.9 — is **personally liable, civilly and criminally**, without regard to whether the conduct fell within the "advocate" role.
 
 **Qualified Immunity** — the doctrine that government actors are immune from civil liability for constitutional violations unless those rights were "clearly established at the time of the conduct" — as developed in:
 
@@ -53,7 +53,7 @@ This doctrine is abrogated within the scope of this title. A prosecutor who comm
 - Governmental-function immunity
 - Discretionary-function immunity
 
-> The State of Utah, by adopting this Act, **expressly waives sovereign immunity** for any claim arising under this title. Sovereign and governmental immunity shall not bar civil suit against the State, its political subdivisions, its agencies, or any government actor under this title (consistent with Section 1.1.2 on Entity-Level Government Actors).
+> The State of Utah, by adopting this Act, **expressly waives sovereign immunity** for any claim arising under this title. Sovereign and governmental immunity shall not bar civil suit against the State, its political subdivisions, its agencies, or any government actor under this title (consistent with Section 1.1.1.2 on Entity-Level Government Actors).
 
 **Legislative and Executive Immunity** — the doctrines that legislators are immune for acts in the legislative sphere and that executive officials enjoy varying degrees of immunity for official acts — including the Speech or Debate Clause analogues at the state level — are abrogated within the scope of this title for conduct meeting the elements of any offense defined herein.
 
@@ -74,7 +74,7 @@ The asymmetry the existing immunity doctrines create — where a judge can steri
 
 The conduct of a government actor while acting under color of authority is the conduct of the state, and is therefore subject to the limitations imposed upon the state itself. Accordingly:
 
-- **Personal speech rights** do not insulate official utterances that coerce, intimidate, or direct a citizen to surrender lawful conduct (see Section 1.4)
+- **Personal speech rights** do not insulate official utterances that coerce, intimidate, or direct a citizen to surrender lawful conduct (see Section 1.1.4)
 - **Personal expressive rights** do not shield smirks, gestures, or other expressive conduct used as an instrument of authority
 - **Personal opinion or "off-duty mindset"** is not a defense where the actor was, by reasonable appearance, acting in or invoking their official capacity
 - The actor's status as a private rights-holder is **suspended for the duration and within the scope of the official act**

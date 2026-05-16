@@ -14,7 +14,7 @@
 ### 9.2 Composition
 
 - A Council acting under this title shall consist of **twelve (12) or more citizens** of the jurisdiction in which the alleged conduct occurred
-- A Council member shall **not** be a government actor as defined in Section 1.1
+- A Council member shall **not** be a government actor as defined in Section 1.1.1
 - A Council member shall **not** be a current employee or contractor of any office whose conduct is the subject of the Council's deliberations, nor a former employee or contractor of any such office within the preceding five (5) years
 - A Council member shall **not** be a spouse, immediate family member, or financial dependent of any government actor whose conduct is the subject of the Council's deliberations
 
@@ -164,7 +164,7 @@ If the Declaration satisfies that standard, the judge shall approve the Declarat
 > Any government actor who interferes with a Citizen Council investigation, vote, Declaration of Prosecution, Declaration of Production of Records, Declaration of Warrant, or Declaration of Arrest in violation of this section commits a **Class 2 felony** under this title.
 
 - The penalty enhancements of Section 5.6 apply to interference under this section
-- Multiple acts of interference, or interference by multiple actors in concert, shall be aggregated and may be charged as a conspiracy under Section 1.1.1
+- Multiple acts of interference, or interference by multiple actors in concert, shall be aggregated and may be charged as a conspiracy under Section 1.1.1.1
 - A judicial officer who issues an order in violation of this section is **personally liable** under this title; the doctrine of judicial immunity shall not apply, consistent with Section 5.1
 
 ### 9.10 Investigation of Any Crime Committed by a Government Actor (Whether in Official or Private Capacity)
@@ -307,7 +307,7 @@ This subsection applies to every inmate of every facility, including:
 
 **Construction:**
 
-This subsection shall be construed broadly in favor of inmate access and inmate Council activity, consistent with Section 1.5.2. Any ambiguity as to whether a particular communication, activity, or material falls within the protections of this subsection shall be resolved **in favor of the inmate**.
+This subsection shall be construed broadly in favor of inmate access and inmate Council activity, consistent with Section 1.1.5.2. Any ambiguity as to whether a particular communication, activity, or material falls within the protections of this subsection shall be resolved **in favor of the inmate**.
 
 ### 9.13 Minimum Age Requirement
 
@@ -384,9 +384,9 @@ The reviewing judge **may not** decline review or refuse to nullify on the follo
 
 A judge who refuses, delays, or refuses to engage in good faith with a Joint Declaration of Logical Consistency Review commits one or more of the following offenses under this title:
 
-- **Anarchy (§1.10)** — refusing to apply a clearly required legal standard while invoking judicial authority is conduct without lawful basis
+- **Anarchy (§1.1.10)** — refusing to apply a clearly required legal standard while invoking judicial authority is conduct without lawful basis
 - **Reckless prosecution (§2.5.2)** — failing to perform the review duty owed to citizens
-- **Obstruction (§1.8)** — where the refusal is motivated by the title or affiliation of those who benefit from the inconsistent law
+- **Obstruction (§1.1.8)** — where the refusal is motivated by the title or affiliation of those who benefit from the inconsistent law
 
 The doctrine of judicial immunity does not apply, consistent with Section 5.1.
 
@@ -401,7 +401,7 @@ A unanimous Council of eighteen (18) or more citizens may, by Joint Declaration 
 - **Nullify** the conviction — the conviction is set aside with the legal effect of acquittal; the convicted person is restored to the status of one not convicted
 - **Reduce** the conviction — by class, sentence, fine, or other terms
 - **Spare** the convicted person from a sentence of **death** in capital cases
-- **Extend public forgiveness** to the convicted person — operating as a public restoration of standing, restoration of civil and political rights (including the right to vote, the right to keep and bear arms under Section 1.5, and any other rights forfeited by reason of the conviction), and a bar to use of the conviction for collateral consequences
+- **Extend public forgiveness** to the convicted person — operating as a public restoration of standing, restoration of civil and political rights (including the right to vote, the right to keep and bear arms under Section 1.1.5, and any other rights forfeited by reason of the conviction), and a bar to use of the conviction for collateral consequences
 
 **Composition:**
 
@@ -434,14 +434,14 @@ A unanimous Council of eighteen (18) or more citizens may, by Joint Declaration 
 
 A judge or executive official who refuses to give effect to a unanimous 18-member Joint Declaration of Conviction Review commits:
 
-- **Anarchy (§1.10)** — for refusing to apply the legal standard set by this Act while invoking official authority
+- **Anarchy (§1.1.10)** — for refusing to apply the legal standard set by this Act while invoking official authority
 - **Reckless prosecution (§2.5.2)** — for the harm imposed on a citizen who would otherwise have been freed, restored, or spared
-- **Obstruction (§1.8)** — where refusal is motivated by the convicted person's status, the system's institutional interests, or political considerations
+- **Obstruction (§1.1.8)** — where refusal is motivated by the convicted person's status, the system's institutional interests, or political considerations
 
 The doctrine of judicial immunity does not apply, consistent with Section 5.1.
 
 **Construction:**
 
-> The Conviction Review power exists to provide a citizen-driven remedy where the criminal-justice system has failed an individual. It is not a substitute for ordinary appellate review; it is a parallel safeguard for cases the ordinary system has not corrected. It shall be construed broadly in favor of the convicted person, consistent with Section 1.5.2.
+> The Conviction Review power exists to provide a citizen-driven remedy where the criminal-justice system has failed an individual. It is not a substitute for ordinary appellate review; it is a parallel safeguard for cases the ordinary system has not corrected. It shall be construed broadly in favor of the convicted person, consistent with Section 1.1.5.2.
 
 ---

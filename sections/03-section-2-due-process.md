@@ -163,7 +163,7 @@ Jury service exercises state power. Because a jury may authorize the deprivation
 
 #### 2.5.1 Juror Rights, Verdict Options, and Independent Deliberation
 
-The rights in this subsection are **protected rights** under Section 1.5. Interference with, denial of, chilling of, or retaliation against these rights is reachable under the protected-rights provisions of this Act.
+The rights in this subsection are **protected rights** under Section 1.1.5. Interference with, denial of, chilling of, or retaliation against these rights is reachable under the protected-rights provisions of this Act.
 
 > Every juror in any criminal proceeding prosecuted by the state, county, or municipality, in any **court of record** or **court not of record**, has the rights set out in this subsection. The court shall **inform every prospective and seated juror of these rights**, in plain language, before voir dire, before opening arguments, and again before deliberation.
 
@@ -214,7 +214,7 @@ The reason: group deliberation, while permitted, can **distort a juror's percept
 
 Where a juror who asked a question is excused, removed, replaced, or threatened with removal, the court shall immediately pause the proceeding and conduct an open inquiry on the record to determine whether the removal was caused in whole or in part by the juror's question.
 
-A judge who excuses, removes, replaces, threatens, or penalizes a juror because the juror asked a question, or who fails to conduct the required open inquiry after such a removal, commits **obstruction of justice** under Section 1.8 and violates the juror's protected rights under this subsection.
+A judge who excuses, removes, replaces, threatens, or penalizes a juror because the juror asked a question, or who fails to conduct the required open inquiry after such a removal, commits **obstruction of justice** under Section 1.1.8 and violates the juror's protected rights under this subsection.
 
 **Right Against Removal for Disagreement:**
 
@@ -304,7 +304,7 @@ A person who is **unable or unwilling** to perform the documentation required by
 **Construction:**
 
 - This subsection shall be construed to **maximize the accused's and convicted person's ability to appeal on the facts**
-- Ambiguity as to the sufficiency of juror documentation shall be resolved **in favor of the accused or convicted person**, consistent with Section 1.5.2
+- Ambiguity as to the sufficiency of juror documentation shall be resolved **in favor of the accused or convicted person**, consistent with Section 1.1.5.2
 - This subsection adds to, and does not limit, any other right of the accused or convicted person under federal, state, or international law
 
 #### 2.5.3 Crimes Applicable to Jurors; Wrongful Conviction as Conspiracy
@@ -333,19 +333,19 @@ A federal forum, federal label, federal prosecutor, federal courthouse, or feder
 
 **Wrongful Conviction Treated as Conspiracy:**
 
-> Where two or more jurors join in a verdict to convict an otherwise innocent person, and the conduct meets the standard above, the conduct **shall be charged as a conspiracy** under Section 1.1.1, with each participating juror treated as a co-conspirator.
+> Where two or more jurors join in a verdict to convict an otherwise innocent person, and the conduct meets the standard above, the conduct **shall be charged as a conspiracy** under Section 1.1.1.1, with each participating juror treated as a co-conspirator.
 
 A wrongful conviction by a unanimous or near-unanimous jury that is subsequently shown to have been against an innocent person, where the elements of this subsection are met, shall be **presumptively chargeable as a conspiracy** of the convicting jurors. A juror who voted to **acquit** or who is shown by the deliberation record to have actively dissented from the conviction is **not** subject to liability under this subsection for that verdict.
 
 **Underlying Offense:**
 
-A wrongful conviction by a juror under this section constitutes a **Battery** under Section 1.3 — an unlawful deprivation of the convicted person's liberty through direct action — and carries the Class 2 felony classification of that section, subject to the penalty enhancements of Section 5.6.
+A wrongful conviction by a juror under this section constitutes a **Battery** under Section 1.1.3 — an unlawful deprivation of the convicted person's liberty through direct action — and carries the Class 2 felony classification of that section, subject to the penalty enhancements of Section 5.6.
 
 **Limited Scope — What Is and Is Not Reachable:**
 
 - **Honest disagreement, reasonable mistake, or good-faith error** in evaluating the evidence presented is **not** chargeable as the felony offense of wrongful conviction under this subsection unless the knowledge or reckless-disregard standard is met
 - **Reasonable doubt resolved against the defendant** in good faith is not chargeable as the felony offense of wrongful conviction under this subsection unless the knowledge or reckless-disregard standard is met
-- A good-faith or negligent juror violation that falls short of wrongful-conviction liability may still be charged as an **infraction** under Section 1.4, or as a **Class 1 misdemeanor** where the conduct repeats, continues after correction, disregards a documentation duty, or materially burdens a citizen's rights
+- A good-faith or negligent juror violation that falls short of wrongful-conviction liability may still be charged as an **infraction** under Section 1.1.4, or as a **Class 1 misdemeanor** where the conduct repeats, continues after correction, disregards a documentation duty, or materially burdens a citizen's rights
 - This subsection applies only to verdicts subsequently shown to have been wrongful by **exoneration, DNA evidence, post-conviction relief, witness recantation, prosecutorial admission, or other competent evidence of actual innocence**, **and** where the juror's conduct meets the knowledge or reckless-disregard standard above
 
 **Doctrines That Do Not Bar Prosecution:**
@@ -360,7 +360,7 @@ Where a wrongful conviction under this subsection results in:
 
 - The convicted person's **death** — by capital sentence carried out, by death in custody, or by suicide consistent with Section 12.1 — the conduct shall be charged under Section 12 as applicable, **including capital classification under Section 12.1** where the convicted person's suicide is shown to be a direct or proximate result of the wrongful conviction
 - **Long-term incarceration** of the convicted person — the penalty enhancements of Section 5.6 (long-term deprivation of rights, victim restrained or unable to leave) apply
-- **Repeated wrongful convictions** by the same juror, the same jury panel, or in coordination with the same prosecutor or judge — the pattern may be charged additionally as **Cabalism (Section 1.6)** or **Government Racketeering (Section 1.7)**
+- **Repeated wrongful convictions** by the same juror, the same jury panel, or in coordination with the same prosecutor or judge — the pattern may be charged additionally as **Cabalism (Section 1.1.6)** or **Government Racketeering (Section 1.1.7)**
 
 ### 2.6 Prosecutors
 
@@ -389,9 +389,9 @@ The duties in this subsection are affirmative and continuing. A prosecutor must 
 
 > A prosecutor's failure to disclose adverse evidence to the jury, where the prosecutor knew or should have known the evidence would tend to undermine the prosecution's claim or establish innocence, is **Obstruction of Justice** under this title.
 
-- Charging follows the framework of Section 1.8: the **class of the obstruction mirrors the class of the offense being prosecuted**, with a **Class 2 felony floor**
+- Charging follows the framework of Section 1.1.8: the **class of the obstruction mirrors the class of the offense being prosecuted**, with a **Class 2 felony floor**
 - Where the failure is intentional, penalty enhancements under Section 5.6 apply
-- Where the failure is committed with malice (intent to obtain a conviction the prosecutor knows or recklessly disregards as wrongful), the conduct is also chargeable as **Malicious Prosecution under Section 1.14**
+- Where the failure is committed with malice (intent to obtain a conviction the prosecutor knows or recklessly disregards as wrongful), the conduct is also chargeable as **Malicious Prosecution under Section 1.1.14**
 
 **Note on *Brady v. Maryland*:**
 
@@ -422,7 +422,7 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 > Where a prosecutor knows of facts that would warrant reduction or dismissal under this subsection and **fails to seek** such reduction or dismissal, the prosecutor commits a **Class 3 felony** under this title.
 
 - The failure is reachable whether the case is **pre-trial, mid-trial, post-trial, or post-conviction** (including years after conviction)
-- Where the failure was intentional, penalty enhancements under Section 5.6 apply, and the conduct may be elevated to **Malicious Prosecution (§1.14)** or charged cumulatively
+- Where the failure was intentional, penalty enhancements under Section 5.6 apply, and the conduct may be elevated to **Malicious Prosecution (§1.1.14)** or charged cumulatively
 - Where the failure causes the citizen to suffer continuing incarceration or other deprivation of rights, the long-term-deprivation enhancement of Section 5.6 applies
 - Where the failure causes the citizen's death — carried out capital sentence, death in custody, or suicide consistent with Section 12.1 — the conduct is elevated to a **capital offense**
 
@@ -435,7 +435,7 @@ This subsection codifies and **expands** the duty recognized in *Brady v. Maryla
 
 **Construction:**
 
-This subsection shall be construed broadly in favor of the accused and convicted person, consistent with Section 1.5.2. The prosecutor's duty runs to the **truth**, not to the conviction; failure to act on the truth, when known, is itself reachable conduct under this title.
+This subsection shall be construed broadly in favor of the accused and convicted person, consistent with Section 1.1.5.2. The prosecutor's duty runs to the **truth**, not to the conviction; failure to act on the truth, when known, is itself reachable conduct under this title.
 
 ##### 2.6.1.3 Duty to Investigate Actual Innocence
 
@@ -478,9 +478,9 @@ A prosecutor who learns of evidence of actual innocence at any point — includi
 
 A prosecutor who fails to perform the duty of this subsection commits, depending on the elements established:
 
-- **Failure to Serve** under §1.15.1 (default Class 3 felony)
-- **Obstruction of Justice** under §1.8 where the failure is motivated by status, affiliation, political pressure, institutional reputation, or office convenience
-- **Malicious Prosecution** under §1.14 where the failure is accompanied by knowing or reckless disregard of clear evidence of innocence
+- **Failure to Serve** under §1.1.15.1 (default Class 3 felony)
+- **Obstruction of Justice** under §1.1.8 where the failure is motivated by status, affiliation, political pressure, institutional reputation, or office convenience
+- **Malicious Prosecution** under §1.1.14 where the failure is accompanied by knowing or reckless disregard of clear evidence of innocence
 - **Failure to Seek Reduction or Dismissal** under §2.6.1.2.1 where the inadequate investigation produced a continued prosecution that should have ended
 - **Malicious Case Maintenance** under §2.6.2.8 where the failure preserves a prosecution the prosecutor knows or recklessly disregards should not continue
 - Where the failure contributes to wrongful conviction, long-term incarceration, family separation, capital sentence, death in custody, or suicide consistent with Section 12.1, the offense is a **capital offense**
@@ -510,7 +510,7 @@ These offenses apply to elected prosecutors, deputy prosecutors, and any attorne
 - Reckless: **Class 3 felony**
 - Intentional: **Class 2 felony**
 - Where the charging causes wrongful conviction, wrongful incarceration, family separation, or suicide consistent with Section 12.1, the conduct is a **capital offense**
-- May be charged cumulatively under §1.14 (Malicious Prosecution), §2.6.1.2.1 (Failure to Seek Reduction or Dismissal), §17.2 (Institutional Retaliation), or §17.2B (Retaliatory Charge Fabrication) where the elements are met
+- May be charged cumulatively under §1.1.14 (Malicious Prosecution), §2.6.1.2.1 (Failure to Seek Reduction or Dismissal), §17.2 (Institutional Retaliation), or §17.2B (Retaliatory Charge Fabrication) where the elements are met
 
 ##### 2.6.2.2 Reckless Overcharging
 
@@ -528,7 +528,7 @@ These offenses apply to elected prosecutors, deputy prosecutors, and any attorne
 - **Class 3 felony** by default
 - **Class 2 felony** where the overcharging produces a plea, conviction, incarceration, family separation, or other material deprivation of rights
 - Where the overcharging contributes to wrongful conviction, prolonged incarceration, or suicide, the offense is a **capital offense**, and Section 12 applies where the elements are met
-- May be charged cumulatively under §2.6.2.1 (Charging Without Probable Cause), §2.6.2.6 (Coercive Plea Bargaining), and §1.14 (Malicious Prosecution)
+- May be charged cumulatively under §2.6.2.1 (Charging Without Probable Cause), §2.6.2.6 (Coercive Plea Bargaining), and §1.1.14 (Malicious Prosecution)
 
 ##### 2.6.2.3 Suppression of Favorable Evidence
 
@@ -548,7 +548,7 @@ This subsection identifies the active concealment side of the disclosure duty in
 
 - **Class 2 felony**
 - Where the suppression contributes to wrongful conviction, prolonged incarceration, death in custody, suicide, family separation, or capital sentence, the offense is a **capital offense**, and Section 12 applies where the elements are met
-- May be charged cumulatively under §2.6.1.1.1 (Failure to Disclose), §1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), §17.4A (Public-Record Spoliation), and §2.3.8 (One-Way Hearsay Suppression)
+- May be charged cumulatively under §2.6.1.1.1 (Failure to Disclose), §1.1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), §17.4A (Public-Record Spoliation), and §2.3.8 (One-Way Hearsay Suppression)
 
 ##### 2.6.2.4 False Representation to the Court
 
@@ -567,11 +567,11 @@ This subsection identifies the active concealment side of the disclosure duty in
 
 - **Class 2 felony**
 - Where the false representation affected a charging decision, plea, conviction, sentence, custody status, or other material outcome, the offense is a **capital offense**
-- May be charged cumulatively under §17.4 (Deliberate Record Distortion), §17.6 (Public Trust Fraud), §1.14 (Malicious Prosecution), and §1.8 (Obstruction)
+- May be charged cumulatively under §17.4 (Deliberate Record Distortion), §17.6 (Public Trust Fraud), §1.1.14 (Malicious Prosecution), and §1.1.8 (Obstruction)
 
 ##### 2.6.2.5 Retaliatory Prosecution
 
-> A prosecutor commits **retaliatory prosecution** when the prosecutor initiates, increases, maintains, or threatens charges to punish a person for exercising a protected right under §1.5 or for engaging in any other lawful conduct the prosecutor opposes.
+> A prosecutor commits **retaliatory prosecution** when the prosecutor initiates, increases, maintains, or threatens charges to punish a person for exercising a protected right under §1.1.5 or for engaging in any other lawful conduct the prosecutor opposes.
 
 **Examples:**
 
@@ -586,7 +586,7 @@ This subsection identifies the active concealment side of the disclosure duty in
 
 - **Class 2 felony**
 - Where the retaliation results in conviction, incarceration, family separation, or other material deprivation of rights, the offense is a **capital offense**
-- May be charged cumulatively under §17.2 (Institutional Retaliation), §17.2B (Retaliatory Charge Fabrication), §1.13 (Official Intimidation), §1.6 (Cabalism), and §1.7 (Government Racketeering)
+- May be charged cumulatively under §17.2 (Institutional Retaliation), §17.2B (Retaliatory Charge Fabrication), §1.1.13 (Official Intimidation), §1.1.6 (Cabalism), and §1.1.7 (Government Racketeering)
 
 ##### 2.6.2.6 Coercive Plea Bargaining
 
@@ -604,7 +604,7 @@ This subsection identifies the active concealment side of the disclosure duty in
 
 - **Class 2 felony**
 - Where the coercion produces a guilty plea, conviction, incarceration, family separation, or other material deprivation of rights, the offense is a **capital offense**
-- May be charged cumulatively under §1.12 (Terrorism), §1.13 (Official Intimidation), §2.10.2 (Constructive Denial of Counsel), and §1.14 (Malicious Prosecution)
+- May be charged cumulatively under §1.1.12 (Terrorism), §1.1.13 (Official Intimidation), §2.10.2 (Constructive Denial of Counsel), and §1.1.14 (Malicious Prosecution)
 
 **Defenses Limited:**
 
@@ -628,7 +628,7 @@ This subsection identifies the active concealment side of the disclosure duty in
 
 - **Class 2 felony**
 - Where the manipulation contributes to wrongful conviction, sex-offender registration, family separation, deportation, or capital sentence, the offense is a **capital offense**, and Section 12 applies where the elements are met
-- May be charged cumulatively under §17.4 (Deliberate Record Distortion), §17.4B (Forensic Truth Corruption), §1.14 (Malicious Prosecution), and §1.8 (Obstruction)
+- May be charged cumulatively under §17.4 (Deliberate Record Distortion), §17.4B (Forensic Truth Corruption), §1.1.14 (Malicious Prosecution), and §1.1.8 (Obstruction)
 
 ##### 2.6.2.8 Malicious Case Maintenance
 
@@ -648,7 +648,7 @@ This subsection identifies the malicious-continuation aspect of the prosecutor's
 
 - **Class 2 felony**
 - Where the malicious maintenance contributes to wrongful conviction, long-term incarceration, death in custody, capital sentence, or suicide, the offense is a **capital offense**, and Section 12 applies where the elements are met
-- This subsection is cumulative to §1.14 (Malicious Prosecution), §2.6.1.2.1 (Failure to Seek Reduction or Dismissal), §17.4 (Deliberate Record Distortion), and the wrongful-conviction conspiracy provisions of §2.5.3
+- This subsection is cumulative to §1.1.14 (Malicious Prosecution), §2.6.1.2.1 (Failure to Seek Reduction or Dismissal), §17.4 (Deliberate Record Distortion), and the wrongful-conviction conspiracy provisions of §2.5.3
 
 ### 2.7 Judges
 
@@ -684,7 +684,7 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 
 - Where the failure was intentional, penalty enhancements under Section 5.6 apply
 - Where committed with malice (e.g., to obtain a particular outcome favorable to the judge or to a connected party), the conduct is elevated to a **capital offense** per the mens rea framework of Section 3
-- A pattern of failures to recuse may be additionally charged as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
+- A pattern of failures to recuse may be additionally charged as **Cabalism (§1.1.6)** or **Government Racketeering (§1.1.7)**
 - A conviction or judgment entered after a failure-to-recuse is presumptively subject to vacatur on direct or collateral review
 
 ##### 2.7.1.2 Judicial Duty to Engage on the Merits
@@ -702,8 +702,8 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 **Failure — Reckless Prosecution / Anarchy:**
 
 - Where a judge knowingly fails to engage with the evidence or law on the merits, the conduct is **reckless prosecution** under Section 2.5.2 — a **Class 2 felony**
-- Where the failure rises to acting completely outside the judicial role (e.g., issuing rulings with no factual or legal basis), the conduct is **Anarchy** under Section 1.10
-- A pattern of such failures may be charged additionally as **Cabalism (§1.6)** or **Government Racketeering (§1.7)**
+- Where the failure rises to acting completely outside the judicial role (e.g., issuing rulings with no factual or legal basis), the conduct is **Anarchy** under Section 1.1.10
+- A pattern of such failures may be charged additionally as **Cabalism (§1.1.6)** or **Government Racketeering (§1.1.7)**
 - Penalty enhancements under Section 5.6 apply, particularly the long-term-deprivation enhancement where a citizen suffers continuing consequences
 
 ##### 2.7.1.3 Prohibition on Ex Parte Communications
@@ -761,16 +761,16 @@ These duties operate alongside the existing judicial-conduct provisions of this 
 
 **Construction:**
 
-This subsection shall be construed broadly in favor of the citizen affected by the judicial failure, consistent with Section 1.5.2. The judge's duty runs to the **law as written and to the citizen as protected by it** — not to institutional convenience, professional courtesy, or the maintenance of past practice.
+This subsection shall be construed broadly in favor of the citizen affected by the judicial failure, consistent with Section 1.1.5.2. The judge's duty runs to the **law as written and to the citizen as protected by it** — not to institutional convenience, professional courtesy, or the maintenance of past practice.
 
 #### 2.7.2 Judicial Recklessness
 
-> A judge commits **judicial recklessness** where the judge issues a ruling or order with gross disregard for clearly established law, the rights protected under §1.5, or the evidence in the record of the case before them.
+> A judge commits **judicial recklessness** where the judge issues a ruling or order with gross disregard for clearly established law, the rights protected under §1.1.5, or the evidence in the record of the case before them.
 
 **Elements:**
 
-- The actor is a judge or other judicial officer (§1.1)
-- The ruling or order at issue departed grossly from clearly established law, the rights protected under §1.5, or the evidence in the record
+- The actor is a judge or other judicial officer (§1.1.1)
+- The ruling or order at issue departed grossly from clearly established law, the rights protected under §1.1.5, or the evidence in the record
 - The judge was aware, or in reckless disregard of clear evidence should have been aware, of the departure
 
 **Distinction from Other Judicial Duties:**
@@ -783,7 +783,7 @@ This subsection shall be construed broadly in favor of the citizen affected by t
 
 - **Class 2 felony** (capital offense where part of a pattern, or where the ruling produced a wrongful conviction or sustained deprivation of rights)
 - Judicial immunity does not apply, consistent with §5.1
-- May be charged cumulatively with §§2.7.1.2 and 2.7.1.4, and where applicable §2.5.3 (Wrongful Conviction as Conspiracy) and §1.6 (Cabalism)
+- May be charged cumulatively with §§2.7.1.2 and 2.7.1.4, and where applicable §2.5.3 (Wrongful Conviction as Conspiracy) and §1.1.6 (Cabalism)
 
 ### 2.8 Officers
 
@@ -838,13 +838,13 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 
 - Any statement obtained in violation of this section is presumptively involuntary and inadmissible in any criminal, civil, administrative, immigration, school-disciplinary, parole, probation, pretrial-release, or licensing proceeding
 - Derivative evidence obtained because of the violation is presumptively tainted unless the government proves by clear and convincing evidence that the evidence would have been discovered through wholly independent lawful means
-- A prosecutor who knowingly uses, threatens to use, or fails to disclose the violation concerning a statement obtained under this section may be charged cumulatively under §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), or §17.5 (Gross Dereliction of Public Duty), as applicable
+- A prosecutor who knowingly uses, threatens to use, or fails to disclose the violation concerning a statement obtained under this section may be charged cumulatively under §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.1.14 (Malicious Prosecution), §17.4 (Deliberate Record Distortion), or §17.5 (Gross Dereliction of Public Duty), as applicable
 
 **Classification:**
 
 - Reckless violation: **Class 3 felony**
 - Intentional violation: **Class 2 felony**
-- Violation producing a confession, admission, plea, conviction, probation revocation, parole revocation, immigration consequence, school expulsion, professional discipline, or other material deprivation of rights: **Class 2 felony**, chargeable cumulatively under §1.3 (Battery)
+- Violation producing a confession, admission, plea, conviction, probation revocation, parole revocation, immigration consequence, school expulsion, professional discipline, or other material deprivation of rights: **Class 2 felony**, chargeable cumulatively under §1.1.3 (Battery)
 - Violation committed with malice, as part of a pattern, or against a child, disabled person, intoxicated person, mentally impaired person, non-English speaker without adequate interpretation, or citizen in medical or psychological crisis: **capital offense**
 - Where the violation contributes to long-term incarceration, wrongful conviction, death in custody, capital sentence, or suicide, the penalty enhancements of Section 5.6 and the death-resulting provisions of Section 12 apply
 
@@ -904,7 +904,7 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 
 - Citizenship-claim detention obstruction is a **Class 2 felony**
 - Where the person is transferred out of state, placed in removal proceedings, deported, separated from family, denied medication, or held more than forty-eight (48) hours after lawful release eligibility, the offense is a **capital offense**
-- Charge cumulatively under §1.3 (Battery), §2.9 (Constitutional Objection Duty), §17.9K (Language-Access Obstruction), or §2.8.4 (Custodial Medical Abandonment) where applicable
+- Charge cumulatively under §1.1.3 (Battery), §2.9 (Constitutional Objection Duty), §17.9K (Language-Access Obstruction), or §2.8.4 (Custodial Medical Abandonment) where applicable
 
 #### 2.8.6 Sheriff Custody and Release Obstruction
 
@@ -922,7 +922,7 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Sheriff custody and release obstruction is a **Class 3 felony**
 - Where the obstruction causes additional confinement, missed court deadline, loss of counsel, medical crisis, family separation, job loss, housing loss, immigration consequence, or inability to preserve evidence, the offense is a **Class 2 felony**
 - Where the obstruction is intentional, retaliatory, discriminatory, or affects a child, disabled person, non-English speaker, medically dependent person, pregnant person, or person in behavioral-health crisis, the offense is a **capital offense**
-- Charge cumulatively under §1.3, §1.13, §17.9K, §2.8.4, or §2.8.5 where applicable
+- Charge cumulatively under §1.1.3, §1.1.13, §17.9K, §2.8.4, or §2.8.5 where applicable
 
 #### 2.8.7 Crisis-Response Misconduct
 
@@ -942,7 +942,7 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 
 - Technical-violation incarceration abuse is a **Class 3 felony**
 - Where incarceration, job loss, housing loss, family separation, medical interruption, benefit loss, immigration consequence, or plea pressure results, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.9E (Revenue Extraction), §2.8.9 (Electronic Custody Abuse), or §1.3 (Battery), where the elements are met
+- Charge cumulatively under §17.9E (Revenue Extraction), §2.8.9 (Electronic Custody Abuse), or §1.1.3 (Battery), where the elements are met
 
 #### 2.8.9 Electronic Custody Abuse
 
@@ -977,11 +977,11 @@ No person in custody, detention, supervision, placement, institutional control, 
 - Home-invasion under color of warrant is a **Class 2 felony**
 - Where a child, elder, disabled person, sleeping person, uninvolved resident, or person in medical or mental-health crisis is endangered, the offense is a **capital offense**
 - Where death, serious bodily injury, suicide, or life-threatening medical crisis results, Section 11 applies
-- Charge cumulatively under §1.3 (Battery), §1.10 (Anarchy), §17.4, §17.13, §17.14, or §17.15, where applicable
+- Charge cumulatively under §1.1.3 (Battery), §1.1.10 (Anarchy), §17.4, §17.13, §17.14, or §17.15, where applicable
 
 #### 2.8.12 Sheriff Command Responsibility Failure
 
-> A sheriff, undersheriff, chief deputy, jail commander, marshal, constable, federal marshal, or other command-level enforcement actor commits **sheriff command responsibility failure** where the actor knowingly maintains, approves, ratifies, ignores, or fails to correct a policy, custom, training failure, supervision failure, jail practice, warrant practice, transport practice, or deputy conduct pattern that violates this Act or foreseeably causes violations of rights protected under §1.5.
+> A sheriff, undersheriff, chief deputy, jail commander, marshal, constable, federal marshal, or other command-level enforcement actor commits **sheriff command responsibility failure** where the actor knowingly maintains, approves, ratifies, ignores, or fails to correct a policy, custom, training failure, supervision failure, jail practice, warrant practice, transport practice, or deputy conduct pattern that violates this Act or foreseeably causes violations of rights protected under §1.1.5.
 
 **Includes, Without Limitation:**
 
@@ -1024,9 +1024,9 @@ Good-faith engagement requires more than saying *"take it up with the judge,"* *
 **Classification:**
 
 - Constitutional objection obstruction is a **Class 2 felony**
-- Where the continued enforcement causes actual deprivation of liberty, property, parental rights, bodily autonomy, livelihood, or any other protected right, the conduct may be charged cumulatively under **§1.3 (Battery)**
+- Where the continued enforcement causes actual deprivation of liberty, property, parental rights, bodily autonomy, livelihood, or any other protected right, the conduct may be charged cumulatively under **§1.1.3 (Battery)**
 - Where the actor is a judge or judicial officer, the conduct may be charged cumulatively under **§2.7.1.2 (Judicial Duty to Engage on the Merits)** and **§2.7.1.4 (Judicial Duty to Apply Mandatory Rules and Correct Errors)**
-- Where the continued enforcement is part of a pattern, policy, coordinated practice, or institutional scheme, it may be charged cumulatively under **§1.6 (Cabalism)**, **§1.7 (Government Racketeering)**, or **§1.9 (Treason)** where the elements are met
+- Where the continued enforcement is part of a pattern, policy, coordinated practice, or institutional scheme, it may be charged cumulatively under **§1.1.6 (Cabalism)**, **§1.1.7 (Government Racketeering)**, or **§1.1.9 (Treason)** where the elements are met
 
 **Defenses Limited:**
 
@@ -1051,7 +1051,7 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 
 - Court access burdening is a **Class 1 misdemeanor**
 - Where the burden causes missed deadline, default, dismissal, warrant, detention, loss of appeal, loss of custody, loss of housing, loss of benefits, or inability to seek protection from violence, the conduct is a **Class 3 felony**
-- Where the burden is intentional, retaliatory, discriminatory, or part of a pattern, charge cumulatively under §17.2 (Institutional Retaliation), §17.9 (Failure of Transparency), §1.13 (Official Intimidation), or §1.10 (Anarchy), as applicable
+- Where the burden is intentional, retaliatory, discriminatory, or part of a pattern, charge cumulatively under §17.2 (Institutional Retaliation), §17.9 (Failure of Transparency), §1.1.13 (Official Intimidation), or §1.1.10 (Anarchy), as applicable
 
 **Defenses Limited:**
 
@@ -1095,7 +1095,7 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 - Clerk access obstruction is a **Class 1 misdemeanor**
 - Where the obstruction causes missed deadline, default, dismissal, warrant, loss of appeal, denial of public meeting participation, election harm, loss of benefits, loss of custody, loss of housing, loss of license, or inability to seek protection from violence, the offense is a **Class 3 felony**
 - Where the obstruction is intentional, retaliatory, discriminatory, election-related, or directed at a Citizen Council, complainant, witness, constitutional objection, or public-record request concerning government misconduct, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.9, §2.10.1, §17.4A, §1.13, or §9.9 where applicable
+- Charge cumulatively under §17.9, §2.10.1, §17.4A, §1.1.13, or §9.9 where applicable
 
 #### 2.10.5 Docket, Agenda, and Minutes Distortion
 
@@ -1113,7 +1113,7 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 - Docket, agenda, and minutes distortion is a **Class 3 felony**
 - Where the distortion affects court access, criminal prosecution, child custody, election administration, public debt, public contracts, zoning, property rights, Citizen Council action, or constitutional rights, the offense is a **Class 2 felony**
 - Where the distortion is coordinated by multiple actors, conceals corruption, changes an election outcome, causes incarceration, or defeats a citizen's ability to challenge government action, the offense is a **capital offense**
-- Charge cumulatively under §17.4, §17.4A, §17.6, §17.20, §17.21, or §1.7 where applicable
+- Charge cumulatively under §17.4, §17.4A, §17.6, §17.20, §17.21, or §1.1.7 where applicable
 
 #### 2.10.6 Citizen Filing Gatekeeping
 
@@ -1135,7 +1135,7 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 
 ### 2.11 Public Defenders
 
-Public defenders, court-appointed counsel, contract public defenders, and any attorney paid, appointed, or authorized by the state to represent indigent defendants exercise delegated public authority within the criminal justice system. They are government actors within the meaning of §1.1 with respect to their public-defense function, and the duties and offenses of this subsection apply to that function.
+Public defenders, court-appointed counsel, contract public defenders, and any attorney paid, appointed, or authorized by the state to represent indigent defendants exercise delegated public authority within the criminal justice system. They are government actors within the meaning of §1.1.1 with respect to their public-defense function, and the duties and offenses of this subsection apply to that function.
 
 This subsection does **not** apply to private defense counsel retained by private contract, unless that attorney is acting under public appointment, public contract, or delegated state authority.
 
@@ -1246,7 +1246,7 @@ This subsection does **not** apply to private defense counsel retained by privat
 - **Capital offense**
 - Permanent disqualification from public-defense work applies
 - Civil liability to the harmed citizen applies under Section 10
-- May be charged cumulatively as conspiracy under §1.1.1 with any other actor who participated in the false conviction, including jurors under §2.5.3, prosecutors under §1.14, and judges under §2.7.1
+- May be charged cumulatively as conspiracy under §1.1.1.1 with any other actor who participated in the false conviction, including jurors under §2.5.3, prosecutors under §1.1.14, and judges under §2.7.1
 
 #### 2.11.7 Affirmative Duties of Public Defenders
 
@@ -1324,7 +1324,7 @@ A court that receives a public defender's notice of overwhelming caseload **shal
 - Order the contracting authority to fund additional counsel where existing counsel cannot be reallocated
 - **Not** hold the attorney in contempt, sanction the attorney, refer the attorney for professional discipline, or otherwise penalize the attorney for the refusal
 
-A court's refusal to accept a public defender's notice of overwhelming caseload, or a court's imposition of contempt or sanctions on an attorney for invoking this right, is itself a violation reachable under §2.7.1.4 (Judicial Duty to Apply Mandatory Rules and Correct Errors) and §2.10.2 (Constructive Denial of Counsel), and may be charged cumulatively under §1.8 (Obstruction) and §17.2 (Institutional Retaliation).
+A court's refusal to accept a public defender's notice of overwhelming caseload, or a court's imposition of contempt or sanctions on an attorney for invoking this right, is itself a violation reachable under §2.7.1.4 (Judicial Duty to Apply Mandatory Rules and Correct Errors) and §2.10.2 (Constructive Denial of Counsel), and may be charged cumulatively under §1.1.8 (Obstruction) and §17.2 (Institutional Retaliation).
 
 **State Liability for Caseload-Caused Ineffective Assistance:**
 
@@ -1333,11 +1333,11 @@ A court's refusal to accept a public defender's notice of overwhelming caseload,
 This liability includes, without limitation:
 
 - **§2.10.2 Constructive Denial of Counsel** — the structural offense already defined in this Act, charged against the officials who fund, administer, contract, assign, or adjudicate the defective system
-- **§1.3 Battery** — for unlawful deprivation of the citizen's Sixth Amendment right to counsel through direct administrative action
+- **§1.1.3 Battery** — for unlawful deprivation of the citizen's Sixth Amendment right to counsel through direct administrative action
 - **§17.20 Deliberate Budget Concealment** — where the funding decision was concealed, misrepresented, or carried out while the responsible actors knew the funding was insufficient to support constitutionally adequate representation
 - **§17.21 Preferential Contracting Abuse** — where the public-defense contract was awarded based on lowest bid, political favoritism, or similar non-merit grounds resulting in known underfunding
 - **§17.24B Executive Refusal to Correct Rights Violations** — where the responsible executive actor had notice of the systemic failure and failed to correct it
-- **§1.1.2 Entity-Level Liability** — the State, county, municipality, public-defense agency, or contracting body is liable as an entity, separately and additionally to the individual actors
+- **§1.1.1.2 Entity-Level Liability** — the State, county, municipality, public-defense agency, or contracting body is liable as an entity, separately and additionally to the individual actors
 - **§11 Forfeiture** — applies to individual actors found liable
 - Civil cause of action under **§10**, with no statute of limitations under §10.3
 
@@ -1361,6 +1361,48 @@ The State of Utah, by adopting this Act, accepts that an attorney who is overwor
 
 This subsection shall be construed broadly in favor of the citizen's right to effective assistance of counsel and broadly in favor of the public defender's right and duty to refuse work that would deny that effective assistance to existing or prospective clients. The citizen, the attorney, and the constitutional system all bear the cost when the State assigns workloads beyond human capacity; this Act places that cost back on the State, where it belongs.
 
+#### 2.11.9 Parity of Arms — Equal Resourcing of Defense and Prosecution
+
+> The defense and the prosecution in any criminal proceeding must be **equivalently resourced**. The State of Utah may not provide the prosecution with more attorneys, more investigators, more expert witnesses, more forensic-testing capacity, more time, more funding, more institutional support, or any other material resource advantage in a case while providing the defense with less. Where the State so prosecutes, the State has not afforded effective assistance of counsel within the meaning of this Act.
+
+**Statement of Principle:**
+
+The adversarial system rests on the assumption that two equivalently equipped sides can test the truth between them. When one side is resourced by the State at a level the other cannot match, the contest is no longer a search for truth — it becomes a foregone conclusion the State has paid for. A trial in which the prosecution operates with a team of attorneys, investigators, and experts while the defense is a single overworked attorney with no investigator, no expert, and no time is not an adversarial proceeding. It is a procedural ritual ending in conviction.
+
+**Parity Requirements:**
+
+In every criminal proceeding within the scope of this Act, the State shall ensure, through funding, contracting, assignment, and administration:
+
+- **Equal numbers of attorneys** — the defense team shall include at least as many attorneys assigned to the case as the prosecution team
+- **Equal investigative resources** — the defense shall have access to investigators of equivalent number, training, and capacity to those available to the prosecution
+- **Equal expert-witness access** — the defense shall have funding sufficient to retain expert witnesses of comparable expertise to those the prosecution intends to call
+- **Equal forensic capacity** — the defense shall have equivalent access to laboratory testing, independent re-testing, and independent forensic review of any evidence the prosecution intends to introduce
+- **Equal preparation time** — neither side shall have a scheduling advantage; continuances, extensions, and time allocations available to the prosecution shall be equally available to the defense
+- **Equal discovery, review, and administrative capacity** — the defense shall have paralegal, e-discovery, document-review, and clerical capacity comparable to that available to the prosecution
+- **Equal funding** — the per-case funding for the defense shall be no less than the per-case funding for the prosecution, and the aggregate funding for public defense within a jurisdiction shall be no less than the aggregate funding for prosecution within that jurisdiction
+
+**Determination of Parity:**
+
+Parity is determined by a reasonable comparison of the resources actually available to the prosecution and the defense in the specific case, supported by documentary evidence of staffing, funding, time allocation, and access. A defendant or defender who alleges lack of parity may file a notice with the court requiring the State to disclose, on the record, the prosecution-side resources committed to the case — including attorney hours, investigator hours, expert retainers, forensic-testing budget, and administrative support. Refusal to disclose is itself reachable under §17.9 (Failure of Transparency) and §1.1.8 (Obstruction).
+
+**Consequence of Non-Parity:**
+
+- A criminal proceeding conducted without parity is presumptively a **constructive denial of counsel** under §2.10.2, and produces **ineffective assistance of counsel** within the meaning of §1.1.17, without need to show outcome-determinative prejudice
+- Any conviction resulting from a non-parity proceeding is **presumptively subject to vacatur** on direct or collateral review
+- The State, the prosecuting office, and the responsible budgeting / contracting / administering officials are personally and institutionally liable under §2.10.2 (Constructive Denial of Counsel), §2.11.8 (State Liability for Caseload-Caused Ineffective Assistance), §17.20 (Deliberate Budget Concealment), §17.21 (Preferential Contracting Abuse), and §17.24B (Executive Refusal to Correct Rights Violations), where the elements are met
+- Citizens may seek civil remedy under Section 10 and Citizen Council action under Section 9
+
+**Defenses Limited:**
+
+- "Other states do it this way" is not a defense
+- "The defense did not request parity" is not a defense; the State's duty under this subsection is **affirmative**, not waiver-conditioned
+- "Resource constraints" is not a defense; if the State cannot fund parity at the current charging volume, the State must reduce charging volume, reallocate funds, or accept the dismissal of cases that cannot be lawfully prosecuted on parity terms
+- The fact that the defense is provided by a private retained attorney does not relieve the State of the parity duty where State action is the source of the imbalance (e.g., where prosecution-side discovery, expert access, or institutional resources are denied to the defense)
+
+**Construction:**
+
+This subsection shall be construed broadly in favor of the citizen's right to an equivalently resourced defense. The adversarial system does not function — and is not adversarial — where one side is structurally outgunned by the State that prosecutes them. Parity is the floor on which effective assistance of counsel rests; without it, every other due-process protection in this Act is at risk of becoming procedural decoration over a foregone outcome.
+
 ### 2.12 Shared Offenses for Attorneys in the Criminal Process
 
 The offenses of this subsection apply to both prosecutors and public defenders, and to any other attorney participating in a public criminal proceeding under public appointment, public contract, or delegated state authority. They reach conduct in which an attorney's participation in the public criminal process itself becomes a violation of due process.
@@ -1380,7 +1422,7 @@ The offenses of this subsection apply to both prosecutors and public defenders, 
 
 - **Class 2 felony**
 - Where the collusion contributes to wrongful conviction, prolonged incarceration, family separation, capital sentence, or suicide, the offense is a **capital offense**
-- May be charged cumulatively as conspiracy under §1.1.1 and under §1.6 (Cabalism) or §1.7 (Government Racketeering)
+- May be charged cumulatively as conspiracy under §1.1.1.1 and under §1.1.6 (Cabalism) or §1.1.7 (Government Racketeering)
 
 #### 2.12.2 Public Rights Deception
 
@@ -1398,7 +1440,7 @@ The offenses of this subsection apply to both prosecutors and public defenders, 
 
 - **Class 2 felony**
 - Where the deception produces a plea, waiver, conviction, family separation, or other material deprivation of rights, the offense is a **capital offense**
-- May be charged cumulatively under §2.6.2.4 (False Representation to the Court), §2.6.2.6 (Coercive Plea Bargaining), §2.11.3 (Coercive Plea Pressure by Public Defender), and §1.13 (Official Intimidation)
+- May be charged cumulatively under §2.6.2.4 (False Representation to the Court), §2.6.2.6 (Coercive Plea Bargaining), §2.11.3 (Coercive Plea Pressure by Public Defender), and §1.1.13 (Official Intimidation)
 
 #### 2.12.3 Knowing Participation in Unlawful Detention
 
@@ -1414,7 +1456,7 @@ The offenses of this subsection apply to both prosecutors and public defenders, 
 
 - **Class 2 felony**
 - Where the unlawful detention causes prolonged incarceration, family separation, medical crisis, suicide, or death in custody, the offense is a **capital offense**, and Section 12 applies where the elements are met
-- May be charged cumulatively under §1.3 (Battery), §2.6.2.1 (Charging Without Probable Cause), and §2.8.6 (Sheriff Custody and Release Obstruction)
+- May be charged cumulatively under §1.1.3 (Battery), §2.6.2.1 (Charging Without Probable Cause), and §2.8.6 (Sheriff Custody and Release Obstruction)
 
 #### 2.10.7 Guardianship Rights Plunder
 

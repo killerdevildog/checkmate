@@ -28,7 +28,7 @@ For purposes of this Section:
 
 **Repugnancy** means a contradiction, conflict, incompatibility, or irreconcilable inconsistency between a government instrument and a higher controlling authority, including this Act, the Utah Constitution, the Constitution of the United States, protected rights, due process, or objective legal reality. A repugnant instrument is void because the government may not create enforceable authority from an instrument that contradicts the authority on which it depends.
 
-**Logical inconsistency** means the absence of logical consistency as defined in Section 1.1.10. A logical inconsistency exists where a government instrument, explanation, enforcement theory, or official defense depends on contradiction, double standard, false premise, circular reasoning, hidden exception, selective application, or treating the same fact as true for government advantage and false for citizen protection.
+**Logical inconsistency** means the absence of logical consistency as defined in Section 1.1.1.10. A logical inconsistency exists where a government instrument, explanation, enforcement theory, or official defense depends on contradiction, double standard, false premise, circular reasoning, hidden exception, selective application, or treating the same fact as true for government advantage and false for citizen protection.
 
 **Logical consistency** means that the instrument, facts, law, enforcement theory, and remedy fit together without contradiction. A government actor may not make enforcement lawful merely by giving an official name to an inconsistent act.
 
@@ -77,7 +77,7 @@ Under this Act, a Citizen Council may examine whether enforcement of a motor-veh
 - If the non-insurance alternatives exist only for citizens with substantial money, credit, assets, institutional access, or legal sophistication, the government may not pretend those alternatives make the mandate voluntary for poor, working, disabled, rural, young, elderly, or otherwise financially limited citizens
 - If every statutory option is a contract, a contract-like undertaking, a property pledge, a credit arrangement, a reserve requirement, or a policy-based financial obligation, the Council shall treat the scheme as a compelled financial-obligation scheme rather than a free choice
 - A financial-responsibility scheme must be examined from the position of the least financially powerful citizen who still needs ordinary transportation to work, court, school, medical care, food, family, worship, civic activity, or lawful daily life
-- The right to move from place to place on public roads may not be conditioned on a financial barrier so high that the poor are effectively priced out of ordinary movement, livelihood, or participation in civil society. A right to interstate travel without ordinary access to the roads, routes, and practical means of travel is not a right in any meaningful sense; it is a privilege reserved for those who can afford government-approved access. This principle is supported by Section 1.5.3 and by the travel and wealth-barrier authorities listed at **L.28** through **L.33**
+- The right to move from place to place on public roads may not be conditioned on a financial barrier so high that the poor are effectively priced out of ordinary movement, livelihood, or participation in civil society. A right to interstate travel without ordinary access to the roads, routes, and practical means of travel is not a right in any meaningful sense; it is a privilege reserved for those who can afford government-approved access. This principle is supported by Section 1.1.5.3 and by the travel and wealth-barrier authorities listed at **L.28** through **L.33**
 - If a government actor treats failure to purchase an insurance contract from a private insurer as the crime, while ignoring lawful non-contract alternatives, the enforcement theory is logically inconsistent with the statute
 - If the state imposes criminal punishment solely because a citizen refuses to enter a private insurance contract, that application is repugnant to the protected liberty of contract and the corresponding liberty not to contract
 - If the state claims it has identified a lawful, non-contract financial-responsibility alternative, the Council must examine whether that alternative is truly non-contractual, actually accessible to low-income citizens, and practically available without wealth, credit, large deposits, institutional status, or specialized legal assistance
@@ -117,15 +117,15 @@ A government actor's good-faith reliance on the apparent existence or facial val
 
 Such conduct may be charged, depending on the elements established, as one or more of:
 
-- **§1.10 Anarchy** — acting completely outside the law in issuing or enforcing the repugnant instrument
+- **§1.1.10 Anarchy** — acting completely outside the law in issuing or enforcing the repugnant instrument
 - **§2.7.1.2 Judicial Duty to Engage on the Merits** — where the instrument is a judicial judgment, order, or warrant issued without the engagement required by this Act
 - **§2.7.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — where the issuing or enforcing actor failed to apply the constitutional principles that render the instrument null
-- **§1.6 Cabalism** — where the issuance or enforcement is part of small-group coordination producing unjust outcomes for citizens
-- **§1.7 Government Racketeering** — where part of a pattern or scheme using authority to extract benefit, punish, or coerce
-- **§1.9 Treason** — where the issuance or enforcement constitutes constitutional warfare against Utah citizens, the Utah Constitution, or the U.S. Constitution
-- **§1.8 Obstruction of Justice** — where the issuance or enforcement is motivated by the protected status of any beneficiary
-- **§1.12 Terrorism** or **§1.13 Official Intimidation** — where the instrument is used to threaten or coerce a citizen's wellbeing
-- **§1.3 Battery** — where enforcement actually deprives the citizen of rights, liberty, or property
+- **§1.1.6 Cabalism** — where the issuance or enforcement is part of small-group coordination producing unjust outcomes for citizens
+- **§1.1.7 Government Racketeering** — where part of a pattern or scheme using authority to extract benefit, punish, or coerce
+- **§1.1.9 Treason** — where the issuance or enforcement constitutes constitutional warfare against Utah citizens, the Utah Constitution, or the U.S. Constitution
+- **§1.1.8 Obstruction of Justice** — where the issuance or enforcement is motivated by the protected status of any beneficiary
+- **§1.1.12 Terrorism** or **§1.1.13 Official Intimidation** — where the instrument is used to threaten or coerce a citizen's wellbeing
+- **§1.1.3 Battery** — where enforcement actually deprives the citizen of rights, liberty, or property
 
 The doctrine of judicial, prosecutorial, qualified, or sovereign immunity does **not** apply (consistent with §5.1.1).
 
@@ -137,7 +137,7 @@ A determination that a government instrument is repugnant under this Section may
 - **A Citizen Council under Section 9.14 (Logical Consistency Review)** by unanimous vote of twelve (12) or more members
 - **A Citizen Council under any other applicable provision of Section 9** in the course of investigating or charging conduct under this title
 
-A determination by any of the above is **binding within the State of Utah** and shall be given effect by all government actors immediately and without delay. Failure to give effect to such a determination is itself reachable conduct under §1.10 (Anarchy), §2.7.1.4 (Judicial Duty to Apply Mandatory Rules), or §1.8 (Obstruction).
+A determination by any of the above is **binding within the State of Utah** and shall be given effect by all government actors immediately and without delay. Failure to give effect to such a determination is itself reachable conduct under §1.1.10 (Anarchy), §2.7.1.4 (Judicial Duty to Apply Mandatory Rules), or §1.1.8 (Obstruction).
 
 ### 16.5 Standard for Repugnance
 
@@ -145,7 +145,7 @@ A government instrument is **repugnant** for purposes of this Section where:
 
 - It directly **contradicts** a provision of this Act, the Utah Constitution, or the U.S. Constitution;
 - Its enforcement would require a citizen to **surrender or violate a right** protected by any of the foregoing;
-- It rests on **authority that does not exist**, or that has been removed or limited by this Act, the Utah Constitution, or the U.S. Constitution (compare §1.10 Anarchy);
+- It rests on **authority that does not exist**, or that has been removed or limited by this Act, the Utah Constitution, or the U.S. Constitution (compare §1.1.10 Anarchy);
 - It exists as a **workaround or evasion** of any provision of this Act; or
 - Compliance with it would **itself constitute a violation** of this Act.
 
@@ -166,7 +166,7 @@ The full Council powers and protections of Section 9 — including no-judicial-g
 This Section shall be construed:
 
 - **Broadly in favor of nullity** where any genuine conflict exists between a government instrument and the cited authorities
-- **Against** government instruments that purport to compel surrender of rights protected under §1.5
+- **Against** government instruments that purport to compel surrender of rights protected under §1.1.5
 - Consistent with the binding rules of construction in the Statement of Intent
 - In recognition that the principle that **"a law repugnant to the Constitution is void"** is a foundational principle of American constitutional law established in **Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)** — and that this Section codifies and operationalizes that principle for **all** government instruments, not statutes alone
 

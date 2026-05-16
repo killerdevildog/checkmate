@@ -10,8 +10,8 @@ This includes, without limitation, provisions of this Act that:
 - Eliminate qualified, judicial, or sovereign immunity for criminal violations under this title (Section 5.1)
 - Override existing rules of jury procedure, deliberation, and verdict (Sections 4.1.2 and 2.1.1)
 - Create new offenses (Sections 1.2, 1.3, 1.4, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11)
-- Subject government bodies and entities to liability (Section 1.1.2)
-- Restrict foreign-funded lobbying (Section 1.11)
+- Subject government bodies and entities to liability (Section 1.1.1.2)
+- Restrict foreign-funded lobbying (Section 1.1.11)
 - Amend or supplement the rights, protections, and procedures otherwise guaranteed by the Utah Constitution
 
 To the extent that adoption of this Act requires submission to the citizens of Utah for ratification under **Article XXIII** of the Utah Constitution or other applicable amendment procedures, this Act shall be so submitted. Upon ratification by the citizens, this Act shall stand as a **constitutional amendment of equal force** with all other provisions of the Utah Constitution.
@@ -26,7 +26,7 @@ To the extent that adoption of this Act requires submission to the citizens of U
 - **(d)** **Reduces the powers of the Citizen Council mechanism** (Section 9), including its investigative authority, the indictment-effect filing under Section 9.11, the Council Declaration powers under Section 9.8, or the inmate provisions of Section 9.12
 - **(e)** **Restores any statute of limitations** on civil or criminal actions under this title (contrary to Section 10.3)
 - **(f)** Limits the scope of **forfeiture** under Section 11 or restores any form of indemnification of individual actors from entity funds
-- **(g)** Diminishes any of the **substantive protections of Section 1.5** (Protected Rights)
+- **(g)** Diminishes any of the **substantive protections of Section 1.1.5** (Protected Rights)
 - **(h)** Removes the **age-14 minimum** for Council participation in a manner that disenfranchises young citizens, or otherwise narrows participation in the Citizen Council mechanism
 - **(i)** Otherwise tilts the balance of legal access, cost, procedural complexity, or institutional power **against the common citizen and in favor of those who hold money, power, status, or institutional position**
 
@@ -52,7 +52,7 @@ This Act **may** be amended in any manner that:
 - A citizen need not show personal injury beyond their **status as a citizen of Utah** subject to the Act
 - The cost-shifting and access provisions of this Act apply to such challenges; a citizen pursuing a challenge under this section shall not be required to post bond, advance fees, or bear costs that would deter the bringing of the challenge
 - A finding that an amendment, alteration, repeal, or interpretation violates Section 15.2 shall result in the **invalidation** of that change, with retroactive effect to the date of the offending change
-- A government actor who advances, sponsors, drafts, votes for, or implements an adverse amendment in violation of this section may be liable under **Section 1.7 (Government Racketeering)**, **Section 1.9 (Treason)** where the elements of constitutional warfare or financial warfare are met, or **Section 1.10 (Anarchy)** where the elements of acting outside the law are met
+- A government actor who advances, sponsors, drafts, votes for, or implements an adverse amendment in violation of this section may be liable under **Section 1.1.7 (Government Racketeering)**, **Section 1.1.9 (Treason)** where the elements of constitutional warfare or financial warfare are met, or **Section 1.1.10 (Anarchy)** where the elements of acting outside the law are met
 
 ### 15.5 Citizen Council Authority over Adverse Amendments
 
@@ -84,13 +84,13 @@ The U.S. Supreme Court has repeatedly recognized that state law may provide **mo
 
 Such conduct may be charged, depending on the elements established, as one or more of the following offenses under this title:
 
-- **§1.10 Anarchy** — acting completely outside the law where no actual preemption exists (the judge invokes federal authority but lacks any statutory or constitutional basis for the nullification)
+- **§1.1.10 Anarchy** — acting completely outside the law where no actual preemption exists (the judge invokes federal authority but lacks any statutory or constitutional basis for the nullification)
 - **§2.5.2 Reckless Prosecution** — issuing a ruling without engaging on the merits or providing reasoning sufficient to identify the supposedly preemptive federal provision
 - **§2.7.1.2 Judicial Duty to Engage on the Merits** — failing to engage with the substance of the Act and the actual federal-state legal framework
 - **§2.7.1.4 Judicial Duty to Apply Mandatory Rules and Correct Errors** — failing to apply the constitutional principles that distinguish actual preemption from a state's grant of greater protection
-- **§1.6 Cabalism** — where the improper nullification is the result of small-group coordination of judicial actors producing unjust outcomes for Utah citizens
-- **§1.7 Government Racketeering** — where the nullification is part of a coordinated pattern or scheme using federal judicial authority to extract benefit, punish, or coerce citizens
-- **§1.9 Treason** — where the improper nullification rises to **constitutional warfare** under §1.9: a sustained or coordinated attempt to subvert the Utah Constitution and the protection of Utah citizens by an actor sworn to uphold both that Constitution and the U.S. Constitution
+- **§1.1.6 Cabalism** — where the improper nullification is the result of small-group coordination of judicial actors producing unjust outcomes for Utah citizens
+- **§1.1.7 Government Racketeering** — where the nullification is part of a coordinated pattern or scheme using federal judicial authority to extract benefit, punish, or coerce citizens
+- **§1.1.9 Treason** — where the improper nullification rises to **constitutional warfare** under §1.1.9: a sustained or coordinated attempt to subvert the Utah Constitution and the protection of Utah citizens by an actor sworn to uphold both that Constitution and the U.S. Constitution
 
 **No Judicial Immunity for Improper Nullification:**
 
@@ -107,7 +107,7 @@ A Citizen Council under Section 9 may investigate and issue a Joint Declaration 
 Specifically, a Citizen Council may, for the same course of conduct, file:
 
 - **(a)** A **Joint Declaration of Prosecution** with the **United States Attorney** for the district, for presentation to a **federal grand jury**, addressing any applicable federal offense (e.g., 18 U.S.C. §§ 241–242, deprivation of rights under color of law); **and concurrently**
-- **(b)** A **Joint Declaration of Prosecution** with the **Utah County Prosecutor's Office** or, where applicable, the **Office of the Governor** under Section 9.5, addressing the federal judge's violations of the substantive offenses of this Act (Anarchy under §1.10, Cabalism under §1.6, Government Racketeering under §1.7, Treason under §1.9, the Judicial Duty offenses of §§2.7.1.1–2.3.1.4, etc., as the elements may be established)
+- **(b)** A **Joint Declaration of Prosecution** with the **Utah County Prosecutor's Office** or, where applicable, the **Office of the Governor** under Section 9.5, addressing the federal judge's violations of the substantive offenses of this Act (Anarchy under §1.1.10, Cabalism under §1.1.6, Government Racketeering under §1.1.7, Treason under §1.1.9, the Judicial Duty offenses of §§2.7.1.1–2.3.1.4, etc., as the elements may be established)
 
 Both filings may proceed **simultaneously and independently**. Disposition or declination at either level shall **not** bar prosecution at the other (consistent with the concurrent-jurisdiction principle of Section 9.10). Conviction or acquittal under one shall **not** preclude prosecution under the other for the same conduct, where each prosecution rests on a distinct sovereign's law.
 

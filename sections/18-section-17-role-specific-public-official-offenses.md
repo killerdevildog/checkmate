@@ -1,6 +1,6 @@
 ## Section 17 — Role-Specific Public Official Offenses
 
-This Section catalogues additional offenses applicable to government actors by role — general public officials, police and sheriffs, judicial officers, clerks and records custodians, legislative and regulatory officials, executive officials, local governing bodies, and federal representatives or federal-office actors whose conduct harms Utah citizens. It **supplements** Section 1 and does not displace any offense already defined therein. Where a substantive offense in this Section overlaps with an offense already defined elsewhere in this Act, the prosecuting office may charge under either or both, **cumulatively**, consistent with §1.1.1 and the Statement of Intent's binding rules of construction.
+This Section catalogues additional offenses applicable to government actors by role — general public officials, police and sheriffs, judicial officers, clerks and records custodians, legislative and regulatory officials, executive officials, local governing bodies, and federal representatives or federal-office actors whose conduct harms Utah citizens. It **supplements** Section 1 and does not displace any offense already defined therein. Where a substantive offense in this Section overlaps with an offense already defined elsewhere in this Act, the prosecuting office may charge under either or both, **cumulatively**, consistent with §1.1.1.1 and the Statement of Intent's binding rules of construction.
 
 The criminal and civil mens rea framework of **Section 3** governs each offense in this Section. The penalty enhancements of **Section 5.6** apply in full. The Citizen Council activation, investigation, and prosecution mechanisms of **Section 9** apply without modification. The no-immunity rule of **Section 5.1** applies to every offense in this Section.
 
@@ -8,18 +8,18 @@ The criminal and civil mens rea framework of **Section 3** governs each offense 
 
 | Concept | Defined At |
 |---|---|
-| Official Intimidation | §1.13 |
-| Color of Authority Assault | §1.2 (Assault — Government Context) |
-| Civil Rights Battery | §1.3 (Battery — Government Context) |
-| Selective Enforcement of Law | §1.8 (Obstruction of Justice — Selective Non-Prosecution) |
+| Official Intimidation | §1.1.13 |
+| Color of Authority Assault | §1.1.2 (Assault — Government Context) |
+| Civil Rights Battery | §1.1.3 (Battery — Government Context) |
+| Selective Enforcement of Law | §1.1.8 (Obstruction of Justice — Selective Non-Prosecution) |
 | Procedural Suppression | §2.6.1.1 (Disclose Adverse Evidence) + §2.7.1.2 (Engage on the Merits) |
-| Authority Abuse Under Color of Court | §1.7 (Government Racketeering) + §1.13 (Official Intimidation) |
+| Authority Abuse Under Color of Court | §1.1.7 (Government Racketeering) + §1.1.13 (Official Intimidation) |
 
 ---
 
 ### Subpart A — General Public Official Offenses
 
-The offenses of Subpart A apply to **all government actors** as defined in §1.1 — including, without limitation, police officers, judges, prosecutors, regulators, elected officials, city and county council members, public administrators, and government employees acting under public authority.
+The offenses of Subpart A apply to **all government actors** as defined in §1.1.1 — including, without limitation, police officers, judges, prosecutors, regulators, elected officials, city and county council members, public administrators, and government employees acting under public authority.
 
 ### 17.1 Civic Breach of Trust
 
@@ -41,7 +41,7 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 
 ### 17.2 Institutional Retaliation
 
-> A government actor commits **institutional retaliation** where the actor takes, directs, or facilitates adverse action against a citizen — directly, indirectly, formally, or informally — because of the citizen's status or conduct as a whistleblower, journalist, complainant, critic, political opponent, or person otherwise exercising a right protected under §1.5.
+> A government actor commits **institutional retaliation** where the actor takes, directs, or facilitates adverse action against a citizen — directly, indirectly, formally, or informally — because of the citizen's status or conduct as a whistleblower, journalist, complainant, critic, political opponent, or person otherwise exercising a right protected under §1.1.5.
 
 **Elements:**
 
@@ -53,7 +53,7 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 
 - **Class 2 felony** (capital offense where committed with malice or as part of a coordinated pattern)
 - Where the retaliation targets a Citizen Council member, declarant, or witness under Section 9, the offense is also reachable under §9.6, **cumulatively**
-- Where the retaliation is part of a pattern or coordinated by multiple actors, charge cumulatively under §1.6 (Cabalism), §1.7 (Government Racketeering), or §1.9 (Treason — procedural-warfare prong)
+- Where the retaliation is part of a pattern or coordinated by multiple actors, charge cumulatively under §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), or §1.1.9 (Treason — procedural-warfare prong)
 
 ### 17.2A Process-Stacking Retaliation
 
@@ -79,7 +79,7 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 - Process-stacking retaliation is a **Class 2 felony**
 - Where multiple agencies, offices, departments, courts, schools, contractors, or government actors participate, the offense is elevated to a **capital offense**
 - Where the conduct affects housing, employment, children, liberty, medical care, education, immigration status, professional licensing, safety, or access to court, the offense is elevated to a **capital offense**
-- Charge cumulatively under §17.2 (Institutional Retaliation), §1.13 (Official Intimidation), §1.12 (Terrorism), §1.6 (Cabalism), or §1.7 (Government Racketeering), where the elements are met
+- Charge cumulatively under §17.2 (Institutional Retaliation), §1.1.13 (Official Intimidation), §1.1.12 (Terrorism), §1.1.6 (Cabalism), or §1.1.7 (Government Racketeering), where the elements are met
 
 **Defenses Limited:**
 
@@ -110,12 +110,12 @@ The offenses of Subpart A apply to **all government actors** as defined in §1.1
 
 - Retaliatory charge fabrication is a **Class 2 felony**
 - Where the fabricated or retaliatory accusation is itself a felony, causes arrest, detention, incarceration, prosecution, conviction, probation or parole revocation, contempt, child removal, loss of employment, loss of housing, immigration consequence, or professional discipline, the offense is a **capital offense**
-- Where multiple government actors coordinate, approve, ratify, or knowingly rely on the fabricated or retaliatory charge, the offense is a **capital offense** and may be charged cumulatively as conspiracy under §1.1.1
+- Where multiple government actors coordinate, approve, ratify, or knowingly rely on the fabricated or retaliatory charge, the offense is a **capital offense** and may be charged cumulatively as conspiracy under §1.1.1.1
 - Where the conduct contributes to wrongful conviction, long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 5.6 apply
 
 **Cumulative Charging:**
 
-Conduct under this section may be charged cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.14 (Malicious Prosecution), §1.3 (Battery), §1.13 (Official Intimidation), §1.6 (Cabalism), or §1.7 (Government Racketeering), where the elements are met.
+Conduct under this section may be charged cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.13 (Investigative Negligence), §2.6.1.1 (Prosecutorial Duty to Disclose Adverse Evidence), §1.1.14 (Malicious Prosecution), §1.1.3 (Battery), §1.1.13 (Official Intimidation), §1.1.6 (Cabalism), or §1.1.7 (Government Racketeering), where the elements are met.
 
 **Defenses Limited:**
 
@@ -131,13 +131,13 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 
 - The actor is a government actor
 - The conduct was performed under color of authority
-- The actor acted with reckless disregard (per §3.2) toward a right protected under §1.5
+- The actor acted with reckless disregard (per §3.2) toward a right protected under §1.1.5
 - The conduct created a substantial and unjustifiable risk of rights deprivation
 
 **Classification:**
 
 - **Class 3 felony** by default
-- Where actual deprivation results, charge cumulatively under §1.3 (Battery)
+- Where actual deprivation results, charge cumulatively under §1.1.3 (Battery)
 - Penalty enhancements under Section 5.6 apply
 
 ### 17.4 Deliberate Record Distortion
@@ -191,7 +191,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 - Forensic truth corruption is a **Class 2 felony**
 - Where the corrupted forensic evidence contributes to plea, incarceration, conviction, sex-offender registration, family separation, professional discipline, immigration consequence, or capital exposure, the offense is a **capital offense**
 - Where death, capital sentence, death in custody, or suicide results, Section 11 applies
-- Charge cumulatively under §17.4, §17.4A, §2.6.1.1, §1.14, and §9.15 where applicable
+- Charge cumulatively under §17.4, §17.4A, §2.6.1.1, §1.1.14, and §9.15 where applicable
 
 ### 17.4C Wrongful-Conviction Chain Liability
 
@@ -205,7 +205,7 @@ Conduct under this section may be charged cumulatively under §17.2 (Institution
 
 - The classification mirrors the deprivation caused, with a **Class 2 felony floor** where incarceration, conviction, plea coercion, or loss of liberty results
 - Where the conduct contributes to long-term incarceration, death in custody, capital sentence, or suicide, Section 11 and the penalty enhancements of Section 5.6 apply
-- This section is cumulative to §2.5.3, §2.6.1.1, §2.6.1.2, §1.14, §17.4, §17.4A, and §17.4B
+- This section is cumulative to §2.5.3, §2.6.1.1, §2.6.1.2, §1.1.14, §17.4, §17.4A, and §17.4B
 
 ### 17.5 Gross Dereliction of Public Duty
 
@@ -282,7 +282,7 @@ For purposes of this section, **incompetence** means a present inability, unfitn
 
 - **Class 2 felony**
 - **Capital offense** where the false statement affected an emergency response, an election, a criminal prosecution, or a financial obligation falling on citizens
-- Where part of a coordinated pattern, charge cumulatively under §1.6 (Cabalism) or §1.7 (Government Racketeering)
+- Where part of a coordinated pattern, charge cumulatively under §1.1.6 (Cabalism) or §1.1.7 (Government Racketeering)
 - Penalty enhancements under Section 5.6 apply
 
 ### 17.7 Oath Negligence
@@ -343,7 +343,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 
 - **Infraction** — administrative fine up to five thousand dollars ($5,000) per violation
 - **Class 1 misdemeanor** where the obstruction is intentional and sustained
-- **Class 3 felony** where the obstruction is part of a pattern, or designed to conceal misconduct otherwise reachable under this Act — and the underlying misconduct may be charged cumulatively under §1.8 (Obstruction) or §1.6 (Cabalism)
+- **Class 3 felony** where the obstruction is part of a pattern, or designed to conceal misconduct otherwise reachable under this Act — and the underlying misconduct may be charged cumulatively under §1.1.8 (Obstruction) or §1.1.6 (Cabalism)
 
 ### 17.9A Complaint Intake Refusal
 
@@ -359,7 +359,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 
 - Complaint intake refusal is a **Class 3 felony**
 - Where the refusal concerns force, custody, prosecution, judicial conduct, child removal, sexual misconduct, retaliation, corruption, or any violation of this Act, penalty enhancements under Section 5.6 apply
-- Where the refusal is part of a pattern or coordinated practice, charge cumulatively under §1.6 (Cabalism), §1.7 (Government Racketeering), or §17.9 (Failure of Transparency)
+- Where the refusal is part of a pattern or coordinated practice, charge cumulatively under §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), or §17.9 (Failure of Transparency)
 
 **Defenses Limited:**
 
@@ -381,7 +381,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 **Classification:**
 
 - Policy shield statement is a **Class 3 felony**
-- Where the statement is used to obtain consent, entry, waiver, payment, compliance, silence, surrender of property, or abandonment of a legal claim, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), or §2.9 (Constitutional Objection Obstruction)
+- Where the statement is used to obtain consent, entry, waiver, payment, compliance, silence, surrender of property, or abandonment of a legal claim, the conduct may be charged cumulatively under §1.1.2 (Assault), §1.1.3 (Battery), §1.1.13 (Official Intimidation), or §2.9 (Constitutional Objection Obstruction)
 
 **Defenses Limited:**
 
@@ -421,7 +421,7 @@ A failure to substantially recite the oath, after a reasonable opportunity to do
 
 **Cumulative Charging:**
 
-Conduct under this section may be charged cumulatively under §1.3 (Battery), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3 (Issuance and Enforcement of Repugnant Instruments), §2.9 (Constitutional Objection Obstruction), §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.9 (Failure of Transparency), or §17.23 (Regulatory Weaponization), where the elements are met.
+Conduct under this section may be charged cumulatively under §1.1.3 (Battery), §1.1.12 (Terrorism), §1.1.13 (Official Intimidation), §16.3 (Issuance and Enforcement of Repugnant Instruments), §2.9 (Constitutional Objection Obstruction), §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.9 (Failure of Transparency), or §17.23 (Regulatory Weaponization), where the elements are met.
 
 ### 17.9D Recording-Right Interference
 
@@ -450,7 +450,7 @@ The existence of an official transcript, official audio, official video, docket 
 - Threatening, detaining, citing, removing, excluding, restraining, blocking, seizing a device, searching a device, ordering deletion, stopping recording, or retaliating against recording is a **Class 3 felony**
 - Arrest, prosecution, fabricated charge, device destruction, data deletion, injury, use of force, contempt order, sanction, adverse ruling, custody consequence, or judicial order prohibiting citizen recording is a **Class 2 felony**
 - A judge, magistrate, or court actor who restricts citizen recording on the ground that only authorized, official, certified, or court-controlled recordings are permitted commits a **Class 2 felony**
-- Where the interference is part of a pattern, coordinated by multiple actors, or intended to conceal misconduct, charge cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.9 (Failure of Transparency), §1.6 (Cabalism), or §1.7 (Government Racketeering)
+- Where the interference is part of a pattern, coordinated by multiple actors, or intended to conceal misconduct, charge cumulatively under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.4 (Deliberate Record Distortion), §17.9 (Failure of Transparency), §1.1.6 (Cabalism), or §1.1.7 (Government Racketeering)
 
 **Defenses Limited:**
 
@@ -472,7 +472,7 @@ The existence of an official transcript, official audio, official video, docket 
 
 - Revenue extraction under color of law is a **Class 3 felony**
 - Where inability to pay causes jail, license loss, job loss, housing loss, family separation, impoundment, cascading warrants, probation extension, or loss of benefits, the offense is a **Class 2 felony**
-- Where part of a pattern or budgeted scheme, charge cumulatively under §1.7 (Government Racketeering), §1.9 (Treason — financial-warfare prong), or §17.20 (Deliberate Budget Concealment)
+- Where part of a pattern or budgeted scheme, charge cumulatively under §1.1.7 (Government Racketeering), §1.1.9 (Treason — financial-warfare prong), or §17.20 (Deliberate Budget Concealment)
 
 ### 17.9F Property Punishment Without Conviction
 
@@ -483,7 +483,7 @@ The existence of an official transcript, official audio, official video, docket 
 - Property punishment without conviction is a **Class 3 felony**
 - Where the property is necessary for work, housing, family care, medical care, transport, disability access, communication, legal defense, or survival, the offense is a **Class 2 felony**
 - Where the taking causes loss of livelihood, homelessness, family separation, medical harm, or inability to defend a legal case, penalty enhancements under Section 5.6 apply
-- Charge cumulatively under §1.3 (Battery), §1.7 (Government Racketeering), §1.12 (Terrorism), §16.3, or §17.9E where the elements are met
+- Charge cumulatively under §1.1.3 (Battery), §1.1.7 (Government Racketeering), §1.1.12 (Terrorism), §16.3, or §17.9E where the elements are met
 
 ### 17.9G Protected-Speech Suppression Under Color of Law
 
@@ -493,7 +493,7 @@ The existence of an official transcript, official audio, official video, docket 
 
 - Protected-speech suppression is a **Class 3 felony**
 - Where arrest, prosecution, injury, device seizure, employment loss, school discipline, license loss, permit denial, or court sanction results, the offense is a **Class 2 felony**
-- Where the suppression is coordinated, repeated, or directed against a class of speakers, charge cumulatively under §17.2, §17.2A, §17.9D, §1.6, §1.7, or §1.9
+- Where the suppression is coordinated, repeated, or directed against a class of speakers, charge cumulatively under §17.2, §17.2A, §17.9D, §1.1.6, §1.1.7, or §1.1.9
 
 ### 17.9H Constructive Denial Under Color of Office
 
@@ -504,7 +504,7 @@ The existence of an official transcript, official audio, official video, docket 
 - Minor isolated constructive denial is a **Class 1 misdemeanor**
 - Where a protected right, livelihood, housing, family status, medical access, education, legal defense, benefits, licensing, or court access is affected, the offense is a **Class 3 felony**
 - Where done intentionally, discriminatorily, or in retaliation, the offense is a **Class 2 felony**
-- Charge cumulatively under §17.2, §17.9, §17.9A, §2.10.1, or §1.13 where the elements are met
+- Charge cumulatively under §17.2, §17.9, §17.9A, §2.10.1, or §1.1.13 where the elements are met
 
 ### 17.9I Poverty-Based Family Separation
 
@@ -514,7 +514,7 @@ The existence of an official transcript, official audio, official video, docket 
 
 - Poverty-based family separation is a **Class 2 felony**
 - Where removal occurs without imminent danger, disability accommodation is denied, poverty is knowingly misrepresented as neglect, or reunification is conditioned on inaccessible services, the offense is a **capital offense**
-- Charge cumulatively under §1.3 (Battery), §1.12 (Terrorism), §17.2, §17.9H, §17.9J, or §17.9K where applicable
+- Charge cumulatively under §1.1.3 (Battery), §1.1.12 (Terrorism), §17.2, §17.9H, §17.9J, or §17.9K where applicable
 
 ### 17.9J Family-Rights Advisement Failure
 
@@ -570,7 +570,7 @@ The existence of an official transcript, official audio, official video, docket 
 **Classification:**
 
 - **Class 2 felony** (capital offense where committed with malice or as part of a pattern)
-- Where multiple officials participated, charge cumulatively as conspiracy under §1.1.1 and as Cabalism under §1.6 or Government Racketeering under §1.7
+- Where multiple officials participated, charge cumulatively as conspiracy under §1.1.1.1 and as Cabalism under §1.1.6 or Government Racketeering under §1.1.7
 
 ---
 
@@ -586,7 +586,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 
 - **Sexual badge coercion** — leveraging police authority to obtain sexual contact — is **per se** a **capital offense**, chargeable cumulatively under generally applicable sexual-assault and rape statutes; no immunity defense applies (per §5.1)
 - All other badge coercion: **Class 2 felony** by default, elevated per §3.4 / §3.5
-- Where a pattern exists, charge cumulatively under §1.7 (Government Racketeering) and §1.13 (Official Intimidation)
+- Where a pattern exists, charge cumulatively under §1.1.7 (Government Racketeering) and §1.1.13 (Official Intimidation)
 
 ### 17.12 Escalation Misconduct
 
@@ -602,7 +602,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 **Classification:**
 
 - **Class 3 felony** (Class 2 where injury or rights deprivation results)
-- Where escalation produces use of force, charge cumulatively under §17.15 and §1.3 (Battery) as applicable
+- Where escalation produces use of force, charge cumulatively under §17.15 and §1.1.3 (Battery) as applicable
 - Penalty enhancements under Section 5.6 apply, particularly the long-term-deprivation-of-rights, family-welfare-anxiety, and psychological-harm enhancements
 
 ### 17.13 Investigative Negligence
@@ -628,16 +628,16 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 
 > A peace officer commits **enforcement without articulable basis** where the officer detains, searches, cites, or threatens enforcement against a citizen without reasonably articulable legal grounds.
 
-**Distinction from §1.10 (Anarchy):**
+**Distinction from §1.1.10 (Anarchy):**
 
-- **§1.10 Anarchy** reaches conduct that has **no lawful basis whatsoever** — no statute, regulation, or constitutional authority authorizes it
+- **§1.1.10 Anarchy** reaches conduct that has **no lawful basis whatsoever** — no statute, regulation, or constitutional authority authorizes it
 - **This section** reaches conduct that purports to operate within a recognized legal framework but **lacks the articulable predicate** that the framework requires (e.g., reasonable suspicion, probable cause, or analogous standards)
 
 **Classification:**
 
 - **Class 3 felony** (Class 2 where conducted in reckless disregard of the citizen's clearly established rights, per §3.2)
 - Penalty enhancements under Section 5.6 apply
-- Where actual deprivation of rights results, charge cumulatively under §1.3 (Battery)
+- Where actual deprivation of rights results, charge cumulatively under §1.1.3 (Battery)
 
 ### 17.15 Reckless Force Deployment
 
@@ -654,7 +654,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 - **Class 2 felony**
 - **Capital offense** where serious bodily injury results
 - Where death results: chargeable as homicide under generally applicable law, and as a capital offense under Section 11 where the elements are met
-- May be charged cumulatively with §1.3 (Battery), §17.12 (Escalation Misconduct), and §1.12 (Terrorism) as applicable
+- May be charged cumulatively with §1.1.3 (Battery), §17.12 (Escalation Misconduct), and §1.1.12 (Terrorism) as applicable
 
 ### 17.15C Rights Dismissal Infraction
 
@@ -663,7 +663,7 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 **Classification:**
 
 - Rights dismissal is a **Class 1 misdemeanor**
-- Where the dismissal is followed by enforcement, detention, search, seizure, citation, arrest, interrogation, or other deprivation, the conduct may be charged cumulatively under §1.2 (Assault), §1.3 (Battery), §1.13 (Official Intimidation), §2.9 (Constitutional Objection Obstruction), or §2.8.1 (Custodial Rights Interference)
+- Where the dismissal is followed by enforcement, detention, search, seizure, citation, arrest, interrogation, or other deprivation, the conduct may be charged cumulatively under §1.1.2 (Assault), §1.1.3 (Battery), §1.1.13 (Official Intimidation), §2.9 (Constitutional Objection Obstruction), or §2.8.1 (Custodial Rights Interference)
 
 ### 17.15D False Authority Gesture
 
@@ -672,14 +672,14 @@ The offenses of Subpart B apply, **in addition to** the offenses of Subpart A an
 **Classification:**
 
 - False authority gesture is a **Class 1 misdemeanor**
-- Where the gesture causes a reasonable citizen to believe they are not free to leave, must surrender a right, must permit a search, must answer questions, or must comply with an unlawful command, charge cumulatively under §1.2 (Assault), §1.13 (Official Intimidation), or §17.14 (Enforcement Without Articulable Basis)
-- Where actual detention, search, seizure, use of force, or rights deprivation results, charge cumulatively under §1.3 (Battery)
+- Where the gesture causes a reasonable citizen to believe they are not free to leave, must surrender a right, must permit a search, must answer questions, or must comply with an unlawful command, charge cumulatively under §1.1.2 (Assault), §1.1.13 (Official Intimidation), or §17.14 (Enforcement Without Articulable Basis)
+- Where actual detention, search, seizure, use of force, or rights deprivation results, charge cumulatively under §1.1.3 (Battery)
 
 ---
 
 ### Subpart D — Legislative, Executive, Council, and Regulatory Offenses
 
-The offenses of Subpart D apply to **state legislators, governors, lieutenant governors, attorneys general, county commissioners, county council members, city council members, mayors, executive-branch officials, agency heads, regulatory commissioners, and any government actor with budget, contracting, executive, legislative, or regulatory authority**. Subpart D shall be read together with the dissenting-member carve-out of §1.1.1 — a member who voted against, formally objected to, or publicly dissociated from the offending action on the record is not liable under this Subpart for that action.
+The offenses of Subpart D apply to **state legislators, governors, lieutenant governors, attorneys general, county commissioners, county council members, city council members, mayors, executive-branch officials, agency heads, regulatory commissioners, and any government actor with budget, contracting, executive, legislative, or regulatory authority**. Subpart D shall be read together with the dissenting-member carve-out of §1.1.1.1 — a member who voted against, formally objected to, or publicly dissociated from the offending action on the record is not liable under this Subpart for that action.
 
 #### Legislative Authority; Legitimate Power and Unconstitutional Use
 
@@ -699,13 +699,13 @@ The line is crossed when legislative power is used to create, preserve, or defen
 - Direct money, contracts, licenses, land-use benefits, regulatory advantages, exemptions, enforcement favors, or public resources to the legislator, the legislator's family, donors, allies, business associates, political supporters, or favored private interests for reasons other than legitimate public merit
 - Punish, burden, silence, inspect, cite, zone, regulate, defund, exclude, or target a citizen because the citizen criticized government, opposed a measure, requested records, asserted rights, assisted a Citizen Council, exposed corruption, or refused to provide political, financial, or personal support
 - Conceal conflicts of interest, financial benefit, donor influence, lobbyist drafting, outside funding, private promises, or other facts necessary for citizens to understand whose interest the legislation serves
-- Depend on a contradiction, false premise, circular reasoning, hidden exception, or double standard of the kind defined as logical inconsistency in Section 1.1.10
+- Depend on a contradiction, false premise, circular reasoning, hidden exception, or double standard of the kind defined as logical inconsistency in Section 1.1.1.10
 
 Where a statute or ordinance creates a situation like the motor-vehicle financial-responsibility example in Section 16.1A — including a scheme that appears to offer alternatives but in practical effect forces low-income citizens into a private insurance contract or other inaccessible financial undertaking under threat of criminal punishment — the legislation is **prima facie evidence of negligent use of legislative authority over a citizen**.
 
-Where legislative authority is used for personal gain, private enrichment, concealed self-dealing, donor reward, retaliation, or favoritism rather than legitimate public purpose, the conduct is criminal where the elements of this Act are met. Such conduct may be charged under this Subpart and, where applicable, as Cabalism (§1.6), Government Racketeering (§1.7), Obstruction (§1.8), Public Trust Fraud (§17.6), Preferential Contracting Abuse (§17.21), Regulatory Weaponization (§17.23), Local Governing-Body Retaliation (§17.24C), Constitutional-Objection Override (§17.24D), or any other applicable offense.
+Where legislative authority is used for personal gain, private enrichment, concealed self-dealing, donor reward, retaliation, or favoritism rather than legitimate public purpose, the conduct is criminal where the elements of this Act are met. Such conduct may be charged under this Subpart and, where applicable, as Cabalism (§1.1.6), Government Racketeering (§1.1.7), Obstruction (§1.1.8), Public Trust Fraud (§17.6), Preferential Contracting Abuse (§17.21), Regulatory Weaponization (§17.23), Local Governing-Body Retaliation (§17.24C), Constitutional-Objection Override (§17.24D), or any other applicable offense.
 
-Where a legislator, council member, commissioner, or other legislative actor voted against the unconstitutional or corrupt measure, formally objected to it, requested constitutional review, offered an amendment to remove the defect, disclosed the conflict, refused the private benefit, or publicly dissociated from the measure on the record, that conduct shall be considered evidence against liability consistent with §1.1.1. Where the actor sponsored, voted for, defended, funded, renewed, benefited from, concealed, or refused to correct the measure after the constitutional defect, corrupt purpose, conflict of interest, or personal-gain feature was known or reasonably knowable, that conduct may support liability under this Subpart and under any applicable offense listed above.
+Where a legislator, council member, commissioner, or other legislative actor voted against the unconstitutional or corrupt measure, formally objected to it, requested constitutional review, offered an amendment to remove the defect, disclosed the conflict, refused the private benefit, or publicly dissociated from the measure on the record, that conduct shall be considered evidence against liability consistent with §1.1.1.1. Where the actor sponsored, voted for, defended, funded, renewed, benefited from, concealed, or refused to correct the measure after the constitutional defect, corrupt purpose, conflict of interest, or personal-gain feature was known or reasonably knowable, that conduct may support liability under this Subpart and under any applicable offense listed above.
 
 ### 17.17 Reckless Public Expenditure
 
@@ -735,7 +735,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 **Classification:**
 
 - **Class 3 felony** (Class 2 felony where committed with malice or as part of a pattern)
-- May be charged cumulatively with §1.7 (Government Racketeering) and §17.21 (Preferential Contracting Abuse)
+- May be charged cumulatively with §1.1.7 (Government Racketeering) and §17.21 (Preferential Contracting Abuse)
 
 ### 17.20 Deliberate Budget Concealment
 
@@ -754,7 +754,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 **Classification:**
 
 - **Class 2 felony** (capital offense where the contract value exceeds one hundred thousand dollars ($100,000), or where the actor or a person within the actor's household received indirect personal benefit)
-- May be charged cumulatively with §1.6 (Cabalism), §1.7 (Government Racketeering), and §1.8 (Obstruction)
+- May be charged cumulatively with §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), and §1.1.8 (Obstruction)
 
 ### 17.22 Negligent Debt Expansion
 
@@ -766,21 +766,21 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 
 - Negligent: **infraction** under §3.3, with restitution and the forfeiture remedies of Section 11; **Class 1 misdemeanor** where measurable harm results or the conduct repeats after notice
 - Reckless: **Class 3 felony**
-- Intentional (where the actor knew the debt could not realistically be repaid by the affected entity without burdening citizens beyond reasonable foreseeability): **Class 2 felony**, and may be charged cumulatively under §1.9 (Treason — financial-warfare prong)
+- Intentional (where the actor knew the debt could not realistically be repaid by the affected entity without burdening citizens beyond reasonable foreseeability): **Class 2 felony**, and may be charged cumulatively under §1.1.9 (Treason — financial-warfare prong)
 
 ### 17.23 Regulatory Weaponization
 
 > A government actor commits **regulatory weaponization** where the actor uses regulations, licensing, inspections, or agency authority selectively against disfavored persons or groups.
 
-**Distinction from §1.9 (Treason — regulatory-warfare prong):**
+**Distinction from §1.1.9 (Treason — regulatory-warfare prong):**
 
-- **§1.9** requires sustained or coordinated regulatory warfare against citizens collectively, the U.S. Constitution, or the Utah Constitution
+- **§1.1.9** requires sustained or coordinated regulatory warfare against citizens collectively, the U.S. Constitution, or the Utah Constitution
 - **This section** reaches isolated or smaller-pattern selective regulatory action against a person or group, below the Treason threshold
 
 **Classification:**
 
 - **Class 2 felony** (capital offense where part of a pattern)
-- May be charged cumulatively under §1.7 (Government Racketeering), §1.8 (Obstruction), §1.13 (Official Intimidation), and where applicable §1.9 (Treason)
+- May be charged cumulatively under §1.1.7 (Government Racketeering), §1.1.8 (Obstruction), §1.1.13 (Official Intimidation), and where applicable §1.1.9 (Treason)
 
 ### 17.24 Emergency Power Abuse
 
@@ -789,8 +789,8 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 **Classification:**
 
 - **Class 2 felony**
-- **Capital offense** where invoked to suppress rights protected under §1.5, to bypass Section 9 Citizen Council mechanisms, or to procure contracts in violation of §17.21
-- May be charged cumulatively with §1.10 (Anarchy) where the emergency invocation lacked any lawful basis
+- **Capital offense** where invoked to suppress rights protected under §1.1.5, to bypass Section 9 Citizen Council mechanisms, or to procure contracts in violation of §17.21
+- May be charged cumulatively with §1.1.10 (Anarchy) where the emergency invocation lacked any lawful basis
 
 ### 17.24A Algorithmic Authority Abuse
 
@@ -798,7 +798,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 
 **Elements:**
 
-- The actor is a government actor, or a contractor or vendor acting as a government actor under §1.1
+- The actor is a government actor, or a contractor or vendor acting as a government actor under §1.1.1
 - The actor used, relied upon, procured, approved, or maintained an automated or algorithmic tool affecting a citizen
 - The tool materially influenced an official action, burden, classification, risk score, investigation, denial, detention, removal, discipline, or enforcement decision
 - The citizen was not given meaningful notice, explanation, access to contest the decision, and human review sufficient to challenge the tool's use
@@ -812,7 +812,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 
 ### 17.24B Executive Refusal to Correct Rights Violations
 
-> A governor, lieutenant governor, attorney general, mayor, county executive, county commissioner, city manager, agency head, department director, board chair, or other executive government actor commits **executive refusal to correct rights violations** where the actor receives credible notice that a subordinate office, agency, contractor, law-enforcement body, jail, regulatory body, clerk, or public program is violating this Act or rights protected under §1.5, and the actor refuses, delays, conceals, deflects, or fails to take available corrective action.
+> A governor, lieutenant governor, attorney general, mayor, county executive, county commissioner, city manager, agency head, department director, board chair, or other executive government actor commits **executive refusal to correct rights violations** where the actor receives credible notice that a subordinate office, agency, contractor, law-enforcement body, jail, regulatory body, clerk, or public program is violating this Act or rights protected under §1.1.5, and the actor refuses, delays, conceals, deflects, or fails to take available corrective action.
 
 **Credible Notice Includes, Without Limitation:**
 
@@ -847,8 +847,8 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 
 - Local governing-body retaliation is a **Class 2 felony**
 - Where the retaliation affects housing, utilities, business license, employment, land use, school access, child welfare, police contact, court access, public benefits, public meeting participation, or election participation, the offense is a **capital offense**
-- A member who voted against, formally objected to, or publicly dissociated from the retaliatory action on the record is not liable under this section for that action, consistent with §1.1.1
-- Charge cumulatively under §17.2, §17.2A, §17.23, §1.13, or §1.7 where applicable
+- A member who voted against, formally objected to, or publicly dissociated from the retaliatory action on the record is not liable under this section for that action, consistent with §1.1.1.1
+- Charge cumulatively under §17.2, §17.2A, §17.23, §1.1.13, or §1.1.7 where applicable
 
 ### 17.24D Constitutional-Objection Override by High Office
 
@@ -859,7 +859,7 @@ Where a legislator, council member, commissioner, or other legislative actor vot
 - Constitutional-objection override by high office is a **Class 2 felony**
 - Where the override results in arrest, citation, detention, child removal, property seizure, loss of license, loss of benefits, denial of court access, or retaliation against the objecting citizen, the offense is a **capital offense**
 - Where the actor issued a written correction, suspended enforcement, sought neutral judicial review, or publicly dissociated from the unlawful enforcement before citizen harm occurred, that corrective action may be considered in mitigation but does not erase liability for earlier completed violations
-- Charge cumulatively under §2.9, §17.14, §17.23, §1.10, or §1.13 where applicable
+- Charge cumulatively under §2.9, §17.14, §17.23, §1.1.10, or §1.1.13 where applicable
 
 ### 17.24E Eminent-Domain Valuation Manipulation
 
@@ -896,7 +896,7 @@ Refusal by the owner to accept the government's offered price, refusal to waive 
 - Where the conduct causes loss of home, farm, business, livelihood, family land, inheritance property, religious property, community institution, or property necessary for medical care, disability access, work, or survival, the offense is a **Class 1 felony**
 - Where the conduct is coordinated with a private developer, donor, contractor, political ally, or public-private beneficiary for private gain, the offense is a **capital offense**
 - Where the conduct results in homelessness, death, suicide, serious bodily injury, catastrophic financial ruin, or permanent loss of family property, Section 12 and the penalty enhancements of Section 5.6 apply
-- Charge cumulatively under §1.3 (Battery), §1.6 (Cabalism), §1.7 (Government Racketeering), §1.12 (Terrorism), §1.13 (Official Intimidation), §16.3, §2.9, §17.2, §17.9E, §17.9F, §17.23, §17.24C, or §17.24D where the elements are met
+- Charge cumulatively under §1.1.3 (Battery), §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), §1.1.12 (Terrorism), §1.1.13 (Official Intimidation), §16.3, §2.9, §17.2, §17.9E, §17.9F, §17.23, §17.24C, or §17.24D where the elements are met
 
 ---
 
@@ -956,7 +956,7 @@ In each of the foregoing instances, **Utah's federal representatives were member
   - The misleading testimony related to a matter of national security, public health, financial stability, election integrity, or the constitutional rights of citizens; or
   - The testimony was given **under oath or affirmation**, even where the strict perjury threshold of literal falsehood is not met because the statement was technically true but materially misleading; or
   - The conduct produced subsequent congressional action (legislation, appropriation, regulation, or non-action) on the basis of the misleading record
-- Where the conduct is part of a coordinated effort by an industry, agency, organization, or other group to mislead Congress, charge **cumulatively** under §1.6 (Cabalism), §1.7 (Government Racketeering), and where the elements are met §1.9 (Treason — information-warfare prong)
+- Where the conduct is part of a coordinated effort by an industry, agency, organization, or other group to mislead Congress, charge **cumulatively** under §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), and where the elements are met §1.1.9 (Treason — information-warfare prong)
 - Where the witness is a federal official acting under color of federal authority, the doctrine of *In re Neagle* and analogous federal-officer immunities are abrogated in this state consistent with §16.7
 - Penalty enhancements under Section 5.6 apply
 
@@ -975,7 +975,7 @@ This section applies to any person who knowingly engages in the conduct describe
 
 - Whether the person is a Utah resident
 - Where the testimony was physically given
-- Whether the person is a government actor under §1.1
+- Whether the person is a government actor under §1.1.1
 - Whether the person was under oath or affirmation at the time of the testimony
 
 Jurisdiction rests on the **harm to Utah citizens** through the misleading of their elected federal representatives. A person sufficiently connected to Utah by economic, regulatory, or political activity — including any business that operates in Utah, any federal agency whose conduct affects Utahns, and any official whose testimony shapes federal policy applicable in Utah — is reachable under this Act.
@@ -1014,7 +1014,7 @@ Jurisdiction rests on the **harm to Utah citizens** through the misleading of th
 - Federal-state shielding coordination is a **Class 2 felony**
 - Where the coordination affects investigation of force, custody, death, sexual misconduct, child removal, public corruption, election administration, federal benefits, immigration detention, or constitutional rights, the offense is a **capital offense**
 - Where the coordination causes wrongful conviction, prolonged detention, death, suicide, serious bodily injury, or destruction of material evidence, Section 11 applies
-- Charge cumulatively under §1.6, §1.7, §1.9, §9.9, §17.2, §17.4A, or §17.24B where applicable
+- Charge cumulatively under §1.1.6, §1.1.7, §1.1.9, §9.9, §17.2, §17.4A, or §17.24B where applicable
 
 ---
 
