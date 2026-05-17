@@ -73,6 +73,10 @@ For the full feature-by-feature breakdown, see **[`advanced_readme.md`](advanced
 
 The name comes from one idea: **put every wrong action by government in check**. The founders of this country and of Utah set up checks and balances. Over time, those checks have stopped working — power has consolidated, accountability has been displaced, and the citizen has been pushed from the center of the system to its margin. This bill is meant to **restore the checks and balances** the founders set in place — and through them, restore a respectful society where everyone, public servant and private citizen alike, is bound to the same standard of truth and conduct.
 
+The name is also a catchy one — and the chess metaphor it borrows from is unusually exact. On a chess board, **checkmate** is the position in which the *king* — the highest-ranking piece, the one the whole game is organized around — has been placed in check, **and has no lawful move left to escape it**. The king is not removed by trickery, not assassinated, not overthrown. The king is brought to a stop by the lawful rules of the game, openly and in full view of both players. The match ends because the king is finally, demonstrably, bound by the rules like every other piece on the board.
+
+That is precisely the posture this bill puts the third regime of authority in. Officials who have spent generations acting like sovereigns — judges shielded by absolute judicial immunity, prosecutors shielded by absolute prosecutorial immunity, officers shielded by qualified immunity, agencies shielded by sovereign immunity — are not removed from the board by this bill. They are simply, finally, bound by the same rules that already bind every other piece on it. The citizen makes the move. The rules of the game do the rest. **Checkmate.**
+
 ---
 
 ## FAQ
