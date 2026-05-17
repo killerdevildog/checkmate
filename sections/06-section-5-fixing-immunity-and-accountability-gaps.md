@@ -137,4 +137,43 @@ Where suicidal ideation under this section progresses to an act of suicide, the 
 
 Penalty enhancements under this section may be supported by statement evidence admissible under Section 2.3, including testimony that a witness heard a government actor, victim, family member, officer, official, or other person make a relevant statement. A statement may not be rejected merely because it is labeled hearsay where the same kind of statement would be admitted or used against a citizen.
 
+### 5.7 Fixing the Business and Employee Reachability Gap
+
+> Government power can be exercised not only through direct deprivations of a citizen's liberty or property, but also through unlawful action against the **business** by which a citizen earns a living, or against the **employer** for whom a citizen works. The harm to the citizen is no less real because the immediate target of the government's conduct was a business entity rather than a natural person. **The right reached by such conduct is the citizen's right to pursue happiness** — to pursue a lawful livelihood, to maintain a household, to keep a family home, and to maintain the practical means of daily life. This Act reaches that harm.
+
+A business is a creation of state law and does not itself possess the full personal constitutional rights of a natural-person citizen. That asymmetry has historically allowed government actors to harm citizens by routing the harm through their businesses or employers, with the natural-person citizen left without a direct theory of recovery and the business left without standing to assert constitutional claims that run only to natural persons. This subsection closes that gap by providing three independent and complementary mechanisms of reach: civil standing of the business itself, independent civil standing of the affected employee, and criminal reach against the actor through the beneficiary bridge of §1.1.23 — all anchored to the underlying right to pursue happiness recognized in §1.1.21.
+
+#### 5.7.1 Civil Standing of the Business
+
+A business as defined in §1.1.21 has standing to bring a civil action under this Act against any government actor or governing body whose conduct meets the wrongful-conduct elements of §1.1.18 or §1.1.19 and causes the business demonstrable economic injury. The business need not prove that the conduct deprived the business of a constitutional right that runs only to natural persons; the gravamen of the claim is that the government's conduct exceeded its lawful authority and that the business suffered concrete economic harm as a result.
+
+The civil remedy available to the business includes compensatory damages for the economic injury, restitution of any property, money, license, permit, or other thing wrongfully withheld or taken, an injunction against ongoing wrongful conduct, attorney's fees, and any other remedy available under generally applicable Utah civil law. The immunity abrogations of §5.1 apply with full force to claims under this subsection.
+
+#### 5.7.2 Independent Civil Standing of the Employee
+
+An employee as defined in §1.1.22 has independent civil standing under this Act against any government actor or governing body whose unlawful conduct against the employer caused the employee to suffer harm that meets any one of the §1.1.22 thresholds — the poverty-line threshold or the loss-of-meaningful-transportation threshold.
+
+The employee's claim is **independent of and not derivative of** any claim of the employer. The employee may bring the claim whether or not the employer pursues, settles, abandons, or prevails on a claim, and whether or not the employer continues to exist as an entity. The defendant under this subsection is the government actor, not the employer; the employee's contractual posture vis-à-vis the employer (at-will status, arbitration clause, waiver, non-compete, or otherwise) is irrelevant to the liability of the government actor.
+
+The civil remedy available to the employee includes compensatory damages for lost income and benefits, damages for the consequences of being driven below the poverty line or losing meaningful transportation (including but not limited to housing instability, food insecurity, loss of dependent care, medical-care interruption, transportation loss, missed obligations, and other foreseeable consequences), attorney's fees, and any other remedy available under generally applicable Utah civil law.
+
+#### 5.7.3 Criminal Reach via the Beneficiary Bridge
+
+Where the unlawful government conduct against a business causes a **beneficiary** as defined in §1.1.23 to cross any one of the thresholds defined in §1.1.21 (poverty line, loss of family home, or loss of meaningful transportation, for the owner), §1.1.22 (poverty line or loss of meaningful transportation, for an employee), or comparable demonstrable obstruction of the pursuit-of-happiness right traceable to the government conduct (for any other beneficiary), the conduct is reachable as a **criminal offense against the beneficiary as a natural person** — in addition to, and not in lieu of, any civil remedy of the business under §5.7.1 or the employee under §5.7.2.
+
+The criminal offense is charged against the actor under the ordinary mens-rea rules of Section 3, the classification rules of §3.5, and the aggravation rules of §5.6 of this Act. The substantive offense charged is whichever offense the actor's conduct meets — including, without limitation, the offenses of §1.1.7 (Government Racketeering), §1.1.6 (Cabalism) where multiple actors are involved, §1.1.12 (Terrorism, business-welfare or financial-welfare prong), §1.1.13 (Official Intimidation), §17.2 (Institutional Retaliation), §17.6 (Public Trust Fraud), §17.9 (Revenue Extraction Under Color of Law) where applicable, and any other offense whose elements the conduct independently meets.
+
+The fact that the immediate target of the actor's conduct was a business entity rather than the beneficiary as a natural person does not bar the criminal charge. The harm to the beneficiary's right to pursue happiness was the foreseeable consequence of the conduct, and that harm is the gravamen of the offense for criminal-liability purposes.
+
+#### 5.7.4 Non-Diminution and Non-Substitution
+
+Nothing in this subsection diminishes the rights of any citizen, owner, employee, or beneficiary otherwise reachable under this Act through a direct theory of liability. The standing rules of this subsection are **additional** mechanisms of reach, not substitutes for the direct theories available elsewhere in this Act. A citizen, owner, employee, or beneficiary who has both a direct claim and a claim under this subsection may pursue either or both, and recovery on one does not by itself bar recovery on the other, subject to ordinary anti-duplicative-recovery rules.
+
+#### 5.7.5 Limitations
+
+- This subsection extends the **reach** of offenses defined elsewhere in this Act; it does not, by itself, create new substantive offenses. The actor's conduct must independently satisfy the elements of a substantive offense (including the wrongful-conduct boundary terms of §1.1.18 or §1.1.19) before liability attaches.
+- Routine regulatory enforcement, lawful tax collection, lawful denial of a discretionary benefit, lawful inspection, lawful permit revocation supported by adequate process, and other ordinary lawful exercises of state authority do **not** become criminal offenses under this subsection by virtue of incidentally affecting a business or employee. The conduct must be unlawful, ultra vires, retaliatory, coercive, obstructive, fraudulent, or otherwise wrongful within the meaning of §1.1.18 or §1.1.19 before the standing and reach rules of this subsection attach.
+- Consistent with the limitation in §1.1.21 on the pursuit-of-happiness right, a business whose conduct in fact harms other citizens is not, in that conduct, exercising a protected right. Lawful government action that addresses actual harm caused by a business to other citizens, supported by lawful basis and lawful process, is not reached by this subsection.
+- The poverty-line, family-home, and meaningful-transportation thresholds are **floors** for the beneficiary bridge to criminal liability; they are not ceilings on civil recovery. A business or employee may recover under §5.7.1 or §5.7.2 for any demonstrable economic injury, whether or not the injury reached any threshold. The thresholds operate only on the question of whether the conduct is also reachable as a criminal offense against a natural-person beneficiary under §5.7.3.
+
 ---
