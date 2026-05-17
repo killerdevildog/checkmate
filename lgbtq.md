@@ -10,7 +10,7 @@ That matters to LGBTQ+ people because the community's history with government ha
 
 Operation Checkmate does not create a separate caste of LGBTQ+ rights. It does something stronger: it makes the same rule apply to everyone, including the official. The badge, robe, office, file, clipboard, policy manual, or prosecutor's title does not turn discrimination into law.
 
-This document is also written so you can copy it into your favorite AI assistant alongside [`AI_chat.md`](AI_chat.md) and ask: *"How does this bill apply to me as a [trans / gay / lesbian / bisexual / queer / HIV-positive / questioning / non-binary] citizen, given my situation?"*
+This document is also written so you can paste it into your favorite AI assistant — [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or another — along with the latest PDF of the bill (download from [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest); the PDF is well under 1 MB and fits inside the upload limit of every major AI chat). Then ask: *"How does this bill apply to me as a [trans / gay / lesbian / bisexual / queer / HIV-positive / questioning / non-binary] citizen, given my situation?"*
 
 ---
 
@@ -191,7 +191,7 @@ Or even shorter:
 
 If you support this bill:
 
-1. **Read it.** Start with the [README](README.md), then [the full bill](bill_proposal.md). Or paste [`AI_chat.md`](AI_chat.md) into [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI and ask: *"How would this bill apply to me as a [trans / gay / lesbian / bi / queer / HIV-positive / questioning / non-binary] person dealing with [your situation]?"*
+1. **Read it.** Start with the [README](README.md), then [the full bill](bill_proposal.md). Or download the latest PDF from [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest) and upload it to [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI, then ask: *"How would this bill apply to me as a [trans / gay / lesbian / bi / queer / HIV-positive / questioning / non-binary] person dealing with [your situation]?"*
 2. **Sign on.** Email **citizens.checkmate@gmail.com** with subject `CHECKMATE` and your **first and last name + zip code** in the body. That is an electronic signature on the petition.
 3. **Star the GitHub repo.** Create a free account at https://github.com/signup if you do not have one, then star https://github.com/killerdevildog/checkmate. Stars are public signals of support and make the bill more visible.
 4. **Share** with friends, family, mutual-aid groups, community organizations, student groups, legal clinics, public defenders, advocacy groups, and anyone who has had to deal with government power up close.

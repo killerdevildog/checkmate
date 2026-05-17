@@ -6,9 +6,33 @@
 
 ## Talk to an AI about this bill
 
-Want help understanding the bill or how it might apply to your situation? Open [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or another AI assistant, then paste in **[`AI_chat.md`](AI_chat.md)** as the first message.
+Want help understanding the bill or how it might apply to your situation? You can have a conversation about the entire bill with any major AI assistant in just a few steps. The PDF of the bill is well under 1 MB, which fits comfortably inside the file-upload limit of every major chat AI today.
 
-That prompt tells the AI to fetch the bill, use the supporting files in this repo, explain things in plain language, discuss strengths and trade-offs, and help draft issues, pull requests, or feedback emails. If the AI cannot browse, paste [`bill_proposal.md`](bill_proposal.md) into the chat after the prompt.
+**Step-by-step:**
+
+1. **Go to the latest-release page:**
+   👉 [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest)
+
+2. **Scroll down to the "Assets" section** on that page. You will see a file named something like `Draft Ver 5.8.12.pdf` (the version number updates as the bill evolves). Click that file name to **download the PDF** to your computer or phone.
+
+3. **Open an AI chat:**
+   - [ChatGPT](https://chatgpt.com)
+   - [Claude](https://claude.ai)
+   - [Grok](https://grok.com)
+   - [Gemini](https://gemini.google.com)
+   - or any other AI assistant that accepts file uploads
+
+4. **Upload the PDF** as your first message. Most chat AIs have a paperclip icon (or "Attach"/"Upload" button) next to the message box — click that and select the PDF you just downloaded. On phones, you can drag-and-drop or use the share button.
+
+5. **Ask anything.** For example:
+   - *"Explain this bill to me in plain language."*
+   - *"Apply this bill to my situation: [describe what happened to you]."*
+   - *"What does the bill say about [specific topic, like 'qualified immunity' or 'public defenders']?"*
+   - *"What are the strongest objections to this bill, and how does it answer them?"*
+   - *"Help me draft a feedback email to the bill's author."*
+   - *"Help me draft a GitHub issue suggesting an improvement."*
+
+That's it. The PDF is the entire bill — the AI will have full context for any question you ask.
 
 ---
 
@@ -120,8 +144,7 @@ Questions, edits, or feedback on the draft are welcome at the same address with 
 **Read the bill:**
 
 - **[`bill_proposal.md`](bill_proposal.md)** — the full bill text. Long, but it's the real thing.
-- **Latest PDF snapshot:** [Draft Ver 5.8.5](https://github.com/killerdevildog/checkmate/releases/tag/v5.8.5)
-- **[`AI_chat.md`](AI_chat.md)** — a short prompt you can paste into ChatGPT / Claude / Grok / Gemini that tells the AI to fetch the bill from this repo and act as your guide (see the *"Talk to an AI"* section above).
+- **Latest PDF snapshot:** [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest) — always points to the most recent release; download the attached PDF and upload it to any AI chat (see the *"Talk to an AI"* section above).
 - **[`advanced_readme.md`](advanced_readme.md)** — a section-by-section overview with section numbers, classifications, and cross-references.
 - **Key legal definitions in Section 1** — controlling definitions of legal terms (color of law, judicial immunity, qualified immunity, justice, etc.) inside [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
 - **[GitHub Releases](https://github.com/killerdevildog/checkmate/releases)** — milestone PDF snapshots for distribution and review.

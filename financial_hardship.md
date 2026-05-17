@@ -8,7 +8,7 @@ A traffic ticket can become a warrant. A warrant can become a jailing. A jailing
 
 **Operation Checkmate** addresses this directly. It places real, personal civil and criminal consequences on the government officials who run those systems — and gives ordinary citizens, not the prosecutorial gatekeepers, the means to enforce them.
 
-This document is also written so you can copy it into your favorite AI assistant alongside [`AI_chat.md`](AI_chat.md) and ask, *"How does this bill apply to me as a [single parent / unemployed / hourly worker / retiree / person on disability / person with a license suspended for unpaid fines / person facing eviction]?"*
+This document is also written so you can paste it into your favorite AI assistant — [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or another — along with the latest PDF of the bill (download from [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest); the PDF is well under 1 MB and fits inside the upload limit of every major AI chat). Then ask, *"How does this bill apply to me as a [single parent / unemployed / hourly worker / retiree / person on disability / person with a license suspended for unpaid fines / person facing eviction]?"*
 
 ---
 
@@ -176,7 +176,7 @@ The anxiety of being financially unstable in this country is not separate from t
 
 If you support this bill:
 
-1. **Read it.** Start with the [README](README.md), then [the full bill](bill_proposal.md). Or paste [`AI_chat.md`](AI_chat.md) into [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI assistant — these are free or have free tiers — and ask: *"How does this bill apply to me as a [single parent / unemployed / hourly worker / retiree / person on disability / person with suspended license / person facing eviction], dealing with [your situation]?"*
+1. **Read it.** Start with the [README](README.md), then [the full bill](bill_proposal.md). Or download the latest PDF from [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest) and upload it to [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI assistant — these are free or have free tiers — and ask: *"How does this bill apply to me as a [single parent / unemployed / hourly worker / retiree / person on disability / person with suspended license / person facing eviction], dealing with [your situation]?"*
 2. **Sign on.** Email **citizens.checkmate@gmail.com** with subject `CHECKMATE` and your **first and last name + zip code** in the body. That is an electronic signature on the petition. **No fee, no postage, no lawyer.**
 3. **Star the GitHub repo.** Free GitHub account at https://github.com/signup, then star https://github.com/killerdevildog/checkmate. Stars are a public signal that real citizens support this — and they don't cost anything.
 4. **Share** with friends, family, neighbors, coworkers, your church, your union, your tenants' association, anyone else.

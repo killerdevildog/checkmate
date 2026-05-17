@@ -447,7 +447,7 @@ You can also:
 
 - Read [`bill_proposal.md`](bill_proposal.md)
 - Read [`advanced_readme.md`](advanced_readme.md)
-- Use [`AI_chat.md`](AI_chat.md) to ask an AI how the bill applies to your situation
+- Download the latest PDF from [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest) and upload it to ChatGPT / Claude / Grok / Gemini to ask how the bill applies to your situation
 - Star the GitHub repository
 - Open an issue with questions or suggested edits
 - Share the bill with people affected by government abuse

@@ -10,7 +10,7 @@ The bill text lives in **[`bill_proposal.md`](bill_proposal.md)** — a single, 
 
 Key terms and phrases used in the bill are now defined directly in **Section 1 (Definitions)** of [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
 
-Citizens who prefer to engage with the bill through an AI assistant can copy **[`AI_chat.md`](AI_chat.md)** into a new ChatGPT / Claude / Grok / Gemini chat — it's a single bundled prompt with the full bill, including Section 1 definitions and Section L case authorities, and instructions to the AI on how to help.
+Citizens who prefer to engage with the bill through an AI assistant can download the latest PDF from [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest) and upload it to a new ChatGPT / Claude / Grok / Gemini chat — the PDF is well under 1 MB and fits inside the upload limit of every major AI chat. It contains the full bill, including Section 1 definitions and Section L case authorities.
 
 ---
 

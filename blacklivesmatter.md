@@ -6,7 +6,7 @@ If you are Black in America, you already know that **interactions with governmen
 
 **Operation Checkmate** doesn't single out the Black community for special protection. It makes officials accountable to every citizen, equally. But because the Black community has carried a long, named, and continuing history of specific patterns of government abuse — and because the foundational "color of law" cases at the heart of this bill (*Classic*, *Screws*, *Monroe*) were all about Black civil rights — this bill matters here in particular ways.
 
-This document is also written so you can copy it into your favorite AI assistant alongside [`AI_chat.md`](AI_chat.md) and ask, *"How does this bill apply to me as a Black [parent / driver / professional / homeowner / student / inmate], given my situation?"*
+This document is also written so you can paste it into your favorite AI assistant — [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or another — along with the latest PDF of the bill (download from [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest); the PDF is well under 1 MB and fits inside the upload limit of every major AI chat). Then ask, *"How does this bill apply to me as a Black [parent / driver / professional / homeowner / student / inmate], given my situation?"*
 
 ---
 
@@ -151,7 +151,7 @@ Operation Checkmate addresses this directly:
 
 If you support this bill:
 
-1. **Read it.** Start with the [README](README.md), then [the full bill](bill_proposal.md). Or paste [`AI_chat.md`](AI_chat.md) into [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI assistant and ask: *"How would this bill apply to me as a Black [parent / driver / professional / homeowner / student / inmate / business owner], dealing with [your situation]?"*
+1. **Read it.** Start with the [README](README.md), then [the full bill](bill_proposal.md). Or download the latest PDF from [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest) and upload it to [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI assistant, then ask: *"How would this bill apply to me as a Black [parent / driver / professional / homeowner / student / inmate / business owner], dealing with [your situation]?"*
 2. **Sign on.** Email **citizens.checkmate@gmail.com** with subject `CHECKMATE` and your **first and last name + zip code** in the body. That is an electronic signature on the petition.
 3. **Star the GitHub repo.** Free GitHub account at https://github.com/signup, then star https://github.com/killerdevildog/checkmate.
 4. **Share** with friends, family, congregation, NAACP chapter, neighborhood association, Black professionals network, or anyone else.
