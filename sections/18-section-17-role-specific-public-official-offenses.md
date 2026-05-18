@@ -898,6 +898,104 @@ Refusal by the owner to accept the government's offered price, refusal to waive 
 - Where the conduct results in homelessness, death, suicide, serious bodily injury, catastrophic financial ruin, or permanent loss of family property, Section 12 and the penalty enhancements of Section 5.6 apply
 - Charge cumulatively under §1.1.3 (Battery), §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), §1.1.12 (Terrorism), §1.1.13 (Official Intimidation), §16.3, §2.9, §17.2, §17.9E, §17.9F, §17.23, §17.24C, or §17.24D where the elements are met
 
+### 17.24F Public Health Emergency Authority Abuse
+
+> A government actor commits **public health emergency authority abuse** where the actor — whether a public health officer, public health director, governor, county executive, mayor, agency administrator, or any other actor exercising or invoking public health emergency authority — issues, extends, enforces, or fails to terminate an order purporting to be a public health emergency measure, in any of the following circumstances:
+>
+> **(a)** the order or extension lacks a current, articulable, evidence-based public-health-emergency justification at the time of the issuance, extension, or enforcement;
+> **(b)** the order exceeds the lawful scope of the actor's public-health authority, invades a function constitutionally assigned to another branch of government, or operates as a bill of attainder against a defined person or class;
+> **(c)** the order is enforced beyond the actual duration of the underlying emergency;
+> **(d)** the order is selectively enforced for political, retaliatory, or favoritism reasons;
+> **(e)** the order conditions the citizen's livelihood, employment, business operation, family integrity, religious worship, or exercise of a right protected under §1.1.5 on submission to a public-health measure that is not necessary for the lawful public-health purpose actually invoked;
+> **(f)** the order is supported by material misrepresentations, omissions, or undisclosed conflicts of interest concerning the public-health basis for the order; or
+> **(g)** the order extends a declared emergency without the procedural protections — notice, opportunity to be heard, judicial review — owed under Section 2 of this Act.
+
+**Operative Principle.**
+
+Public-health emergency authority exists to address actual public-health emergencies. It does not exist to suspend constitutional rights, to bypass legislative processes, to settle political disputes, to coerce private compliance with non-public-health objectives, or to maintain executive control after the underlying emergency has passed. The exercise of public-health emergency authority is itself a public trust, and the abuse of that trust — through fabricated emergency, prolonged emergency, selective enforcement, livelihood coercion, or material misrepresentation of the public-health basis — is reachable under this Act.
+
+**Elements.**
+
+- The actor exercised, enforced, extended, or failed to terminate an order purporting to be a public-health emergency measure
+- Any one of the seven circumstances listed in subsections (a) through (g) above applies
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the deficiency
+
+**Specific Patterns Reached.**
+
+This subsection reaches, without limitation:
+
+- **Quarantine orders** issued, extended, or enforced beyond actual public-health necessity, or against specific persons or classes selected for retaliatory or political reasons
+- **Business closure orders** that exceed the actor's authority, that single out particular industries or businesses without articulable public-health justification, or that continue after the emergency basis has demonstrably ended
+- **Employment-conditioning orders** — including but not limited to vaccination, testing, masking, or other medical-status-based conditions of employment — where the condition exceeds lawful public-health authority, is enforced through coercive employment penalties, or is applied selectively across the workforce
+- **Indefinite emergency extension** — repeated declaration or extension of emergency status to maintain emergency-power-derived authority after the underlying emergency has demonstrably ended
+- **Bypass of legislative process** — issuance of orders that effectively legislate (creating new offenses, new duties, new revenue-collection mechanisms, new licensing conditions, or new burdens on protected rights) under emergency authority that does not extend to legislation
+- **Public misrepresentation** — knowing or recklessly indifferent misrepresentation of the medical, scientific, or epidemiological basis for an emergency order, or knowing omission of contrary evidence material to the order
+- **Undisclosed financial conflict** — issuance, extension, or enforcement of an order while the actor has an undisclosed financial relationship with any vendor, contractor, donor, or beneficiary materially benefiting from the order
+
+**Classification.**
+
+- Public health emergency authority abuse is a **Class 2 felony**
+- Where the abuse resulted in **loss of livelihood, business closure, family separation, denial of religious worship, denial of medical care unrelated to the declared emergency, or material harm to the welfare of citizens**, the offense is a **Class 1 felony**
+- Where the abuse was malicious, retaliatory, sustained beyond reasonable correction notice, or coordinated across multiple actors or agencies, the offense is a **capital offense**
+- May be charged cumulatively with §17.24 (Emergency Power Abuse), §17.23 (Regulatory Weaponization), §1.1.18 (Ultra Vires), §1.1.10 (Anarchy) where the order lacked any lawful basis, §17.6 (Public Trust Fraud), and §1.1.6 (Cabalism) where multiple actors coordinated
+
+**Defenses Limited.**
+
+- A claim that the order was "for public health" or "to save lives" is not a defense unless supported by current, articulable, evidence-based public-health justification at the time of the conduct charged
+- Reliance on a prior declaration of emergency is not a defense where the actor knew or should have known the underlying emergency basis had ended
+- Reliance on guidance from a federal agency is not a defense where the actor's order independently meets the elements of this subsection
+- Indemnification or hold-harmless clauses are not a defense to liability under this subsection
+- The political popularity of an order is not a defense where the order meets the elements of this subsection
+
+**Application.**
+
+- This subsection operates in addition to §17.24 (Emergency Power Abuse), which reaches abuse of emergency power generally. Where the public-health emergency context applies, this subsection controls within its scope and §17.24 may be charged in addition.
+- Nothing in this subsection prohibits a lawful, time-limited, evidence-based, procedurally compliant public-health response to an actual public-health emergency. This subsection reaches abuses of that authority, not lawful uses of it.
+
+### 17.24G Election Authority Abuse
+
+> A government actor — including, without limitation, a county clerk, election commissioner, secretary of state, lieutenant governor in an election-administration capacity, poll worker, voter-registration officer, ballot processor, signature reviewer, certification officer, or canvasser — commits **election authority abuse** where the actor uses, exercises, withholds, or refuses to perform election-administration authority in any of the following ways:
+>
+> **(a)** purges, removes, or transfers voters from voter rolls without lawful basis, without required notice, or selectively against identifiable demographic, partisan, religious, racial, or geographic groups;
+> **(b)** rejects, blocks, delays, conditions, or selectively scrutinizes voter registrations without lawful basis or under selectively applied standards;
+> **(c)** rejects, invalidates, segregates, or delays the counting of ballots without lawful basis or under selectively applied standards;
+> **(d)** refuses to certify, delays certification of, or conditions certification of election results except as required by lawfully applicable challenge procedures;
+> **(e)** engages in partisan, retaliatory, or selectively-enforced poll-worker conduct — including without limitation challenging voters of one party while not challenging similarly-situated voters of another party, requiring identification or documentation from one voter while not requiring it from a similarly-situated other voter, or providing information or assistance to one voter while withholding it from a similarly-situated other voter;
+> **(f)** schedules, conducts, or announces voter-roll maintenance, registration purges, identification-requirement changes, or similar election-administration actions in a manner timed to suppress, confuse, or burden lawful voters;
+> **(g)** uses election-administration authority for retaliatory enforcement against voters, candidates, election observers, or election-administration whistleblowers who have criticized officials, reported misconduct, or otherwise engaged in protected conduct under §1.1.5;
+> **(h)** falsifies, alters, conceals, or destroys election records, ballots, voting-machine records, registration records, certification records, or chain-of-custody documentation; or
+> **(i)** participates in coordinated conduct with other actors to engage in any of the foregoing.
+
+**Operative Principle.**
+
+Free, fair, and equally administered elections are the constitutional foundation on which every other check on government rests. An election authority that purges voters selectively, rejects ballots selectively, certifies selectively, or otherwise applies election rules in a manner that favors any party, candidate, faction, or constituency over another is exercising public power for private benefit. Election administration is a public trust, and its abuse is reachable under this Act on the same principles that reach other forms of color-of-authority misconduct.
+
+**Elements.**
+
+- The actor holds, exercises, or is delegated election-administration authority
+- The actor performed, refused to perform, or selectively performed an act within that authority
+- The act falls within one or more of subsections (a) through (i) above
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the impropriety
+
+**Classification.**
+
+- Election authority abuse is a **Class 2 felony**
+- Where the conduct affects fifty (50) or more voters, fifty (50) or more ballots, or the timing of fifty (50) or more registration transactions, the offense is a **Class 1 felony**
+- Where the conduct materially affects the outcome of an election, or is performed with the intent of materially affecting the outcome of an election, the offense is a **capital offense**
+- May be charged cumulatively with §17.6 (Public Trust Fraud), §17.23 (Regulatory Weaponization), §17.4 (Deliberate Record Distortion), §17.4A (Public-Record Spoliation), §17.2 (Institutional Retaliation), §1.1.18 (Ultra Vires), §1.1.10 (Anarchy) where the conduct lacked any lawful basis, and §1.1.6 (Cabalism) where multiple actors coordinated
+
+**Defenses Limited.**
+
+- "I was following the rules" is not a defense where the rules were applied selectively against similarly-situated voters or applicants
+- "The supervisor told me to" is not a defense where the actor knew or should have known the supervisor's instruction violated this subsection — and supervisors are reachable independently under §1.1.6 (Cabalism) and §17.2 (Institutional Retaliation)
+- A claim that the affected voters or ballots would not have changed the election outcome is not a defense at the Class 2 felony tier; outcome-effect is an aggravating factor, not an element of the base offense
+- Reliance on a voter-list provider, software vendor, or algorithm is not a defense where the actor knew or should have known of the provider's bias, inaccuracy, or selective output — and the conduct may also be reachable under §17.24A (Algorithmic Authority Abuse)
+
+**Application.**
+
+- This subsection reaches conduct by any actor exercising election-administration authority within the State of Utah, including conduct by federal-officer actors reachable under §14.7 where the conduct affects Utah voters.
+- Nothing in this subsection prohibits lawful election administration carried out under existing Utah election law in good faith. The subsection reaches abuses of that authority, not lawful uses of it.
+
 ---
 
 ### Subpart E — Federal Representative and Intergovernmental Obstruction

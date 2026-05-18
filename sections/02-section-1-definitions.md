@@ -903,7 +903,7 @@ The following terms appear throughout this Act in connection with the limits of 
 
 - The actor takes an action no law authorizes the actor to take; **or**
 - The actor takes an action only some other officer or office is authorized to take; **or**
-- The actor performs a function constitutionally assigned to a **different branch of government** — including, without limitation, (a) an executive actor performing a legislative function, such as authoring binding law, imposing duties, or creating offenses by agency rule without an actual statutory delegation; (b) a judicial actor performing a legislative function, such as creating new offenses, new duties, or new rights of action by judicial pronouncement rather than by application of existing law to the facts before the court; (c) a legislative actor performing a judicial function, such as targeting a specific person or class for punishment without trial in the manner of a bill of attainder; or (d) any other crossing of the constitutional line that separates the legislative, executive, and judicial functions.
+- The actor performs a function constitutionally assigned to a **different branch of government** — including, without limitation, **(a)** an executive actor performing a legislative function, such as authoring binding law, imposing duties, or creating offenses by agency rule without an actual statutory delegation; **(b)** a judicial actor performing a legislative function, such as **creating new offenses, new duties, new rights of action, new exceptions, new carve-outs, new privileges, or new immunity doctrines** by judicial pronouncement rather than by application of existing law to the facts before the court — **paradigmatic examples include the judicial creation of absolute judicial immunity in *Bradley v. Fisher*, 80 U.S. 335 (1872); the judicial creation of absolute prosecutorial immunity in *Imbler v. Pachtman*, 424 U.S. 409 (1976); and the judicial creation of qualified immunity in *Harlow v. Fitzgerald*, 457 U.S. 800 (1982), each of which is a substantive policy choice exercised in legislative form by an unelected judicial body** — and which conduct is independently reachable as the offense of **legislate from the bench** under §1.1.25; **(c)** a legislative actor performing a judicial function, such as targeting a specific person or class for punishment without trial in the manner of a bill of attainder; or **(d)** any other crossing of the constitutional line that separates the legislative, executive, and judicial functions.
 
 Each branch of government holds **only** the functions constitutionally assigned to it. The performance of functions belonging to another branch is per se without lawful authority, regardless of whether the actor's own office has any other lawful authority. An office may have lawful functions of its own; that does not authorize the office to perform the functions of a different branch. Ultra vires conduct is per se without lawful authority and is reachable under §1.1.10 (Anarchy) where the actor knew, or in reckless disregard of clear evidence should have known, that the conduct exceeded the actor's authority or invaded another branch's constitutionally assigned function.
 
@@ -1059,6 +1059,81 @@ A "beneficiary" for purposes of this Act means any natural person whose liveliho
 Where a government actor's unlawful conduct against a business injures a beneficiary as defined in this subsection, and the injury meets any **one** of the thresholds set out in §1.1.21 (for the owner — poverty line, loss of family home, or loss of meaningful transportation), §1.1.22 (for an employee — poverty line or loss of meaningful transportation), or comparable demonstrable obstruction of the pursuit-of-happiness right traceable to the government conduct (for any other beneficiary), the conduct is reachable as a **criminal offense against the beneficiary as a natural person**, in addition to any civil claim of the business or employee under §5.7. The mens-rea rules of Section 3, the classification rules of §3.5, and the aggravation rules of §5.6 apply to the conduct on the beneficiary's behalf in the ordinary course. The fact that the immediate target of the actor's conduct was a business entity rather than the beneficiary as a natural person does not bar the criminal charge, because the harm to the beneficiary's pursuit of happiness was the foreseeable consequence of the conduct.
 
 **Limitation.** The beneficiary doctrine does **not** convert every routine regulatory action, lawful enforcement action, or lawful denial of a discretionary benefit into a criminal offense. The conduct must independently satisfy the wrongful-conduct elements of §1.1.18 or §1.1.19, or any other substantive offense, before the beneficiary bridge attaches. This subsection extends the **reach** of an offense, not its **elements**. The pursuit-of-happiness right is bounded by its own limitation under §1.1.21: government action that addresses actual harm caused by a business to other citizens, supported by lawful basis and lawful process, is not reached by this subsection because the conduct it addresses is not, in that conduct, an exercise of the pursuit-of-happiness right.
+
+#### 1.1.24 Substantial
+
+> **Substantial.** A degree, amount, scope, content, weight, or extent that is **meaningful, significant, real, and operative** — not merely trivial, technical, formal, nominal, or de minimis. The word "substantial" as used throughout this Act, in any of its forms (substantial, substantially, substantive), refers to **actual operative content, weight, or effect**, not the mere appearance of content, weight, or effect.
+
+**Operational Rule.**
+
+Where this Act requires that a citizen, an official, a Council, a court, or any other actor undertake or demonstrate something "substantial" — substantial recitation, substantial part, substantial portion, substantial influence, substantial contribution, substantial harm, substantial deprivation, substantial part of, or any similar formulation — the inquiry is into the **operative reality** of what was undertaken or demonstrated, not into the formal label, appearance, paperwork, or claim attached to it. A formality that conveys no real content is not substantial. A nominal compliance that meets the letter but not the operative effect of a requirement is not substantial. A "review" that did not actually engage the subject is not substantial. An "investigation" that did not actually investigate is not substantial. A "training" that did not actually train is not substantial. A "hearing" that did not actually hear is not substantial.
+
+**Specific Applications.**
+
+- **Substantially recite** (§1.1.20) means stating the operative substance of the item in the actor's own working knowledge, not necessarily verbatim, and not by reading or by relying on external materials. The substance must be conveyed; the form is flexible.
+- **Substantial part** and **substantial portion** mean a part or portion of operative significance to the inquiry — not a part or portion measured purely by raw size, page count, or word count, but by **operative weight**.
+- **Substantial influence**, **substantial contribution**, **substantial cause**, and similar phrases mean an influence, contribution, or cause that **materially affects** the outcome, conduct, harm, or decision in question — not one that is merely incidental, decorative, or coincidental.
+- **Substantial harm**, **substantial deprivation**, and **substantial impact** mean a harm, deprivation, or impact that is real, operative, and significant to the affected citizen's life, liberty, property, rights, family, livelihood, or wellbeing — not a harm measured purely by formal metrics divorced from the citizen's actual experience.
+- **Material** as used elsewhere in this Act is treated as a near-synonym of "substantial" for purposes of this definition, except where context indicates a more specific evidentiary or fiduciary meaning of "material."
+
+**Rule of Construction.**
+
+Where the word "substantial," "substantially," "substantive," or any cognate term in this Act could be construed broadly or narrowly, it shall be construed in favor of the citizen and against the government actor, consistent with §1.1.5.2 (Rule of Construction). Where the construction of "substantial" determines whether an official met an affirmative duty, whether a citizen suffered cognizable harm, whether an investigation actually investigated, whether a hearing actually heard, or whether a training actually trained, the construction shall favor the operative-reality reading over the formal-paperwork reading.
+
+**Reverse Application.**
+
+Just as a citizen's "substantial" act must be real and operative, a government actor's claim that its conduct was "substantial compliance" with a duty, "substantial review" of a complaint, "substantial investigation" of a matter, or "substantial procedure" before a deprivation must also be tested against the operative-reality standard. A government actor cannot rely on the label of "substantial" to satisfy a duty under this Act where the operative content was nominal, paper-only, or designed to avoid the substance of the duty.
+
+#### 1.1.25 Legislate from the Bench (Judicial Legislation)
+
+> **Legislate from the bench.** A judicial officer commits **legislative judicial action** — colloquially, "legislating from the bench" — when the officer, in the course of any judicial proceeding or judicial pronouncement, **creates, expands, contracts, invents, modifies, or recognizes any rule of law, doctrine, right, defense, offense, duty, immunity, privilege, exception, or carve-out that is not a faithful application of existing controlling law to the facts before the court.**
+
+**The Constitutional Premise.**
+
+Under the Constitution of the United States and the Constitution of the State of Utah, the **legislative function — making law — is constitutionally assigned to the legislative branch**. The **judicial function — applying law — is constitutionally assigned to the judicial branch**. A judicial officer who steps across that line, by creating or modifying rules of law rather than applying them, performs a function the office does not have. Such conduct is **ultra vires** under §1.1.18 and reachable as a substantive criminal offense under this subsection.
+
+**Specifically Reached.**
+
+The following conduct is **per se** legislative judicial action under this subsection:
+
+- **Creation, extension, or application of immunity doctrines.** A judge who, in any judicial pronouncement, creates, extends, expands, or applies any doctrine of judicial immunity, prosecutorial immunity, qualified immunity, sovereign immunity, executive immunity, legislative immunity, or any analogous doctrine of partial or absolute immunity from civil or criminal liability for government actors — where that doctrine is not the faithful application of an existing statutory or constitutional provision. The Supreme Court's creation of qualified immunity in *Harlow v. Fitzgerald*, 457 U.S. 800 (1982), the creation of absolute judicial immunity in *Bradley v. Fisher*, 80 U.S. (13 Wall.) 335 (1872), the creation of absolute prosecutorial immunity in *Imbler v. Pachtman*, 424 U.S. 409 (1976), and the analogous creations across the immunity architecture are themselves the paradigm examples of the conduct this subsection reaches. **A Utah judicial officer who follows, extends, applies, or invokes any such doctrine after the effective date of this Act — where this Act has abrogated the doctrine within the State under §5.1 — commits the offense.**
+- **Creation of new offenses, duties, or rights of action by judicial pronouncement.** A judge who, in the course of a proceeding, creates a new criminal offense, a new civil cause of action, a new affirmative duty, or a new substantive right — rather than applying offenses, causes, duties, and rights already defined by statute or by the operative text of a constitutional provision — performs a legislative function.
+- **Creation of new exceptions or carve-outs to existing law.** A judge who, by pronouncement, creates a new exception, exemption, exclusion, carve-out, or limitation that narrows the operative effect of a statute or constitutional provision — without textual basis in the law being narrowed — performs a legislative function.
+- **Doctrinal expansion beyond the statute or text.** A judge who, by pronouncement, applies a judicially-created doctrine in a manner that exceeds the operative effect of the statute or constitutional provision the doctrine was originally created to interpret — particularly where the expansion serves to immunize, exempt, or otherwise shield a government actor — performs a legislative function.
+- **Substantive policy-making framed as procedural decision.** A judge who, by pronouncement, creates or modifies substantive law under the label of a procedural ruling, a "harmless error" finding, a standing determination, or a similar procedural framing performs a legislative function where the operative effect is to make substantive law.
+
+**Not Reached (What Judges May Lawfully Do).**
+
+- **Faithful application of existing law.** A judge applying the operative text of a statute, regulation, ordinance, or constitutional provision to the facts before the court is performing the judicial function, not the legislative function.
+- **Statutory interpretation in good faith.** A judge interpreting ambiguous statutory text — drawing on traditional canons of construction, legislative history, and the operative meaning of the text — is performing the judicial function. **Interpretation is permitted; invention is not.**
+- **Application of binding precedent within its proper scope.** A judge applying a binding precedent to facts within the precedent's actual reasoning is performing the judicial function. Extension of binding precedent beyond its actual reasoning, where the extension creates new substantive law, is legislative judicial action.
+
+**Elements.**
+
+- The actor is a judge, justice, magistrate, justice court judge, or other judicial officer
+- The actor, in the course of a judicial proceeding or judicial pronouncement, created, expanded, contracted, invented, modified, or recognized a rule of law, doctrine, right, defense, offense, duty, immunity, privilege, exception, or carve-out
+- The action was not a faithful application of existing controlling law to the facts before the court
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the distinction between application and legislation
+
+**Classification.**
+
+- Legislate from the bench is a **Class 1 felony**.
+- Where the legislative judicial action created, extended, or applied an immunity doctrine shielding government-actor misconduct from civil or criminal liability under this Act, the offense is a **capital offense**, consistent with the gravity this Act assigns to the deliberate construction of barriers to constitutional accountability.
+- May be charged cumulatively with §1.1.10 (Anarchy) where the action lacked any lawful authority, §1.1.18 (Ultra Vires) — which the offense always meets — §17.5A (Incompetence in Office), and triggers the automatic §11.4.3 (Automatic Judicial Conduct Commission Referral) consequences on conviction.
+
+**Defenses Limited.**
+
+- **Reliance on prior judicial pronouncements** creating the same doctrine is **not** a defense where this Act has abrogated the doctrine within the State of Utah. The whole point of the abrogation is that the prior judicial pronouncement was itself unauthorized; relying on it does not cure the underlying ultra vires conduct.
+- A claim that the action was **"interpretation"** rather than legislation is not a defense where the operative effect of the action was to create new substantive law not present in the text being interpreted.
+- A claim that the action was supported by **long judicial practice** is not a defense. Consistent with §1.1.20 (Incompetence in Office) and the Statement of Intent, "this is the way it has always been done" is expressly rejected as a justification for conduct that conflicts with constitutional authority.
+- A claim that the action was **necessary to avoid absurd results** is not a defense. Absurdity in legislation, if any, is a matter for the legislative branch to address through legislation, not for the judicial branch to address through invention.
+- A claim that the action was made in the **"best interests of justice"** is not a defense. Best-interests reasoning is itself a legislative judgment, and a judge who exercises it from the bench is performing the legislative function this subsection prohibits.
+
+**Relationship to Other Provisions.**
+
+- This subsection operates in addition to §1.1.18 (Ultra Vires), which it always meets. Where the elements of both are met, both may be charged cumulatively.
+- This subsection operates in addition to §1.1.10 (Anarchy), which it may meet where the legislative judicial action lacked any identifiable lawful authority.
+- A Joint Declaration of Logical Consistency Review under §9.14 may be filed by a Citizen Council against any judicial doctrine, immunity, or pronouncement that meets the elements of this subsection, and the reviewing court may not refuse review on the grounds that the doctrine has been long established.
 
 ### 1.2 Misconceptions
 

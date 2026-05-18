@@ -886,6 +886,39 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Technical failure is not a defense unless documented contemporaneously and preserved in the official record
 - Muting, obscuring, disabling, delaying activation, or selectively recording is treated as intentional failure unless clearly justified by an immediate lawful necessity
 
+#### 2.8.3A Mandatory Recording, Preservation, and Citizen Access
+
+> Every peace officer, sheriff's deputy, detention officer, investigator, code-enforcement officer, school resource officer, and any other government actor authorized to detain, search, seize, question, cite, arrest, use force, intake complaints, remove children, or take any other coercive enforcement action against a citizen **shall be equipped with, shall activate, and shall preserve audio and video recording of every such contact**, in accordance with the requirements of this subsection.
+
+**Equipment and Activation.**
+
+- The State, every municipality, every county, and every agency employing actors subject to this subsection shall provide each such actor with operational audio and video recording equipment — including body-worn camera, vehicle dashboard camera, and any other recording equipment appropriate to the actor's enforcement role.
+- The actor shall **activate the recording equipment at the earliest practicable moment of any enforcement contact** and shall maintain continuous recording for the duration of the contact, including movement to and from the scene, transport of the citizen, custodial interactions, and the conclusion of the contact.
+- Where the actor enters a private residence, the actor shall record the entry, the search or seizure, the duration of the presence in the residence, and the departure, except where the resident's consent to discontinue recording in a private setting (such as a bathroom or undressing area) is given in advance and on the record.
+- Muting, obscuring, deactivating, selectively recording, or otherwise circumventing the recording requirement is itself reachable under §2.8.3 (Unrecorded Enforcement Contact) and §17.4 (Deliberate Record Distortion).
+
+**Preservation.**
+
+- All recordings made under this subsection shall be preserved by the employing agency for a **minimum of seven (7) years** from the date of the recorded contact, or for the duration of any related criminal, civil, or administrative proceeding plus seven (7) years after the conclusion of that proceeding, whichever is longer.
+- Recordings shall be stored in an unalterable format with cryptographic integrity verification sufficient to detect tampering, editing, deletion, or other manipulation. Any agency that fails to maintain integrity-verifiable storage is reachable under §17.4 (Deliberate Record Distortion) and §17.4A (Public-Record Spoliation).
+- Recordings shall not be edited, redacted, deleted, overwritten, or destroyed except (a) on completion of the minimum preservation period defined above; (b) under express written order of a court of competent jurisdiction; or (c) pursuant to a redaction protocol limited to the protection of victim, witness, juvenile, or sensitive-personal-information identifiers in copies released for public access — with the unredacted original always preserved.
+
+**Citizen Access.**
+
+- A citizen who was the subject of, present at, or otherwise affected by an enforcement contact recorded under this subsection has the **right to receive an unredacted copy of the recording within ten (10) business days** of a written request to the employing agency, without filing fee, without lawyer requirement, and without any precondition other than reasonable identification of the requested recording.
+- A citizen who is the subject of a criminal investigation, prosecution, civil action, or administrative proceeding in which a recording made under this subsection is relevant has the **right to receive an unredacted copy within seventy-two (72) hours** of written request, regardless of whether the citizen is represented by counsel.
+- Refusal, delay beyond these timelines, or partial production constituting effective denial is reachable under §17.9 (Failure of Transparency), §2.10.4 (Clerk Access Obstruction) by analogy, and §1.1.8 (Obstruction of Justice).
+- Where the agency intends to redact a recording released to a citizen under this subsection, the agency shall (a) provide the unredacted recording for in-camera judicial review on request and (b) bear the burden of demonstrating that each specific redaction is lawful under this Act and under any applicable victim, witness, juvenile, or sensitive-information protection rule.
+
+**Entity-Level Liability for Failure to Equip or Maintain.**
+
+- The State, a municipality, a county, an agency, or any official with funding, contracting, assignment, supervisory, or administrative authority over actors subject to this subsection who knowingly or recklessly fails to provide the required recording equipment, fails to maintain operational equipment, fails to enforce the activation requirement, or fails to maintain the preservation infrastructure required by this subsection is reachable under this Act as a government actor.
+- **Classification:** **Class 3 felony**, escalating to **Class 2 felony** where the failure materially contributes to a §2.8.3 violation, to wrongful conviction, to deprivation of liberty, or to denial of a citizen's claim under this Act.
+
+**Relationship to §2.8.3.**
+
+- This subsection operates in addition to, not in lieu of, §2.8.3 (Unrecorded Enforcement Contact), which reaches the individual actor's failure to record where recording was required. This subsection adds the **affirmative agency-level mandate** to provide equipment, the **preservation requirements**, the **citizen-access rights**, and the **entity-level liability** for failure to support the requirement.
+
 #### 2.8.4 Custodial Medical Abandonment
 
 > A government actor commits **custodial medical abandonment** where the actor, jail, prison, detention center, holding facility, hospital guard unit, transport unit, or responsible agency fails to provide necessary medical care, medication, disability accommodation, mental-health care, suicide prevention, withdrawal care, hygiene, food, water, safe housing, or protection from known violence to a person in custody.
@@ -933,6 +966,61 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Crisis-response misconduct is a **Class 3 felony**
 - Where injury, involuntary hospitalization, jail, loss of housing, criminal charges, loss of benefits, or family separation results, the offense is a **Class 2 felony**
 - Where death or serious bodily injury results, the offense is a **capital offense**, and Section 11 applies where the elements are met
+
+#### 2.8.7A Involuntary Commitment and Court-Ordered Evaluation Abuse
+
+> A government actor commits **involuntary commitment and court-ordered evaluation abuse** where the actor initiates, recommends, signs, approves, extends, executes, or fails to discharge an involuntary mental-health commitment, court-ordered psychiatric or psychological evaluation, protective custody hold, emergency mental-health detention, civil commitment proceeding, or similar civil-commitment process for a purpose other than the lawful protection of the citizen or others from imminent harm — including without limitation purposes of silencing a whistleblower, neutralizing a critic, retaliating against a complainant, gaining leverage in a family-court or custody matter, separating a citizen from family or community, suppressing dissent, or obtaining waivers or confessions the citizen would not otherwise give.
+
+**Operative Principle.**
+
+The civil-commitment power exists, in American constitutional tradition, only to address an actual, current, evidence-based risk of imminent harm — to the committed person or to others — that cannot be addressed by less restrictive means. Commitment is not a tool for resolving family disputes, silencing critics, retaliating against whistleblowers, neutralizing political opponents, or gaining leverage in unrelated proceedings. **A commitment imposed for any of those purposes is no longer civil commitment within the meaning of constitutional law. It is detention without conviction, reachable under the same principles that govern unlawful confinement.**
+
+**Reaching Actors.**
+
+This subsection reaches, without limitation:
+
+- Judges, magistrates, family court judges, and any judicial officer signing or approving a commitment order, court-ordered evaluation, or extension
+- Prosecutors recommending or facilitating commitment as a tool in or alongside any other proceeding
+- Court-appointed psychiatrists, psychologists, social workers, custody evaluators, and other court-appointed evaluators whose reports support a commitment without adequate independent evaluation
+- Peace officers and detention officers who execute commitment orders with knowledge or reckless disregard of facts that the underlying order lacked lawful basis
+- Hospital staff, mental-health facility staff, and emergency-room providers who extend or maintain holds beyond the period of actual medical necessity or beyond the period authorized by law
+- Family members, complainants, or others coordinating with government actors to procure a commitment for unlawful purpose — reachable as conspirators under §1.1.6 (Cabalism) where the elements are met
+
+**Elements.**
+
+- The actor initiated, recommended, signed, approved, extended, executed, or failed to discharge an involuntary commitment, court-ordered evaluation, or similar civil-commitment process
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known that any of the following was the case:
+  - No actual, current, evidence-based risk of imminent harm existed
+  - Less restrictive means were reasonably available and not used
+  - The commitment was sought, executed, or extended for a purpose other than the lawful protection authorized by civil-commitment law
+  - The procedural protections owed under Section 2 of this Act — notice, opportunity to be heard, right to counsel, right to independent evaluation, right to judicial review — were not afforded
+- The citizen was subject to commitment, evaluation, or hold as a result
+
+**Specific Patterns Reached.**
+
+- **Whistleblower neutralization** — commitment, evaluation order, or psychiatric labeling of a citizen who has reported government misconduct, with the effect or purpose of discrediting the citizen's reports or removing the citizen from public engagement
+- **Family-court weaponization** — commitment, evaluation order, or psychiatric labeling of a parent or spouse in a custody, divorce, or guardianship dispute, with the effect or purpose of gaining advantage in the underlying proceeding
+- **Retaliation for protected conduct** — commitment, evaluation, or hold imposed on a citizen who has criticized officials, recorded officials, filed a complaint, asserted rights, joined or assisted a Citizen Council, sought counsel, or otherwise engaged in conduct protected under §1.1.5
+- **Extended hold without medical necessity** — maintenance of a hold beyond the period of actual medical necessity, beyond the period authorized by law, or pursuant to a renewal procured by misrepresentation
+- **Court-ordered evaluation as harassment** — use of court-ordered psychiatric or psychological evaluations as a leverage or harassment tool, particularly where ordered repeatedly or where the citizen is required to submit to evaluators with a documented relationship to the prosecuting authority or the opposing party
+- **Coerced waiver** — use of pending or threatened commitment to coerce a citizen's waiver of a right (the right to remain silent, the right to counsel, the right to refuse a plea, the right to challenge custody, and so on)
+
+**Classification.**
+
+- Involuntary commitment and court-ordered evaluation abuse is a **Class 2 felony**
+- Where the commitment results in confinement exceeding seven (7) days, in administration of psychoactive medication against the citizen's objection, in loss of employment, in loss of housing, in loss of custody of a child, in loss of professional license, in coerced waiver of a right, or in lasting psychiatric labeling of a citizen who was not properly subject to commitment, the offense is a **capital offense**
+- May be charged cumulatively with §1.1.13 (Official Intimidation), §1.1.12 (Terrorism) where the elements are met, §1.1.19 (Family Separation) where applicable, §2.6.2 (Prosecutorial Offenses) where the prosecutor is the procuring actor, §17.2 (Institutional Retaliation), and §1.1.6 (Cabalism) where multiple actors coordinated
+
+**Defenses Limited.**
+
+- A facially valid commitment order is not, by itself, a defense where the order failed any of the elements of this subsection
+- Reliance on the report of a court-appointed evaluator is not a defense where the actor knew or should have known of facts undermining the evaluator's report
+- A claim that the citizen was "behaving erratically" or "uncooperative" is not a defense unless supported by evidence of actual, current, evidence-based risk of imminent harm — and "uncooperative with the actor's preferred course of action" is not equivalent to "dangerous"
+- Diagnostic labels imposed during an unlawful commitment do not, by their existence, validate the commitment; the question is whether the commitment was lawful at the time of imposition, not whether subsequent observations could be re-purposed to justify it after the fact
+
+**Relationship to §2.8.7.**
+
+§2.8.7 addresses one direction of the abuse — over-criminalization of citizens in genuine mental-health crisis. This subsection addresses the opposite direction — over-medicalization of citizens not in genuine crisis, for purposes of silencing, retaliating against, or neutralizing them. Both directions are reachable, and a single fact pattern may implicate both where the actor's conduct includes elements of each.
 
 #### 2.8.8 Technical-Violation Incarceration Abuse
 
@@ -1132,6 +1220,41 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 - Citizen filing gatekeeping is a **Class 1 misdemeanor**
 - Where the barrier prevents timely filing, appeal, hearing, complaint intake, public-record access, election participation, or preservation of a right, the offense is a **Class 3 felony**
 - Where the barrier is used against a Citizen Council, constitutional challenge, public corruption complaint, criminal defendant, parent facing child removal, detained person, disabled person, elderly person, or non-English speaker, the offense is a **Class 2 felony**
+
+#### 2.10.8 Civil Contempt Indefinite Confinement Abuse
+
+> A judge, magistrate, justice court judge, family court judge, child-support court judge, commissioner, master, or other judicial officer with authority over civil contempt commits **civil contempt indefinite confinement abuse** where the actor uses, extends, ratifies, or refuses to discharge a citizen's civil contempt confinement (a) without a current finding that the citizen retains the present ability to comply with the underlying order, (b) where the purge condition is impossible, ambiguous, or unmeetable for the citizen on the facts known to the court, (c) for purposes outside the lawful coercive function of civil contempt, or (d) for any period during which the citizen is held without the procedural protections owed under Section 2 of this Act.
+
+**Operative Principle.**
+
+The civil contempt power exists, in American constitutional tradition, **only to coerce compliance with a lawful order the contemnor has the present ability to comply with**. The contemnor must "carry the keys to the jailhouse in their own pocket." A civil contempt confinement that the contemnor cannot end by complying with the underlying order — because compliance is impossible, the purge condition is unattainable, or the order is unlawful — is no longer civil contempt. It is detention without conviction, reachable under the same principles that bar imprisonment for debt and that protect the citizen's liberty under Section 2.
+
+**Elements.**
+
+- The actor is a judicial officer with authority over civil contempt confinement
+- The actor used, extended, ratified, or refused to discharge a citizen's civil contempt confinement
+- Any one of the following applies:
+  - The actor did not make, and the record does not support, a current finding that the citizen has the present ability to comply with the underlying order
+  - The purge condition is impossible, ambiguous, or unmeetable for the citizen on the facts known to the court — including without limitation purge conditions demanding payment from a citizen with no present ability to pay, demanding production of a document or person the citizen does not possess and cannot obtain, demanding behavior the citizen cannot perform, or demanding compliance with an order the citizen has already substantially complied with
+  - The actor used the civil contempt power for a purpose outside its lawful coercive function — including without limitation punishment of the citizen, retaliation against the citizen, leverage in another matter, silencing of the citizen, extraction of consent, or coercion of a waiver of a right
+  - The confinement was extended or maintained without the procedural protections owed under Section 2 of this Act, including without limitation the right to counsel, the right to be heard, the right to a current ability-to-comply hearing, and the right to challenge the purge condition
+
+**Particular Application to Family and Child-Support Courts.**
+
+The misuse of civil contempt to indefinitely confine citizens in family court, child-support court, divorce court, and protective-order proceedings is a documented pattern of abuse with disproportionate impact on indigent citizens, citizens in custody disputes, and citizens who have lost the ability to comply with orders entered in better economic circumstances. **This subsection reaches that pattern.** A citizen confined for inability to pay child support, where the court has not made a current finding of present ability to pay, is being detained for debt — not held in lawful civil contempt — and the responsible judicial officer is reachable under this subsection.
+
+**Classification.**
+
+- Civil contempt indefinite confinement abuse is a **Class 2 felony**
+- Where the confinement exceeds thirty (30) days without a current ability-to-comply finding, where the citizen is detained for inability to pay alone, or where the contempt power is used to silence, retaliate, or coerce a waiver of a right, the offense is a **capital offense**
+- May be charged cumulatively with §2.10.3 (Wealth-Based Liberty Denial), §1.1.13 (Official Intimidation), §1.1.10 (Anarchy) where the confinement lacked any lawful basis, §2.8.8 (Technical-Violation Incarceration Abuse) by analogy, and §1.1.6 (Cabalism) where multiple actors coordinated
+
+**Defenses Limited.**
+
+- A facially valid civil contempt order is not, by itself, a defense where the order failed any of the elements of this subsection
+- Reliance on the contemnor's earlier ability to comply is not a defense where the actor knew or should have known that the present ability had been lost
+- A claim that civil contempt is "civil, not criminal" is not a defense to the substantive misconduct this subsection reaches; the labels do not control where the conduct meets the elements
+- Reliance on the contemnor's failure to formally raise inability-to-comply is not a defense where the record placed the actor on notice of facts indicating the present ability had been lost
 
 ### 2.11 Public Defenders
 
@@ -1467,3 +1590,47 @@ The offenses of this subsection apply to both prosecutors and public defenders, 
 - Guardianship rights plunder is a **Class 2 felony**
 - Where housing, medical care, family contact, estate assets, voting rights, liberty, bodily autonomy, communication, or ability to challenge the guardianship is materially deprived, the offense is a **capital offense**
 - Where death, serious injury, suicide, or life-threatening medical crisis results, Section 11 applies
+
+### 2.13 Training and Competency Requirements for Government Actors Subject to This Act
+
+> Every government actor subject to this Act shall complete annual training on the substantive provisions of this Act, the United States Constitution, the Supremacy Clause, the Utah Constitution, the citizen's rights under §1.1.5, and the duties of the actor's office under this Act.
+
+**Operative Rule.**
+
+The §1.1.20 Citizen-Prompted Oath and Authority Recitation provision establishes a test: a government actor must be able, on a citizen's good-faith prompt, to substantially recite the actor's oath, the Supremacy Clause, the controlling constitutional provisions, and the statutory authority being exercised. This subsection establishes the **preparation** for that test. Government actors are not expected to acquire and maintain the working knowledge §1.1.20 demands without structural support. This subsection requires that support and makes the State, the actor's employing agency, and the actor each responsible for ensuring it is provided and completed.
+
+#### 2.13.1 Mandatory Training Curriculum
+
+The annual training required by this section shall include, at minimum:
+
+- **The substantive provisions of this Act**, with particular emphasis on the substantive offenses defined in Section 1, Section 2, Section 17, and any other section creating substantive offenses applicable to the actor's role
+- **The text and operative effect of the actor's oath of office**
+- **The text and operative effect of the Supremacy Clause** (Article VI, Clause 2 of the United States Constitution)
+- **The controlling provisions of the United States Constitution** and the **Constitution of the State of Utah** relevant to the powers the actor exercises
+- **The citizen's rights under §1.1.5** of this Act, including the rule of construction (§1.1.5.2) that ambiguities are resolved in favor of the citizen and against the government actor
+- **The citizen's mechanisms under this Act** — including the Citizen Council mechanism of Section 9, the right to record under §2.8.3A, the right to receive recordings under §2.8.3A, the right to file complaints under §17.9A, and the right to constitutional objection under §2.9
+- **The §1.1.20 procedure** the actor may be asked to perform, including the immediate-recitation rule, the active-emergency exception, and the prima-facie-evidence rule against reliance on external materials
+
+#### 2.13.2 Frequency and Duration
+
+- Training shall be completed **annually**, on or before the anniversary of the actor's entry to office — or, for actors in office at the time this Act takes effect, on or before the anniversary of the effective date.
+- Training shall be of duration sufficient to cover the curriculum requirements of §2.13.1 in substantive depth — not less than **eight (8) hours per year**.
+- Training shall be provided by **a qualified independent provider**, defined as a provider that is not an organ of the employing agency, not financially controlled by the employing agency, and not otherwise subject to conflicts of interest that would compromise the curriculum.
+
+#### 2.13.3 Failure to Complete Training
+
+- A government actor who fails to complete the required annual training by the deadline is **temporarily incapacitated** from exercising the powers of the actor's office until the training is completed, in the manner provided for in §1.1.20 for citizen-prompted incompetence findings.
+- Acts performed by an actor during a period of temporary incapacity under this section are reachable under §1.1.10 (Anarchy) and §1.1.18 (Ultra Vires).
+- The actor's failure to complete training is documented on the public record maintained by the employing agency, which record is subject to citizen access under §17.9 (Failure of Transparency) and applicable Utah open-records law.
+
+#### 2.13.4 Entity-Level Liability for Failure to Provide
+
+- The State, every municipality, every county, and every agency employing actors subject to this section shall provide, fund, and require the training described in §§2.13.1 and 2.13.2.
+- An agency that knowingly or recklessly fails to provide the required training, fails to enforce the completion requirement, or knowingly permits an actor to exercise the powers of office while the actor is in noncompliance with this section is reachable under this Act.
+- **Classification:** **Class 3 felony**, escalating to **Class 2 felony** where the failure materially contributes to a §1.1.20 finding against a noncompliant actor, to an offense charged under this Act, or to a denial of a citizen's claim under this Act.
+
+#### 2.13.5 Training-Provider Standards
+
+- Training providers under this section shall be approved by the Office of the Governor, with public lists maintained and updated.
+- An approved provider shall be removed from the list, and shall lose authority to provide training under this section, where the provider's curriculum is found — by Citizen Council action under §9 or by the Office of the Governor on its own motion — to materially misrepresent the substance of this Act, the Constitution, or the citizen's rights under §1.1.5.
+- A training provider that knowingly misrepresents the substance of the curriculum required by §2.13.1 is itself reachable under this Act as a government contractor exercising delegated public function under §1.1.1.

@@ -1227,7 +1227,7 @@ The following terms appear throughout this Act in connection with the limits of 
 
 - The actor takes an action no law authorizes the actor to take; **or**
 - The actor takes an action only some other officer or office is authorized to take; **or**
-- The actor performs a function constitutionally assigned to a **different branch of government** — including, without limitation, (a) an executive actor performing a legislative function, such as authoring binding law, imposing duties, or creating offenses by agency rule without an actual statutory delegation; (b) a judicial actor performing a legislative function, such as creating new offenses, new duties, or new rights of action by judicial pronouncement rather than by application of existing law to the facts before the court; (c) a legislative actor performing a judicial function, such as targeting a specific person or class for punishment without trial in the manner of a bill of attainder; or (d) any other crossing of the constitutional line that separates the legislative, executive, and judicial functions.
+- The actor performs a function constitutionally assigned to a **different branch of government** — including, without limitation, **(a)** an executive actor performing a legislative function, such as authoring binding law, imposing duties, or creating offenses by agency rule without an actual statutory delegation; **(b)** a judicial actor performing a legislative function, such as **creating new offenses, new duties, new rights of action, new exceptions, new carve-outs, new privileges, or new immunity doctrines** by judicial pronouncement rather than by application of existing law to the facts before the court — **paradigmatic examples include the judicial creation of absolute judicial immunity in *Bradley v. Fisher*, 80 U.S. 335 (1872); the judicial creation of absolute prosecutorial immunity in *Imbler v. Pachtman*, 424 U.S. 409 (1976); and the judicial creation of qualified immunity in *Harlow v. Fitzgerald*, 457 U.S. 800 (1982), each of which is a substantive policy choice exercised in legislative form by an unelected judicial body** — and which conduct is independently reachable as the offense of **legislate from the bench** under §1.1.25; **(c)** a legislative actor performing a judicial function, such as targeting a specific person or class for punishment without trial in the manner of a bill of attainder; or **(d)** any other crossing of the constitutional line that separates the legislative, executive, and judicial functions.
 
 Each branch of government holds **only** the functions constitutionally assigned to it. The performance of functions belonging to another branch is per se without lawful authority, regardless of whether the actor's own office has any other lawful authority. An office may have lawful functions of its own; that does not authorize the office to perform the functions of a different branch. Ultra vires conduct is per se without lawful authority and is reachable under §1.1.10 (Anarchy) where the actor knew, or in reckless disregard of clear evidence should have known, that the conduct exceeded the actor's authority or invaded another branch's constitutionally assigned function.
 
@@ -1383,6 +1383,81 @@ A "beneficiary" for purposes of this Act means any natural person whose liveliho
 Where a government actor's unlawful conduct against a business injures a beneficiary as defined in this subsection, and the injury meets any **one** of the thresholds set out in §1.1.21 (for the owner — poverty line, loss of family home, or loss of meaningful transportation), §1.1.22 (for an employee — poverty line or loss of meaningful transportation), or comparable demonstrable obstruction of the pursuit-of-happiness right traceable to the government conduct (for any other beneficiary), the conduct is reachable as a **criminal offense against the beneficiary as a natural person**, in addition to any civil claim of the business or employee under §5.7. The mens-rea rules of Section 3, the classification rules of §3.5, and the aggravation rules of §5.6 apply to the conduct on the beneficiary's behalf in the ordinary course. The fact that the immediate target of the actor's conduct was a business entity rather than the beneficiary as a natural person does not bar the criminal charge, because the harm to the beneficiary's pursuit of happiness was the foreseeable consequence of the conduct.
 
 **Limitation.** The beneficiary doctrine does **not** convert every routine regulatory action, lawful enforcement action, or lawful denial of a discretionary benefit into a criminal offense. The conduct must independently satisfy the wrongful-conduct elements of §1.1.18 or §1.1.19, or any other substantive offense, before the beneficiary bridge attaches. This subsection extends the **reach** of an offense, not its **elements**. The pursuit-of-happiness right is bounded by its own limitation under §1.1.21: government action that addresses actual harm caused by a business to other citizens, supported by lawful basis and lawful process, is not reached by this subsection because the conduct it addresses is not, in that conduct, an exercise of the pursuit-of-happiness right.
+
+#### 1.1.24 Substantial
+
+> **Substantial.** A degree, amount, scope, content, weight, or extent that is **meaningful, significant, real, and operative** — not merely trivial, technical, formal, nominal, or de minimis. The word "substantial" as used throughout this Act, in any of its forms (substantial, substantially, substantive), refers to **actual operative content, weight, or effect**, not the mere appearance of content, weight, or effect.
+
+**Operational Rule.**
+
+Where this Act requires that a citizen, an official, a Council, a court, or any other actor undertake or demonstrate something "substantial" — substantial recitation, substantial part, substantial portion, substantial influence, substantial contribution, substantial harm, substantial deprivation, substantial part of, or any similar formulation — the inquiry is into the **operative reality** of what was undertaken or demonstrated, not into the formal label, appearance, paperwork, or claim attached to it. A formality that conveys no real content is not substantial. A nominal compliance that meets the letter but not the operative effect of a requirement is not substantial. A "review" that did not actually engage the subject is not substantial. An "investigation" that did not actually investigate is not substantial. A "training" that did not actually train is not substantial. A "hearing" that did not actually hear is not substantial.
+
+**Specific Applications.**
+
+- **Substantially recite** (§1.1.20) means stating the operative substance of the item in the actor's own working knowledge, not necessarily verbatim, and not by reading or by relying on external materials. The substance must be conveyed; the form is flexible.
+- **Substantial part** and **substantial portion** mean a part or portion of operative significance to the inquiry — not a part or portion measured purely by raw size, page count, or word count, but by **operative weight**.
+- **Substantial influence**, **substantial contribution**, **substantial cause**, and similar phrases mean an influence, contribution, or cause that **materially affects** the outcome, conduct, harm, or decision in question — not one that is merely incidental, decorative, or coincidental.
+- **Substantial harm**, **substantial deprivation**, and **substantial impact** mean a harm, deprivation, or impact that is real, operative, and significant to the affected citizen's life, liberty, property, rights, family, livelihood, or wellbeing — not a harm measured purely by formal metrics divorced from the citizen's actual experience.
+- **Material** as used elsewhere in this Act is treated as a near-synonym of "substantial" for purposes of this definition, except where context indicates a more specific evidentiary or fiduciary meaning of "material."
+
+**Rule of Construction.**
+
+Where the word "substantial," "substantially," "substantive," or any cognate term in this Act could be construed broadly or narrowly, it shall be construed in favor of the citizen and against the government actor, consistent with §1.1.5.2 (Rule of Construction). Where the construction of "substantial" determines whether an official met an affirmative duty, whether a citizen suffered cognizable harm, whether an investigation actually investigated, whether a hearing actually heard, or whether a training actually trained, the construction shall favor the operative-reality reading over the formal-paperwork reading.
+
+**Reverse Application.**
+
+Just as a citizen's "substantial" act must be real and operative, a government actor's claim that its conduct was "substantial compliance" with a duty, "substantial review" of a complaint, "substantial investigation" of a matter, or "substantial procedure" before a deprivation must also be tested against the operative-reality standard. A government actor cannot rely on the label of "substantial" to satisfy a duty under this Act where the operative content was nominal, paper-only, or designed to avoid the substance of the duty.
+
+#### 1.1.25 Legislate from the Bench (Judicial Legislation)
+
+> **Legislate from the bench.** A judicial officer commits **legislative judicial action** — colloquially, "legislating from the bench" — when the officer, in the course of any judicial proceeding or judicial pronouncement, **creates, expands, contracts, invents, modifies, or recognizes any rule of law, doctrine, right, defense, offense, duty, immunity, privilege, exception, or carve-out that is not a faithful application of existing controlling law to the facts before the court.**
+
+**The Constitutional Premise.**
+
+Under the Constitution of the United States and the Constitution of the State of Utah, the **legislative function — making law — is constitutionally assigned to the legislative branch**. The **judicial function — applying law — is constitutionally assigned to the judicial branch**. A judicial officer who steps across that line, by creating or modifying rules of law rather than applying them, performs a function the office does not have. Such conduct is **ultra vires** under §1.1.18 and reachable as a substantive criminal offense under this subsection.
+
+**Specifically Reached.**
+
+The following conduct is **per se** legislative judicial action under this subsection:
+
+- **Creation, extension, or application of immunity doctrines.** A judge who, in any judicial pronouncement, creates, extends, expands, or applies any doctrine of judicial immunity, prosecutorial immunity, qualified immunity, sovereign immunity, executive immunity, legislative immunity, or any analogous doctrine of partial or absolute immunity from civil or criminal liability for government actors — where that doctrine is not the faithful application of an existing statutory or constitutional provision. The Supreme Court's creation of qualified immunity in *Harlow v. Fitzgerald*, 457 U.S. 800 (1982), the creation of absolute judicial immunity in *Bradley v. Fisher*, 80 U.S. (13 Wall.) 335 (1872), the creation of absolute prosecutorial immunity in *Imbler v. Pachtman*, 424 U.S. 409 (1976), and the analogous creations across the immunity architecture are themselves the paradigm examples of the conduct this subsection reaches. **A Utah judicial officer who follows, extends, applies, or invokes any such doctrine after the effective date of this Act — where this Act has abrogated the doctrine within the State under §5.1 — commits the offense.**
+- **Creation of new offenses, duties, or rights of action by judicial pronouncement.** A judge who, in the course of a proceeding, creates a new criminal offense, a new civil cause of action, a new affirmative duty, or a new substantive right — rather than applying offenses, causes, duties, and rights already defined by statute or by the operative text of a constitutional provision — performs a legislative function.
+- **Creation of new exceptions or carve-outs to existing law.** A judge who, by pronouncement, creates a new exception, exemption, exclusion, carve-out, or limitation that narrows the operative effect of a statute or constitutional provision — without textual basis in the law being narrowed — performs a legislative function.
+- **Doctrinal expansion beyond the statute or text.** A judge who, by pronouncement, applies a judicially-created doctrine in a manner that exceeds the operative effect of the statute or constitutional provision the doctrine was originally created to interpret — particularly where the expansion serves to immunize, exempt, or otherwise shield a government actor — performs a legislative function.
+- **Substantive policy-making framed as procedural decision.** A judge who, by pronouncement, creates or modifies substantive law under the label of a procedural ruling, a "harmless error" finding, a standing determination, or a similar procedural framing performs a legislative function where the operative effect is to make substantive law.
+
+**Not Reached (What Judges May Lawfully Do).**
+
+- **Faithful application of existing law.** A judge applying the operative text of a statute, regulation, ordinance, or constitutional provision to the facts before the court is performing the judicial function, not the legislative function.
+- **Statutory interpretation in good faith.** A judge interpreting ambiguous statutory text — drawing on traditional canons of construction, legislative history, and the operative meaning of the text — is performing the judicial function. **Interpretation is permitted; invention is not.**
+- **Application of binding precedent within its proper scope.** A judge applying a binding precedent to facts within the precedent's actual reasoning is performing the judicial function. Extension of binding precedent beyond its actual reasoning, where the extension creates new substantive law, is legislative judicial action.
+
+**Elements.**
+
+- The actor is a judge, justice, magistrate, justice court judge, or other judicial officer
+- The actor, in the course of a judicial proceeding or judicial pronouncement, created, expanded, contracted, invented, modified, or recognized a rule of law, doctrine, right, defense, offense, duty, immunity, privilege, exception, or carve-out
+- The action was not a faithful application of existing controlling law to the facts before the court
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the distinction between application and legislation
+
+**Classification.**
+
+- Legislate from the bench is a **Class 1 felony**.
+- Where the legislative judicial action created, extended, or applied an immunity doctrine shielding government-actor misconduct from civil or criminal liability under this Act, the offense is a **capital offense**, consistent with the gravity this Act assigns to the deliberate construction of barriers to constitutional accountability.
+- May be charged cumulatively with §1.1.10 (Anarchy) where the action lacked any lawful authority, §1.1.18 (Ultra Vires) — which the offense always meets — §17.5A (Incompetence in Office), and triggers the automatic §11.4.3 (Automatic Judicial Conduct Commission Referral) consequences on conviction.
+
+**Defenses Limited.**
+
+- **Reliance on prior judicial pronouncements** creating the same doctrine is **not** a defense where this Act has abrogated the doctrine within the State of Utah. The whole point of the abrogation is that the prior judicial pronouncement was itself unauthorized; relying on it does not cure the underlying ultra vires conduct.
+- A claim that the action was **"interpretation"** rather than legislation is not a defense where the operative effect of the action was to create new substantive law not present in the text being interpreted.
+- A claim that the action was supported by **long judicial practice** is not a defense. Consistent with §1.1.20 (Incompetence in Office) and the Statement of Intent, "this is the way it has always been done" is expressly rejected as a justification for conduct that conflicts with constitutional authority.
+- A claim that the action was **necessary to avoid absurd results** is not a defense. Absurdity in legislation, if any, is a matter for the legislative branch to address through legislation, not for the judicial branch to address through invention.
+- A claim that the action was made in the **"best interests of justice"** is not a defense. Best-interests reasoning is itself a legislative judgment, and a judge who exercises it from the bench is performing the legislative function this subsection prohibits.
+
+**Relationship to Other Provisions.**
+
+- This subsection operates in addition to §1.1.18 (Ultra Vires), which it always meets. Where the elements of both are met, both may be charged cumulatively.
+- This subsection operates in addition to §1.1.10 (Anarchy), which it may meet where the legislative judicial action lacked any identifiable lawful authority.
+- A Joint Declaration of Logical Consistency Review under §9.14 may be filed by a Citizen Council against any judicial doctrine, immunity, or pronouncement that meets the elements of this subsection, and the reviewing court may not refuse review on the grounds that the doctrine has been long established.
 
 ### 1.2 Misconceptions
 
@@ -2310,6 +2385,39 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Technical failure is not a defense unless documented contemporaneously and preserved in the official record
 - Muting, obscuring, disabling, delaying activation, or selectively recording is treated as intentional failure unless clearly justified by an immediate lawful necessity
 
+#### 2.8.3A Mandatory Recording, Preservation, and Citizen Access
+
+> Every peace officer, sheriff's deputy, detention officer, investigator, code-enforcement officer, school resource officer, and any other government actor authorized to detain, search, seize, question, cite, arrest, use force, intake complaints, remove children, or take any other coercive enforcement action against a citizen **shall be equipped with, shall activate, and shall preserve audio and video recording of every such contact**, in accordance with the requirements of this subsection.
+
+**Equipment and Activation.**
+
+- The State, every municipality, every county, and every agency employing actors subject to this subsection shall provide each such actor with operational audio and video recording equipment — including body-worn camera, vehicle dashboard camera, and any other recording equipment appropriate to the actor's enforcement role.
+- The actor shall **activate the recording equipment at the earliest practicable moment of any enforcement contact** and shall maintain continuous recording for the duration of the contact, including movement to and from the scene, transport of the citizen, custodial interactions, and the conclusion of the contact.
+- Where the actor enters a private residence, the actor shall record the entry, the search or seizure, the duration of the presence in the residence, and the departure, except where the resident's consent to discontinue recording in a private setting (such as a bathroom or undressing area) is given in advance and on the record.
+- Muting, obscuring, deactivating, selectively recording, or otherwise circumventing the recording requirement is itself reachable under §2.8.3 (Unrecorded Enforcement Contact) and §17.4 (Deliberate Record Distortion).
+
+**Preservation.**
+
+- All recordings made under this subsection shall be preserved by the employing agency for a **minimum of seven (7) years** from the date of the recorded contact, or for the duration of any related criminal, civil, or administrative proceeding plus seven (7) years after the conclusion of that proceeding, whichever is longer.
+- Recordings shall be stored in an unalterable format with cryptographic integrity verification sufficient to detect tampering, editing, deletion, or other manipulation. Any agency that fails to maintain integrity-verifiable storage is reachable under §17.4 (Deliberate Record Distortion) and §17.4A (Public-Record Spoliation).
+- Recordings shall not be edited, redacted, deleted, overwritten, or destroyed except (a) on completion of the minimum preservation period defined above; (b) under express written order of a court of competent jurisdiction; or (c) pursuant to a redaction protocol limited to the protection of victim, witness, juvenile, or sensitive-personal-information identifiers in copies released for public access — with the unredacted original always preserved.
+
+**Citizen Access.**
+
+- A citizen who was the subject of, present at, or otherwise affected by an enforcement contact recorded under this subsection has the **right to receive an unredacted copy of the recording within ten (10) business days** of a written request to the employing agency, without filing fee, without lawyer requirement, and without any precondition other than reasonable identification of the requested recording.
+- A citizen who is the subject of a criminal investigation, prosecution, civil action, or administrative proceeding in which a recording made under this subsection is relevant has the **right to receive an unredacted copy within seventy-two (72) hours** of written request, regardless of whether the citizen is represented by counsel.
+- Refusal, delay beyond these timelines, or partial production constituting effective denial is reachable under §17.9 (Failure of Transparency), §2.10.4 (Clerk Access Obstruction) by analogy, and §1.1.8 (Obstruction of Justice).
+- Where the agency intends to redact a recording released to a citizen under this subsection, the agency shall (a) provide the unredacted recording for in-camera judicial review on request and (b) bear the burden of demonstrating that each specific redaction is lawful under this Act and under any applicable victim, witness, juvenile, or sensitive-information protection rule.
+
+**Entity-Level Liability for Failure to Equip or Maintain.**
+
+- The State, a municipality, a county, an agency, or any official with funding, contracting, assignment, supervisory, or administrative authority over actors subject to this subsection who knowingly or recklessly fails to provide the required recording equipment, fails to maintain operational equipment, fails to enforce the activation requirement, or fails to maintain the preservation infrastructure required by this subsection is reachable under this Act as a government actor.
+- **Classification:** **Class 3 felony**, escalating to **Class 2 felony** where the failure materially contributes to a §2.8.3 violation, to wrongful conviction, to deprivation of liberty, or to denial of a citizen's claim under this Act.
+
+**Relationship to §2.8.3.**
+
+- This subsection operates in addition to, not in lieu of, §2.8.3 (Unrecorded Enforcement Contact), which reaches the individual actor's failure to record where recording was required. This subsection adds the **affirmative agency-level mandate** to provide equipment, the **preservation requirements**, the **citizen-access rights**, and the **entity-level liability** for failure to support the requirement.
+
 #### 2.8.4 Custodial Medical Abandonment
 
 > A government actor commits **custodial medical abandonment** where the actor, jail, prison, detention center, holding facility, hospital guard unit, transport unit, or responsible agency fails to provide necessary medical care, medication, disability accommodation, mental-health care, suicide prevention, withdrawal care, hygiene, food, water, safe housing, or protection from known violence to a person in custody.
@@ -2357,6 +2465,61 @@ This includes repeatedly returning to *"do you understand these rights?"*, *"wit
 - Crisis-response misconduct is a **Class 3 felony**
 - Where injury, involuntary hospitalization, jail, loss of housing, criminal charges, loss of benefits, or family separation results, the offense is a **Class 2 felony**
 - Where death or serious bodily injury results, the offense is a **capital offense**, and Section 11 applies where the elements are met
+
+#### 2.8.7A Involuntary Commitment and Court-Ordered Evaluation Abuse
+
+> A government actor commits **involuntary commitment and court-ordered evaluation abuse** where the actor initiates, recommends, signs, approves, extends, executes, or fails to discharge an involuntary mental-health commitment, court-ordered psychiatric or psychological evaluation, protective custody hold, emergency mental-health detention, civil commitment proceeding, or similar civil-commitment process for a purpose other than the lawful protection of the citizen or others from imminent harm — including without limitation purposes of silencing a whistleblower, neutralizing a critic, retaliating against a complainant, gaining leverage in a family-court or custody matter, separating a citizen from family or community, suppressing dissent, or obtaining waivers or confessions the citizen would not otherwise give.
+
+**Operative Principle.**
+
+The civil-commitment power exists, in American constitutional tradition, only to address an actual, current, evidence-based risk of imminent harm — to the committed person or to others — that cannot be addressed by less restrictive means. Commitment is not a tool for resolving family disputes, silencing critics, retaliating against whistleblowers, neutralizing political opponents, or gaining leverage in unrelated proceedings. **A commitment imposed for any of those purposes is no longer civil commitment within the meaning of constitutional law. It is detention without conviction, reachable under the same principles that govern unlawful confinement.**
+
+**Reaching Actors.**
+
+This subsection reaches, without limitation:
+
+- Judges, magistrates, family court judges, and any judicial officer signing or approving a commitment order, court-ordered evaluation, or extension
+- Prosecutors recommending or facilitating commitment as a tool in or alongside any other proceeding
+- Court-appointed psychiatrists, psychologists, social workers, custody evaluators, and other court-appointed evaluators whose reports support a commitment without adequate independent evaluation
+- Peace officers and detention officers who execute commitment orders with knowledge or reckless disregard of facts that the underlying order lacked lawful basis
+- Hospital staff, mental-health facility staff, and emergency-room providers who extend or maintain holds beyond the period of actual medical necessity or beyond the period authorized by law
+- Family members, complainants, or others coordinating with government actors to procure a commitment for unlawful purpose — reachable as conspirators under §1.1.6 (Cabalism) where the elements are met
+
+**Elements.**
+
+- The actor initiated, recommended, signed, approved, extended, executed, or failed to discharge an involuntary commitment, court-ordered evaluation, or similar civil-commitment process
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known that any of the following was the case:
+  - No actual, current, evidence-based risk of imminent harm existed
+  - Less restrictive means were reasonably available and not used
+  - The commitment was sought, executed, or extended for a purpose other than the lawful protection authorized by civil-commitment law
+  - The procedural protections owed under Section 2 of this Act — notice, opportunity to be heard, right to counsel, right to independent evaluation, right to judicial review — were not afforded
+- The citizen was subject to commitment, evaluation, or hold as a result
+
+**Specific Patterns Reached.**
+
+- **Whistleblower neutralization** — commitment, evaluation order, or psychiatric labeling of a citizen who has reported government misconduct, with the effect or purpose of discrediting the citizen's reports or removing the citizen from public engagement
+- **Family-court weaponization** — commitment, evaluation order, or psychiatric labeling of a parent or spouse in a custody, divorce, or guardianship dispute, with the effect or purpose of gaining advantage in the underlying proceeding
+- **Retaliation for protected conduct** — commitment, evaluation, or hold imposed on a citizen who has criticized officials, recorded officials, filed a complaint, asserted rights, joined or assisted a Citizen Council, sought counsel, or otherwise engaged in conduct protected under §1.1.5
+- **Extended hold without medical necessity** — maintenance of a hold beyond the period of actual medical necessity, beyond the period authorized by law, or pursuant to a renewal procured by misrepresentation
+- **Court-ordered evaluation as harassment** — use of court-ordered psychiatric or psychological evaluations as a leverage or harassment tool, particularly where ordered repeatedly or where the citizen is required to submit to evaluators with a documented relationship to the prosecuting authority or the opposing party
+- **Coerced waiver** — use of pending or threatened commitment to coerce a citizen's waiver of a right (the right to remain silent, the right to counsel, the right to refuse a plea, the right to challenge custody, and so on)
+
+**Classification.**
+
+- Involuntary commitment and court-ordered evaluation abuse is a **Class 2 felony**
+- Where the commitment results in confinement exceeding seven (7) days, in administration of psychoactive medication against the citizen's objection, in loss of employment, in loss of housing, in loss of custody of a child, in loss of professional license, in coerced waiver of a right, or in lasting psychiatric labeling of a citizen who was not properly subject to commitment, the offense is a **capital offense**
+- May be charged cumulatively with §1.1.13 (Official Intimidation), §1.1.12 (Terrorism) where the elements are met, §1.1.19 (Family Separation) where applicable, §2.6.2 (Prosecutorial Offenses) where the prosecutor is the procuring actor, §17.2 (Institutional Retaliation), and §1.1.6 (Cabalism) where multiple actors coordinated
+
+**Defenses Limited.**
+
+- A facially valid commitment order is not, by itself, a defense where the order failed any of the elements of this subsection
+- Reliance on the report of a court-appointed evaluator is not a defense where the actor knew or should have known of facts undermining the evaluator's report
+- A claim that the citizen was "behaving erratically" or "uncooperative" is not a defense unless supported by evidence of actual, current, evidence-based risk of imminent harm — and "uncooperative with the actor's preferred course of action" is not equivalent to "dangerous"
+- Diagnostic labels imposed during an unlawful commitment do not, by their existence, validate the commitment; the question is whether the commitment was lawful at the time of imposition, not whether subsequent observations could be re-purposed to justify it after the fact
+
+**Relationship to §2.8.7.**
+
+§2.8.7 addresses one direction of the abuse — over-criminalization of citizens in genuine mental-health crisis. This subsection addresses the opposite direction — over-medicalization of citizens not in genuine crisis, for purposes of silencing, retaliating against, or neutralizing them. Both directions are reachable, and a single fact pattern may implicate both where the actor's conduct includes elements of each.
 
 #### 2.8.8 Technical-Violation Incarceration Abuse
 
@@ -2556,6 +2719,41 @@ This section applies to judges, magistrates, clerks, court administrators, baili
 - Citizen filing gatekeeping is a **Class 1 misdemeanor**
 - Where the barrier prevents timely filing, appeal, hearing, complaint intake, public-record access, election participation, or preservation of a right, the offense is a **Class 3 felony**
 - Where the barrier is used against a Citizen Council, constitutional challenge, public corruption complaint, criminal defendant, parent facing child removal, detained person, disabled person, elderly person, or non-English speaker, the offense is a **Class 2 felony**
+
+#### 2.10.8 Civil Contempt Indefinite Confinement Abuse
+
+> A judge, magistrate, justice court judge, family court judge, child-support court judge, commissioner, master, or other judicial officer with authority over civil contempt commits **civil contempt indefinite confinement abuse** where the actor uses, extends, ratifies, or refuses to discharge a citizen's civil contempt confinement (a) without a current finding that the citizen retains the present ability to comply with the underlying order, (b) where the purge condition is impossible, ambiguous, or unmeetable for the citizen on the facts known to the court, (c) for purposes outside the lawful coercive function of civil contempt, or (d) for any period during which the citizen is held without the procedural protections owed under Section 2 of this Act.
+
+**Operative Principle.**
+
+The civil contempt power exists, in American constitutional tradition, **only to coerce compliance with a lawful order the contemnor has the present ability to comply with**. The contemnor must "carry the keys to the jailhouse in their own pocket." A civil contempt confinement that the contemnor cannot end by complying with the underlying order — because compliance is impossible, the purge condition is unattainable, or the order is unlawful — is no longer civil contempt. It is detention without conviction, reachable under the same principles that bar imprisonment for debt and that protect the citizen's liberty under Section 2.
+
+**Elements.**
+
+- The actor is a judicial officer with authority over civil contempt confinement
+- The actor used, extended, ratified, or refused to discharge a citizen's civil contempt confinement
+- Any one of the following applies:
+  - The actor did not make, and the record does not support, a current finding that the citizen has the present ability to comply with the underlying order
+  - The purge condition is impossible, ambiguous, or unmeetable for the citizen on the facts known to the court — including without limitation purge conditions demanding payment from a citizen with no present ability to pay, demanding production of a document or person the citizen does not possess and cannot obtain, demanding behavior the citizen cannot perform, or demanding compliance with an order the citizen has already substantially complied with
+  - The actor used the civil contempt power for a purpose outside its lawful coercive function — including without limitation punishment of the citizen, retaliation against the citizen, leverage in another matter, silencing of the citizen, extraction of consent, or coercion of a waiver of a right
+  - The confinement was extended or maintained without the procedural protections owed under Section 2 of this Act, including without limitation the right to counsel, the right to be heard, the right to a current ability-to-comply hearing, and the right to challenge the purge condition
+
+**Particular Application to Family and Child-Support Courts.**
+
+The misuse of civil contempt to indefinitely confine citizens in family court, child-support court, divorce court, and protective-order proceedings is a documented pattern of abuse with disproportionate impact on indigent citizens, citizens in custody disputes, and citizens who have lost the ability to comply with orders entered in better economic circumstances. **This subsection reaches that pattern.** A citizen confined for inability to pay child support, where the court has not made a current finding of present ability to pay, is being detained for debt — not held in lawful civil contempt — and the responsible judicial officer is reachable under this subsection.
+
+**Classification.**
+
+- Civil contempt indefinite confinement abuse is a **Class 2 felony**
+- Where the confinement exceeds thirty (30) days without a current ability-to-comply finding, where the citizen is detained for inability to pay alone, or where the contempt power is used to silence, retaliate, or coerce a waiver of a right, the offense is a **capital offense**
+- May be charged cumulatively with §2.10.3 (Wealth-Based Liberty Denial), §1.1.13 (Official Intimidation), §1.1.10 (Anarchy) where the confinement lacked any lawful basis, §2.8.8 (Technical-Violation Incarceration Abuse) by analogy, and §1.1.6 (Cabalism) where multiple actors coordinated
+
+**Defenses Limited.**
+
+- A facially valid civil contempt order is not, by itself, a defense where the order failed any of the elements of this subsection
+- Reliance on the contemnor's earlier ability to comply is not a defense where the actor knew or should have known that the present ability had been lost
+- A claim that civil contempt is "civil, not criminal" is not a defense to the substantive misconduct this subsection reaches; the labels do not control where the conduct meets the elements
+- Reliance on the contemnor's failure to formally raise inability-to-comply is not a defense where the record placed the actor on notice of facts indicating the present ability had been lost
 
 ### 2.11 Public Defenders
 
@@ -2891,6 +3089,50 @@ The offenses of this subsection apply to both prosecutors and public defenders, 
 - Guardianship rights plunder is a **Class 2 felony**
 - Where housing, medical care, family contact, estate assets, voting rights, liberty, bodily autonomy, communication, or ability to challenge the guardianship is materially deprived, the offense is a **capital offense**
 - Where death, serious injury, suicide, or life-threatening medical crisis results, Section 11 applies
+
+### 2.13 Training and Competency Requirements for Government Actors Subject to This Act
+
+> Every government actor subject to this Act shall complete annual training on the substantive provisions of this Act, the United States Constitution, the Supremacy Clause, the Utah Constitution, the citizen's rights under §1.1.5, and the duties of the actor's office under this Act.
+
+**Operative Rule.**
+
+The §1.1.20 Citizen-Prompted Oath and Authority Recitation provision establishes a test: a government actor must be able, on a citizen's good-faith prompt, to substantially recite the actor's oath, the Supremacy Clause, the controlling constitutional provisions, and the statutory authority being exercised. This subsection establishes the **preparation** for that test. Government actors are not expected to acquire and maintain the working knowledge §1.1.20 demands without structural support. This subsection requires that support and makes the State, the actor's employing agency, and the actor each responsible for ensuring it is provided and completed.
+
+#### 2.13.1 Mandatory Training Curriculum
+
+The annual training required by this section shall include, at minimum:
+
+- **The substantive provisions of this Act**, with particular emphasis on the substantive offenses defined in Section 1, Section 2, Section 17, and any other section creating substantive offenses applicable to the actor's role
+- **The text and operative effect of the actor's oath of office**
+- **The text and operative effect of the Supremacy Clause** (Article VI, Clause 2 of the United States Constitution)
+- **The controlling provisions of the United States Constitution** and the **Constitution of the State of Utah** relevant to the powers the actor exercises
+- **The citizen's rights under §1.1.5** of this Act, including the rule of construction (§1.1.5.2) that ambiguities are resolved in favor of the citizen and against the government actor
+- **The citizen's mechanisms under this Act** — including the Citizen Council mechanism of Section 9, the right to record under §2.8.3A, the right to receive recordings under §2.8.3A, the right to file complaints under §17.9A, and the right to constitutional objection under §2.9
+- **The §1.1.20 procedure** the actor may be asked to perform, including the immediate-recitation rule, the active-emergency exception, and the prima-facie-evidence rule against reliance on external materials
+
+#### 2.13.2 Frequency and Duration
+
+- Training shall be completed **annually**, on or before the anniversary of the actor's entry to office — or, for actors in office at the time this Act takes effect, on or before the anniversary of the effective date.
+- Training shall be of duration sufficient to cover the curriculum requirements of §2.13.1 in substantive depth — not less than **eight (8) hours per year**.
+- Training shall be provided by **a qualified independent provider**, defined as a provider that is not an organ of the employing agency, not financially controlled by the employing agency, and not otherwise subject to conflicts of interest that would compromise the curriculum.
+
+#### 2.13.3 Failure to Complete Training
+
+- A government actor who fails to complete the required annual training by the deadline is **temporarily incapacitated** from exercising the powers of the actor's office until the training is completed, in the manner provided for in §1.1.20 for citizen-prompted incompetence findings.
+- Acts performed by an actor during a period of temporary incapacity under this section are reachable under §1.1.10 (Anarchy) and §1.1.18 (Ultra Vires).
+- The actor's failure to complete training is documented on the public record maintained by the employing agency, which record is subject to citizen access under §17.9 (Failure of Transparency) and applicable Utah open-records law.
+
+#### 2.13.4 Entity-Level Liability for Failure to Provide
+
+- The State, every municipality, every county, and every agency employing actors subject to this section shall provide, fund, and require the training described in §§2.13.1 and 2.13.2.
+- An agency that knowingly or recklessly fails to provide the required training, fails to enforce the completion requirement, or knowingly permits an actor to exercise the powers of office while the actor is in noncompliance with this section is reachable under this Act.
+- **Classification:** **Class 3 felony**, escalating to **Class 2 felony** where the failure materially contributes to a §1.1.20 finding against a noncompliant actor, to an offense charged under this Act, or to a denial of a citizen's claim under this Act.
+
+#### 2.13.5 Training-Provider Standards
+
+- Training providers under this section shall be approved by the Office of the Governor, with public lists maintained and updated.
+- An approved provider shall be removed from the list, and shall lose authority to provide training under this section, where the provider's curriculum is found — by Citizen Council action under §9 or by the Office of the Governor on its own motion — to materially misrepresent the substance of this Act, the Constitution, or the citizen's rights under §1.1.5.
+- A training provider that knowingly misrepresents the substance of the curriculum required by §2.13.1 is itself reachable under this Act as a government contractor exercising delegated public function under §1.1.1.
 
 ## Section 3 — Mens Rea: Criminal and Civil
 
@@ -3229,6 +3471,92 @@ Nothing in this subsection diminishes the rights of any citizen, owner, employee
 - Routine regulatory enforcement, lawful tax collection, lawful denial of a discretionary benefit, lawful inspection, lawful permit revocation supported by adequate process, and other ordinary lawful exercises of state authority do **not** become criminal offenses under this subsection by virtue of incidentally affecting a business or employee. The conduct must be unlawful, ultra vires, retaliatory, coercive, obstructive, fraudulent, or otherwise wrongful within the meaning of §1.1.18 or §1.1.19 before the standing and reach rules of this subsection attach.
 - Consistent with the limitation in §1.1.21 on the pursuit-of-happiness right, a business whose conduct in fact harms other citizens is not, in that conduct, exercising a protected right. Lawful government action that addresses actual harm caused by a business to other citizens, supported by lawful basis and lawful process, is not reached by this subsection.
 - The poverty-line, family-home, and meaningful-transportation thresholds are **floors** for the beneficiary bridge to criminal liability; they are not ceilings on civil recovery. A business or employee may recover under §5.7.1 or §5.7.2 for any demonstrable economic injury, whether or not the injury reached any threshold. The thresholds operate only on the question of whether the conduct is also reachable as a criminal offense against a natural-person beneficiary under §5.7.3.
+
+### 5.8 No Statute of Limitations for Criminal Offenses Under This Act
+
+> **No statute of limitations shall bar the prosecution of any criminal offense defined in this Act.**
+
+**Operative Rule.**
+
+A criminal proceeding for any offense defined in this Act may be commenced at any time after the conduct constituting the offense, regardless of the time that has elapsed between the conduct and the commencement of prosecution. The general Utah statutes of limitations for criminal offenses — including, without limitation, any applicable provision of Utah Code Title 76 Chapter 1, and any analogous provision of any other applicable code — do not apply to offenses defined in this Act. The Utah Legislature, in adopting this Act, exercises its established sovereign authority over state statutes of limitations to set this rule for the offenses created by this Act.
+
+**Reason for the Rule.**
+
+The conduct this Act reaches is often concealed by the same architecture the Act exists to address. Official misconduct is typically discovered years — and frequently decades — after it occurs, through later wrongful-conviction exonerations, declassification of records, whistleblower disclosures, internal-affairs leaks, retired-official testimony, posthumous record review, civilian-watchdog investigation, or the eventual public surfacing of evidence the responsible actors actively suppressed. A statute of limitations that begins to run from the date of the conduct rewards the most successful concealment with the most certain immunity. **This Act will not provide that reward.**
+
+**Application to Conduct Occurring Before the Effective Date.**
+
+- Where conduct constituting an offense under this Act occurred before the effective date of this Act and **was not yet barred by the applicable statute of limitations under prior law on the effective date**, the no-statute-of-limitations rule of this section applies, and prosecution may be commenced at any time. Extension or elimination of a not-yet-expired limitations period is procedural, not substantive, and does not raise ex post facto concerns. *See, e.g.*, *Stogner v. California*, 539 U.S. 607, 632–33 (2003) (recognizing the constitutional distinction between extending an unexpired limitations period and reviving an already-expired one).
+- Where conduct constituting an offense under this Act occurred before the effective date of this Act and **was already barred by the applicable statute of limitations under prior law on the effective date**, this section does not revive criminal prosecution of that conduct, consistent with *Stogner v. California*. The conduct remains reachable, however, as a **civil action** under Section 10 of this Act, in accordance with the retroactive civil applicability provisions of that section.
+
+**Capital Classifications and Existing Utah Practice.**
+
+The absence of a statute of limitations under this section is consistent with the existing Utah treatment of the gravest categories of criminal offense. Utah law already recognizes that certain classes of conduct should not be timed-out by procedural limitations. This Act extends that recognition to the categories of official misconduct it reaches, on the same principle: the gravity of the conduct and the difficulty of timely discovery do not permit limitations to operate as a shield.
+
+**Evidence and Burden of Proof Unaffected.**
+
+- The prosecution of any offense under this Act remains subject to all ordinary rules of evidence — authentication, foundation, chain of custody, hearsay consistent with §2.3, expert qualification, and any other generally applicable evidentiary rule.
+- Criminal trial under this Act remains subject to the burden of proof beyond a reasonable doubt, the right to confront witnesses, the right to compulsory process, and every other constitutional due-process protection owed to the accused.
+- The elimination of the statute of limitations governs the **timing** of prosecution. It does not lower the **standards** by which guilt is proved. A prosecution commenced decades after the conduct must meet the same evidentiary burdens as a prosecution commenced within weeks.
+
+**Tolling Provisions Unnecessary.**
+
+Because no statute of limitations applies, the customary tolling, equitable-estoppel, fraudulent-concealment, and discovery-rule doctrines familiar from limitations practice are not necessary to preserve a citizen's ability to bring conduct under this Act to prosecution. The rule of this section is unambiguous and operative on its face: the State of Utah may charge an offense defined in this Act at any time after the conduct occurred, without limitations bar.
+
+**Relationship to Section 10 (Retroactive Civil Applicability).**
+
+The no-statute-of-limitations rule of this section operates on the criminal side. Section 10 governs the parallel question of retroactive civil applicability. A citizen with a claim under this Act may pursue either or both tracks — subject to the prior-bar carve-out described above for criminal prosecution of conduct already time-barred under prior law on the effective date.
+
+### 5.9 Pretrial Release, Bail, and Conditions of Release for Officials Charged Under This Act
+
+> A government actor charged with any offense defined in this Act shall be subject to the special pretrial release rules of this section, which apply in addition to, and where in conflict supersede, the default Utah rules of criminal procedure.
+
+**Rationale.**
+
+Government actors charged under this Act present pretrial risks materially different from those of an ordinary criminal defendant. They retain continued institutional access to records, witnesses, subordinates, and the apparatus of state power that may be the subject of the prosecution. They have, in many cases, professional networks, financial resources, and political relationships that present unusual flight risk. The default bail and release rules — designed for the ordinary case — do not adequately address those risks. This section sets the standing rule.
+
+#### 5.9.1 Mandatory Conditions on Pretrial Release
+
+Where a government actor is released pretrial on any offense under this Act, the following conditions attach **by operation of law**, without need for case-by-case findings:
+
+- **Surrender of badge, credentials, identification, agency-issued firearm, and agency-issued equipment** to the employing agency or to the court at the first appearance.
+- **Suspension of agency access** for the duration of pretrial release — including without limitation access to agency facilities, agency case files, agency-controlled databases, agency vehicles, agency communications systems, and agency-controlled physical evidence.
+- **Suspension of official authority** — the actor may not exercise the powers of office during the pretrial period, may not appear in any official capacity, and may not represent or be represented as a government actor.
+- **No-contact orders** prohibiting direct or indirect contact with witnesses, complainants, co-defendants, members of the Citizen Council that filed the Joint Declaration, the affected citizen and the affected citizen's immediate family, any subordinate of the actor who is a witness or potential witness, and any other person identified by the prosecuting authority or the Council as protected.
+- **Prohibition on use of agency resources for personal defense** — the actor may not use agency counsel, agency staff, agency files, agency communications systems, agency funds, or agency-issued resources of any kind for the actor's personal defense.
+- **No retaliation** — the actor shall not retaliate, directly or indirectly, against any person whose conduct contributed to the charge, on penalty of additional offenses under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), and §17.2B (Retaliatory Charge Fabrication).
+
+These conditions remain in force from arrest or initial appearance through final disposition of the case, regardless of whether the underlying employment relationship is suspended, terminated, or maintained on administrative status.
+
+#### 5.9.2 Presumption of Pretrial Detention for Capital and Class 1 Felony Offenses
+
+Where a government actor is charged with a capital-classification offense or a Class 1 felony under this Act:
+
+- A **rebuttable presumption of pretrial detention** attaches.
+- The actor may rebut the presumption only by clear and convincing evidence that no combination of release conditions can reasonably assure (a) the actor's appearance, (b) the safety of any other person, and (c) the integrity of the prosecution — including non-interference with witnesses, evidence, and the official records that may be the subject of the case.
+- The court's decision on detention shall be made on the public record, with specific findings, and shall be reviewable on expedited appeal.
+
+#### 5.9.3 Monetary Bail Is Not Primary
+
+- Monetary bail, where set, shall not be the primary or sole condition of release. Non-monetary conditions under §5.9.1 control.
+- The court may not set monetary bail at a level designed to function as effective pretrial detention without the findings required under §5.9.2; pretrial detention by money-bail manipulation is itself reachable under §2.10.3 (Wealth-Based Liberty Denial).
+- Monetary bail set for a government actor under this Act may not be posted from agency funds, public funds, union funds drawn from public sources, or any other source that would offload the actor's pretrial accountability to the public.
+
+#### 5.9.4 Conditions on Continued Employment Pending Trial
+
+- The employing agency shall place the charged actor on **unpaid administrative leave** for the duration of the pretrial period, subject to any contrary provision of state employment law that the actor's collective-bargaining agreement validly invokes. Where collective bargaining requires paid leave, the funds advanced shall be subject to disgorgement and forfeiture under Section 11 on conviction.
+- The actor may not return to active duty until acquittal, dismissal, or final disposition in the actor's favor. Conviction triggers the §11 forfeiture and §11.4 decertification consequences.
+- An agency that knowingly allows a charged actor to continue exercising official authority in violation of this section is itself reachable under this Act.
+
+#### 5.9.5 Surrender of Firearms
+
+- A government actor charged with any offense under this Act involving an element of force, threat, custodial conduct, or coercion shall surrender all personally-owned firearms and any agency-issued firearm to the court or to a designated firearms-custody facility for the duration of pretrial release.
+- The surrender is a standing release condition, not a separate finding-driven order.
+- Refusal to surrender constitutes a violation of release conditions and is itself reachable under §1.1.8 (Obstruction of Justice).
+
+#### 5.9.6 Application to Federal Officers Reachable Under §14.7
+
+The rules of this section apply with equal force to federal officers reachable under §14.7 (Federal Officer Status Not a Shield). A federal officer charged under this Act is subject to the same pretrial release rules as any other government actor charged under this Act, and the actor's federal-officer status is not a basis for exemption from the conditions of this section.
 
 ---
 
@@ -3678,6 +4006,58 @@ The doctrine of judicial immunity does not apply, consistent with Section 5.1.
 
 > The Conviction Review power exists to provide a citizen-driven remedy where the criminal-justice system has failed an individual. It is not a substitute for ordinary appellate review; it is a parallel safeguard for cases the ordinary system has not corrected. It shall be construed broadly in favor of the convicted person, consistent with Section 1.1.5.2.
 
+### 9.16 Conflict, Recusal, and Special Prosecutor Rules
+
+The activation provisions of §9.5 obligate the designated prosecuting office to act on a Joint Declaration. Where the prosecuting office is itself the subject of the Declaration, or where every prosecutor in the chain has a disqualifying conflict, the obligation does not disappear — it migrates, by operation of this section, to an alternative prosecuting authority. **No conflicted office may decline to act and leave the Declaration unprosecuted.**
+
+#### 9.16.1 Grounds for Conflict
+
+A prosecuting office, or an individual prosecutor within it, has a disqualifying conflict for purposes of this Act where any of the following applies:
+
+- The subject of the Joint Declaration is the prosecuting office's chief, an attorney within the office, or any employee of the office
+- The subject of the Joint Declaration is a current or former close professional, political, financial, or familial associate of the prosecuting office's chief, including without limitation campaign donor, campaign worker, business partner, law-school classmate, regular co-counsel, or close personal friend
+- The subject of the Joint Declaration is a person whose continued cooperation the prosecuting office materially depends upon for unrelated cases — including without limitation peace officers in the office's primary case-bringing relationships, expert witnesses, forensic providers, or supervisory officials
+- Any other circumstance under which a reasonable person would conclude that the prosecuting office cannot prosecute the case fairly and without compromise
+
+#### 9.16.2 Mandatory Recusal and Notice
+
+- A conflicted prosecuting office shall recuse, in writing, within ten (10) business days of receipt of the Joint Declaration.
+- The written recusal shall identify the basis of the conflict on the public record, in language sufficient to permit citizen review.
+- A conflicted prosecuting office that fails to recuse and acts on the Joint Declaration nonetheless commits **obstruction of justice** under §1.1.8 and **conflicted prosecution** under this section, reachable as a Class 2 felony in addition to the underlying offense the prosecuting office is conflicted on.
+
+#### 9.16.3 Substitute Prosecuting Authority — Chain
+
+Upon recusal under §9.16.2 — or upon failure to act within thirty (30) days of receipt of the Joint Declaration, which is treated as constructive recusal — the obligation to prosecute migrates in the following order:
+
+1. **The Utah Attorney General**, who shall act on the Joint Declaration within thirty (30) days of receipt, either by commencing prosecution or by recusing under §9.16.2 with on-the-record explanation.
+2. **The prosecuting office of any adjacent county** within the State of Utah, selected by the Citizen Council that filed the Joint Declaration. The selected adjacent-county office shall act within thirty (30) days under the same rules.
+3. **A special prosecutor appointed by the Citizen Council** under §9.16.4, where the Attorney General and adjacent-county offices have each recused or failed to act.
+
+Each substitute authority is bound by the same mandatory-prosecution obligation as the originally designated office. The fact that a substitute is acting under this section does not reduce the scope of the prosecution or the substitute's authority to seek every appropriate remedy under this Act.
+
+#### 9.16.4 Special Prosecutor Appointment by Citizen Council
+
+Where no prosecuting authority in the substitute chain has acted within the timelines set out above, the Citizen Council that filed the Joint Declaration may, by majority vote of its quorum, appoint a **special prosecutor** to act in the matter.
+
+- The special prosecutor must be a Utah-licensed attorney in good standing.
+- The special prosecutor may not be an attorney currently employed by, contracted to, or holding a financial relationship with any prosecuting office that has recused or failed to act on the matter, nor with any office adjacent to or supervising the subject of the Joint Declaration.
+- The special prosecutor shall be compensated from forfeited funds under Section 11, or from such other funding source as the Act designates, at a rate not less than the comparable per-case rate of the original designated prosecuting office.
+- The special prosecutor exercises the full scope of prosecutorial authority of the original designated office for the duration of the case, including the authority to file charges, present evidence to a grand jury, negotiate (subject to §9.16.5 plea limits), and seek every remedy available under this Act.
+- The special prosecutor reports to the Citizen Council quarterly, and the Citizen Council retains the authority to remove and replace the special prosecutor for cause.
+
+#### 9.16.5 Limits on Plea Agreements in Substitute or Special-Prosecutor Matters
+
+A substitute prosecuting authority or special prosecutor acting under this section may not enter into a plea agreement that reduces a capital-classification offense under this Act to less than felony classification without on-the-record concurrence of the Citizen Council that filed the Joint Declaration. **This rule prevents the prosecutorial-discretion loophole from reopening at the back end of a case in which the front-end conflict required substitution in the first place.**
+
+#### 9.16.6 Failure of the Chain
+
+Where every authority in §9.16.3 fails to act, fails to recuse, or otherwise stalls the Joint Declaration:
+
+- The matter is reachable under §1.1.6 (Cabalism) and §1.1.7 (Government Racketeering) as evidence of coordinated obstruction.
+- The Citizen Council may file the Joint Declaration directly with the Utah Supreme Court for emergency assignment to a prosecuting authority, including a special prosecutor selected by the Court from a roster maintained by the Council under §9.16.4.
+- Failure of the Utah Supreme Court to act within ninety (90) days of such a filing is itself reachable under §1.1.8 (Obstruction of Justice) and §1.1.10 (Anarchy) where the elements are met.
+- The Council retains in all events the authority to file findings with the Office of the Governor under §9.7 and to publish findings in the public record, ensuring that obstructed cases do not disappear from public accountability.
+
 ---
 
 ## Section 10 — Retroactive Civil Applicability
@@ -3746,6 +4126,67 @@ The conduct need not independently constitute a criminal offense under this Act 
 
 - The forfeiture and disqualification provisions of this section attach **automatically upon final judgment of guilt** under this title.
 - These provisions apply equally to a finding of guilt in a criminal proceeding under Sections 1 through 9, and shall be available as a remedy in a civil action under Section 10 where guilt is established by the applicable civil standard.
+
+### 11.4 Automatic Decertification, Disbarment, and Removal from Professional Standing
+
+> A person found guilty under this title shall, in addition to the forfeiture under §11.1 and the ineligibility under §11.2, be **referred for the highest tier of professional discipline available under any license, certification, oath, or professional standing** under which the person was authorized to exercise the conduct giving rise to the offense. Such referral and the discipline that follows are independent of the forfeiture and ineligibility provisions of this section and operate in addition to them, not in lieu of them.
+
+The licensing bodies that issue these credentials — the Peace Officer Standards and Training Council (POST), the Utah State Bar, the Utah Judicial Conduct Commission, and analogous bodies — are themselves part of the architecture this Act exists to address. The provisions of this subsection are accordingly structured so that licensing-body inaction or capture cannot defeat the consequence the conviction has earned.
+
+#### 11.4.1 Peace Officers — Automatic POST Referral
+
+Where the person convicted is a peace officer, sheriff's deputy, federal officer reachable under §14.7, or any other holder of a certification issued by the Utah Peace Officer Standards and Training Council (POST) or any analogous certifying body:
+
+- The conviction shall be referred to POST within thirty (30) days of final judgment.
+- Conviction under this Act creates a **presumption of decertification** of the convicted officer.
+- POST shall act on the referral within ninety (90) days of receipt, either by ordering decertification or by issuing a written, public, on-the-record explanation of why decertification is not warranted on the specific facts of the conviction.
+- **Failure of POST to act within the ninety-day period operates as automatic decertification by operation of law on the ninety-first day**, and the failure is itself reachable under §1.1.8 (Obstruction of Justice) and §17.2 (Institutional Retaliation) where the elements are met.
+- POST decertification under this section shall be transmitted to every peace-officer-certifying body in every other state, including transmission to the National Decertification Index and to any reciprocal certifying authority with which Utah maintains a cooperative agreement.
+- A decertified officer shall not be hired, recertified, transferred to, or otherwise authorized to exercise peace-officer authority within the State of Utah, and any agency that knowingly hires, employs, or commissions a decertified officer in any peace-officer capacity is itself reachable under this Act.
+
+#### 11.4.2 Prosecutors and Attorneys — Automatic Bar Referral
+
+Where the person convicted is a prosecutor, city attorney, county attorney, state attorney, federal attorney reachable under §14.7, or any other holder of a license to practice law issued by the Utah State Bar:
+
+- The conviction shall be referred to the Utah State Bar Office of Professional Conduct within thirty (30) days of final judgment.
+- Conviction under this Act creates a **presumption of disbarment** where the offense involves an element of the practice of law, color of authority, prosecutorial function, fiduciary duty, or trust placed in the attorney's professional role — which, in the substantive offenses defined in this Act, will be the case in nearly every conviction.
+- The Office of Professional Conduct shall act on the referral within ninety (90) days of receipt, either by recommending disbarment to the Utah Supreme Court or by issuing a written, public, on-the-record explanation of why disbarment is not warranted on the specific facts of the conviction.
+- **Failure to act within the ninety-day period is itself reachable under §1.1.8 (Obstruction of Justice) and §17.2 (Institutional Retaliation) where the elements are met.**
+- Disbarment under this section shall be transmitted to every state bar in every other state and to the American Bar Association's National Lawyer Regulatory Data Bank.
+- A disbarred attorney shall not be reinstated, admitted on motion, granted pro hac vice admission, or otherwise authorized to practice law in Utah during the period of disbarment, and any court or tribunal that knowingly permits a disbarred attorney's continued practice in violation of this section is reachable under this Act.
+
+#### 11.4.3 Judges — Automatic Judicial Conduct Commission Referral
+
+Where the person convicted is a judge, justice, magistrate, justice court judge, or other judicial officer at any level within the State of Utah:
+
+- The conviction shall be referred to the Utah Judicial Conduct Commission within thirty (30) days of final judgment.
+- Conviction under this Act creates a **presumption of removal from judicial office and permanent disqualification from holding any judicial position in the State of Utah**, including without limitation senior-judge assignments, retired-judge recall, court-of-record service, justice-court appointment, and magistrate appointment.
+- The Commission shall act on the referral within ninety (90) days of receipt, either by recommending removal to the Utah Supreme Court or by issuing a written, public, on-the-record explanation of why removal is not warranted on the specific facts of the conviction.
+- **Failure of the Commission to act within the ninety-day period operates as automatic recommendation of removal on the ninety-first day**, and the failure is itself reachable under §1.1.8 (Obstruction of Justice) and §17.2 (Institutional Retaliation) where the elements are met.
+- The removal shall be transmitted to every analogous judicial-conduct body in every other state.
+
+#### 11.4.4 Other Licensed Professionals Exercising Public Power
+
+Where the person convicted holds any other license, certification, registration, or professional standing under which the person was authorized to exercise the conduct giving rise to the offense — including, without limitation:
+
+- Social workers, child-welfare workers, and Division of Child and Family Services personnel;
+- Public guardians, conservators, court-appointed fiduciaries, and guardians ad litem;
+- Medical examiners, coroners, forensic pathologists, and forensic scientists;
+- Court-appointed evaluators, custody evaluators, mental-health evaluators, and competency evaluators;
+- Probation officers, parole officers, and pre-trial services personnel;
+- Notaries, court clerks, court reporters, and other officers of the court;
+- Public-health officers, building inspectors, code-enforcement officers, and other regulatory personnel exercising public power;
+- Any other licensed or certified professional whose license, certification, or registration authorized the conduct giving rise to the offense —
+
+the conviction shall be referred to the relevant licensing body within thirty (30) days of final judgment, and that body shall act under the same presumption-of-highest-tier-discipline, ninety-day response, on-the-record-justification, and failure-equals-automatic-discipline rules applicable under §§11.4.1 through 11.4.3.
+
+#### 11.4.5 Licensing-Body Capture and Citizen Council Jurisdiction
+
+The decertification, disbarment, and removal processes of this section operate within the existing licensing architecture of the State of Utah, but this Act takes notice that those licensing bodies have, in practice, been part of the same architecture this Act exists to address. Accordingly:
+
+- The **Citizen Council of Section 9 has jurisdiction to investigate failures of a licensing body** to act on a referral under this section, and may file findings concerning such failures with the Office of the Governor and the Office of the Attorney General.
+- **Members of a licensing body who knowingly obstruct, delay, conceal, or refuse to act on a referral under this section are themselves reachable under this Act as government actors**, and are subject to the same forfeiture, ineligibility, and decertification consequences under this Section 11 that any other government actor faces on conviction.
+- The automatic-decertification-by-operation-of-law rule of §§11.4.1 and 11.4.3 (decertification or removal recommended automatically on the ninety-first day if the licensing body fails to act) is intentionally structured to prevent licensing-body capture from defeating the consequence the conviction has earned. A conviction under this Act carries its full professional consequence whether the licensing body cooperates or not.
 
 ---
 
@@ -4077,7 +4518,7 @@ A determination by any of the above is **binding within the State of Utah** and 
 
 A government instrument is **repugnant** for purposes of this Section where:
 
-- It directly **contradicts** a provision of this Act, the Utah Constitution, or the U.S. Constitution;
+- It **directly or indirectly creates a conflict with** a provision of this Act, the Utah Constitution, or the U.S. Constitution. A direct conflict exists where the instrument, on its face, mandates conduct that the higher authority prohibits, prohibits conduct that the higher authority protects, or otherwise contradicts the operative text of the higher authority. An indirect conflict exists where the instrument, in its enforcement, application, effect, or interaction with other government instruments, **produces an outcome inconsistent with the higher authority** — even where the instrument's face appears consistent. Both forms of conflict are reachable under this Section, and the test is the operative effect of the instrument against the operative authority of the higher source, not the formal language alone;
 - Its enforcement would require a citizen to **surrender or violate a right** protected by any of the foregoing;
 - It rests on **authority that does not exist**, or that has been removed or limited by this Act, the Utah Constitution, or the U.S. Constitution (compare §1.1.10 Anarchy);
 - It exists as a **workaround or evasion** of any provision of this Act; or
@@ -5005,6 +5446,104 @@ Refusal by the owner to accept the government's offered price, refusal to waive 
 - Where the conduct is coordinated with a private developer, donor, contractor, political ally, or public-private beneficiary for private gain, the offense is a **capital offense**
 - Where the conduct results in homelessness, death, suicide, serious bodily injury, catastrophic financial ruin, or permanent loss of family property, Section 12 and the penalty enhancements of Section 5.6 apply
 - Charge cumulatively under §1.1.3 (Battery), §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), §1.1.12 (Terrorism), §1.1.13 (Official Intimidation), §16.3, §2.9, §17.2, §17.9E, §17.9F, §17.23, §17.24C, or §17.24D where the elements are met
+
+### 17.24F Public Health Emergency Authority Abuse
+
+> A government actor commits **public health emergency authority abuse** where the actor — whether a public health officer, public health director, governor, county executive, mayor, agency administrator, or any other actor exercising or invoking public health emergency authority — issues, extends, enforces, or fails to terminate an order purporting to be a public health emergency measure, in any of the following circumstances:
+>
+> **(a)** the order or extension lacks a current, articulable, evidence-based public-health-emergency justification at the time of the issuance, extension, or enforcement;
+> **(b)** the order exceeds the lawful scope of the actor's public-health authority, invades a function constitutionally assigned to another branch of government, or operates as a bill of attainder against a defined person or class;
+> **(c)** the order is enforced beyond the actual duration of the underlying emergency;
+> **(d)** the order is selectively enforced for political, retaliatory, or favoritism reasons;
+> **(e)** the order conditions the citizen's livelihood, employment, business operation, family integrity, religious worship, or exercise of a right protected under §1.1.5 on submission to a public-health measure that is not necessary for the lawful public-health purpose actually invoked;
+> **(f)** the order is supported by material misrepresentations, omissions, or undisclosed conflicts of interest concerning the public-health basis for the order; or
+> **(g)** the order extends a declared emergency without the procedural protections — notice, opportunity to be heard, judicial review — owed under Section 2 of this Act.
+
+**Operative Principle.**
+
+Public-health emergency authority exists to address actual public-health emergencies. It does not exist to suspend constitutional rights, to bypass legislative processes, to settle political disputes, to coerce private compliance with non-public-health objectives, or to maintain executive control after the underlying emergency has passed. The exercise of public-health emergency authority is itself a public trust, and the abuse of that trust — through fabricated emergency, prolonged emergency, selective enforcement, livelihood coercion, or material misrepresentation of the public-health basis — is reachable under this Act.
+
+**Elements.**
+
+- The actor exercised, enforced, extended, or failed to terminate an order purporting to be a public-health emergency measure
+- Any one of the seven circumstances listed in subsections (a) through (g) above applies
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the deficiency
+
+**Specific Patterns Reached.**
+
+This subsection reaches, without limitation:
+
+- **Quarantine orders** issued, extended, or enforced beyond actual public-health necessity, or against specific persons or classes selected for retaliatory or political reasons
+- **Business closure orders** that exceed the actor's authority, that single out particular industries or businesses without articulable public-health justification, or that continue after the emergency basis has demonstrably ended
+- **Employment-conditioning orders** — including but not limited to vaccination, testing, masking, or other medical-status-based conditions of employment — where the condition exceeds lawful public-health authority, is enforced through coercive employment penalties, or is applied selectively across the workforce
+- **Indefinite emergency extension** — repeated declaration or extension of emergency status to maintain emergency-power-derived authority after the underlying emergency has demonstrably ended
+- **Bypass of legislative process** — issuance of orders that effectively legislate (creating new offenses, new duties, new revenue-collection mechanisms, new licensing conditions, or new burdens on protected rights) under emergency authority that does not extend to legislation
+- **Public misrepresentation** — knowing or recklessly indifferent misrepresentation of the medical, scientific, or epidemiological basis for an emergency order, or knowing omission of contrary evidence material to the order
+- **Undisclosed financial conflict** — issuance, extension, or enforcement of an order while the actor has an undisclosed financial relationship with any vendor, contractor, donor, or beneficiary materially benefiting from the order
+
+**Classification.**
+
+- Public health emergency authority abuse is a **Class 2 felony**
+- Where the abuse resulted in **loss of livelihood, business closure, family separation, denial of religious worship, denial of medical care unrelated to the declared emergency, or material harm to the welfare of citizens**, the offense is a **Class 1 felony**
+- Where the abuse was malicious, retaliatory, sustained beyond reasonable correction notice, or coordinated across multiple actors or agencies, the offense is a **capital offense**
+- May be charged cumulatively with §17.24 (Emergency Power Abuse), §17.23 (Regulatory Weaponization), §1.1.18 (Ultra Vires), §1.1.10 (Anarchy) where the order lacked any lawful basis, §17.6 (Public Trust Fraud), and §1.1.6 (Cabalism) where multiple actors coordinated
+
+**Defenses Limited.**
+
+- A claim that the order was "for public health" or "to save lives" is not a defense unless supported by current, articulable, evidence-based public-health justification at the time of the conduct charged
+- Reliance on a prior declaration of emergency is not a defense where the actor knew or should have known the underlying emergency basis had ended
+- Reliance on guidance from a federal agency is not a defense where the actor's order independently meets the elements of this subsection
+- Indemnification or hold-harmless clauses are not a defense to liability under this subsection
+- The political popularity of an order is not a defense where the order meets the elements of this subsection
+
+**Application.**
+
+- This subsection operates in addition to §17.24 (Emergency Power Abuse), which reaches abuse of emergency power generally. Where the public-health emergency context applies, this subsection controls within its scope and §17.24 may be charged in addition.
+- Nothing in this subsection prohibits a lawful, time-limited, evidence-based, procedurally compliant public-health response to an actual public-health emergency. This subsection reaches abuses of that authority, not lawful uses of it.
+
+### 17.24G Election Authority Abuse
+
+> A government actor — including, without limitation, a county clerk, election commissioner, secretary of state, lieutenant governor in an election-administration capacity, poll worker, voter-registration officer, ballot processor, signature reviewer, certification officer, or canvasser — commits **election authority abuse** where the actor uses, exercises, withholds, or refuses to perform election-administration authority in any of the following ways:
+>
+> **(a)** purges, removes, or transfers voters from voter rolls without lawful basis, without required notice, or selectively against identifiable demographic, partisan, religious, racial, or geographic groups;
+> **(b)** rejects, blocks, delays, conditions, or selectively scrutinizes voter registrations without lawful basis or under selectively applied standards;
+> **(c)** rejects, invalidates, segregates, or delays the counting of ballots without lawful basis or under selectively applied standards;
+> **(d)** refuses to certify, delays certification of, or conditions certification of election results except as required by lawfully applicable challenge procedures;
+> **(e)** engages in partisan, retaliatory, or selectively-enforced poll-worker conduct — including without limitation challenging voters of one party while not challenging similarly-situated voters of another party, requiring identification or documentation from one voter while not requiring it from a similarly-situated other voter, or providing information or assistance to one voter while withholding it from a similarly-situated other voter;
+> **(f)** schedules, conducts, or announces voter-roll maintenance, registration purges, identification-requirement changes, or similar election-administration actions in a manner timed to suppress, confuse, or burden lawful voters;
+> **(g)** uses election-administration authority for retaliatory enforcement against voters, candidates, election observers, or election-administration whistleblowers who have criticized officials, reported misconduct, or otherwise engaged in protected conduct under §1.1.5;
+> **(h)** falsifies, alters, conceals, or destroys election records, ballots, voting-machine records, registration records, certification records, or chain-of-custody documentation; or
+> **(i)** participates in coordinated conduct with other actors to engage in any of the foregoing.
+
+**Operative Principle.**
+
+Free, fair, and equally administered elections are the constitutional foundation on which every other check on government rests. An election authority that purges voters selectively, rejects ballots selectively, certifies selectively, or otherwise applies election rules in a manner that favors any party, candidate, faction, or constituency over another is exercising public power for private benefit. Election administration is a public trust, and its abuse is reachable under this Act on the same principles that reach other forms of color-of-authority misconduct.
+
+**Elements.**
+
+- The actor holds, exercises, or is delegated election-administration authority
+- The actor performed, refused to perform, or selectively performed an act within that authority
+- The act falls within one or more of subsections (a) through (i) above
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the impropriety
+
+**Classification.**
+
+- Election authority abuse is a **Class 2 felony**
+- Where the conduct affects fifty (50) or more voters, fifty (50) or more ballots, or the timing of fifty (50) or more registration transactions, the offense is a **Class 1 felony**
+- Where the conduct materially affects the outcome of an election, or is performed with the intent of materially affecting the outcome of an election, the offense is a **capital offense**
+- May be charged cumulatively with §17.6 (Public Trust Fraud), §17.23 (Regulatory Weaponization), §17.4 (Deliberate Record Distortion), §17.4A (Public-Record Spoliation), §17.2 (Institutional Retaliation), §1.1.18 (Ultra Vires), §1.1.10 (Anarchy) where the conduct lacked any lawful basis, and §1.1.6 (Cabalism) where multiple actors coordinated
+
+**Defenses Limited.**
+
+- "I was following the rules" is not a defense where the rules were applied selectively against similarly-situated voters or applicants
+- "The supervisor told me to" is not a defense where the actor knew or should have known the supervisor's instruction violated this subsection — and supervisors are reachable independently under §1.1.6 (Cabalism) and §17.2 (Institutional Retaliation)
+- A claim that the affected voters or ballots would not have changed the election outcome is not a defense at the Class 2 felony tier; outcome-effect is an aggravating factor, not an element of the base offense
+- Reliance on a voter-list provider, software vendor, or algorithm is not a defense where the actor knew or should have known of the provider's bias, inaccuracy, or selective output — and the conduct may also be reachable under §17.24A (Algorithmic Authority Abuse)
+
+**Application.**
+
+- This subsection reaches conduct by any actor exercising election-administration authority within the State of Utah, including conduct by federal-officer actors reachable under §14.7 where the conduct affects Utah voters.
+- Nothing in this subsection prohibits lawful election administration carried out under existing Utah election law in good faith. The subsection reaches abuses of that authority, not lawful uses of it.
 
 ---
 

@@ -143,7 +143,7 @@ A determination by any of the above is **binding within the State of Utah** and 
 
 A government instrument is **repugnant** for purposes of this Section where:
 
-- It directly **contradicts** a provision of this Act, the Utah Constitution, or the U.S. Constitution;
+- It **directly or indirectly creates a conflict with** a provision of this Act, the Utah Constitution, or the U.S. Constitution. A direct conflict exists where the instrument, on its face, mandates conduct that the higher authority prohibits, prohibits conduct that the higher authority protects, or otherwise contradicts the operative text of the higher authority. An indirect conflict exists where the instrument, in its enforcement, application, effect, or interaction with other government instruments, **produces an outcome inconsistent with the higher authority** — even where the instrument's face appears consistent. Both forms of conflict are reachable under this Section, and the test is the operative effect of the instrument against the operative authority of the higher source, not the formal language alone;
 - Its enforcement would require a citizen to **surrender or violate a right** protected by any of the foregoing;
 - It rests on **authority that does not exist**, or that has been removed or limited by this Act, the Utah Constitution, or the U.S. Constitution (compare §1.1.10 Anarchy);
 - It exists as a **workaround or evasion** of any provision of this Act; or

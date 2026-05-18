@@ -444,4 +444,56 @@ The doctrine of judicial immunity does not apply, consistent with Section 5.1.
 
 > The Conviction Review power exists to provide a citizen-driven remedy where the criminal-justice system has failed an individual. It is not a substitute for ordinary appellate review; it is a parallel safeguard for cases the ordinary system has not corrected. It shall be construed broadly in favor of the convicted person, consistent with Section 1.1.5.2.
 
+### 9.16 Conflict, Recusal, and Special Prosecutor Rules
+
+The activation provisions of §9.5 obligate the designated prosecuting office to act on a Joint Declaration. Where the prosecuting office is itself the subject of the Declaration, or where every prosecutor in the chain has a disqualifying conflict, the obligation does not disappear — it migrates, by operation of this section, to an alternative prosecuting authority. **No conflicted office may decline to act and leave the Declaration unprosecuted.**
+
+#### 9.16.1 Grounds for Conflict
+
+A prosecuting office, or an individual prosecutor within it, has a disqualifying conflict for purposes of this Act where any of the following applies:
+
+- The subject of the Joint Declaration is the prosecuting office's chief, an attorney within the office, or any employee of the office
+- The subject of the Joint Declaration is a current or former close professional, political, financial, or familial associate of the prosecuting office's chief, including without limitation campaign donor, campaign worker, business partner, law-school classmate, regular co-counsel, or close personal friend
+- The subject of the Joint Declaration is a person whose continued cooperation the prosecuting office materially depends upon for unrelated cases — including without limitation peace officers in the office's primary case-bringing relationships, expert witnesses, forensic providers, or supervisory officials
+- Any other circumstance under which a reasonable person would conclude that the prosecuting office cannot prosecute the case fairly and without compromise
+
+#### 9.16.2 Mandatory Recusal and Notice
+
+- A conflicted prosecuting office shall recuse, in writing, within ten (10) business days of receipt of the Joint Declaration.
+- The written recusal shall identify the basis of the conflict on the public record, in language sufficient to permit citizen review.
+- A conflicted prosecuting office that fails to recuse and acts on the Joint Declaration nonetheless commits **obstruction of justice** under §1.1.8 and **conflicted prosecution** under this section, reachable as a Class 2 felony in addition to the underlying offense the prosecuting office is conflicted on.
+
+#### 9.16.3 Substitute Prosecuting Authority — Chain
+
+Upon recusal under §9.16.2 — or upon failure to act within thirty (30) days of receipt of the Joint Declaration, which is treated as constructive recusal — the obligation to prosecute migrates in the following order:
+
+1. **The Utah Attorney General**, who shall act on the Joint Declaration within thirty (30) days of receipt, either by commencing prosecution or by recusing under §9.16.2 with on-the-record explanation.
+2. **The prosecuting office of any adjacent county** within the State of Utah, selected by the Citizen Council that filed the Joint Declaration. The selected adjacent-county office shall act within thirty (30) days under the same rules.
+3. **A special prosecutor appointed by the Citizen Council** under §9.16.4, where the Attorney General and adjacent-county offices have each recused or failed to act.
+
+Each substitute authority is bound by the same mandatory-prosecution obligation as the originally designated office. The fact that a substitute is acting under this section does not reduce the scope of the prosecution or the substitute's authority to seek every appropriate remedy under this Act.
+
+#### 9.16.4 Special Prosecutor Appointment by Citizen Council
+
+Where no prosecuting authority in the substitute chain has acted within the timelines set out above, the Citizen Council that filed the Joint Declaration may, by majority vote of its quorum, appoint a **special prosecutor** to act in the matter.
+
+- The special prosecutor must be a Utah-licensed attorney in good standing.
+- The special prosecutor may not be an attorney currently employed by, contracted to, or holding a financial relationship with any prosecuting office that has recused or failed to act on the matter, nor with any office adjacent to or supervising the subject of the Joint Declaration.
+- The special prosecutor shall be compensated from forfeited funds under Section 11, or from such other funding source as the Act designates, at a rate not less than the comparable per-case rate of the original designated prosecuting office.
+- The special prosecutor exercises the full scope of prosecutorial authority of the original designated office for the duration of the case, including the authority to file charges, present evidence to a grand jury, negotiate (subject to §9.16.5 plea limits), and seek every remedy available under this Act.
+- The special prosecutor reports to the Citizen Council quarterly, and the Citizen Council retains the authority to remove and replace the special prosecutor for cause.
+
+#### 9.16.5 Limits on Plea Agreements in Substitute or Special-Prosecutor Matters
+
+A substitute prosecuting authority or special prosecutor acting under this section may not enter into a plea agreement that reduces a capital-classification offense under this Act to less than felony classification without on-the-record concurrence of the Citizen Council that filed the Joint Declaration. **This rule prevents the prosecutorial-discretion loophole from reopening at the back end of a case in which the front-end conflict required substitution in the first place.**
+
+#### 9.16.6 Failure of the Chain
+
+Where every authority in §9.16.3 fails to act, fails to recuse, or otherwise stalls the Joint Declaration:
+
+- The matter is reachable under §1.1.6 (Cabalism) and §1.1.7 (Government Racketeering) as evidence of coordinated obstruction.
+- The Citizen Council may file the Joint Declaration directly with the Utah Supreme Court for emergency assignment to a prosecuting authority, including a special prosecutor selected by the Court from a roster maintained by the Council under §9.16.4.
+- Failure of the Utah Supreme Court to act within ninety (90) days of such a filing is itself reachable under §1.1.8 (Obstruction of Justice) and §1.1.10 (Anarchy) where the elements are met.
+- The Council retains in all events the authority to file findings with the Office of the Governor under §9.7 and to publish findings in the public record, ensuring that obstructed cases do not disappear from public accountability.
+
 ---

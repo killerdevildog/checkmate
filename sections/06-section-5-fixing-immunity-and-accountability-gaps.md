@@ -176,4 +176,90 @@ Nothing in this subsection diminishes the rights of any citizen, owner, employee
 - Consistent with the limitation in §1.1.21 on the pursuit-of-happiness right, a business whose conduct in fact harms other citizens is not, in that conduct, exercising a protected right. Lawful government action that addresses actual harm caused by a business to other citizens, supported by lawful basis and lawful process, is not reached by this subsection.
 - The poverty-line, family-home, and meaningful-transportation thresholds are **floors** for the beneficiary bridge to criminal liability; they are not ceilings on civil recovery. A business or employee may recover under §5.7.1 or §5.7.2 for any demonstrable economic injury, whether or not the injury reached any threshold. The thresholds operate only on the question of whether the conduct is also reachable as a criminal offense against a natural-person beneficiary under §5.7.3.
 
+### 5.8 No Statute of Limitations for Criminal Offenses Under This Act
+
+> **No statute of limitations shall bar the prosecution of any criminal offense defined in this Act.**
+
+**Operative Rule.**
+
+A criminal proceeding for any offense defined in this Act may be commenced at any time after the conduct constituting the offense, regardless of the time that has elapsed between the conduct and the commencement of prosecution. The general Utah statutes of limitations for criminal offenses — including, without limitation, any applicable provision of Utah Code Title 76 Chapter 1, and any analogous provision of any other applicable code — do not apply to offenses defined in this Act. The Utah Legislature, in adopting this Act, exercises its established sovereign authority over state statutes of limitations to set this rule for the offenses created by this Act.
+
+**Reason for the Rule.**
+
+The conduct this Act reaches is often concealed by the same architecture the Act exists to address. Official misconduct is typically discovered years — and frequently decades — after it occurs, through later wrongful-conviction exonerations, declassification of records, whistleblower disclosures, internal-affairs leaks, retired-official testimony, posthumous record review, civilian-watchdog investigation, or the eventual public surfacing of evidence the responsible actors actively suppressed. A statute of limitations that begins to run from the date of the conduct rewards the most successful concealment with the most certain immunity. **This Act will not provide that reward.**
+
+**Application to Conduct Occurring Before the Effective Date.**
+
+- Where conduct constituting an offense under this Act occurred before the effective date of this Act and **was not yet barred by the applicable statute of limitations under prior law on the effective date**, the no-statute-of-limitations rule of this section applies, and prosecution may be commenced at any time. Extension or elimination of a not-yet-expired limitations period is procedural, not substantive, and does not raise ex post facto concerns. *See, e.g.*, *Stogner v. California*, 539 U.S. 607, 632–33 (2003) (recognizing the constitutional distinction between extending an unexpired limitations period and reviving an already-expired one).
+- Where conduct constituting an offense under this Act occurred before the effective date of this Act and **was already barred by the applicable statute of limitations under prior law on the effective date**, this section does not revive criminal prosecution of that conduct, consistent with *Stogner v. California*. The conduct remains reachable, however, as a **civil action** under Section 10 of this Act, in accordance with the retroactive civil applicability provisions of that section.
+
+**Capital Classifications and Existing Utah Practice.**
+
+The absence of a statute of limitations under this section is consistent with the existing Utah treatment of the gravest categories of criminal offense. Utah law already recognizes that certain classes of conduct should not be timed-out by procedural limitations. This Act extends that recognition to the categories of official misconduct it reaches, on the same principle: the gravity of the conduct and the difficulty of timely discovery do not permit limitations to operate as a shield.
+
+**Evidence and Burden of Proof Unaffected.**
+
+- The prosecution of any offense under this Act remains subject to all ordinary rules of evidence — authentication, foundation, chain of custody, hearsay consistent with §2.3, expert qualification, and any other generally applicable evidentiary rule.
+- Criminal trial under this Act remains subject to the burden of proof beyond a reasonable doubt, the right to confront witnesses, the right to compulsory process, and every other constitutional due-process protection owed to the accused.
+- The elimination of the statute of limitations governs the **timing** of prosecution. It does not lower the **standards** by which guilt is proved. A prosecution commenced decades after the conduct must meet the same evidentiary burdens as a prosecution commenced within weeks.
+
+**Tolling Provisions Unnecessary.**
+
+Because no statute of limitations applies, the customary tolling, equitable-estoppel, fraudulent-concealment, and discovery-rule doctrines familiar from limitations practice are not necessary to preserve a citizen's ability to bring conduct under this Act to prosecution. The rule of this section is unambiguous and operative on its face: the State of Utah may charge an offense defined in this Act at any time after the conduct occurred, without limitations bar.
+
+**Relationship to Section 10 (Retroactive Civil Applicability).**
+
+The no-statute-of-limitations rule of this section operates on the criminal side. Section 10 governs the parallel question of retroactive civil applicability. A citizen with a claim under this Act may pursue either or both tracks — subject to the prior-bar carve-out described above for criminal prosecution of conduct already time-barred under prior law on the effective date.
+
+### 5.9 Pretrial Release, Bail, and Conditions of Release for Officials Charged Under This Act
+
+> A government actor charged with any offense defined in this Act shall be subject to the special pretrial release rules of this section, which apply in addition to, and where in conflict supersede, the default Utah rules of criminal procedure.
+
+**Rationale.**
+
+Government actors charged under this Act present pretrial risks materially different from those of an ordinary criminal defendant. They retain continued institutional access to records, witnesses, subordinates, and the apparatus of state power that may be the subject of the prosecution. They have, in many cases, professional networks, financial resources, and political relationships that present unusual flight risk. The default bail and release rules — designed for the ordinary case — do not adequately address those risks. This section sets the standing rule.
+
+#### 5.9.1 Mandatory Conditions on Pretrial Release
+
+Where a government actor is released pretrial on any offense under this Act, the following conditions attach **by operation of law**, without need for case-by-case findings:
+
+- **Surrender of badge, credentials, identification, agency-issued firearm, and agency-issued equipment** to the employing agency or to the court at the first appearance.
+- **Suspension of agency access** for the duration of pretrial release — including without limitation access to agency facilities, agency case files, agency-controlled databases, agency vehicles, agency communications systems, and agency-controlled physical evidence.
+- **Suspension of official authority** — the actor may not exercise the powers of office during the pretrial period, may not appear in any official capacity, and may not represent or be represented as a government actor.
+- **No-contact orders** prohibiting direct or indirect contact with witnesses, complainants, co-defendants, members of the Citizen Council that filed the Joint Declaration, the affected citizen and the affected citizen's immediate family, any subordinate of the actor who is a witness or potential witness, and any other person identified by the prosecuting authority or the Council as protected.
+- **Prohibition on use of agency resources for personal defense** — the actor may not use agency counsel, agency staff, agency files, agency communications systems, agency funds, or agency-issued resources of any kind for the actor's personal defense.
+- **No retaliation** — the actor shall not retaliate, directly or indirectly, against any person whose conduct contributed to the charge, on penalty of additional offenses under §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), and §17.2B (Retaliatory Charge Fabrication).
+
+These conditions remain in force from arrest or initial appearance through final disposition of the case, regardless of whether the underlying employment relationship is suspended, terminated, or maintained on administrative status.
+
+#### 5.9.2 Presumption of Pretrial Detention for Capital and Class 1 Felony Offenses
+
+Where a government actor is charged with a capital-classification offense or a Class 1 felony under this Act:
+
+- A **rebuttable presumption of pretrial detention** attaches.
+- The actor may rebut the presumption only by clear and convincing evidence that no combination of release conditions can reasonably assure (a) the actor's appearance, (b) the safety of any other person, and (c) the integrity of the prosecution — including non-interference with witnesses, evidence, and the official records that may be the subject of the case.
+- The court's decision on detention shall be made on the public record, with specific findings, and shall be reviewable on expedited appeal.
+
+#### 5.9.3 Monetary Bail Is Not Primary
+
+- Monetary bail, where set, shall not be the primary or sole condition of release. Non-monetary conditions under §5.9.1 control.
+- The court may not set monetary bail at a level designed to function as effective pretrial detention without the findings required under §5.9.2; pretrial detention by money-bail manipulation is itself reachable under §2.10.3 (Wealth-Based Liberty Denial).
+- Monetary bail set for a government actor under this Act may not be posted from agency funds, public funds, union funds drawn from public sources, or any other source that would offload the actor's pretrial accountability to the public.
+
+#### 5.9.4 Conditions on Continued Employment Pending Trial
+
+- The employing agency shall place the charged actor on **unpaid administrative leave** for the duration of the pretrial period, subject to any contrary provision of state employment law that the actor's collective-bargaining agreement validly invokes. Where collective bargaining requires paid leave, the funds advanced shall be subject to disgorgement and forfeiture under Section 11 on conviction.
+- The actor may not return to active duty until acquittal, dismissal, or final disposition in the actor's favor. Conviction triggers the §11 forfeiture and §11.4 decertification consequences.
+- An agency that knowingly allows a charged actor to continue exercising official authority in violation of this section is itself reachable under this Act.
+
+#### 5.9.5 Surrender of Firearms
+
+- A government actor charged with any offense under this Act involving an element of force, threat, custodial conduct, or coercion shall surrender all personally-owned firearms and any agency-issued firearm to the court or to a designated firearms-custody facility for the duration of pretrial release.
+- The surrender is a standing release condition, not a separate finding-driven order.
+- Refusal to surrender constitutes a violation of release conditions and is itself reachable under §1.1.8 (Obstruction of Justice).
+
+#### 5.9.6 Application to Federal Officers Reachable Under §14.7
+
+The rules of this section apply with equal force to federal officers reachable under §14.7 (Federal Officer Status Not a Shield). A federal officer charged under this Act is subject to the same pretrial release rules as any other government actor charged under this Act, and the actor's federal-officer status is not a basis for exemption from the conditions of this section.
+
 ---
