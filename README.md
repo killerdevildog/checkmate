@@ -166,4 +166,4 @@ This bill gets better the more citizens engage with it.
 
 ## Disclaimer
 
-This is a working draft of a proposed statute, written by citizens. It is not legal advice and has not been reviewed by counsel. Any provision described here would require formal legislative drafting, constitutional review, and adoption by the appropriate legislative body before having legal effect.
+This is a draft of proposed legislation, written by citizens. It is not legal advice.
