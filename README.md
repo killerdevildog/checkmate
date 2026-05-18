@@ -81,6 +81,8 @@ That is precisely the posture this bill puts the third regime of authority in. O
 
 ## FAQ
 
+The short answers to the most common questions are below. The **[full FAQ lives in `faq.md`](faq.md)** — a long-form companion covering the immunity architecture, the Citizen Council mechanism, mens rea and due process, scope and coverage, constitutional questions, group-specific protections (small business, employees, parents, journalists, whistleblowers, immigrants), penalties, politics, comparisons to existing remedies, the model-bill ambition for other states, and the common objections. If your question isn't answered below, it's almost certainly in [`faq.md`](faq.md).
+
 ### Why should I care if I'm not in trouble with the law?
 
 Because almost everyone interacts with government eventually — and when you do, you need to know the people on the other side are accountable. Today, the most powerful officials are the ones with the strongest legal shields. This flips that: power and accountability go together.
@@ -88,10 +90,6 @@ Because almost everyone interacts with government eventually — and when you do
 ### Isn't this anti-cop / anti-judge / anti-government?
 
 No. The bill leaves every legitimate function of government untouched. It only reaches **misconduct** — and only at the level of recklessness or higher. Officials who do their job lawfully and in good faith have nothing to fear from this bill. Bad actors in any profession make the whole profession look corrupt; this bill clears the field.
-
-### What if I'm a public servant — a cop, a judge, a teacher, an inspector, a city council member — reading this?
-
-If you do your job within the law and exercise reasonable care, this bill protects your reputation by removing the bad actors who give your profession a black eye. The bill uses two mens rea tracks — criminal and civil — with the same culpability words: **negligent**, **reckless**, **intentional**, and **malicious**. Criminal liability generally starts at recklessness unless a specific section makes negligent official conduct, failure to serve, or an infraction criminally enforceable. Honest, careful work within lawful authority is not the target. The bad actors who currently make your profession look corrupt finally are.
 
 ### What does signing the petition actually do?
 
@@ -101,29 +99,21 @@ It demonstrates citizen support. The more first names and zip codes the bill rec
 
 Possibly. That's exactly why grassroots support matters — and why the bill's mechanisms are designed not to require the political class's cooperation to function. Citizen Councils don't need a politician's permission. The bill explicitly addresses the corruption that would block it.
 
-### Why Utah specifically?
-
-The current draft is written for Utah. The principles apply anywhere, and the framework can be adapted by other states.
-
 ### Is this a "sovereign citizen" thing?
 
-No. Citizens remain fully subject to the law, including this Act. What this Act provides are mechanisms for the **law to be applied equally** to those who hold public power — just as it has always been applied to those who do not. This is about restoring proper checks and balances, not abolishing law.
+**No. Emphatically not. This Act is the opposite of sovereign-citizen ideology and explicitly rejects every premise of that movement.**
 
-### Will this overload the courts with citizen lawsuits?
+The "sovereign citizen" movement is a loose collection of fringe groups holding the belief that ordinary citizens are not subject to most or all government law — that they can opt out of taxation, licensing, traffic laws, and court jurisdiction through pseudo-legal theories (UCC filings, "strawman" theories, special name-formatting rules, "Affidavits of Truth," and various paperwork they claim overrides ordinary law). The FBI has classified some segments of the movement as a domestic-terrorism concern because of recurring violent confrontations with law enforcement during encounters in which adherents refused to recognize the authority of officers, judges, or courts. **Sovereign-citizen ideology is, in plain terms, anti-law.**
 
-The bill includes meaningful safeguards: charges require a defined mental state, Citizen Councils require twelve or more citizens to act in concert, and limited declination grounds are preserved. Frivolous complaints get filtered out the same way they do today. What changes is that **legitimate** complaints can no longer be filtered out by the very people they target.
+Operation Checkmate is **pro-law**. Citizens remain fully subject to the law, including this Act. The Act's premise is that the law applies to *everyone* — including officials currently exempted by the immunity architecture — and the entire architecture this Act creates operates within the constitutional order. Citizen Councils convene under defined statutory procedures. Charges follow defined mens rea standards. Prosecutions follow ordinary due-process protections. Appeals follow ordinary appellate procedure. Nothing in this Act authorizes citizens to refuse lawful taxes, ignore traffic laws, refuse to identify to officers, disregard lawful court orders, or take any extra-legal action of any kind. The Act explicitly disavows violence, militia framings, and extra-constitutional conduct in its own text.
 
-### How will this be paid for?
+It is true, as a matter of bedrock American constitutional law dating back to *Marbury v. Madison*, that **a statute, ordinance, regulation, or order that is genuinely unconstitutional is not, in the strict legal sense, enforceable**. This Act addresses that through **constitutional means** — Section 16 (Nullity of Government Instruments Repugnant to This Act or to Constitutional Authority) declares repugnant instruments null through orderly judicial process, and gives citizens a defined statutory pathway to challenge them. That is the critical distinction between this Act and sovereign-citizen ideology. **The Act addresses unconstitutional government conduct *through* the constitutional order — legislation, judicial review, citizen mechanisms grounded in statute. Sovereign-citizen ideology, by contrast, claims the right to *unilaterally declare* which laws apply to the individual, with no orderly process and no recognition of the constitutional order itself. Those two postures are not adjacent. They are opposites.**
 
-Most of the bill's mechanisms operate on existing infrastructure — the County Prosecutor's Office, the Sheriff's Office, the Governor's Office. Citizen Councils are self-organized and don't require funding. Where the State pays out civil judgments under this bill, the bill expressly forbids using state funds to indemnify the individual government actor — meaning bad actors face their own consequences, not the taxpayers.
+**Any framing of Operation Checkmate as a sovereign-citizen, militia, "constitutional sheriff," or anti-government project misrepresents it.** This Act exists to *strengthen* the rule of law, not to weaken it; to *restore* the constitutional checks the founders built, not to abolish them; to bind *everyone* equally to the law, not to exempt anyone — citizen or official — from it. For the full treatment of this question, see [`faq.md`](faq.md).
 
-### What about good-faith mistakes?
+### More questions?
 
-The bill recognizes four levels of mental state on both the criminal and civil tracks: negligent, reckless, intentional, and malicious. Recklessness is the default criminal floor unless a specific section says otherwise. Negligent conduct can still be criminal where the bill expressly classifies it that way, such as certain infractions, failure-to-serve rules, or negligent official conduct. Honest mistakes that do not meet a criminally enforceable standard are not the target.
-
-### How does this restore "checks and balances"?
-
-The founders built three branches of government to constrain each other, with citizens as the source of consent. Over time, the branches have stopped checking each other effectively, and citizens have been pushed out of the loop. This bill puts citizens back in the loop — through investigative Councils, through indictment-effect filings, through standing to challenge bad amendments, through equal application of the law against officials. That's the check that restores the balance.
+The full FAQ — including the immunity question in depth, the Citizen Council mechanism, mens rea and due process, scope of "government actor," constitutional and federalism questions, group-specific protections, penalties and classifications, the politics, comparisons to §1983 / Title 76 / consent decrees / UCMJ, adaptation to other states, and common objections — is in **[`faq.md`](faq.md)**.
 
 ---
 
@@ -150,6 +140,7 @@ Questions, edits, or feedback on the draft are welcome at the same address with 
 - **[`bill_proposal.md`](bill_proposal.md)** — the full bill text. Long, but it's the real thing.
 - **Latest PDF snapshot:** [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest) — always points to the most recent release; download the attached PDF and upload it to any AI chat (see the *"Talk to an AI"* section above).
 - **[`advanced_readme.md`](advanced_readme.md)** — a section-by-section overview with section numbers, classifications, and cross-references.
+- **[`faq.md`](faq.md)** — the long-form FAQ. Covers everything the README FAQ touches on plus the immunity architecture in depth, the Citizen Council mechanism, mens rea and due process, scope of "government actor," constitutional questions, group-specific protections, penalties, politics, comparisons to existing remedies, adaptation to other states, and common objections.
 - **Key legal definitions in Section 1** — controlling definitions of legal terms (color of law, judicial immunity, qualified immunity, justice, etc.) inside [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
 - **[GitHub Releases](https://github.com/killerdevildog/checkmate/releases)** — milestone PDF snapshots for distribution and review.
 
