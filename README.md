@@ -79,6 +79,77 @@ That is precisely the posture this bill puts the third regime of authority in. O
 
 ---
 
+## What the Act is intended to enforce
+
+Beyond closing the immunity gap and creating the citizen-accountability mechanism, **Operation Checkmate is intended to enforce a series of foundational constitutional principles** that the modern legal architecture has, to varying degrees, been allowed to erode. The bill is a model bill intended to be passed in every state, and each adopting state, by passing it, commits to enforce the following:
+
+### A republican form of government in every state
+
+The United States Constitution guarantees to every state a **republican form of government** — Article IV, Section 4, the "Guarantee Clause." A republic, in the constitutional sense, is a form of government in which:
+
+1. **All legitimate political power flows from the citizens** — not from any monarch, hereditary class, faction, or self-perpetuating institution;
+2. **The government operates under written law that applies equally to citizens and officials alike** — no person stands above the law by virtue of office held;
+3. **Public officials are temporary stewards of power held in trust for the public** — not a permanent governing class, not an aristocracy, not a hereditary or class-based body;
+4. **The architecture of government is designed to prevent the concentration of power** in any single branch, faction, family, or institution — checks and balances, separation of powers, federalism, citizen accountability.
+
+Operation Checkmate is intended to enforce that guarantee in operative reality. The Act's substantive offenses — including §1.1.30 (Authoritarianism), §1.1.31 (Aristocratism), §1.1.6 (Cabalism), §1.1.25 (Legislate from the Bench), and the §11.4 automatic-decertification provisions — collectively reach the conduct that, in practice, has converted what the Constitution guarantees as a republic into something else: a closed governing class, a managerial state, a hereditary network of officeholders, an institutional arrangement that operates against the citizens it was designed to serve.
+
+### Protection of citizens' rights from government
+
+The bill recognizes — and operationalizes — the foundational principle that the **rights of citizens exist prior to government**. The Declaration of Independence's natural-rights framing ("endowed by their Creator with certain unalienable Rights") and the Ninth Amendment's affirmation ("The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people") together establish that government does not grant rights. Government is constituted by citizens for the purpose of protecting rights citizens already had before the government existed.
+
+Operation Checkmate makes the violation of protected rights — defined in §1.1.5 with the broadest possible scope — a substantive criminal offense under multiple provisions: §1.1.3 (Battery against rights), §1.1.10 (Anarchy), the §1.1.26–§1.1.43 umbrella offenses, and the role-specific offenses of Section 17.
+
+### Government may limit rights only to prevent actual harm to other citizens
+
+A government may lawfully limit the exercise of a right **only when the right's exercise actually harms another citizen** — meaning concrete, particularized harm to an identified person's life, liberty, property, family, or other right. **Government may not limit rights for purposes of government authority, government convenience, government efficiency, government revenue, government image, government secrecy, government scheduling, government workload, government budget, government preference, or any other reason that does not reduce to concrete harm to other citizens.**
+
+This Act treats limitation of rights for governmental rather than other-citizen-protective purposes as itself reachable as a violation, under §1.1.5.2 (Rule of Construction — ambiguities favor the citizen), §1.1.5.3 (Practical Means of Exercising a Right — the means are part of the right), §1.1.10 (Anarchy — government acting outside lawful authority), §1.1.18 (Ultra Vires), §1.1.27 (Statism — expansion for expansion's sake), §1.1.42 (Censorism — speech suppression for government convenience), and the role-specific offenses of Section 17.
+
+### No titles of nobility — direct or indirect
+
+The United States Constitution forbids the granting of titles of nobility, twice — **Article I, Section 9, Clause 8** ("No Title of Nobility shall be granted by the United States") and **Article I, Section 10, Clause 1** ("No State shall ... grant any Title of Nobility"). The Founders understood from direct historical experience that hereditary or class-based governmental privilege is incompatible with a republic.
+
+**The modern immunity architecture — qualified immunity, judicial immunity, prosecutorial immunity, sovereign immunity — has created, in operative reality, a form of nobility by indirect grant.** Officials hold permanent personal status that exempts them from the laws applicable to ordinary citizens, and that status circulates among a defined social and professional class. The result is a class of citizens "above the law" — exactly the constitutional condition the Title of Nobility Clauses were written to forbid.
+
+This Act treats that result as constitutionally repugnant. The immunity architecture is abrogated under §5.1; the substantive offense of operating public office as a noble class is defined under §1.1.31 (Aristocratism); the doctrinal mechanism by which the immunity doctrines were judicially created is itself a substantive offense under §1.1.25 (Legislate from the Bench). Together, these provisions enforce the **Title of Nobility Clauses' guarantee** — direct and indirect — that no person stands above another by birth, by family, by class, or by office held.
+
+### Constitutional rights as guarantees, not promises
+
+The Act treats the constitutional protections owed to citizens — particularly the **First, Second, Fourth, Fifth, and Ninth Amendment rights**, and their Utah-constitutional analogues — as **guarantees**, not as promises subject to government discretion. A right that government may limit at convenience, at scheduling preference, at policy preference, or at agency budget priority is not a right; it is a permission.
+
+This Act operationalizes the guarantee by:
+
+- Defining the **violation of protected rights** as a substantive criminal offense (§1.1.3 Battery; the substantive umbrella offenses of Section 1; the role-specific offenses of Section 17);
+- Defining the **practical means of exercising a right** as part of the right itself, not separate privileges the government may withhold (§1.1.5.3);
+- **Abrogating the immunity doctrines** that have, in practice, hollowed out the federal civil rights statutes that were supposed to enforce the same rights (§5.1);
+- Providing **citizen-driven enforcement** through Citizen Councils (Section 9) — so that the political failure of executive or legislative branches to enforce the guarantee does not, by itself, end the guarantee;
+- Making the **bypass of guarantees** through emergency, procedural, or formalistic means itself a substantive offense (§17.24 Emergency Power Abuse, §17.24F Public Health Emergency Authority Abuse, §1.1.33 Proceduralism, §1.1.35 Formalism, §1.1.32 Pretextualism).
+
+### Government has no right of self-preservation; citizens have the duty to preserve the constitutional order
+
+The Act rejects, as a foundational matter, the proposition that **government has an inherent right to self-preservation** that may override citizen rights or authorize government conduct that would otherwise be unlawful. The constitutional order rests on the opposite proposition:
+
+> *"Sovereignty itself is, of course, not subject to law, for it is the author and source of law; but in our system, while sovereign powers are delegated to the agencies of government, sovereignty itself remains with the people, by whom and for whom all government exists and acts."*
+>
+> — *Yick Wo v. Hopkins*, 118 U.S. 356, 370 (1886)
+
+> *"The Constitution of the United States is a law for rulers and people, equally in war and in peace, and covers with the shield of its protection all classes of men, at all times, and under all circumstances. No doctrine, involving more pernicious consequences, was ever invented by the wit of man than that any of its provisions can be suspended during any of the great exigencies of government."*
+>
+> — *Ex parte Milligan*, 71 U.S. (4 Wall.) 2, 120-21 (1866)
+
+> *"That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it."*
+>
+> — Declaration of Independence (1776)
+
+Sovereignty rests with the citizens, not with the officials who happen to occupy offices at any given time. **The duty to preserve the constitutional order rests with the citizens, not with the government.** Government has no inherent right to suspend rights, exempt itself from accountability, or otherwise override the constitutional architecture in the name of its own continuity, convenience, or self-perpetuation. A government that suspends rights to preserve itself against an unpopular ruling, an unfavorable election, an angry electorate, a critical press, a whistleblower disclosure, or any other lawful exercise of citizen sovereignty has converted itself from a republic into something the Constitution does not authorize.
+
+This Act treats government conduct premised on self-preservation against the lawful exercise of citizen rights as itself a violation, reachable under §1.1.10 (Anarchy), §1.1.18 (Ultra Vires), §1.1.30 (Authoritarianism), §1.1.42 (Censorism) where the self-preservation was effected by suppressing citizen speech, §1.1.41 (Propagandism) where it was effected by misleading citizens about the conduct, and §17.24 / §17.24F where emergency authority was invoked to defeat citizen accountability.
+
+**The government is at the mercy of the citizens, not the citizens at the mercy of the government.** That is the constitutional inversion this Act is intended to restore.
+
+---
+
 ## FAQ
 
 The short answers to the most common questions are below. The **[full FAQ lives in `faq.md`](faq.md)** — a long-form companion covering the immunity architecture, the Citizen Council mechanism, mens rea and due process, scope and coverage, constitutional questions, group-specific protections (small business, employees, parents, journalists, whistleblowers, immigrants), penalties, politics, comparisons to existing remedies, the model-bill ambition for other states, and the common objections. If your question isn't answered below, it's almost certainly in [`faq.md`](faq.md).
