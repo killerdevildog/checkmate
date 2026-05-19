@@ -1459,6 +1459,701 @@ The following conduct is **per se** legislative judicial action under this subse
 - This subsection operates in addition to §1.1.10 (Anarchy), which it may meet where the legislative judicial action lacked any identifiable lawful authority.
 - A Joint Declaration of Logical Consistency Review under §9.14 may be filed by a Citizen Council against any judicial doctrine, immunity, or pronouncement that meets the elements of this subsection, and the reviewing court may not refuse review on the grounds that the doctrine has been long established.
 
+#### 1.1.26 Tribalism
+
+> A government actor commits **tribalism** when, while acting under color of public authority, the actor knowingly uses governmental power to favor, protect, reward, target, or disadvantage persons or groups **primarily on the basis of political allegiance, faction membership, personal association, ideology, race, religion, family affiliation, or other tribal identity** — rather than on the neutral application of law, policy, or the duties of the office.
+
+**Operative Principle.**
+
+A government official, in the exercise of public power, holds that power in trust for the public — for **every** citizen of the jurisdiction the office serves, in their capacity as citizens, regardless of which political coalition, faction, family, religion, or affiliation they happen to belong to. An official who exercises public power as an agent of a faction — protecting allies from accountability, punishing critics through process, awarding contracts only to loyalists, enforcing rules only against outsiders, declining to investigate misconduct by family members of insiders — is no longer exercising public power. **The official is exercising factional power under the cover of public authority.** That is reachable as a substantive offense under this Act.
+
+**Elements.**
+
+- The actor is a government actor exercising power under color of public authority (the §1.1.1 definition controls)
+- The actor used, withheld, accelerated, delayed, or selectively applied that power in a manner that favored, protected, rewarded, targeted, or disadvantaged a citizen or group of citizens
+- The favoritism or hostility was primarily on the basis of political allegiance, faction membership, personal association, ideology, race, religion, family affiliation, or other tribal identity — and not on the neutral application of law, policy, or the duties of the office
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the tribal-identity basis of the action
+
+**Specific Patterns Reached.**
+
+This subsection reaches, without limitation:
+
+- **Police tribalism.** A sheriff, chief, or peace officer who refuses to investigate crimes committed by political allies, family members, or members of a favored faction while aggressively investigating, citing, or arresting members of disfavored groups for comparable conduct.
+- **Prosecutorial tribalism.** A prosecutor who declines to charge connected insiders for conduct the prosecutor would charge ordinary citizens for, or who overcharges outsiders for conduct that would receive plea reduction or dismissal in an in-group case. This subsection operates in addition to §1.1.8.2 (Selective Non-Prosecution).
+- **Judicial tribalism.** A judge who gives systematically favorable rulings to members of a political network, religious faction, family-and-friends network, or other in-group despite contrary law — including selective application of evidentiary rulings, sentencing patterns, civil-procedure rulings, and discretionary determinations.
+- **Contracting tribalism.** A city council, county commission, board, agency, or other contracting authority that allocates contracts, grants, awards, or other public resources primarily to loyalists, donors, family members, or members of a favored faction rather than on neutral merit.
+- **Regulatory tribalism.** A regulator who selectively enforces rules — inspections, audits, license revocations, permits, fines — against ideological opponents, political critics, religious minorities, or members of disfavored groups, while not enforcing comparable rules against similarly-situated members of in-groups.
+- **Personnel tribalism.** Hiring, firing, promotion, demotion, transfer, discipline, or retention decisions made primarily on tribal-identity grounds — including patronage hiring favoring loyalists or family members, firing or demoting officials who refused to participate in factional conduct, and retaining underperformers because of loyalty.
+
+**Classification.**
+
+- Tribalism is a **Class 2 felony**.
+- Where the conduct is **coordinated across multiple actors** (factional combination), is **part of a pattern**, or involves **retaliation against a whistleblower** who exposed the tribalism, the offense is a **Class 1 felony**.
+- Where the conduct **suppresses a citizen's exercise of a right protected under §1.1.5**, is undertaken with **financial gain** to the actor or actor's faction, involves **obstruction of investigation into the tribal conduct itself**, or involves **conspiracy between agencies** to enforce factional protection, the offense is a **capital offense**.
+- May be charged cumulatively with §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), §1.1.8 (Obstruction of Justice, including §1.1.8.2 Selective Non-Prosecution), §17.2 (Institutional Retaliation), §17.4 (Deliberate Record Distortion), §17.6 (Public Trust Fraud), §17.10 (Abuse Under Color of Office), §17.21 (Preferential Contracting Abuse), §17.23 (Regulatory Weaponization), and §17.24G (Election Authority Abuse) where the elements are met.
+
+**Important Distinction — Legitimate Discretion vs. Factional Favoritism.**
+
+This subsection does **not** criminalize legitimate policy judgment, lawful exercise of discretion within the bounds of office, voting for a particular policy position, holding political opinions, advocating for legislation, or any other ordinary participation in democratic life. The line this subsection draws is between:
+
+- **Legitimate discretion** — exercising the lawful judgment of the office to apply law and policy to a particular case or class of cases on the basis of articulable, content-neutral criteria; and
+- **Factional favoritism** — exercising the power of the office to advantage or disadvantage persons primarily because of who they are, who they associate with, what faction they belong to, or what tribe they identify with.
+
+A council member voting for a conservative or progressive policy is not committing tribalism. A council member voting to award a permit to a political donor and deny an identical permit to a critic of the council is. The distinction is **selective application of comparable circumstances on tribal-identity grounds**, not the holding or expression of political views.
+
+**Defenses Limited.**
+
+- A claim that the actor "exercised discretion" is not a defense where the discretion was applied selectively across comparable cases on tribal-identity grounds. Discretion exercised tribally is not lawful discretion within the meaning of this Act.
+- A claim that the favoritism was "informal" or "unwritten policy" is not a defense; unwritten patterns of selective enforcement, selective non-enforcement, or selective allocation are reachable on the same terms as written ones.
+- A claim that "everyone does it" is not a defense; the prevalence of the conduct in current practice does not convert it into lawful conduct.
+- A claim that the favored or disfavored citizen "deserved" the treatment is not a defense unless supported by the same articulable, content-neutral criteria that would be applied to similarly-situated citizens of any tribal identity.
+- A claim of First Amendment protection is not a defense where the conduct involved the exercise of official power. Private political speech, association, and advocacy remain protected; the exercise of official power on tribal-identity grounds is conduct, not speech.
+
+**Relationship to Existing Bill Provisions.**
+
+This subsection is, in part, a **unifying umbrella concept** over abuses of public neutrality that the bill already reaches in narrower forms. Where the conduct meets the elements of §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), §1.1.8.2 (Selective Non-Prosecution), §17.2 (Institutional Retaliation), §17.21 (Preferential Contracting Abuse), §17.23 (Regulatory Weaponization), or §17.24G (Election Authority Abuse), it may be charged under those provisions in addition to or instead of this subsection, at the prosecuting authority's discretion. This subsection adds the **umbrella offense** that reaches the conduct as a single substantive wrong — the abandonment of neutral duty in favor of tribal allegiance — independent of the particular instrument the actor used to effect that abandonment.
+
+#### 1.1.27 Statism
+
+> A government actor commits **statism** when, in the exercise of public power, the actor expands, extends, or perpetuates governmental reach, regulation, oversight, or control beyond any legitimate public purpose — for the sake of expansion itself, for institutional self-perpetuation, for budgetary self-justification, or for the accumulation of governmental authority as an end rather than a means.
+
+**Operative Principle.**
+
+Government exists to secure the rights of citizens and to perform the limited functions the constitutional order assigns to it. Government expansion is justified only by reference to an actual public purpose served. Where an office, agency, regulation, program, or rule is expanded, extended, perpetuated, or enforced without reference to such a purpose — or where the expansion is justified by purposes manufactured to fit the expansion rather than served by it — the conduct is statism. The Act treats governmental power as **instrumental, not as intrinsically valuable**.
+
+**Elements.**
+
+- The actor is a government actor exercising power over the design, scope, budget, mandate, or enforcement of an office, agency, regulation, program, or rule
+- The actor expanded, extended, perpetuated, or enforced that authority
+- The expansion / extension / perpetuation / enforcement lacked a current articulable public purpose served by the conduct, or was justified by purposes manufactured to fit the conduct rather than to be served by it
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the absence of legitimate public purpose
+
+**Specific Patterns Reached.**
+
+- **Mission creep** — extension of an office's jurisdiction, enforcement scope, or regulatory mandate beyond the operative authority granted, without statutory amendment
+- **Budget perpetuation** — continuation of a program, office, or regulatory function whose original public purpose has been served, achieved, or rendered obsolete, where the continuation is justified primarily to preserve budget, staffing, or institutional position
+- **Manufactured emergency** — invocation of emergency or expedited authority where no current emergency justifies the expanded power, particularly where the expanded power is preserved after the original triggering circumstance ends
+- **Regulation for regulation's sake** — promulgation of regulations, requirements, or procedures whose primary effect is to expand the office's role rather than to address an actual citizen-relevant harm
+- **Institutional self-justification** — official reporting, public communication, or budget submission that misrepresents the value or necessity of an office's continued or expanded function in order to perpetuate it
+
+**Classification.**
+
+- Statism is a **Class 2 felony**.
+- Where the conduct involved coordinated institutional action, sustained pattern, or expansion that materially burdened citizens' rights, livelihoods, businesses, or constitutional protections, the offense is a **Class 1 felony**.
+- May be charged cumulatively with §1.1.18 (Ultra Vires), §17.23 (Regulatory Weaponization), §17.24 (Emergency Power Abuse), §17.24F (Public Health Emergency Authority Abuse), and §1.1.6 (Cabalism) where multiple actors coordinated.
+
+**Defenses Limited.**
+
+- "We've always done it this way" is not a defense; tradition, prior practice, or institutional custom does not establish a current public purpose.
+- "Our office is funded for this work" is not a defense; the existence of funding does not establish that the funded work serves a current legitimate public purpose.
+- "Some citizens want this regulation" is not a defense unless the asserted public purpose is operative, articulable, and proportionate to the burden imposed.
+- "It's permitted by statute" is not a defense where the statutory authority is itself stale, has been operationally exceeded, or is being applied without the substantive purpose for which the statute was enacted.
+
+#### 1.1.28 Caesarism
+
+> A government actor commits **Caesarism** when the actor treats public office as personal dominion — exercising the authority of office for personal aggrandizement, demanding personal loyalty as a condition of office function, building personal political organization within the office, treating institutional resources as personal property, or otherwise conducting the office as if it were the actor's rather than the public's.
+
+**Operative Principle.**
+
+Public office is held in trust for the public. The trust is **impersonal**: the office exists to serve the citizens, not to be possessed by the officeholder. When an officeholder begins to treat the office as personal — its resources, its authority, its loyalty structures, its public visibility — the office has been corrupted at the most fundamental level. This subsection reaches that corruption directly, **before** the specific operational offenses (contracting abuse, retaliation, etc.) it tends to produce.
+
+**Elements.**
+
+- The actor holds public office (elected, appointed, employed, or commissioned)
+- The actor exercised, configured, or maintained the office in a manner that personalized it — treating the office's authority, resources, staff, or institutional reach as personal property or extension
+- The personalization was for personal benefit, personal political organization, personal status enhancement, or personal control rather than for the office's lawful public function
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the personalization
+
+**Specific Patterns Reached.**
+
+- **Personal loyalty oaths** — explicit or implicit demands that subordinates pledge personal allegiance to the officeholder rather than to the office, the law, or the public
+- **Personal political organization within the office** — using office resources, staff time, or institutional reach to build or maintain the officeholder's personal political organization, donor network, or media operation
+- **Personal aggrandizement through public communication** — using official communications, press conferences, social media, or public records to elevate the personal status or political brand of the officeholder rather than to serve the public function of the office
+- **Treatment of staff as personal retainers** — assigning office staff to personal errands, personal business, personal political campaigning, or personal social functions rather than to public duties
+- **Loyalty firing** — terminating, demoting, or sidelining subordinates for reasons of personal disagreement, personal disloyalty, or unwillingness to participate in personalization of the office, where no public-duty basis for the action exists
+
+**Classification.**
+
+- Caesarism is a **Class 2 felony**.
+- Where the conduct involved coordinated multi-office personalization, sustained pattern, or material conversion of public resources to personal benefit, the offense is a **Class 1 felony**.
+- Where the conduct directly suppressed dissent within the office, enabled retaliation against whistleblowers under §17.2, or materially obstructed Citizen Council jurisdiction under §9, the offense is a **capital offense**.
+- May be charged cumulatively with §17.10 (Abuse Under Color of Office), §1.1.26 (Tribalism), §1.1.6 (Cabalism), §17.2 (Institutional Retaliation), and §17.6 (Public Trust Fraud).
+
+**Defenses Limited.**
+
+- "The officeholder won the election" is not a defense; democratic mandate authorizes the exercise of the office's defined powers, not the personalization of the office itself.
+- "The officeholder built the office's current capacity" is not a defense; an office is institutional regardless of which individual built or shaped it.
+- "The personalization made the office more effective" is not a defense; effectiveness purchased by sacrificing the office's impersonal trust-character is itself the harm.
+- "The officeholder has the authority to make personnel decisions" is not a defense where the personnel decisions are made for personal-loyalty reasons rather than for public-duty reasons.
+
+#### 1.1.29 Despotism
+
+> A government actor commits **despotism** when the actor exercises governmental authority arbitrarily, without reference to articulable standards, without accountability to the citizens affected, or in a manner that cannot be reasonably predicted or challenged by an ordinary citizen subject to it.
+
+**Operative Principle.**
+
+The American constitutional order rests on the **rule of law** — meaning that government authority is exercised according to articulable, accessible, knowable rules that apply uniformly and that an ordinary citizen can predict, plan around, and challenge. Despotism is the practice of exercising authority outside that constraint: arbitrary in application, opaque in reasoning, unpredictable in effect, and unreachable through accountability mechanisms. Despotism is the practice that produces the citizen experience of *"they can do anything they want to me and I have no recourse."* This Act ends that.
+
+**Elements.**
+
+- The actor is a government actor
+- The actor exercised governmental authority over a citizen, a citizen's property, or a citizen's rights
+- The exercise was **arbitrary** — meaning any one of the following applied: (a) no articulable standard governed the decision; (b) the standard governing the decision was not made available to the affected citizen; (c) the standard was applied inconsistently across comparable cases without explanation; or (d) the affected citizen had no meaningful opportunity to challenge or predict the action
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the arbitrariness
+
+**Specific Patterns Reached.**
+
+- **Unwritten "discretion" enforcement** — enforcement decisions made without reference to written standards, where the absence of standards is itself the operative condition that enables arbitrary application
+- **Standardless discretion in benefits / permits / licenses** — granting, denying, conditioning, or revoking benefits, permits, or licenses without articulable standards that the affected citizen could have known, planned around, or challenged
+- **Sentencing or charging variation without explanation** — substantial variation across comparable cases without on-the-record explanation of the basis
+- **Procedural unpredictability** — varying the procedure applied to comparable cases, particularly in ways that disadvantage particular citizens or classes of citizens
+- **Black-box decision-making** — use of algorithms, classified processes, or undisclosed criteria to make decisions affecting citizens, where the citizen cannot meaningfully challenge or predict the outcome (also reachable under §17.24A Algorithmic Authority Abuse)
+
+**Classification.**
+
+- Despotism is a **Class 1 felony**.
+- Where the conduct involved sustained pattern, coordination across multiple actors, or arbitrary action that produced material deprivation of liberty, property, or rights, the offense is a **capital offense**.
+- May be charged cumulatively with §1.1.10 (Anarchy) where the action lacked any lawful authority, §1.1.18 (Ultra Vires), §17.24A (Algorithmic Authority Abuse), §1.1.26 (Tribalism) where the arbitrariness ran along tribal-identity lines, §17.10 (Abuse Under Color of Office), and §17.6 (Public Trust Fraud).
+
+**Defenses Limited.**
+
+- "I had discretion" is not a defense where the discretion was exercised without articulable standards that the affected citizen could have known and planned around.
+- "There were no written standards" is not a defense; the absence of articulable standards is itself the operative element of the offense.
+- "Other officials acted the same way" is not a defense; consistent arbitrariness is still arbitrariness.
+- "The citizen could have appealed" is not a defense where the appeal mechanism is itself subject to arbitrariness, where the citizen had no operative knowledge of the appeal mechanism, or where the appeal would not have been meaningfully available given the citizen's resources.
+
+#### 1.1.30 Authoritarianism
+
+> A government actor commits **authoritarianism** when the actor exercises, expands, or consolidates governmental power beyond constitutional limits — concentrating in office, in an institution, or in a faction the authority that the constitutional order distributes among branches, levels, and citizens.
+
+**Operative Principle.**
+
+The American constitutional order is **anti-authoritarian by design**. Power is distributed among three branches at the federal level, among three branches at the state level, between federal and state governments, and ultimately between government and the citizens whose rights government exists to protect. Authoritarianism is the systematic concentration of power against that distribution — by office, by institution, by faction, or by the construction of doctrines (including immunity doctrines) that exempt power-holders from the constraints the distribution was designed to impose. This subsection reaches the systematic project as a substantive criminal offense, complementing the substantive offenses (§1.1.10 Anarchy, §1.1.18 Ultra Vires, §1.1.25 Legislate from the Bench, §17.24 Emergency Power Abuse) that reach individual instances of the underlying conduct.
+
+**Elements.**
+
+- The actor is a government actor exercising public power
+- The actor exercised, expanded, consolidated, perpetuated, or extended that power
+- The exercise / expansion / consolidation / perpetuation / extension went beyond the constitutional limits on the actor's office, on the actor's branch, on the actor's level of government, or on the relation between government and citizens
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the constitutional limit being exceeded
+
+**Specific Patterns Reached.**
+
+- **Branch consolidation** — practices that effectively merge legislative, executive, or judicial functions in a single office, institution, or faction
+- **Federal-state-local consolidation** — practices that effectively merge the operative authority of federal, state, and local government in ways that defeat the constitutional distribution
+- **Institutional consolidation** — practices that vest in a single agency, prosecutor's office, judicial circuit, or police department the operative power that the constitutional order distributes across multiple institutions
+- **Doctrine construction** — judicial or executive construction of doctrines (including immunity doctrines, standing doctrines, exhaustion doctrines, abstention doctrines) that exempt government actors from the constitutional constraints distributed power was designed to impose. Reachable cumulatively with §1.1.25 (Legislate from the Bench)
+- **Suppression of constitutional checks** — actions that defeat, weaken, delay, or render inoperative the constitutional checks (separation of powers, federalism, citizen rights, electoral accountability, free press, free speech) that constrain the actor's power
+- **Sustained pattern of constitutional non-engagement** — official conduct over time that consistently disregards constitutional constraint, with or without specific instances reaching the elements of any single substantive offense
+
+**Classification.**
+
+- Authoritarianism is a **Class 1 felony**.
+- Where the conduct was sustained over time, was coordinated across multiple actors or institutions, or materially produced concentration of power that defeated the operative constitutional distribution, the offense is a **capital offense**.
+- May be charged cumulatively with §1.1.10 (Anarchy), §1.1.18 (Ultra Vires), §1.1.25 (Legislate from the Bench), §17.24 (Emergency Power Abuse), §17.24F (Public Health Emergency Authority Abuse), §1.1.6 (Cabalism), and §1.1.29 (Despotism) where the conduct was both authoritarian in concentration and despotic in arbitrariness.
+
+**Defenses Limited.**
+
+- "I was acting within the authority of my office" is not a defense where the office itself was being used to concentrate power beyond constitutional limits.
+- "The legislature authorized this" is not a defense where the authorization itself exceeds the legislature's constitutional grant or where the actor knew the authorization was constitutionally unsupported.
+- "The courts have approved this" is not a defense where the approval was itself the construction of a doctrine that exempts the conduct from constitutional constraint (reachable under §1.1.25 Legislate from the Bench).
+- "This is how the office has always operated" is not a defense; institutional habit does not legitimize ongoing constitutional excess. **The longer the pattern has operated, the deeper the offense, not the more excused.**
+- "The voters approved my mandate" is not a defense; democratic election authorizes exercise of the office's constitutional powers, not the constitutional reconfiguration of the office to seize powers the office does not have.
+
+#### 1.1.31 Aristocratism
+
+> A government actor commits **aristocratism** when the actor treats public office as conferring personal status, hereditary privilege, social rank, or class-based exemption from the laws applicable to ordinary citizens — or when the actor maintains, builds, or extends a closed governing class within which public offices, contracts, judicial positions, prosecutorial positions, regulatory positions, or political office are kept circulating among family, network, alma mater, social club, or other class-based affiliation rather than open to citizens on neutral merit.
+
+**Operative Principle.**
+
+The founding constitutional premise of the United States **rejected aristocracy**. Article I, Section 9, Clause 8 expressly prohibits the granting of titles of nobility by the federal government; Article I, Section 10, Clause 1 imposes the same prohibition on the states; the Equal Protection Clause of the Fourteenth Amendment rejected the racial-caste version of the same principle; and the Republican Form of Government Clause of Article IV, Section 4 guarantees to every state an anti-monarchical, anti-aristocratic form of government. The principle is broader than its specific constitutional expressions: **no citizen stands above another by birth, by family, by class, by network, or by office held**. Where public office is, in practice, treated as conferring noble status — through hereditary networks, through class-based exemptions, through demand for social deference, through the perpetuation of a closed governing class — that practice is reachable as a substantive offense under this subsection. Operation Checkmate is, at its constitutional foundation, an **anti-aristocratic instrument**.
+
+**Elements.**
+
+- The actor is a government actor (elected, appointed, employed, or commissioned)
+- The actor exercised the authority of office in a manner that treated, configured, or maintained the office as conferring personal status, hereditary privilege, class-exemption, or membership in a closed governing class
+- The conduct meaningfully operated to perpetuate hereditary, network-based, or class-based access to public office, public contracts, public benefits, or governmental authority — to the exclusion of citizens not within the favored class
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the aristocratic operation of the conduct
+
+**Specific Patterns Reached.**
+
+- **Family dynasties in elected office** — repeated election or appointment of members of the same family to the same or related public offices across generations, where the operative effect is to perpetuate family access to office rather than to advance qualified citizen candidates
+- **Hereditary placement in appointed office** — assignment of judicial seats, prosecutorial positions, regulatory positions, or other appointed offices to family members, in-network candidates, or class-affiliated candidates of incumbent officials, where the operative effect is to maintain a closed governing class
+- **Network-based contracting and licensing** — sustained allocation of contracts, grants, licenses, or other discretionary public benefits to a small circle of recipients connected through family, alma mater, social club, religious affiliation, or other class marker — to the exclusion of citizen applicants on neutral merit
+- **Class-exemption posture** — official conduct that explicitly or implicitly treats officeholders, their families, their associates, or their social class as exempt from the laws, procedures, scrutiny, or accountability that apply to ordinary citizens (the *"rules-for-thee-but-not-for-me"* pattern, in its aristocratic form)
+- **Closed credentialing** — informal or formal credentialing systems for public office that effectively reserve qualification to a defined social class — particular law schools, particular firms, particular fellowships, particular family backgrounds — rather than to citizens demonstrating competence and integrity through accessible pathways
+- **Generational consolidation of regulatory power** — patterns of public-private revolving doors that consolidate regulatory authority across industries within a defined social class, where the operative effect is to make regulatory direction inaccessible to citizens outside that class
+- **Demand for social deference** — official conduct premised on the expectation that ordinary citizens, journalists, complainants, or Citizen Councils owe special deference, formality, ceremony, or restraint when engaging with the officeholder — beyond the procedural respect lawfully owed to the office
+
+**Classification.**
+
+- Aristocratism is a **Class 2 felony**.
+- Where the conduct is **part of a sustained pattern**, is **coordinated across multiple offices or institutions**, or **materially excludes citizens not within the favored class from access to public office, public contracts, or public benefits**, the offense is a **Class 1 felony**.
+- Where the conduct **directly maintains a hereditary or class-based governance structure that excludes citizen participation** — particularly where it suppresses Citizen Council jurisdiction under §9, election authority under §17.24G, or rights protected under §1.1.5 — the offense is a **capital offense**.
+- May be charged cumulatively with §1.1.6 (Cabalism), §1.1.26 (Tribalism), §1.1.30 (Authoritarianism), §17.10 (Abuse Under Color of Office), §17.21 (Preferential Contracting Abuse), §17.24G (Election Authority Abuse), and any other applicable provision.
+
+**Defenses Limited.**
+
+- "The candidate was the most qualified" is not a defense where the candidate's qualification was itself produced by access to the closed class (legacy admissions, family-connected internships, network-based mentoring) inaccessible to citizens outside the class.
+- "Voters elected this candidate" is not a defense where the candidate pool itself was effectively closed to citizens outside the favored class.
+- "This is how appointments have always been made" is not a defense; institutional habit does not establish constitutional legitimacy.
+- "Aristocratism is just culture" is not a defense; cultural patterns of class exclusion implemented through governmental authority become substantive offenses when they materially exclude citizens from access to the powers and benefits of government.
+- "The actor had no aristocratic intent" is not a defense at the recklessness tier; the actor's awareness of the operative effect of the conduct, regardless of the actor's stated intent, is the operative mental state.
+
+**Relationship to Foundational Constitutional Texts.**
+
+This subsection is consistent with and operationalizes:
+
+- The **Title of Nobility Clauses** of the United States Constitution (Article I, Section 9, Clause 8 and Article I, Section 10, Clause 1), which expressly prohibit the granting of titles of nobility by either the federal government or the states
+- The **Equal Protection Clause** of the Fourteenth Amendment, which prohibits class-based discrimination in the operation of state law
+- The **Republican Form of Government Clause** of Article IV, Section 4, which guarantees to every state a republican (anti-monarchical, anti-aristocratic) form of government
+- The natural-rights tradition of the **Declaration of Independence** — *"all men are created equal"* — recognizing no inherited rank among citizens
+
+#### 1.1.32 Pretextualism
+
+> A government actor commits **pretextualism** when the actor uses pretextual legal grounds — false stated reasons, manufactured technical violations, pretextual stops, fabricated administrative bases, or any other stated justification that is not the actor's actual reason — to take official action that would not be authorized on the actual reason.
+
+**Operative Principle.**
+
+The constitutional protections owed to citizens — Fourth Amendment search and seizure, due process, equal protection, First Amendment exercise of rights — operate against the **actual** basis of official action, not the recited basis. An officer who stops a citizen for an alleged taillight violation in order to investigate the citizen's race, the citizen's recent protest activity, or the citizen's known criticism of officials has not been authorized by the constitution to make that stop — regardless of whether the taillight is, in fact, broken. The pretext defeats the constitutional protection by hiding the actual reason behind a stated one. This Act rejects pretext as a defense to official action and reaches the practice of pretextual enforcement as a substantive offense.
+
+**Elements.**
+
+- The actor is a government actor
+- The actor took, threatened, conditioned, or recommended official action — a stop, arrest, search, seizure, citation, charge, inspection, audit, license action, benefit denial, or any other action authorized by office only on stated grounds
+- The actor's stated reason for the action was not the actor's actual reason
+- The actor's actual reason would not have authorized the action under the law governing the office, or would have been subject to additional constitutional protections that the pretext circumvented
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the pretextual character of the action
+
+**Specific Patterns Reached.**
+
+- **Pretextual stops** — traffic stops, pedestrian stops, or other detentions where the cited basis (taillight, lane change, jaywalking, "suspicious behavior") is not the actor's actual reason for the stop, but a cover for investigation of race, association, recent protected conduct, or other constitutionally-impermissible grounds
+- **Manufactured technical violations** — citation, charge, or enforcement action for a technical violation that the actor would not have cited but for the actor's actual reason for targeting the citizen
+- **Fabricated administrative bases** — license revocation, permit denial, inspection failure, audit selection, or similar administrative action where the stated basis is not the actor's actual reason
+- **Pretextual procedural rulings** — judicial procedural rulings (continuance denial, evidentiary exclusion, sanctions imposition) where the stated basis is not the judge's actual reason
+- **Pretextual prosecutorial action** — charging decisions, plea offers, sentencing recommendations where the stated basis is not the prosecutor's actual reason
+
+**Classification.**
+
+- Pretextualism is a **Class 2 felony**.
+- Where the conduct is part of a pattern, is coordinated across multiple actors, or where the actual (concealed) reason involved tribal-identity discrimination under §1.1.26, retaliation under §17.2, or other constitutionally-protected-conduct targeting, the offense is a **Class 1 felony**.
+- Where the conduct produced material deprivation of liberty, property, or a §1.1.5 right — including unlawful arrest, conviction, asset seizure, custody loss, or family separation traceable to the pretextual action — the offense is a **capital offense**.
+- May be charged cumulatively with §17.14 (Enforcement Without Articulable Basis), §1.1.3 (Battery), §1.1.13 (Official Intimidation), §1.1.26 (Tribalism) where the actual reason was tribal-identity-based, §17.2 (Institutional Retaliation) where the actual reason was retaliatory, and §1.1.8 (Obstruction of Justice) where the pretext concealed obstruction.
+
+**Defenses Limited.**
+
+- "The stated reason was technically accurate" is not a defense; the question is whether it was the actor's actual reason, not whether the technical fact existed in the world.
+- "Other officials would have made the same decision" is not a defense; the test is the actor's actual reason, not a hypothetical alternative actor's reason.
+- "The citizen committed a violation" is not a defense where the actor would not have cited the violation but for the actor's actual targeting reason.
+- "The Supreme Court held in *Whren v. United States*, 517 U.S. 806 (1996), that the actual reason for a traffic stop is constitutionally irrelevant if probable cause exists" is **not a defense under this Act**. This Act expressly rejects the doctrine of *Whren* within the State of Utah; the actual reason is reachable as the operative basis of the official action, and pretext is itself the offense.
+
+#### 1.1.33 Proceduralism
+
+> A government actor commits **proceduralism** when the actor uses procedural rules, technical requirements, or formal compliance mechanisms primarily to obstruct, delay, or defeat the substantive justice, substantive duties, or substantive rights at issue — rather than to serve the substantive purposes the procedures were created to advance.
+
+**Operative Principle.**
+
+Procedural rules exist to serve substantive ends — fair process, orderly administration, reliable fact-finding, citizen access. When procedure is used to defeat those ends rather than to serve them — when the agency "loses" paperwork to delay a permit, when the court demands technical perfection to dismiss a citizen claim while excusing technical defects in the State's pleadings, when the regulator requires endless re-filing to wear down an applicant — procedure has been weaponized against the substantive purposes it was created to serve. This subsection reaches that practice.
+
+**Elements.**
+
+- The actor is a government actor with authority over a procedural rule, requirement, or process
+- The actor invoked, applied, enforced, varied, or relied on that procedure
+- The application primarily served to obstruct, delay, or defeat the substantive justice, duty, or right at issue — rather than to advance the substantive purpose the procedure was created to serve
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the obstructive purpose or effect
+
+**Specific Patterns Reached.**
+
+- **"Lost paperwork"** — repeated, suspicious, or selective loss / misplacement / delay of citizen filings, complaints, permits, applications, or records
+- **Asymmetric procedural standards** — strict procedural enforcement against citizen filings while excusing comparable defects in the State's, agency's, or favored party's filings
+- **Procedural delay as substantive defeat** — using continuances, deferrals, scheduling delays, or process extensions to render a citizen's substantive claim impractical, expensive, or moot
+- **Endless re-filing** — requiring re-filing, re-submission, or re-application beyond the procedural rule's substantive purpose, particularly where each re-filing introduces additional grounds for further re-filing
+- **Forum-of-the-other selective** — directing citizens to forums where the procedural rules are designed to defeat their claims while not requiring comparable redirection of similarly-situated favored parties
+
+**Classification.**
+
+- Proceduralism is a **Class 3 felony**.
+- Where the conduct is part of a pattern, is coordinated across multiple actors, or where the procedural obstruction directly produced material deprivation of a citizen's substantive right, claim, or remedy, the offense is a **Class 2 felony**.
+- Where the conduct was sustained, coordinated, or specifically designed to defeat constitutionally-protected access (to court, to counsel, to filing, to record), the offense is a **Class 1 felony**.
+- May be charged cumulatively with §17.9 (Failure of Transparency), §17.4 (Deliberate Record Distortion), §17.4A (Public-Record Spoliation), §2.10.1 (Court Access Burdening), §2.10.4 (Clerk Access Obstruction), §1.1.8 (Obstruction of Justice), and §1.1.6 (Cabalism) where multiple actors coordinated.
+
+**Defenses Limited.**
+
+- "We followed the procedure" is not a defense where the procedure was invoked primarily to defeat substance.
+- "The citizen could have re-filed" is not a defense where the re-filing requirement itself was the obstruction.
+- "Other citizens have to follow the procedure too" is not a defense unless the procedure has been applied with substantively equal rigor across comparable cases.
+
+#### 1.1.34 Obstructionism
+
+> A government actor commits **obstructionism** when the actor systematically uses public office to obstruct legitimate citizen processes — complaints, public-records requests, Council formation, Council action, court access, appeals, or other channels through which citizens engage governmental power.
+
+**Operative Principle.**
+
+The bill's enforcement architecture depends on citizens being able to operate the mechanisms the bill creates — file complaints, form Citizen Councils, file Joint Declarations, obtain records, access courts, appeal adverse rulings. When public officials systematically obstruct those channels — not through specific instances of obstruction but as a sustained pattern of practice — the bill's enforcement architecture is defeated at the structural level. This subsection reaches that pattern as a substantive offense.
+
+**Elements.**
+
+- The actor is a government actor with authority over a citizen process, channel, or mechanism
+- The actor engaged in conduct that obstructed, delayed, denied, or otherwise impeded citizens' use of that process, channel, or mechanism
+- The obstruction was systematic — a pattern, a policy (formal or informal), or a sustained practice — rather than an isolated incident
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the obstructive pattern
+
+**Specific Patterns Reached.**
+
+- **Complaint-channel obstruction** — sustained refusal to log, process, investigate, or respond to citizen complaints (cf. §17.9A Complaint Intake Refusal)
+- **Records-channel obstruction** — sustained pattern of denying, delaying, redacting, or otherwise obstructing citizen access to public records (cf. §17.9 Failure of Transparency)
+- **Council-channel obstruction** — official conduct that systematically impedes the formation, operation, or filing of Citizen Councils under §9, the receipt of Joint Declarations, or the processing of Council-issued instruments
+- **Court-channel obstruction** — systematic burdening of citizen court access (cf. §2.10 series)
+- **Appeal-channel obstruction** — systematic frustration of citizen appellate rights through delay, lost records, refusal to transmit, or similar pattern
+
+**Classification.**
+
+- Obstructionism is a **Class 2 felony**.
+- Where the conduct is sustained over a period of years, is coordinated across multiple offices or agencies, or directly defeats Citizen Council jurisdiction under §9, the offense is a **Class 1 felony**.
+- Where the conduct directly produces failed prosecution of a violation of this Act, failed Council action, or material deprivation of a citizen's right to seek remedy, the offense is a **capital offense**.
+- May be charged cumulatively with §1.1.8 (Obstruction of Justice), §17.9 (Failure of Transparency), §17.9A (Complaint Intake Refusal), §9.9 (No Interference with Citizen Council), §1.1.6 (Cabalism), and §1.1.7 (Government Racketeering).
+
+**Defenses Limited.**
+
+- "We process the channels as fast as resources allow" is not a defense where the resource constraint was itself a tolerated or deliberate condition.
+- "Each individual instance had a procedural justification" is not a defense at the systematic level; the offense reaches the pattern, not any single instance.
+- "We followed our own policy" is not a defense where the policy was itself designed or maintained as obstruction.
+
+#### 1.1.35 Formalism
+
+> A government actor commits **formalism** when the actor uses technical formal compliance with a procedure, form, or rule to defeat substantive rights, duties, or remedies — relying on the form having been observed to defeat any inquiry into whether the substance the form was supposed to deliver was actually delivered.
+
+**Operative Principle.**
+
+Forms, procedures, and rules exist to ensure substance — that a citizen was actually notified, that a hearing actually heard, that an investigation actually investigated, that consent was actually obtained. When an official treats the form as sufficient regardless of whether the substance was delivered — *"we issued the notice, even though no notice was actually communicated"; "we held the hearing, even though no hearing actually heard"; "we obtained consent, even though no consent was actually given"* — the official has defeated the substance the form existed to deliver. This is the operative-reality / formal-paperwork distinction defined in §1.1.24 (Substantial), applied as a substantive offense.
+
+**Elements.**
+
+- The actor is a government actor
+- The actor invoked, recorded, or relied on technical formal compliance with a procedure, form, notice, or rule
+- The substantive purpose the form, procedure, notice, or rule was supposed to serve was not, in fact, served — and the actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of that failure
+- The actor used the formal compliance to defeat a citizen's substantive right, duty owed, or remedy claimed
+
+**Specific Patterns Reached.**
+
+- **Notice that didn't notify** — recording service of process / notice of hearing / notice of right to counsel where the notice did not actually reach the citizen, was sent to a known-incorrect address, or was provided in a form the citizen could not understand
+- **Hearings that didn't hear** — recording that a hearing occurred where the hearing did not actually engage with the citizen's submissions, evidence, or arguments
+- **Consent that wasn't consent** — recording citizen consent (to search, to interview, to plea, to waiver) where the consent was obtained without operative information, under coercion, or in circumstances where consent was impossible (cf. §2.8.10 consent-bar provisions)
+- **Reviews that didn't review** — official "review" of a complaint, claim, or appeal that did not engage with the substance of the matter
+- **Investigations that didn't investigate** — official "investigation" of misconduct that did not engage with the substance of the alleged conduct
+
+**Classification.**
+
+- Formalism is a **Class 3 felony**.
+- Where the conduct is part of a pattern, is coordinated across multiple actors, or directly produces material deprivation of a citizen's substantive right, the offense is a **Class 2 felony**.
+- Where the conduct directly produces failed prosecution, wrongful conviction, custody loss, deprivation of liberty, or comparable irreversible harm, the offense is a **Class 1 felony**.
+- May be charged cumulatively with the §1.1.24 (Substantial) interpretive standard, §17.4 (Deliberate Record Distortion), §17.6 (Public Trust Fraud), §1.1.8 (Obstruction of Justice), and any of the §2 due-process offenses where the form failed to deliver substantive due process.
+
+**Defenses Limited.**
+
+- "The form was completed correctly" is not a defense; the question is whether the substance the form was supposed to deliver was actually delivered.
+- "The procedure was followed" is not a defense where the procedure's substantive purpose was not served.
+- "The citizen was provided with the document" is not a defense where the document did not, in operative reality, communicate what it was supposed to communicate.
+- The §1.1.24 operative-reality rule controls every element of this subsection.
+
+#### 1.1.36 Sectarianism
+
+> A government actor commits **sectarianism** when, while acting under color of public authority, the actor knowingly uses governmental power to favor, protect, reward, target, or disadvantage persons or groups primarily on the basis of religion, denomination, sect, religious affiliation, religious belief, religious practice, or religious nonbelief — rather than on the neutral application of law, policy, or the duties of the office.
+
+**Operative Principle.**
+
+The Establishment Clause of the First Amendment and the comparable provisions of the Utah Constitution forbid government from favoring or disfavoring religion in its operative conduct. Sectarianism is the operative violation of that principle as a substantive offense. This subsection is a specific application of §1.1.26 (Tribalism) along the religious-identity axis, distinguished here because religious-faction favoritism has a constitutional weight (Establishment Clause / Free Exercise Clause / Utah Article I §4) that warrants its own named offense.
+
+**Elements.**
+
+- The actor is a government actor exercising power under color of public authority
+- The actor used, withheld, accelerated, delayed, or selectively applied that power in a manner that favored, protected, rewarded, targeted, or disadvantaged a citizen or group of citizens
+- The favoritism or hostility was primarily on the basis of religion, denomination, sect, religious affiliation, religious belief, religious practice, or religious nonbelief
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the religious-identity basis of the action
+
+**Specific Patterns Reached.**
+
+- **Establishment-side sectarianism** — selectively applying public power to favor a particular religion, denomination, or sect: tax exemptions, public-property access, contracting preferences, school-curriculum content, public-facility scheduling, public-event invocations, public-employment preferences
+- **Free-exercise-side sectarianism** — selectively burdening, denying, or punishing the religious practice or expression of a particular religion, denomination, sect, or non-religious citizens: permit denials for places of worship, selective enforcement of zoning against religious uses, denial of public accommodations to religious citizens, hostility to religious witness, denial of religious practice in custody, public schools, or public employment
+- **Inter-sect favoritism** — favoring members of a dominant local religion in employment, contracting, regulatory treatment, or enforcement
+- **Anti-religious sectarianism** — using public office to disfavor religion generally or particular religions, including by selectively denying religious citizens access to public benefits available to similarly-situated non-religious citizens
+- **Denominational policing** — official treatment of citizens that differs based on whether they belong to a favored or disfavored religious community within a broader tradition
+
+**Classification.**
+
+- Sectarianism is a **Class 2 felony**.
+- Where the conduct is part of a pattern, is coordinated across multiple actors, involves suppression of free-exercise rights, or denies citizens equal access to public office, public benefits, or public protection on religious grounds, the offense is a **Class 1 felony**.
+- Where the conduct directly targets a religious community for systematic disfavor, suppresses worship, separates families on religious grounds, or otherwise materially deprives citizens of religious-exercise rights, the offense is a **capital offense**.
+- May be charged cumulatively with §1.1.26 (Tribalism — religious affiliation is a named tribal-identity ground), §17.2 (Institutional Retaliation), §17.23 (Regulatory Weaponization), §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), §17.9G (Protected-Speech Suppression) where religious expression was the target, and any other applicable provision.
+
+**Defenses Limited.**
+
+- "We applied the rule neutrally" is not a defense where the rule was applied selectively against religious-identity-defined groups in comparable circumstances.
+- "We were enforcing public-health, safety, or accommodation rules" is not a defense unless the asserted public purpose was actual, articulable, and proportionate to the burden imposed on religious citizens (§17.24F may also apply).
+- "Religious citizens are not a protected class" is not a defense; this Act expressly protects religious identity as one of the named tribal-identity grounds, and the constitutional Establishment Clause, Free Exercise Clause, and Utah Article I §4 are operative under this Act.
+- "The dominant religion in the community asked for the policy" is not a defense; majoritarian preference does not legitimize selective application of public power on religious grounds.
+
+#### 1.1.37 Cronyism
+
+> A government actor commits **cronyism** when the actor uses public power to favor friends, business associates, professional colleagues, social-network connections, classmates, club members, or other personal-relationship contacts in official decisions, contracting, hiring, enforcement, licensing, or access to public resources — to the disadvantage of citizens not within the actor's personal network.
+
+**Operative Principle.**
+
+Personal relationships among officials are inevitable in any sufficiently small society or sufficiently long career. The corruption is not the relationship; it is the use of office power to advance the personal network in its capacity as a network. Cronyism is conceptually distinct from §1.1.38 (Nepotism), which is about family, and from §1.1.26 (Tribalism), which is about ideology / faction / identity. Cronyism is about the **personal social network** — the friends-of-friends, the alumni network, the same-firm-twenty-years-ago network, the same-church-board network. This Act reaches it as a substantive offense.
+
+**Elements.**
+
+- The actor is a government actor with authority over a discretionary decision
+- The actor exercised that authority to favor, protect, advance, or benefit a person — or to disfavor or burden a person — primarily on the basis of personal social-network connection or absence of connection
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the social-network basis of the decision
+- The favored or disfavored treatment would not have been accorded to a similarly-situated citizen outside the social network
+
+**Specific Patterns Reached.**
+
+- **Contract cronyism** — public contracts, grants, awards, or vendor selections directed primarily to personal-network recipients
+- **Hiring cronyism** — appointments, promotions, or hires that favor personal-network candidates over otherwise-qualified citizens outside the network
+- **Enforcement cronyism** — declining to investigate, cite, charge, or sanction members of the actor's personal social network for conduct the actor would investigate, cite, charge, or sanction in unconnected citizens
+- **Permitting and licensing cronyism** — expedited, lenient, or favorable treatment of permit, license, or approval applications submitted by personal-network connections, with stricter treatment of unconnected applicants
+- **Information cronyism** — selectively sharing non-public information (upcoming enforcement, regulatory changes, contract opportunities) with personal-network connections in advance of the public
+
+**Classification.**
+
+- Cronyism is a **Class 2 felony**.
+- Where the conduct is part of a pattern, is coordinated across multiple actors, or involves financial benefit to the actor's network exceeding $10,000 in aggregate, the offense is a **Class 1 felony**.
+- Where the conduct directly defeats fair access to public office, public contracts, or public benefits, suppresses a §1.1.5 right, or involves the construction of a sustained closed network operating as the de facto governing class for the office or jurisdiction, the offense is a **capital offense**.
+- May be charged cumulatively with §17.21 (Preferential Contracting Abuse), §1.1.26 (Tribalism), §1.1.31 (Aristocratism) where the cronyism is class-based, §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), and §17.10 (Abuse Under Color of Office).
+
+**Defenses Limited.**
+
+- "I know the person, but I would have hired, contracted with, or favored them anyway based on merit" is not a defense; the burden falls on the actor to demonstrate that the merit basis would have prevailed in a similarly-situated unconnected case.
+- "There's no rule against hiring people you know" is not a defense; this Act treats the systematic use of office to advance the personal social network as the substantive offense, separate from any particular hiring rule.
+- "Everyone in this profession knows everyone" is not a defense; the prevalence of the practice does not legitimize it.
+
+#### 1.1.38 Nepotism
+
+> A government actor commits **nepotism** when the actor uses public power to favor, advance, protect, employ, contract with, license, exempt, or otherwise benefit a family member, in-law, household member, or domestic partner in official decisions — to the disadvantage of citizens unrelated to the actor.
+
+**Operative Principle.**
+
+Family is the strongest social bond most citizens experience, and that strength is exactly what makes it a corrupting force when injected into the exercise of public power. The official who hires a son into a discretionary appointment, who steers a contract to a sister-in-law's business, who declines to investigate a parent's misconduct, or who exempts a spouse's property from enforcement — has substituted family loyalty for public duty. This Act reaches the practice as a named substantive offense. Nepotism has been recognized as a corruption pattern across millennia of governance and across every legal tradition; this Act applies that long-standing principle to modern Utah government.
+
+**Elements.**
+
+- The actor is a government actor with authority over a discretionary decision
+- The actor exercised that authority to favor, protect, advance, employ, contract with, license, exempt, or otherwise benefit a family member — defined to include spouse, child, parent, sibling, in-law equivalent of each, grandparent, grandchild, niece, nephew, aunt, uncle, first cousin, household member, or domestic partner
+- The actor knew of the family relationship at the time of the action
+- The favored treatment would not have been accorded to a similarly-situated citizen not in a family relationship with the actor
+
+**Specific Patterns Reached.**
+
+- **Hiring nepotism** — appointment, promotion, or hire of a family member where the family member was not the most qualified candidate available, or where the family member would not have been hired but for the family relationship
+- **Contracting nepotism** — public contracts, grants, awards, or vendor selections directed to a family member's business, where the family member's business would not have been selected on neutral merit
+- **Enforcement nepotism** — declining to investigate, cite, charge, or sanction a family member for conduct the actor would have investigated, cited, charged, or sanctioned in unrelated citizens
+- **Licensing and permitting nepotism** — expedited, lenient, or favorable treatment of license, permit, or approval applications submitted by family members
+- **Information and access nepotism** — selectively sharing non-public information or access with family members
+- **Office succession nepotism** — using office authority to position a family member to succeed the actor in office, particularly in elected or appointed positions where succession would normally proceed on neutral merit
+
+**Classification.**
+
+- Nepotism is a **Class 2 felony**.
+- Where the conduct is part of a pattern (multiple instances over time), is coordinated across multiple family-connected actors, or involves financial benefit to the family exceeding $10,000 in aggregate, the offense is a **Class 1 felony**.
+- Where the conduct directly produces a hereditary succession to public office, a sustained family enterprise built on public contracting, or systematic exemption of a family from accountability, the offense is a **capital offense** (and may also be reachable under §1.1.31 Aristocratism).
+- May be charged cumulatively with §1.1.31 (Aristocratism) where the nepotism extends across generations, §1.1.26 (Tribalism) — family is one of the named tribal-identity grounds — §17.21 (Preferential Contracting Abuse), §1.1.37 (Cronyism), §1.1.6 (Cabalism), and §17.10 (Abuse Under Color of Office).
+
+**Defenses Limited.**
+
+- "I disclosed the relationship" is not a defense unless the actor also recused from the decision, and the decision was made on a neutral basis by an unconflicted actor.
+- "The family member was qualified" is not a defense unless the family member would have been selected on neutral merit, with the burden on the actor to demonstrate it.
+- "It's not against the rules" is not a defense; this Act treats nepotism as a substantive offense regardless of any specific rule against the practice.
+- "Other officials do the same thing" is not a defense.
+
+#### 1.1.39 Clientelism
+
+> A government actor commits **clientelism** when the actor exchanges public favors — jobs, contracts, services, enforcement decisions, licenses, permits, regulatory treatment, public benefits, or any other discretionary use of public power — for political support, votes, campaign contributions, loyalty pledges, or other forms of personal political benefit to the actor or the actor's faction.
+
+**Operative Principle.**
+
+Clientelism is the practice of using public power as the **currency of political support**. The official offers favors to constituents, donors, supporters, or vote-deliverers in exchange for their political loyalty; the loyalty is then converted into electoral or political advantage. The public power has been monetized as political capital, and the citizen has been converted from a holder of rights into a client whose rights depend on continued political loyalty. This Act treats the practice as a substantive offense.
+
+**Elements.**
+
+- The actor is a government actor with authority over a discretionary decision
+- The actor exercised that authority to benefit, favor, or protect a person, organization, or group
+- The benefit was given in exchange for, in anticipation of, or in reward for political support, votes, contributions, loyalty, or other personal political benefit to the actor or the actor's faction
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the exchange character of the relationship
+
+**Specific Patterns Reached.**
+
+- **Vote-buying clientelism** — direct or indirect provision of jobs, contracts, services, or enforcement favors in exchange for votes or in advance of an election to secure votes
+- **Donor clientelism** — preferential treatment of campaign donors in contracting, permitting, licensing, regulatory matters, or enforcement decisions
+- **Loyalty-pledge clientelism** — conditioning the provision of public benefits, services, or non-enforcement on the recipient's pledge of political loyalty, public endorsement, organizational support, or refraining from political opposition
+- **Constituent-service clientelism** — selective use of constituent-services apparatus to favor politically-loyal constituents while denying or delaying service to unaligned constituents
+- **Block-vote clientelism** — exchanges with community leaders, religious leaders, union leaders, or other intermediaries who can deliver blocks of votes in exchange for selective treatment of the community, organization, or membership
+
+**Classification.**
+
+- Clientelism is a **Class 2 felony**.
+- Where the conduct is part of a pattern, is coordinated across multiple actors (factional combination), or involves financial benefit to the actor's political organization exceeding $10,000 in aggregate, the offense is a **Class 1 felony**.
+- Where the conduct **materially affects the outcome of an election**, suppresses lawful electoral participation, or operates as a sustained vote-purchasing mechanism, the offense is a **capital offense**.
+- May be charged cumulatively with §17.24G (Election Authority Abuse), §17.21 (Preferential Contracting Abuse), §1.1.7 (Government Racketeering), §1.1.6 (Cabalism), §1.1.37 (Cronyism), §1.1.26 (Tribalism), and §17.10 (Abuse Under Color of Office).
+
+**Defenses Limited.**
+
+- "The donor would have received the same treatment without the donation" is not a defense unless the actor can demonstrate that similarly-situated non-donors actually received comparable treatment.
+- "Constituent service is part of the job" is not a defense for selective constituent service on political-loyalty grounds.
+- "Block-vote delivery is normal politics" is not a defense; this Act treats the exchange of public power for political benefit as a substantive offense, regardless of normalization in current practice.
+
+#### 1.1.40 Kleptocratism
+
+> A government actor commits **kleptocratism** when the actor operates public office, in whole or in part, as a personal or factional enterprise for the extraction of money, property, or other value from citizens, the public treasury, public contracts, or public functions — for personal, family, or factional benefit rather than for legitimate public purpose.
+
+**Operative Principle.**
+
+Kleptocracy is the practice of treating the government as a theft enterprise. The official does not merely engage in occasional corruption; the official treats the office's authority — to tax, fine, contract, regulate, license, seize, divert — as the mechanism by which value flows to the office-holder, to the office-holder's family, to the office-holder's faction. This Act reaches the practice as a Class 1 felony substantive offense, complementing the narrower §1.1.7 (Government Racketeering) by naming the **systematic** extractive practice as a single umbrella offense.
+
+**Elements.**
+
+- The actor is a government actor with authority over money, property, contracts, taxation, fines, fees, regulatory enforcement, licensing, or any other office function through which value flows from citizens or the public treasury
+- The actor used, configured, or directed that authority to extract value from citizens, the public treasury, or public functions
+- The extraction was directed primarily to personal benefit, family benefit, factional benefit, or political-organization benefit — rather than to legitimate public purpose
+- The conduct is systematic — meaning a pattern, an ongoing practice, or an operative configuration of the office — rather than an isolated incident
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the extractive character of the practice
+
+**Specific Patterns Reached.**
+
+- **Revenue-extraction kleptocracy** — sustained operation of citation, fine, fee, asset-forfeiture, or court-debt enforcement primarily for revenue rather than for legitimate public-safety purpose (cf. §17.9E Revenue Extraction Under Color of Law)
+- **Contracting kleptocracy** — sustained direction of public contracts to recipients with kickback, gratuity, family, factional, or political-organization benefit to the actor
+- **Asset-seizure kleptocracy** — sustained use of seizure, forfeiture, or other property-taking authority to extract property from citizens for personal, family, or factional benefit
+- **Public-function-as-private-enterprise** — operating a regulatory function, licensing function, permitting function, or enforcement function as a private revenue stream for the actor or actor's network
+- **Embezzlement and diversion kleptocracy** — diversion of public funds, supplies, or resources to personal, family, factional, or political-organization use
+
+**Classification.**
+
+- Kleptocratism is a **Class 1 felony**.
+- Where the conduct involves systematic extraction across an office, agency, or jurisdiction; coordination across multiple actors; or aggregate extracted value exceeding $100,000, the offense is a **capital offense**.
+- May be charged cumulatively with §1.1.7 (Government Racketeering), §17.9E (Revenue Extraction Under Color of Law), §17.21 (Preferential Contracting Abuse), §1.1.6 (Cabalism), §17.4 (Deliberate Record Distortion) where records were falsified to conceal the extraction, and §1.1.27 (Statism) where the kleptocratic operation was justified by manufactured public purposes.
+
+**Defenses Limited.**
+
+- "The extracted funds were used for legitimate public purposes" is not a defense where the extraction itself was beyond lawful authority or beyond legitimate proportionality.
+- "Industry-standard kickback practice" is not a defense; this Act treats kickbacks and gratuities flowing through public office as substantive offenses regardless of the practice's prevalence.
+- "The diverted funds were repaid" is not a defense; repayment does not cure the diversion.
+- "The office requires extra-statutory revenue to operate" is not a defense; budget shortfall does not authorize extraction from citizens beyond lawful means.
+
+#### 1.1.41 Propagandism
+
+> A government actor commits **propagandism** when the actor uses public office, public communication channels, public funds, public agencies, or public functions to disseminate false, misleading, distorted, one-sided, or manipulative information to citizens — for the purpose or with the effect of misleading citizens about the substance of public conduct, public records, official decisions, or matters of public concern.
+
+**Operative Principle.**
+
+Citizens cannot meaningfully exercise constitutional rights, evaluate public officials, vote on policy, or participate in self-government if the information they receive from government is systematically false or distorted. The official communication function of government is itself a public trust: it exists to **inform** citizens accurately, not to **shape** their understanding for the political or factional benefit of the actor. Propagandism is the practice of using the communicative authority of office to deceive the citizens government exists to serve.
+
+**Elements.**
+
+- The actor is a government actor with authority over public communication, public-information dissemination, official records, official reports, public statements, agency websites, social-media accounts of office, or comparable communicative function
+- The actor disseminated information — through statements, reports, press conferences, official communications, public records, public-facing websites, advertising, public-service announcements, or similar channels
+- The information was false, misleading, distorted, one-sided, or manipulative in a manner the actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known
+- The dissemination served a propagandistic purpose — political advantage, factional advancement, concealment of conduct, manufactured public support for actor's preferred policy — rather than a legitimate public-information purpose
+
+**Specific Patterns Reached.**
+
+- **Official misinformation** — official statements, reports, or public records that contain false statements of fact the actor knew or should have known to be false
+- **Selective disclosure** — release of partial information designed to create a misleading overall impression while withholding the contradicting information
+- **Manufactured statistics** — selective reporting of statistics, metrics, or "data" that misrepresent the actor's, the agency's, or the office's actual performance, including suppression of contradictory data
+- **Astroturfing under color of office** — official creation or coordination of apparently-grassroots citizen communications, comments, or testimony to manufacture the appearance of public support for the actor's preferred outcome
+- **State-funded political advertising** — use of public funds, agencies, or channels to disseminate communications that materially advance the actor's personal political, factional, or electoral interests rather than legitimate public-information purposes
+- **Public-trust deception** — official deception of citizens about the substance of public conduct, including misrepresentation of the basis for emergency orders (cf. §17.24F), the basis for enforcement decisions, the substance of investigations, or the substance of citizen claims
+
+**Classification.**
+
+- Propagandism is a **Class 2 felony**.
+- Where the conduct is part of a pattern, is coordinated across multiple actors or channels, or where the misinformation directly affected public decision-making, election outcomes, or rights-exercise by citizens, the offense is a **Class 1 felony**.
+- Where the conduct materially affected the outcome of an election, suppressed lawful electoral participation, concealed government misconduct subject to this Act, or directly produced material harm to citizens who acted on the disseminated information, the offense is a **capital offense**.
+- May be charged cumulatively with §17.6 (Public Trust Fraud), §17.4 (Deliberate Record Distortion), §17.25 (Misleading Testimony to Federal Representatives) where the audience was federal, §17.24G (Election Authority Abuse) where election-related, §1.1.6 (Cabalism) where coordinated, and the §1.1.18 (Fraudulent and Deception) interpretive standards.
+
+**Defenses Limited.**
+
+- "I believed the information was true" is not a defense at the recklessness or should-have-known mens rea tier.
+- "The statement was technically not false" is not a defense where the statement, taken in context, was misleading.
+- "We were just exercising government speech rights" is not a defense; government speech is constrained by the duty of honest communication owed to citizens.
+- "Other officials make similar statements" is not a defense; normalization does not legitimize.
+
+#### 1.1.42 Censorism
+
+> A government actor commits **censorism** when the actor uses public power to suppress, prohibit, demote, punish, deplatform, restrict, condition, or otherwise burden lawful speech, expression, association, assembly, or petition by citizens — including suppression of citizens' speech directly, suppression through pressure on private intermediaries, and suppression through retaliation against speakers.
+
+**Operative Principle.**
+
+The First Amendment forbids government from abridging freedom of speech, expression, assembly, association, and petition. Utah Article I §15 imposes parallel protection within the State. Censorism is the operative practice of violating those protections through the exercise of public power — directly, indirectly through intermediary pressure, or by retaliation against speakers. This subsection complements §17.9G (Protected-Speech Suppression Under Color of Law) by reaching the **systematic practice** of censorship as a substantive umbrella offense.
+
+**Elements.**
+
+- The actor is a government actor exercising public power
+- The actor took, threatened, directed, coordinated, or supported action that suppressed, prohibited, demoted, punished, deplatformed, restricted, conditioned, or otherwise burdened lawful speech, expression, association, assembly, or petition by a citizen or group of citizens
+- The speech, expression, association, assembly, or petition burdened was protected under §1.1.5, the First Amendment, or Utah Article I §15
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the protected character of the speech and the burdening character of the action
+
+**Specific Patterns Reached.**
+
+- **Direct suppression** — direct prohibition, citation, arrest, charging, or other coercive enforcement against citizen speech, expression, assembly, or petition (cf. §17.9G)
+- **Intermediary-pressure censorship** — exercise of public power to pressure, coerce, or induce private intermediaries (social-media platforms, employers, landlords, broadcasters, publishers, banks, payment processors) to suppress citizen speech that the government could not lawfully suppress directly
+- **Retaliation-based censorship** — adverse official action (tax audit, regulatory inspection, license action, charging decision, family-court action, employment action) directed at a citizen because of the citizen's protected speech (cf. §17.2 Institutional Retaliation)
+- **Permit-as-censorship** — denial, conditioning, delay, or selective revocation of permits required for assembly, march, religious worship, demonstration, or similar protected activity (cf. §17.9G, §17.23)
+- **Funding-conditioned censorship** — conditioning public benefits, contracts, grants, employment, or other resources on the recipient's speech, association, or political activity
+- **Deplatforming under color of office** — official statements, reports, public listings, or other communications designed to shame, ostracize, or remove from public discourse a citizen because of the citizen's protected speech
+
+**Classification.**
+
+- Censorism is a **Class 2 felony**.
+- Where the conduct is part of a pattern, is coordinated across multiple actors or agencies, or where the suppression materially silenced citizen speech on matters of public concern, the offense is a **Class 1 felony**.
+- Where the conduct targets political dissent, whistleblower disclosure, religious expression, journalistic activity, or speech critical of officials reachable under this Act, the offense is a **capital offense**.
+- May be charged cumulatively with §17.9G (Protected-Speech Suppression Under Color of Law), §17.2 (Institutional Retaliation), §17.2A (Process-Stacking Retaliation), §17.2B (Retaliatory Charge Fabrication), §1.1.13 (Official Intimidation), §1.1.6 (Cabalism), and §1.1.41 (Propagandism) where censorship was paired with state-disseminated counter-narrative.
+
+**Defenses Limited.**
+
+- "The speech was misinformation, hateful, or dangerous" is not a defense unless the speech actually falls within the narrow categories the First Amendment permits regulation of (incitement, true threats, etc.) under controlling constitutional doctrine.
+- "We were exercising our editorial discretion" is not a defense for government actors; editorial discretion belongs to private speakers, not to officials wielding public power.
+- "The platform or intermediary made the decision" is not a defense where the actor pressured, coerced, or induced the intermediary action.
+- "We were following federal guidance" is not a defense where the federal guidance was itself a censorship pressure.
+
+#### 1.1.43 Extractivism
+
+> A government actor commits **extractivism** when the actor uses public power to extract economic value — money, property, labor, time, fees, fines, court costs, license fees, permit costs, regulatory compliance burdens, or any other form of cost — from citizens beyond what any legitimate public purpose justifies.
+
+**Operative Principle.**
+
+Government may lawfully tax, fine, charge fees, require licenses, and impose compliance costs — within limits set by the constitutional order and by the legitimate public purposes the charges serve. Extractivism is the practice of operating those charges as **extractive ends in themselves**: maintaining fines because the revenue is wanted, perpetuating compliance burdens because they preserve agency mandate, structuring court costs to maximize debt accumulation rather than to compensate actual administrative cost. This subsection complements §1.1.7 (Government Racketeering) and §17.9E (Revenue Extraction Under Color of Law) by reaching the systematic practice of extractive operation across an office, agency, or jurisdiction.
+
+**Elements.**
+
+- The actor is a government actor with authority over taxation, fines, fees, court costs, license costs, permit costs, regulatory compliance requirements, or other charges imposed on citizens
+- The actor exercised, configured, or maintained that authority to extract value from citizens
+- The extraction exceeded what any legitimate public purpose justified — in amount, in structure, in frequency, in compounding effect, or in cumulative burden
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the disproportion between the extraction and any legitimate purpose served
+
+**Specific Patterns Reached.**
+
+- **Revenue-targeting enforcement** — citation, fine, or fee enforcement structured to maximize revenue rather than to address actual harm or public-safety purpose (cf. §17.9E)
+- **Compounding-cost structures** — court costs, late fees, warrant-recall fees, and other charges that compound on initial citations such that the total cumulative cost vastly exceeds any legitimate public purpose
+- **Compliance-cost amplification** — regulatory compliance requirements structured so that the compliance cost itself becomes the operative burden, rather than the regulated conduct
+- **Asset-forfeiture extraction** — use of civil-asset-forfeiture or comparable property-taking authority to extract value from citizens beyond what any legitimate public purpose justifies
+- **Fee-for-rights extraction** — structuring access to public services, court access, records access, or comparable governmental functions so that fees become the operative barrier to citizen rights
+- **Debt-driven custody** — operating fine, fee, or court-debt enforcement to produce jailing, license suspension, or other coercive consequences for citizens unable to pay (cf. §2.10.3 Wealth-Based Liberty Denial)
+
+**Classification.**
+
+- Extractivism is a **Class 2 felony**.
+- Where the conduct is part of a sustained pattern, is coordinated across multiple offices or agencies, or where the extraction materially produced poverty, family separation, loss of housing, loss of employment, or comparable harm to citizens, the offense is a **Class 1 felony**.
+- Where the conduct directly produced systemic extraction across a jurisdiction (the DOJ Ferguson Report fact pattern), the offense is a **capital offense**.
+- May be charged cumulatively with §1.1.7 (Government Racketeering), §17.9E (Revenue Extraction Under Color of Law), §17.9F (Property Punishment Without Conviction), §1.1.40 (Kleptocratism), §2.10.3 (Wealth-Based Liberty Denial), §1.1.27 (Statism) where the extraction was paired with statist mission expansion, and §1.1.6 (Cabalism) where multiple actors coordinated.
+
+**Defenses Limited.**
+
+- "The fines are set by statute" is not a defense unless the statute itself reflects a legitimate proportionality between fine and harm addressed.
+- "We need the revenue" is not a defense; legitimate public-budget needs are addressed through lawful taxation by elected legislative bodies, not through extraction from citizens through enforcement.
+- "Other jurisdictions have similar fines" is not a defense.
+- "The citizen could have avoided the fine by complying" is not a defense where the underlying offense is itself disproportionate or the compliance burden is itself extractive.
+
 ### 1.2 Misconceptions
 
 This subsection identifies common misconceptions that have shaped — and continue to shape — how the legal system treats core concepts in ways this Act explicitly rejects. Where a court, government actor, juror, council, or proceeding under this Act encounters one of these misconceptions, this subsection controls.
