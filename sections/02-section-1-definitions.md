@@ -1867,6 +1867,195 @@ Corruption is **not, by itself, an independent offense under this Act**. The sub
 - The non-exhaustive list of forms above is not a limit on the term's meaning; it is illustrative of the forms the Act expressly reaches.
 - Where conduct meets the operative definition of corruption above but does not fall neatly within the elements of any single substantive offense, the conduct remains reachable through any combination of substantive offenses whose elements are met cumulatively (consistent with the cumulative-charging authority across the Act).
 
+#### 1.1.45 Non-Republican Government Act
+
+> A government actor commits a **non-republican government act** when, in the exercise of public power, the actor takes, supports, ratifies, executes, or knowingly fails to oppose conduct that pushes the operative character of the government — whether of an office, a department, an agency, a political subdivision, a branch, or the State of Utah as a whole — toward any of the **non-republican forms of government** defined in this subsection, rather than toward the **republican form** that Article IV, Section 4 of the United States Constitution guarantees to every state.
+
+**Operative Principle.**
+
+A citizen has a right, under Article IV, Section 4 of the United States Constitution, to be governed by a republic — not by a dictatorship, a totalitarian regime, a communist regime in its historical totalitarian form, a fascist regime, a police state, an oligarchy, a kleptocracy, a despotism, an absolute monarchy, a theocracy, or any other non-republican form. The right is **operative, individually enforceable under this Act, and is violated by any single act of government that pushes the operative character of the government toward any non-republican form.** The citizen does not have to prove the government has already become non-republican before the Act applies. The citizen has to prove only that the conduct, evaluated against the operative characteristics defined below, is more characteristic of a non-republican form than of the republican form.
+
+**Elements.**
+
+For a conviction under this subsection, the prosecution must prove **beyond a reasonable doubt** each of the following:
+
+1. The actor is a government actor (the §1.1.1 definition controls).
+2. The actor took, supported, ratified, executed, or knowingly failed to oppose specific conduct in the exercise of public power.
+3. The conduct, evaluated against the operative characteristics of the forms of government defined in this subsection, exhibits **more of the characteristics defining one or more of the non-republican forms than of the characteristics defining the republican form**.
+4. The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the non-republican character of the conduct.
+
+The trier of fact — the Citizen Council under §9, the petit jury at trial, or the reviewing court on direct application — shall make the comparative-character finding by reference to the operative characteristics defined below. **The finding is a finding of operative reality, not a finding of formal nomenclature.** What the government calls itself on paper is not the test; what the government does in operative reality is.
+
+**Republican Form of Government — Operative Characteristics.**
+
+A republican form of government, for purposes of this Act, possesses **each** of the following operative characteristics:
+
+- **Sovereignty in the citizens.** All legitimate political power flows from the citizens. Officials hold delegated power in trust; they do not hold power in their own right.
+- **Equal application of law.** The same law applies to officials and citizens alike. No person stands above the law by virtue of office held, family relationship, social class, or political position.
+- **Temporary stewardship of office.** Public officials are temporary stewards of power held in trust for the public, not a permanent governing class. Office is term-limited (where elected), accountable (where appointed), and removable (where conduct warrants).
+- **Distributed power.** The architecture of government is designed to prevent the concentration of power in any single branch, faction, family, or institution. Separation of powers, federalism, and citizen accountability operate as structural restraints.
+- **Citizen rights as restraints on government.** Citizens retain enforceable rights against the government. These rights exist prior to government and operate as restraints on government, not as privileges government grants and may withdraw.
+- **Government under written law applied openly.** Government operates under written, publicly-accessible law applied with articulable standards. Discretion is bounded, predictable, and reviewable.
+- **Accountability through elections and citizen mechanisms.** Officials are accountable to citizens through periodic elections, Citizen Councils, courts open to citizens, and the institutional mechanisms by which citizens can replace or constrain officials.
+- **Protected speech, press, assembly, association, and petition.** Citizens retain the freedom to criticize government, organize politically, assemble peaceably, associate freely, and petition for redress of grievances — without government suppression or retaliation.
+- **Protected property and economic rights.** Citizens' property is protected from arbitrary seizure. Government may regulate consistent with lawful authority but may not operate property law as an instrument of citizen punishment or extraction.
+- **No titles of nobility, no hereditary privilege.** No person stands above another by birth, by family, by class, or by office held (cf. Art. I §9 cl. 8 and Art. I §10 cl. 1).
+
+**Non-Republican Forms — Operative Characteristics.**
+
+The following non-republican forms are defined by their operative characteristics. The list is **non-exhaustive** — any form of government that fails to exhibit the characteristics of the republican form, regardless of label, is a non-republican form within the meaning of this subsection.
+
+**Dictatorship.**
+
+- Sovereignty rests in a single ruler or small ruling group, not in the citizens
+- The ruler's continuity in power overrides law, citizen rights, and electoral or other accountability
+- Selection of officials is by the ruler's preference rather than by citizen consent
+- The ruler's word, decree, or directive functions as operative law
+- Opposition — political, journalistic, civic — is treated as a threat to be suppressed
+- No effective external accountability mechanisms constrain the ruler
+
+**Democratic Dictatorship** (also: Elected Dictatorship, Competitive Authoritarianism, Illiberal Democracy, Façade Democracy).
+
+- **Formal democratic structures retained** — elections held, parliaments seated, written constitutions in force, opposition parties technically permitted — while operative governance is dictatorial
+- Elections occur but their outcomes are predetermined or constrained: opposition candidates disqualified, jailed, exiled, harassed, or denied meaningful access to media, ballot, or campaign resources; electoral districts manipulated; vote counts contested or selectively reported; ballot access restricted; voter rolls purged selectively
+- Constitutional structures and procedures are **used as instruments to consolidate dictatorial power rather than as constraints on it** — constitutional amendments extending executive terms, emergency-power invocations preserved beyond their triggering circumstances, judicial appointments configured to remove constitutional limits on executive action, legislative procedure manipulated to lock in single-party rule
+- Opposition exists in form but cannot in practice win, govern, or effectively challenge the ruling power; opposition figures face arrest, prosecution, regulatory targeting, asset seizure, exile, or death
+- Press and civil society retain nominal existence but operate under selective licensing, harassment, regulatory pressure, financial penalty, or intermediary-coercion (cf. §1.1.42 Censorism) that ensures they cannot meaningfully oppose the ruling power
+- Citizens may technically vote but **cannot, in operative reality, exchange one government for another through that vote**
+- Distinguishable from authoritarian regime by the **preservation of formal democratic structures**: an authoritarian regime is often openly single-party or single-faction; a democratic dictatorship operates under the cover of democratic legitimacy while substantively functioning as a dictatorship. The cover is, itself, part of the operative harm — citizens are told they live in a democracy, evidence of dictatorship is dismissed, and the formal trappings are weaponized to delegitimize challenges to the ruling power
+- Historical examples that adopted "democratic" terminology while operating non-democratically: the German Democratic Republic (East Germany, 1949–1990); the Democratic People's Republic of Korea (North Korea); the Democratic Republic of the Congo under Mobutu (Zaire); and numerous twentieth- and twenty-first-century regimes that maintained formal elections, parliaments, and constitutions while concentrating power, suppressing opposition, and substantively eliminating citizen sovereignty
+- **The Act expressly recognizes that the formal nomenclature of democracy is not the test of republican form.** A government that holds elections, has a constitution on paper, and calls itself a "democratic" or "constitutional" government is not, by those features alone, a republic. The republican-form test of this subsection is **operative reality, not nomenclature** — and a democratic dictatorship is, despite its name, a non-republican form within the meaning of this subsection
+
+**Authoritarian Regime.**
+
+- Political power concentrated in a single party, faction, or institution
+- The party, faction, or institution operates above the law in practice — its members are not subject to the same enforcement as ordinary citizens
+- Opposition is suppressed through political, regulatory, judicial, or extralegal means
+- Political pluralism is limited or absent; one party effectively governs regardless of formal election structures
+- Civil society institutions — press, religion, education, professional associations — are subordinated to the dominant party or faction
+
+**Totalitarian Regime.**
+
+The authoritarian characteristics, plus:
+
+- The state asserts total control over public and private life
+- No independent civil society; associations, religious institutions, family structures, education, and economic activity are all subordinated to state direction
+- Citizens are treated as instruments of state purposes rather than as the source of state authority
+- A comprehensive ideology is imposed across all institutions and required for public participation
+- Pervasive surveillance and indoctrination maintain the regime's control
+
+**Communist Regime in Its Historical Totalitarian Form.**
+
+The totalitarian characteristics, plus the specific structural features of the historical communist regimes:
+
+- Single-party rule, with the Communist Party as the operative seat of sovereignty
+- The party stands above the law, *de jure* or *de facto*
+- Citizens have no enforceable rights against the state
+- Political dissent is criminalized as counter-revolutionary, anti-state, or class-traitor conduct
+- Private property is abolished, expropriated, or subordinated to state ownership
+- State control extends to economy, education, communication, religious practice, and family
+- Examples: the Soviet Union; the People's Republic of China under the Cultural Revolution; Cambodia under the Khmer Rouge; North Korea; East Germany under the SED
+
+This subsection's identification of the **historical totalitarian form** of communist regime is **distinct from** any economic or political position concerning particular policies, programs, or theories of distribution. The Act takes no position on policy debates concerning the role of government in economic life. The Act addresses the **structural totalitarian features** of historical communist regimes — single-party rule above the law, criminalization of dissent, abolition of citizen rights against the state — and treats those features as non-republican wherever they appear, regardless of the ideology under which they are imposed.
+
+**Fascist Regime.**
+
+- Nationalist authoritarianism merging state with leader and party
+- State control of economy and society through corporatist or party-aligned organization
+- Dissent suppressed as betrayal of the nation, the people, or the leader
+- Leader treated as personification of the state — opposition to the leader treated as opposition to the nation
+- Militarism, expansionism, or scapegoating of minority groups frequently (though not invariably) present
+- Examples: Italy under Mussolini; Germany under the Nazi Party; Spain under Franco; any twentieth- or twenty-first-century regime adopting the structural features regardless of self-description
+
+**Police State.**
+
+- Pervasive surveillance of citizens by government or government-allied agents
+- Repression of dissent through police, security, intelligence, or paramilitary forces
+- Selective enforcement of laws to maintain regime continuity rather than to address actual harm
+- Citizens cannot move freely, speak freely, or organize freely without state monitoring or consequence
+- The features may coexist with otherwise democratic or republican forms on paper — the operative reality is what controls. **A government may technically retain elections and constitutional structures while substantively operating as a police state.**
+
+**Oligarchy.**
+
+- Rule by a small class — officials, wealth-holders, families, or institutions
+- The class perpetuates itself through controlled selection, credentialing, or appointment of public officeholders
+- Citizens outside the class are effectively excluded from governance regardless of formal democratic structures
+- Often appears as democratic but operates as closed
+- May coexist with formal republican structures while substantively eroding them (cf. §1.1.31 Aristocratism)
+
+**Kleptocracy.**
+
+- Public office is operated as a personal or factional theft enterprise
+- Officials extract value from citizens, the public treasury, and public functions for personal, family, or factional benefit
+- Government continuation serves primarily to maintain extraction rather than to advance any legitimate public purpose
+- May coexist with any other non-republican form (dictatorial-kleptocracy, oligarchic-kleptocracy, authoritarian-kleptocracy) and is reachable under §1.1.40 (Kleptocratism) as the substantive offense
+
+**Despotism.**
+
+- Authority exercised arbitrarily, without articulable standards
+- Power exercised by a single ruler or small ruling group without accountability to the citizens affected
+- The citizen cannot predict, plan around, or challenge governmental action
+- The form-pattern of which §1.1.29 (Despotism) is the operative individual-action counterpart
+- Distinguishable from tyranny by emphasis: despotism is arbitrary exercise of power, regardless of for whose benefit it operates; tyranny is exercise of power against the citizens government was constituted to serve, regardless of whether the exercise is arbitrary
+
+**Tyranny.**
+
+- Government power exercised **primarily for the benefit of the rulers rather than for the benefit of the citizens** the government was constituted to serve
+- The ruler or ruling class treats the government as an instrument of personal, factional, or class interest **against** the citizens — extracting from them, dominating them, oppressing them, or treating them as subjects to be ruled rather than as the source of legitimate political authority
+- Cruelty, systematic oppression, or sustained harm to citizens is the operative character of governmental conduct
+- Citizens are denied any meaningful means of redress; the institutional architecture is configured so that government conduct against citizens cannot be effectively challenged from within
+- May exist within otherwise lawful-looking structures. **The operative test is whether government serves the citizens or is operated against them** — not whether the governmental structure has the formal trappings of democracy, federalism, or constitutional limit
+- Distinguishable from despotism by emphasis: despotism is arbitrary exercise; tyranny is exercise against the citizens. The two often overlap (an arbitrary government often turns against the citizens it cannot account to; a government against the citizens often becomes arbitrary in defending itself), but they are conceptually distinct and may, in principle, exist independently
+- Classical reference: Aristotle's *Politics* (4th century B.C.E.), distinguishing legitimate rule (kingship, aristocracy, polity) from its corrupted forms (tyranny, oligarchy, mob-rule democracy), where the corruption is rule for the benefit of the rulers rather than for the common good. The American Founders inherited this distinction directly; the Declaration of Independence describes the conduct of King George III as a "long train of abuses and usurpations ... evinc[ing] a design to reduce them under absolute Despotism" — and identifies the resulting government, in operative terms, as tyranny that justifies the citizens' right to alter or abolish it
+- Historical examples: Roman Empire under Caligula, Nero, Caracalla, Commodus, and Domitian; Tsarist Russia under several rulers in its final centuries; numerous twentieth- and twenty-first-century regimes in which the formal structures of government were preserved while the operative conduct turned systematically against the citizens
+
+**Absolute Monarchy.**
+
+- Hereditary or appointed rulers holding sovereignty above any law
+- Rulers accountable to nothing outside themselves — not to elections, not to courts, not to a constitution operating as restraint
+- Historical examples: pre-revolutionary France under the Bourbons; pre-Magna-Carta England under the Plantagenets; modern absolute monarchies retaining hereditary unconstrained rule
+- The Act expressly distinguishes absolute monarchy from **constitutional monarchies** (Britain, Sweden, the Netherlands, Spain, and others), which retain constitutional limits, parliamentary sovereignty, and citizen rights — and which may, depending on their operative characteristics, exhibit republican form in the constitutional-form sense even while retaining ceremonial monarchy
+
+**Theocracy.**
+
+- Religious authority claiming sovereignty over citizens — religious officials hold governmental power by virtue of religious position
+- Religious law treated as supreme over civil law for all citizens, regardless of religious affiliation
+- Citizens of other religions or no religion are second-class — denied access to office, denied equal protection, or punished for non-conforming belief
+- Historical examples: the Islamic Republic of Iran under Khomeini and successors; the Taliban-governed Islamic Emirate of Afghanistan; the Spanish Inquisition's operative governance of religious orthodoxy
+
+**Classification.**
+
+- A non-republican government act is a **Class 1 felony**.
+- Where the conduct is **sustained over time**, is **coordinated across multiple actors or institutions**, or **materially produces transition toward any non-republican form** (citizens losing enforceable rights against the state, opposition being substantively suppressed, sovereignty migrating from the citizens to the government, or any other operative shift in that direction), the offense is a **capital offense**.
+- Where the conduct **suppressed lawful exercise of citizen sovereignty** — lawful elections, lawful Citizen Council formation under §9, lawful citizen complaint or whistleblower disclosure, lawful press inquiry, lawful protected speech, lawful family or property exercise — the offense is a **capital offense**.
+- May be charged cumulatively with §1.1.30 (Authoritarianism), §1.1.29 (Despotism), §1.1.31 (Aristocratism), §1.1.40 (Kleptocratism), §1.1.25 (Legislate from the Bench), §1.1.42 (Censorism), §1.1.41 (Propagandism), §1.1.10 (Anarchy), §1.1.18 (Ultra Vires), §1.1.6 (Cabalism), and any other applicable substantive offense.
+
+**Defenses Limited.**
+
+- "I was following orders" is not a defense. Subordinate compliance with non-republican direction is itself non-republican conduct under this subsection.
+- "The government structure on paper is republican" is not a defense. The test is the operative character of the conduct against the characteristics defined above, not the formal nomenclature.
+- "Other officials behaved similarly" is not a defense.
+- "Public opinion supported the act" is not a defense. Rights are protected against majoritarian action as well as against minoritarian action; the republican form is not defeated by popular endorsement of non-republican conduct.
+- "Emergency justified the departure" is not a defense. Consistent with *Ex parte Milligan*, 71 U.S. (4 Wall.) 2, 120–21 (1866), no provision of the Constitution can be suspended during any of the great exigencies of government.
+- "The political-question doctrine bars this challenge" is not a defense. This Act expressly rejects the political-question doctrine and its progeny as applied to Article IV, Section 4 claims (cf. *Luther v. Borden*, 48 U.S. (7 How.) 1 (1849)); doctrines defeating Guarantee Clause claims are themselves reachable under §1.1.25 (Legislate from the Bench).
+- "The act was a single instance, not a pattern" is not a defense at the Class 1 felony tier. The elements of the offense are met by the comparative-character finding regardless of whether the conduct was sustained.
+
+**Relationship to Existing Bill Provisions.**
+
+This subsection operates in parallel with the umbrella offenses of §1.1.26 through §1.1.43 — which reach specific corruption patterns — and the role-specific offenses of Section 17. Where conduct meets the elements of one or more of those provisions and the elements of this subsection, prosecutors may charge under this subsection in addition to or instead of those provisions. **This subsection is the structural-form offense that reaches the conduct as a violation of the citizen's Article IV, Section 4 right to be governed by a republic; the other provisions reach the conduct as specific corruption patterns.**
+
+A Citizen Council may file a Joint Declaration of Logical Consistency Review under §9.14 against any government instrument that exhibits the operative characteristics of a non-republican form under this subsection. The reviewing court may not refuse review on the grounds of the political-question doctrine, standing limitations, abstention, or any other judicially-constructed barrier.
+
+**Constitutional Anchor.**
+
+This subsection rests on, and operationalizes:
+
+- **Article IV, Section 4** of the United States Constitution (the Guarantee Clause): *"The United States shall guarantee to every State in this Union a Republican Form of Government."*
+- **Article I, Section 9, Clause 8** and **Article I, Section 10, Clause 1** (Title of Nobility Clauses).
+- The **Declaration of Independence**'s natural-rights framing and right-to-alter-or-abolish principle.
+- ***Yick Wo v. Hopkins*, 118 U.S. 356, 370 (1886)** — sovereignty rests with the people.
+- ***Ex parte Milligan*, 71 U.S. (4 Wall.) 2, 120–21 (1866)** — no provision of the Constitution may be suspended for governmental exigency.
+
 ### 1.2 Misconceptions
 
 This subsection identifies common misconceptions that have shaped — and continue to shape — how the legal system treats core concepts in ways this Act explicitly rejects. Where a court, government actor, juror, council, or proceeding under this Act encounters one of these misconceptions, this subsection controls.
