@@ -1092,6 +1092,36 @@ Just as a citizen's "substantial" act must be real and operative, a government a
 
 Under the Constitution of the United States and the Constitution of the State of Utah, the **legislative function — making law — is constitutionally assigned to the legislative branch**. The **judicial function — applying law — is constitutionally assigned to the judicial branch**. A judicial officer who steps across that line, by creating or modifying rules of law rather than applying them, performs a function the office does not have. Such conduct is **ultra vires** under §1.1.18 and reachable as a substantive criminal offense under this subsection.
 
+**The Distinction Between Making Law and Applying Law.**
+
+**Making law** means defining what conduct is required, prohibited, or permitted by the government; creating new offenses, new rights, new defenses, new doctrines, new privileges, new immunities, new exceptions, or new carve-outs; establishing new duties; or otherwise generating substantive legal content that did not exist in the operative text of any statute or constitutional provision before the act of creation.
+
+**Applying law** means taking the operative text of an existing statute, regulation, ordinance, or constitutional provision — text already enacted through the constitutional process by the body authorized to enact it — and determining how that operative text governs the specific facts of a case before the court. Interpretation in good faith of ambiguous text, using traditional canons of construction, is part of applying law. **Invention is not.**
+
+The judicial function ends where the operative text ends. Where the operative text is silent, the judicial function is to recognize the silence and apply the constitutional default — most often a default favoring the citizen's liberty against governmental claim. The judicial function is **not** to fill the silence with judicial doctrine. The constitutional answer to legislative silence is legislative action, not judicial invention.
+
+**The Doctrinal-Invention Problem.**
+
+A significant portion of what now governs the relationship between government and citizen in this country is not, in any meaningful constitutional sense, **law**. It is **judicial doctrine** — rules invented by judges, in the course of judicial pronouncements, that operate as if they were law without ever having gone through the constitutional process by which actual law is made. Qualified immunity is not in any statute or constitutional provision; it was invented by the Supreme Court in *Harlow v. Fitzgerald*, 457 U.S. 800 (1982), and its predecessor cases. Absolute judicial immunity is not in any statute or constitutional provision; it was invented by the Supreme Court in *Bradley v. Fisher*, 80 U.S. (13 Wall.) 335 (1872). Absolute prosecutorial immunity is not in any statute or constitutional provision; it was invented by the Supreme Court in *Imbler v. Pachtman*, 424 U.S. 409 (1976). The political-question doctrine, abstention doctrines, the modern reading of standing, the various exceptions to the warrant requirement under the Fourth Amendment, the doctrines that govern when a citizen may sue the federal government — every one of these is, structurally, **judicial doctrine masquerading as law**.
+
+Doctrines are not law. **Law is made by the legislative branch through the constitutional process for making law.** Doctrines are invented by judges, in the operative form of legislation, without the constitutional authority to legislate. That structural fact is the foundation of the offense this subsection defines.
+
+**The Abrogation of Rights Into Privileges.**
+
+The cumulative operative effect of decades of judicial doctrine has been the conversion of **constitutional rights** into something that operates, in practice, as **privileges granted at official discretion**. The Fourth Amendment's text says *"the right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated."* The text is a guarantee. But the judicial doctrines that have grown up around it — the automobile exception, the consent exception, the inventory exception, the standing rules, the harmless-error doctrine, the qualified-immunity shield against civil enforcement, the political-question doctrine against citizen challenge — have narrowed the guarantee into something a citizen may invoke only at the right moment, in the right way, against the right defendant, with the right factual posture. The Second Amendment, the Fifth Amendment's protections against self-incrimination, the Sixth Amendment's right to counsel, the Ninth Amendment's reservation of unenumerated rights, and the First Amendment's protections of speech, press, assembly, association, and petition have each been similarly narrowed by judicial doctrine — converting the operative text from a guarantee into a permission. **That is not the constitutional posture the text of these amendments establishes. That is the operative posture judicial doctrine has imposed on them.**
+
+This Act treats that abrogation as the most serious form of the offense defined in this subsection. A judge who participates in the narrowing of a constitutional right into a privilege — by extending an immunity, by recognizing a new exception, by applying a doctrine that defeats the operative text — has not merely made law in the legislative branch's stead; the judge has used the legislative power, illegitimately taken, to **transfer rights from the citizens to whom the Constitution gave them into the discretion of the officials the Constitution was written to constrain**. That is the deepest constitutional inversion this Act exists to reverse.
+
+**The Constitutional Answer to Ambiguity.**
+
+Where the operative text of a statute, regulation, ordinance, or constitutional provision is ambiguous, the constitutional answer to the ambiguity is **legislative action, not judicial invention**.
+
+- The legislative branch — Congress at the federal level, the Utah Legislature at the state level — has the authority to clarify ambiguous text by amendment, by new enactment, or by repeal.
+- The judicial branch's role, when confronted with ambiguous text, is to apply traditional canons of construction in good faith, to favor the citizen's liberty against governmental claim where applicable, and — where the ambiguity cannot be resolved through ordinary interpretation — **to recognize that the ambiguity is for the legislature to address, not for the court to fill with invented doctrine**.
+- A court that resolves statutory or constitutional ambiguity by inventing a new doctrine, a new exception, or a new privilege has performed the legislative function. Such conduct is reachable under this subsection regardless of how plausibly the court frames the invention as "interpretation."
+
+**Interpretation is permitted; invention is not.** That is the line this subsection enforces.
+
 **Specifically Reached.**
 
 The following conduct is **per se** legislative judicial action under this subsection:
@@ -2055,6 +2085,192 @@ This subsection rests on, and operationalizes:
 - The **Declaration of Independence**'s natural-rights framing and right-to-alter-or-abolish principle.
 - ***Yick Wo v. Hopkins*, 118 U.S. 356, 370 (1886)** — sovereignty rests with the people.
 - ***Ex parte Milligan*, 71 U.S. (4 Wall.) 2, 120–21 (1866)** — no provision of the Constitution may be suspended for governmental exigency.
+
+#### 1.1.46 Judicial Imposter (Executive or Administrative Action in a Judicial Function)
+
+> A government actor in the executive or administrative branch of government commits **judicial imposter** when, in the exercise of public power, the actor takes, configures, or maintains conduct that performs a judicial function — adjudicating disputes, finding facts, applying law to specific persons or property, imposing penalties, or rendering binding determinations affecting a citizen's life, liberty, property, family, livelihood, or rights — where the conduct is constitutionally assigned to the judicial branch and ought to be exercised by an independent judicial officer with the procedural protections owed in a judicial proceeding.
+
+**The Constitutional Premise.**
+
+Under the Constitution of the United States and the Constitution of the State of Utah, **the executive function — enforcing law that already exists — is constitutionally assigned to the executive branch.** The **judicial function — independently finding facts, applying law to specific persons or property, and rendering binding determinations through orderly process — is constitutionally assigned to the judicial branch.** An executive or administrative actor who steps across that line, by adjudicating rather than enforcing, performs a function the office does not have. Such conduct is **ultra vires** under §1.1.18 and reachable as a substantive criminal offense under this subsection.
+
+**The Proper Role of the Executive Branch.**
+
+The executive function consists of:
+
+- **Enforcing the laws** that already exist on the books — laws enacted by the legislative branch through the constitutional process for making law
+- **Investigating violations** of existing law — gathering evidence, interviewing witnesses, building cases
+- **Prosecuting violations** before **independent courts** — presenting the case to a neutral judicial officer, with the citizen given the procedural protections of a judicial proceeding
+- **Executing court orders** — carrying out the judgments, sentences, decrees, and orders that independent courts have rendered
+- **Administering programs and services** — implementing the operational mechanics by which laws and programs operate
+
+The executive function does **not** include adjudicating disputes, finding facts about specific persons or property as the operative basis for binding government action, imposing penalties without prior judicial determination, or rendering determinations that have the operative effect of judgments. **Those are judicial functions.** They belong to the judicial branch, exercised through independent judicial officers, under the procedural protections owed in a judicial proceeding.
+
+**The Distinction Between Executing Law and Judging Law.**
+
+**Executing law** means carrying out, applying, enforcing, or administering law that already exists, on the basis of facts the law itself defines or that have been authoritatively found by an independent judicial process. The executive enforces; the executive does not decide what the facts are or what the law means in a binding way against a specific citizen.
+
+**Judging law** means independently determining, on the basis of evidence presented in an orderly proceeding with due process protections, what facts are true and how the operative text of the law applies to those facts in the particular case of a particular citizen. The judicial branch does this with the structural protections that make the determination trustworthy: an independent neutral fact-finder; notice to the affected party; opportunity to be heard; right to confront witnesses; right to present evidence; right to counsel where applicable; appellate review.
+
+An executive or administrative actor who decides facts about a particular citizen as the operative basis for a binding government action, without those structural protections, has not enforced the law — the actor has **judged** the law. That is the substantive offense this subsection defines.
+
+**The Weigh-and-Measure / Apply-the-Law Distinction (The Warrant Principle).**
+
+This Act articulates, in operative terms, the most foundational distinction between the executive and judicial functions: **the executive branch may weigh and measure; it may not apply.**
+
+The executive function permits a government actor to gather evidence — to observe, to investigate, to interview, to surveil where lawfully authorized, to collect data, to assemble what the law calls *"probable cause"* or comparable predicate facts. This is the **weighing and measuring** part. It is what investigators, police officers, federal agents, regulators, and administrative actors are constitutionally permitted to do.
+
+What the executive function does **not** permit is the next step — **applying the law** to the citizen on the basis of the executive's own weighing and measuring. That step requires an **independent court**. The executive must take its weighing and measuring **before a neutral judicial officer**; the court applies the law to the facts the executive has presented; the court determines whether the operative legal standard has been met; and only on that judicial application does the court issue a **warrant**, an order, or a comparable judicial instrument authorizing the executive to act.
+
+The constitutional sequence is:
+
+1. **Executive weighs and measures.** The investigator gathers evidence about a citizen's conduct or about property suspected of being involved in a violation of law.
+2. **Executive presents the findings to an independent court.** The investigator brings the assembled facts to a neutral judicial officer in an orderly proceeding (ex parte for a warrant application; adversarial for adjudication).
+3. **The court applies the law.** The judicial officer determines whether the operative legal standard — probable cause, reasonable suspicion, beyond a reasonable doubt, or whatever standard the law specifies for the particular action — is satisfied by the executive's evidence.
+4. **The court issues a warrant or order.** Where the standard is met, the court authorizes the specific executive action through a written judicial instrument that defines the scope, the duration, and the lawful execution of the action.
+5. **The executive executes the court's order.** The action against the citizen is taken in accordance with the warrant or order, not on the executive's own determination.
+
+**When the executive branch skips steps 2, 3, and 4 — when it goes directly from its own weighing and measuring to acting on the citizen as though the law had been applied — the executive has performed the judicial function itself.** That is judicial imposter under this subsection. It is reachable as the substantive offense defined here, and it is **independently reachable as a non-republican government act under §1.1.45**, because a government in which the executive branch is permitted to act on its own application of the law to a citizen has, in that respect, abandoned the separation of powers that the republican form requires.
+
+**The process is not a procedural inconvenience. The process is the protection.** The independent judicial application of law to citizen-specific facts is what distinguishes a lawful republican exercise of state power from an executive determination that may proceed without check. When the citizen-side of an executive proceeding loses that distinction — when the agency, the officer, or the administrative body decides that its own weighing and measuring satisfies the legal standard, without an independent court applying the law in between — the citizen has lost the constitutional protection the separation of powers was designed to deliver.
+
+This Act treats that loss as a substantive offense reachable **simultaneously under this subsection (judicial imposter) and under §1.1.45 (non-republican government act)**, charged cumulatively. The deeper offense is the structural one: the conversion of the executive branch from a law-enforcement function into a law-application function destroys the architecture under which citizens retain rights against government.
+
+**Historical Example — The Fugitive Slave System and What Happens When the Executive Branch Both Weighs and Applies.**
+
+The American constitutional order has, in its history, conducted an extended natural experiment on what happens when the executive branch is permitted both to weigh and measure **and** to apply the law on its own findings — without independent judicial application of the operative legal standard. The result was the **Fugitive Slave System**, and it produced one of the most morally indefensible periods of constitutional collapse in American history. **The historical record is the strongest case this Act can make for why the warrant principle matters.**
+
+The **Fugitive Slave Act of 1850** (9 Stat. 462, ch. 60) authorized federal **commissioners** — executive-branch actors, not judges — to determine, on the basis of nothing more than a slaveholder's sworn statement, whether a person in a free state was a "fugitive slave" subject to return to slavery. The Act specifically:
+
+- **Denied the accused person the right to a jury trial** (§6 of the Act).
+- **Denied the accused person the right to testify on their own behalf** (§6).
+- **Compelled federal marshals** to execute commissioner determinations, on penalty of $1,000 fine (§5).
+- **Compelled ordinary citizens** into posse comitatus to assist in seizure (§5).
+- **Built a financial incentive** for commissioners to find against the accused: $10 when the commissioner ruled the person was a fugitive, $5 when the commissioner ruled the person was free (§8). **The fee structure built executive-judicial bias directly into the architecture of the proceeding.**
+
+The commissioner was the executive actor. The commissioner did the **weighing** — accepting the claimant's affidavit, looking at the accused. The commissioner did the **measuring** — applying his own evaluation of whether the description matched, whether the documentary record was sufficient. And then **the commissioner applied the law** — ruling that the accused was a fugitive and was to be seized and returned to slavery. There was no independent judicial application. There was no court between the executive's weighing-and-measuring and the executive's application of the law. There was no jury. There was no testimony from the accused.
+
+What followed was constitutional catastrophe at industrial scale. **Free Black persons were kidnapped and sold into slavery on commissioner determinations alone:**
+
+- **Solomon Northup** — a free Black man kidnapped from New York in 1841, sold into Louisiana slavery, and held there for twelve years until his rescue in 1853. His memoir *Twelve Years a Slave* (1853) is the most widely known illustration of what the absent-judicial-application structure produced. Northup was free under New York law; an executive-style determination by claimants and complicit officials reclassified him into slavery without judicial application.
+- **Anthony Burns** — an escaped slave living free in Boston in 1854, returned to slavery on a commissioner's determination over the resistance of the entire city. The execution of the commissioner's order required **approximately one thousand federal troops and state militia** to escort the prisoner through outraged Boston streets to the ship that returned him to Virginia. The taxpayer cost of executing the single executive-style determination, in 1854 dollars, was substantial — funds spent because no independent judicial application of law had stood between commissioner ruling and citizen deprivation.
+- **Margaret Garner** — an escaped slave in Cincinnati in 1856 who, when commissioners arrived to execute her return to Kentucky slavery under the Act, killed her own infant daughter rather than allow the child to be returned. The case became the historical basis of Toni Morrison's novel *Beloved* (1987).
+- **Joshua Glover** — an escaped slave in Wisconsin in 1854, seized by a federal marshal under the 1850 Act, freed by an abolitionist crowd. The case produced the constitutional confrontation in ***Ableman v. Booth***, 62 U.S. (21 How.) 506 (1859), in which the Supreme Court ruled that state courts could not interfere with federal commissioner determinations.
+
+The Supreme Court had already, in ***Prigg v. Pennsylvania***, 41 U.S. (16 Pet.) 539 (1842), held the Fugitive Slave Act of 1793 constitutional and barred states from imposing additional protections for the accused. The Supreme Court further, in ***Dred Scott v. Sandford***, 60 U.S. (19 How.) 393 (1857), held that Black persons could not be United States citizens and that Congress had no power to limit slavery in the territories — together with the Fugitive Slave Acts, completing a structure in which an executive actor could weigh, measure, and apply the law against a Black person's life and liberty, with no meaningful judicial application of law in between.
+
+**The Civil War followed.** The **Thirteenth Amendment** formally abolished slavery in 1865. But the structural lesson — what happens when the executive branch is permitted to weigh, measure, **and** apply the law against persons — was, by then, written in the blood of generations.
+
+**The lesson did not end with the Thirteenth Amendment.** Post-Reconstruction **Black Codes** in the former Confederate states recreated, in operative substance, the same weigh-measure-apply structure: local sheriffs and prosecutors arrested Black citizens for vague offenses ("vagrancy," "loitering," "absconding from labor"), local justices of the peace convicted them through summary executive-style proceedings, and the resulting "convictions" fed the **convict leasing system** that supplied forced labor to private industry under the Thirteenth Amendment's "except as a punishment for crime" clause. The structural pattern — executive-style actors weighing, measuring, and applying the law against a defined class of citizens, with no meaningful independent judicial application — produced a system that Douglas Blackmon, *Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II* (2008), documents as continuing in operative form until World War II. **The historical record is unambiguous.**
+
+This Act takes that historical lesson seriously and treats it as the strongest case for the warrant principle this subsection enforces. **The executive may weigh and measure. It may not apply.** A government that authorizes the executive to do both is, by structural definition, the kind of government the Fugitive Slave Acts created. That is not a republic. It is a system in which persons may be deprived of life, liberty, and property on the determination of the same actor who investigated, prosecuted, and judged them. The constitutional separation of powers exists precisely to prevent that outcome, and this subsection enforces it.
+
+**The Modern Application — The Slavery-Era Enforcement Architecture, Now Extended to Every Citizen.**
+
+It must be understood, as a foundational historical fact, that **the type of enforcement described above — the executive weighing, measuring, and applying the law on the citizen's body, liberty, and property without independent judicial application of law in between — did not exist as a general feature of American life for ordinary free citizens before the Civil War.** This is not a minor historical detail. It is the historical anchor on which the entire constitutional argument of this subsection rests.
+
+For free citizens before the Civil War:
+
+- **The Fourth Amendment was substantially operative.** Searches required warrants. Arrests for offenses not committed in an officer's immediate presence required warrants. Seizures of property required judicial process. The warrant principle was a lived constitutional protection, not an aspirational text.
+- **Modern professional police forces did not yet exist in most American jurisdictions.** The Boston Police Department, the first modern American municipal police force, was not established until 1838; the New York City Police Department was established in 1845; the Philadelphia Police Department in 1854. Before these forces emerged and matured through the second half of the nineteenth century, most American communities were policed by constables, sheriffs, and citizen militias operating under traditional warrant-and-arrest constraints — not by armed government agents exercising broad field discretion to stop, detain, search, and seize at will.
+- **Citizens generally did not encounter the modern phenomenon of being stopped without specific cause, questioned without warrant, or detained without judicial process.** The architecture of executive field-discretion-and-deprivation that has, in modern America, become a normalized feature of daily life was, before the Civil War, **foreign to the experience of most free citizens**.
+
+**The architecture of executive weighing, measuring, and applying the law on the citizen's body without judicial process existed, in pre-Civil-War America, primarily as a method of slavery enforcement.** Slave patrols — armed civilian groups operating under colonial-and-state slave codes — exercised the field-discretion-and-deprivation function against Black persons in slave states. The federal Fugitive Slave Acts of 1793 and 1850 extended that architecture into free states, authorizing commissioners and marshals to exercise it against alleged fugitives anywhere in the Union. **The weigh-measure-apply enforcement architecture was, structurally, the enforcement mechanism of slavery. It was not the general enforcement architecture of American life.**
+
+**What changed after the Civil War — and what has accelerated through every decade since — is the extension of that enforcement architecture from slavery enforcement to general policing.** Modern professional police forces grew, in many cases (particularly in the former Confederate states), out of the slave-patrol tradition. The discretionary stop-and-frisk powers expanded over the twentieth century, with *Terry v. Ohio*, 392 U.S. 1 (1968), authorizing brief detentions on "reasonable suspicion" — a standard well short of the probable cause the Fourth Amendment text contemplates. The qualified-immunity doctrine, invented in *Harlow v. Fitzgerald*, 457 U.S. 800 (1982), shields executive determinations from civil consequence. The war-on-drugs expansion of the 1970s through the 1990s normalized aggressive field discretion against the general population. The modern Fourth Amendment "exceptions" — the automobile exception, the consent exception, the inventory exception, the plain-view doctrine, the stop-and-frisk doctrine, the dog-sniff doctrine — have, in operative cumulative effect, hollowed out the warrant requirement for everyday citizen encounters with law enforcement.
+
+The historical record above is not merely history. **The structural pattern of pre-Civil-War fugitive slave enforcement has been, in modern form, re-extended to every citizen of every demographic, class, race, and station.** The same fusion of weighing, measuring, and applying that was concentrated in the federal commissioner under the Fugitive Slave Act of 1850 is now distributed across the modern executive branch — police officers, sheriff's deputies, federal agents, regulators, administrative officials — who, in operative practice, exercise all three functions in the field, in real time, against citizens who have no meaningful access to independent judicial application of law before the deprivation occurs.
+
+A government actor in the modern executive branch may, in a single encounter:
+
+- **Weigh** — observe the citizen, evaluate behavior, assess context, judge what "looks suspicious"
+- **Measure** — determine whether what the actor observed satisfies the actor's own understanding of the operative legal standard (probable cause, reasonable suspicion, consent, exigency, compliance, defiance)
+- **Apply** — execute the action against the citizen: the stop, the detention, the search, the arrest, the use of force, the seizure of property, the citation, the removal of a child, the imposition of a citation, the deprivation of liberty
+
+There is no independent judicial application of law between the actor's weighing and the actor's application. There is no court between the executive's determination that the legal standard has been met and the executive's deprivation of the citizen's liberty. The citizen may, after the deprivation has already occurred, seek judicial review — but the constitutional protection the warrant principle was designed to provide is the **pre-deprivation** protection, not the **post-deprivation** review. By the time judicial review attaches, the citizen has already been stopped, detained, searched, arrested, struck, restrained, separated from family, or — in the worst cases — killed.
+
+**This is, structurally, the same architecture that operated against fugitive slaves before the Civil War.** The same fusion of executive functions. The same absence of independent judicial application. The same deprivation of liberty on executive determination alone. The only difference is the demographic scope: where the 1850 system targeted Black persons specifically, the modern system applies, in its operative structure, to **every citizen** — Black, white, urban, rural, rich, poor, conservative, progressive, religious, secular, native-born, immigrant. **The slave-catching commissioner has, in operative function, been distributed across the modern executive branch and pointed at the general population.**
+
+**That is why people run.**
+
+The phenomenon of citizens fleeing from police — running from traffic stops, evading arrest, escaping detention, refusing to comply with field commands they perceive as exceeding any lawful authority, hiding from federal agents, avoiding government encounters at every level of life — is not, principally, a criminal-disposition problem. It is a **constitutional structure problem**. Citizens flee from executive determinations because the executive determination is what will deprive them of liberty, and the constitutional protections that were supposed to stand between the executive's weighing-and-measuring and the citizen's deprivation have been hollowed out. There is no court between the officer and the citizen. There is only the officer, deciding. The citizen runs because the citizen has correctly identified — by operative reality, not by paranoia — that the constitutional protection the warrant principle was supposed to provide is not there.
+
+**That is not, in any meaningful constitutional sense, a republican form of government.**
+
+A republican form of government does not produce a population that flees law enforcement out of constitutional desperation. A republican form of government produces a population that knows — because it is operatively true — that no government actor may deprive them of liberty without an independent court applying the law to the facts, with the citizen given the procedural protections of a judicial proceeding **before** the deprivation occurs. The fact that modern Americans flee law enforcement — that the phenomenon exists on the scale it does, across every demographic, in every region — is itself evidence that the operative architecture has departed from the republican form.
+
+**The function of government must not be consolidated under one branch.** That is the operative test of separation of powers, and it is the constitutional architecture this subsection enforces. The legislative branch makes the law. The executive branch enforces the law through investigation, prosecution before independent courts, and execution of court orders. The judicial branch applies the law to specific persons and property through orderly process with due-process protections. **When any one branch — particularly the executive — performs functions assigned to the others, the constitutional architecture collapses, and the protections that architecture was designed to deliver collapse with it.**
+
+This Act treats the modern consolidation of executive weighing, measuring, and applying as judicial imposter under this subsection, as ultra vires under §1.1.18, and as a non-republican government act under §1.1.45, charged cumulatively. **The structural pattern is the offense.** The fact that the population at large, not only an identified slave class, is now subject to it does not legitimize it — it generalizes the constitutional injury.
+
+Nothing in this subsection criminalizes lawful policing or lawful executive function within the warrant principle. An officer who acts on a warrant the officer or the officer's agency obtained from an independent court is not committing judicial imposter. An officer who acts on a narrowly tailored, genuinely exigent circumstance — an actual immediate threat to life, an actual immediate flight of evidence — is not committing judicial imposter. **The conduct this subsection reaches is the structural pattern by which the executive branch has been authorized, in operative practice, to weigh, measure, and apply against the citizen without independent judicial application of law in between — and the officer-by-officer, agency-by-agency conduct that participates in that pattern by performing what should be the court's function.**
+
+**The Judicial-Imposter Problem in Modern Practice.**
+
+A significant portion of what citizens now experience as the operative legal system is, in structural terms, **executive adjudication** — administrative agencies performing the judicial function without the constitutional independence the judicial function requires. The defining feature: the **same actor** investigates the alleged violation, prosecutes the citizen, and adjudicates the result. The agency is investigator, prosecutor, and judge. There is no independent neutral arbiter; there is the agency, against the citizen.
+
+This Act treats that structural fusion as **constitutionally repugnant**, regardless of the formal label attached to it. The defining test is not whether the proceeding is called a "hearing," whether the decision-maker is called a "judge" or an "Administrative Law Judge," whether the agency calls the action "civil" rather than "criminal," or whether some downstream judicial review is theoretically available. **The defining test is whether the actor performing the function is structurally independent of the prosecuting party and bound by the procedural protections owed in a judicial proceeding.** If not, the actor is a judicial imposter and the conduct is reachable under this subsection.
+
+The constitutional case against fused executive adjudication has been recognized by the U.S. Supreme Court in *SEC v. Jarkesy*, 144 S. Ct. 2117 (2024), holding that SEC enforcement of civil-penalty fraud claims through agency-appointed ALJs violated the Seventh Amendment right to jury trial. The principle this Act enforces is consistent with, and broader than, *Jarkesy*: where the conduct is constitutionally judicial, it must be performed by an independent judicial branch — not by the agency that investigated and prosecuted the citizen.
+
+**Specifically Reached.**
+
+This subsection reaches, without limitation:
+
+- **Administrative adjudication** where the agency is both party and decision-maker — the agency investigates, charges, and adjudicates with agency-appointed ALJs or hearing officers, and the agency's institutional incentives align with the agency-prosecution side of the case
+- **Agency-imposed penalties without prior judicial determination** — fines, monetary penalties, license revocations, permit denials, debarments, or comparable deprivations imposed by the agency on the agency's own determination, without prior independent judicial finding
+- **Civil asset forfeiture without judicial process** — police or prosecutorial determinations that property is forfeitable, executed against the property without the citizen having received a prior independent judicial determination on the operative basis for forfeiture (also reachable under §17.9F Property Punishment Without Conviction)
+- **Watch lists, no-fly lists, "designated dangerous" lists** that impose real deprivations on citizens — denial of travel, denial of financial services, employment consequences, surveillance, etc. — based on executive-branch determinations with no prior judicial finding and no meaningful contestability
+- **Settlement-coerced compliance** — agency proceedings structured so the citizen's only practical option is to accept agency-drafted settlement terms because the cost of contesting the agency's determination through the agency's own adjudicative process is prohibitive
+- **Executive guilt-or-fact determinations binding citizens** — internal agency findings, security-clearance revocations, federal-employee adverse-action findings, immigration determinations, school discipline impositions, and similar conduct where an executive-branch actor makes determinations that have the operative effect of judicial findings without the procedural protections of judicial process
+- **Field-adjudication by police** — officers making finality determinations about probable cause, consent, compliance, or culpability that should be judicial determinations, particularly where those field-determinations operate as the operative basis for deprivation of liberty, property, or rights
+- **Stop-work orders, cease-and-desist orders, and emergency administrative actions** imposing material deprivations on citizens without prior judicial process, where the deprivation precedes any meaningful judicial review and the harm is irreversible by the time judicial review attaches
+- **"Compliance" determinations** by regulatory agencies that operate as binding findings against the citizen, where the citizen's only recourse is appeal back to the same agency or a costly judicial appeal that comes after the deprivation has already occurred
+
+**Not Reached (What Executive Actors May Lawfully Do).**
+
+- **Faithful enforcement of existing law** — investigating, citing, prosecuting through an independent court, executing judicial orders — is the executive function and is not reached by this subsection.
+- **Internal personnel actions** that do not deprive citizens of liberty, property, rights, or constitutionally-protected interests, conducted within the scope of ordinary employment law, are not reached.
+- **Truly emergency administrative action** addressing an actual imminent threat to public safety, narrowly tailored, time-limited, and immediately reviewable by an independent court, is not reached — but is reachable to the extent the emergency invocation exceeds those constraints (cf. §17.24 Emergency Power Abuse, §17.24F Public Health Emergency Authority Abuse).
+- **Article I tribunals** that satisfy the constitutional requirements for executive adjudication of public-rights matters with appropriate Article III backstop are subject to the same operative-reality test as the rest of this subsection. The formal label "Article I tribunal" does not insulate conduct that, in operative reality, performs the judicial function without judicial independence.
+
+**Elements.**
+
+For a conviction under this subsection, the prosecution must prove beyond a reasonable doubt:
+
+- The actor is a government actor in the executive or administrative branch (the §1.1.1 definition controls)
+- The actor took, configured, or maintained conduct that performed a judicial function — adjudicating, fact-finding, applying law to specific persons or property, imposing penalties, or rendering binding determinations affecting a citizen's life, liberty, property, family, livelihood, or rights
+- The conduct was performed without the procedural protections owed in a judicial proceeding (notice, opportunity to be heard, independent neutral fact-finder, right to confront witnesses, right to present evidence, right to counsel where applicable, appellate review available before deprivation), or with the actor serving in both enforcing and adjudicating roles (the actor or actor's office both prosecuted and judged)
+- The actor knew, was recklessly indifferent to, or in reckless disregard of clear evidence should have known of the judicial character of the conduct
+
+**Classification.**
+
+- Judicial imposter is a **Class 1 felony**.
+- Where the conduct produced **material deprivation** of a citizen's liberty, property, livelihood, family integrity, or rights — without prior judicial determination — the offense is a **capital offense**.
+- Where the conduct is **sustained as institutional practice** within an agency or office, or is **coordinated across multiple executive actors**, the offense is a **capital offense**.
+- May be charged cumulatively with §1.1.18 (Ultra Vires), §1.1.10 (Anarchy), §1.1.25 (Legislate from the Bench) where the executive-acting-judicial action was paired with judicial-acting-legislative action (the cross-doctrine sandwich), §17.9F (Property Punishment Without Conviction) where forfeiture-style deprivation occurred, §1.1.30 (Authoritarianism), §1.1.45 (Non-Republican Government Act), and any other applicable substantive offense.
+
+**Defenses Limited.**
+
+- "The agency has statutory authority to adjudicate" is not a defense where the statute itself violates the constitutional separation of powers or fails to provide the procedural protections owed in a judicial proceeding.
+- "Judicial review is available" is not a defense where the deprivation occurs before any meaningful judicial review is possible, or where the judicial review is so limited (deferential, narrow, expensive) that it does not operate as a meaningful constitutional check.
+- "The agency proceeding is judicial in nature" is not a defense. The executive actor is not a judicial actor regardless of the proceeding's name; the constitutional question is who performs the function, not what the function is called.
+- "Administrative Law Judges are independent" is not a defense where the ALJ is appointed by, dependent on, supervised by, or subject to removal by the prosecuting agency or its leadership. Structural independence is the operative requirement; nominal independence is not.
+- "Citizens consent by participating in the regulated activity" is not a defense. Citizens do not, by participating in lawful economic, personal, or community activity, waive their constitutional right to have judicial determinations made by judicial actors.
+- "This is the way administrative law has always operated" is not a defense, consistent with §1.1.20 (Incompetence in Office) and the Statement of Intent — institutional habit does not legitimize constitutional excess.
+
+**Relationship to §1.1.25 (Legislate from the Bench).**
+
+This subsection and §1.1.25 are **parallel cross-branch offenses**. §1.1.25 reaches judicial actors performing the legislative function (creating law rather than applying it). This subsection reaches executive actors performing the judicial function (judging citizens rather than enforcing law against them through independent courts). Together, the two subsections reach the most common forms of cross-branch encroachment that, in operative reality, defeat the constitutional separation of powers Article I, Article II, and Article III of the United States Constitution were designed to maintain. Where the elements of both are met by coordinated conduct — a judge legislating a doctrine that authorizes an executive agency to adjudicate — both offenses are charged cumulatively.
+
+**Constitutional Anchors.**
+
+- **Article III** of the United States Constitution — the judicial power vested in the federal courts
+- **Article II** of the United States Constitution — the executive power vested in the President; the duty to "take Care that the Laws be faithfully executed"
+- **The Due Process Clauses** of the Fifth and Fourteenth Amendments — no person shall be deprived of life, liberty, or property without due process of law
+- **The Seventh Amendment** — preserving the right of trial by jury in civil actions at common law
+- **The Utah Constitution** — Article V on separation of powers; Article VIII on the judicial branch
+- ***SEC v. Jarkesy*, 144 S. Ct. 2117 (2024)** — recognizing the Seventh Amendment right to jury trial in agency-prosecuted civil-penalty actions
 
 ### 1.2 Misconceptions
 
