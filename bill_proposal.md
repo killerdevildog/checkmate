@@ -2154,6 +2154,43 @@ Government may lawfully tax, fine, charge fees, require licenses, and impose com
 - "Other jurisdictions have similar fines" is not a defense.
 - "The citizen could have avoided the fine by complying" is not a defense where the underlying offense is itself disproportionate or the compliance burden is itself extractive.
 
+#### 1.1.44 Corruption
+
+> **Corruption.** The use, configuration, or operation of public power for purposes other than the lawful public purposes for which the power is held in trust — including use for personal benefit, family benefit, factional benefit, network benefit, political-organization benefit, financial benefit, ideological benefit, **promotional benefit, career-advancement benefit, prestige benefit, media-profile benefit, or benefit to the actor's future political, professional, or appointment prospects**, or any other private interest of the actor or of persons aligned with the actor; the systematic distortion or perversion of a public function from its lawful purpose; the configuration of an office or institution to operate against the citizens it exists to serve; or the introduction of any other improper consideration into the exercise of public authority.
+
+**Operative Principle.**
+
+Public power is held in trust for the public. Every exercise of public power has a lawful purpose — defined by statute, by the constitutional grant, by the office's mandate, by the function the office serves. Corruption is the **distortion of that exercise toward purposes other than the lawful one**. The corruption may be petty (a single official taking a bribe) or systemic (the architecture of an entire office configured against citizens). The corruption may be personal (use for the actor's enrichment) or factional (use for the actor's political coalition). The corruption may be specific (a particular decision improperly made) or general (the operative posture of an office). In all forms, corruption is **the substantive departure from the trust character of public power**.
+
+**Forms of Corruption (Non-Exhaustive).**
+
+This Act recognizes corruption in any of the following forms, each of which is independently reachable as a substantive offense under the cross-referenced provisions:
+
+- **Personal corruption** — use of public power for the personal benefit of the actor, including financial benefit, status enhancement, **promotion, career advancement, prestige, media profile, qualifications-padding for future appointments, conviction-rate buildup for future political office,** or personal political advantage. Reachable under §1.1.7 (Government Racketeering), §1.1.28 (Caesarism), §1.1.40 (Kleptocratism), §17.10 (Abuse Under Color of Office), among others.
+- **Family corruption** — use of public power for the benefit of family members. Reachable under §1.1.38 (Nepotism).
+- **Network corruption** — use of public power for the benefit of friends, business associates, classmates, or social-network connections. Reachable under §1.1.37 (Cronyism).
+- **Career corruption** — use of public power to advance the actor's career — promotion within the office, prestige, media profile, future political-office prospects, future appointment prospects, conviction-rate buildup, headline-generation, qualifications-padding, or any other career-trajectory interest — rather than to serve the lawful purpose for which the power was granted. Particularly reachable in the prosecutorial context (a prosecutor who pursues weak cases to build a conviction record for higher office), in the police context (an officer who makes questionable arrests for promotion metrics), in the regulatory context (a regulator who pursues high-profile enforcement actions for media exposure or future political career), and in the appointed-official context (an official whose decisions are shaped by the next-step appointment they are positioning themselves for rather than by the mandate of the current office). Reachable under §1.1.28 (Caesarism), §1.1.7 (Government Racketeering), §17.10 (Abuse Under Color of Office), §1.1.32 (Pretextualism) where career advancement was the actual reason behind a pretextual official action, and any role-specific Section 17 offense the underlying conduct meets independently.
+- **Factional corruption** — use of public power for the benefit of a political party, ideological coalition, religious sect, or other faction. Reachable under §1.1.26 (Tribalism), §1.1.36 (Sectarianism), §1.1.39 (Clientelism).
+- **Class corruption** — use of public power to maintain or extend a closed governing class. Reachable under §1.1.31 (Aristocratism).
+- **Institutional corruption** — operation of an office or institution to extract value from citizens, to perpetuate itself, to defeat citizen accountability, or otherwise to serve purposes other than its lawful mandate. Reachable under §1.1.27 (Statism), §1.1.40 (Kleptocratism), §1.1.43 (Extractivism).
+- **Doctrinal corruption** — the use of judicial pronouncement or executive doctrine to construct exemptions from constitutional constraint. Reachable under §1.1.25 (Legislate from the Bench), §1.1.30 (Authoritarianism).
+- **Informational corruption** — the use of public communication channels to deceive citizens, or the suppression of information citizens are entitled to receive. Reachable under §1.1.41 (Propagandism), §1.1.42 (Censorism), §17.6 (Public Trust Fraud).
+- **Procedural corruption** — the use of procedural rules to obstruct substantive justice. Reachable under §1.1.33 (Proceduralism), §1.1.34 (Obstructionism), §1.1.35 (Formalism).
+- **Pretextual corruption** — the use of false stated reasons to exercise official power for actual reasons the law would not permit. Reachable under §1.1.32 (Pretextualism).
+- **Conspiratorial corruption** — coordinated conduct among multiple government actors to achieve any of the above. Reachable under §1.1.6 (Cabalism), §1.1.7 (Government Racketeering).
+
+**Relationship to the Substantive Offenses of This Act.**
+
+Corruption is the **common thread** running through every substantive offense in this Act. The Section 1 umbrella offenses — Cabalism, Government Racketeering, Anarchy, Terrorism, Legislate from the Bench, Tribalism, Statism, Caesarism, Despotism, Authoritarianism, Aristocratism, Pretextualism, Proceduralism, Obstructionism, Formalism, Sectarianism, Cronyism, Nepotism, Clientelism, Kleptocratism, Propagandism, Censorism, and Extractivism — together with the role-specific offenses of Section 17 and the procedural offenses of Section 2, collectively define the recognizable forms of corruption this Act exists to address.
+
+Corruption is **not, by itself, an independent offense under this Act**. The substantive offenses are the operative vehicles for prosecution; the term "corruption" is the operative concept that ties the substantive offenses together. Wherever the term appears in this Act, in any of its forms (corrupt, corrupted, corrupting, corruption, corruptly), it carries the meaning given in this subsection.
+
+**Application.**
+
+- Where any provision of this Act uses the term "corruption" or any of its forms, the term is interpreted consistent with this subsection.
+- The non-exhaustive list of forms above is not a limit on the term's meaning; it is illustrative of the forms the Act expressly reaches.
+- Where conduct meets the operative definition of corruption above but does not fall neatly within the elements of any single substantive offense, the conduct remains reachable through any combination of substantive offenses whose elements are met cumulatively (consistent with the cumulative-charging authority across the Act).
+
 ### 1.2 Misconceptions
 
 This subsection identifies common misconceptions that have shaped — and continue to shape — how the legal system treats core concepts in ways this Act explicitly rejects. Where a court, government actor, juror, council, or proceeding under this Act encounters one of these misconceptions, this subsection controls.
