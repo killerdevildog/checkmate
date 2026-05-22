@@ -248,16 +248,97 @@ This includes, but is not limited to:
 
 A battery occurs when a government actor:
 
-> Actually deprives, restrains, harms, or violates a citizen's rights, liberty, or property through direct action.
+> Actually deprives, restrains, harms, or violates a citizen's rights, liberty, or property — **whether through direct action, or through any indirect process, instrument, order, proceeding, referral, sign-off, transmission, or other intermediate means by which the same deprivation, restraint, harm, or violation is brought about in operative reality**.
 
-This includes:
+**Direct battery** includes, without limitation:
 
 - Unlawful detention or imprisonment
 - Physical force without lawful justification
 - Enforcement actions that exceed lawful authority
 - Execution of orders that violate constitutional or statutory rights
 
-**Classification:** Battery by a government actor is a **Class 2 felony** (or higher, depending on severity).
+**Indirect battery** includes, without limitation:
+
+- Procuring, issuing, signing, endorsing, or rubber-stamping an order, warrant, judgment, sentence, hold, detainer, commitment, removal, no-contact directive, license suspension, asset freeze, garnishment, eviction, lien, child-removal, regulatory action, or any other instrument that effects a deprivation, restraint, harm, or violation that the direct form of battery would otherwise produce — where the actor knew, should have known, or acted with reckless disregard for whether the instrument lacked lawful basis, was procured through fraud, fabrication, perjury, pretext, or constitutional defect, or was unsupported by the due-process protections of Section 2
+- Referring, recommending, transmitting, or initiating a matter for prosecution, investigation, removal, commitment, child-welfare proceeding, immigration proceeding, administrative action, or any other proceeding for the purpose of, or with reckless disregard for the likelihood of, producing an unlawful deprivation, restraint, harm, or violation
+- Transmitting, executing, or enforcing an instrument that, on its face or in the actor's actual knowledge, lacks lawful basis
+- Operating, maintaining, supervising, or relying upon a system, policy, automated process, algorithmic determination, scoring tool, watchlist, database, institutional practice, or chain of officials that produces the same deprivation, restraint, harm, or violation as direct unlawful action would
+- Coordinating, instructing, deputizing, or relying upon a private party, contractor, informant, foster placement, institutional custodian, or other intermediary to carry out conduct that, if performed directly by a government actor, would constitute battery under this section
+
+##### 1.1.3.1 No Process-Laundering Defense
+
+A battery is not cured, neutralized, justified, or transformed into lawful conduct merely because the deprivation, restraint, harm, or violation was effected by paper, by process, by intermediary, by court order, by administrative finding, by inter-agency referral, by automated system, or by any chain of officials in which no single actor personally laid hands on the citizen.
+
+> Where the operative effect on the citizen's rights, liberty, or property is the same as direct action would produce, the conduct is reachable as battery under this section, and **every government actor who knowingly, recklessly, or with deliberate indifference participated in the chain that produced that effect is personally liable**, civilly and criminally, regardless of the formality, title, signature, seal, court endorsement, or facial regularity of the instruments used.
+
+The fact that the deprivation was effected through a court order, administrative order, agency referral, child-welfare proceeding, immigration proceeding, civil-forfeiture proceeding, regulatory action, scoring system, automated determination, or other indirect mechanism does not, by itself, cure the absence of lawful basis. Where the order or proceeding was procured through fraud, fabrication, perjury, pretext, coercion, or any process that fails the due-process protections of Section 2, the indirect form of battery is reachable on the same terms as direct battery, and each actor in the chain is liable for the foreseeable downstream effect of their participation.
+
+##### 1.1.3.2 Predicate Required for Protective Deprivation; Liability for Downstream Harm Runs to the Harm-Causing Actor
+
+This Act does not create a "damned if you do, damned if you don't" exposure for officials who must decide whether to take a protective action — removing a child from a family, arresting a suspect, committing a person in crisis, suspending a license, imposing custody, ordering involuntary treatment, or any other action that itself effects a deprivation of liberty, family integrity, property, or right. The supposed catch-22 is illusory, and is resolved by three structural rules of this Act:
+
+**1. Protective deprivation requires an elemental predicate.** A government actor may not effect the removal of a child from a family, the arrest of a person, the commitment of a citizen, the seizure of property, or any other carceral or coercive action unless the **elemental predicate of a defined offense, or a defined and constitutionally compliant emergency-protective standard, is presently articulable on contemporaneous facts**. Child neglect is a defined offense under generally applicable Utah law. Child endangerment is a defined offense. Child abuse is a defined offense. Domestic violence is a defined offense. Each defined offense has elemental requirements that must be met before the State may invoke the offense as a basis for deprivation. Where the elemental predicate of a defined offense is present and articulable on the facts as the actor contemporaneously knows them, protective action may be lawful (subject to the due-process protections of Section 2 and the **Performed Duty with an Abundance of Care** standard set out in the Statement of Intent). Where the elemental predicate is **not** present and not articulable, protective action is not lawful, and the actor has neither a duty nor authority to effect it.
+
+**2. Absent the predicate, there is no duty to act, and no liability attaches for declining to act.** A government actor's duty to take a protective deprivation arises from the predicate, not from the speculative possibility that something bad might later happen if the actor does not act. A child-welfare worker who declines to remove a child where the elemental predicate of neglect, endangerment, or abuse is not contemporaneously articulable has **not failed in duty**. The actor has correctly recognized that the constitutional baseline forbids removal absent the predicate. The same rule applies to declining to arrest absent the elemental predicate of a defined offense, declining to commit absent the elemental predicate of a defined mental-health emergency-protective standard, declining to suspend a license absent the elemental predicate of a defined regulatory violation, and declining to take any other protective deprivation absent the predicate. Speculation, statistical inference, demographic association, or post-hoc reconstruction of what "might have been done" does not establish a predicate that did not exist on the facts contemporaneously available.
+
+**3. Liability for downstream harm runs to the actor who actually caused the harm — not to the government actor who correctly declined to deprive without a predicate.** If a parent subsequently harms or kills a child, the parent — not the child-welfare worker who, in the absence of an elemental predicate, declined to remove — is liable for that harm. If a person subsequently commits a violent act, that person — not the officer who, in the absence of an elemental predicate, declined to arrest — is liable for the violent act. If a person in mental-health distress subsequently harms self or another, that person and any actor who failed to perform the inquiry-and-resolution duty under §1.1.47 — not the actor who, in the absence of an elemental commitment predicate, declined to commit — is liable. The constitutional order does not displace liability from the harm-causing actor onto a government actor who correctly declined to deprive without a predicate. To displace it would be to impose on government a duty to **preemptively deprive every citizen against whom a future harm could conceivably be hypothesized**, which is the operative form of the very police state Article IV, Section 4 (Guarantee Clause) and the Bill of Rights were written to forbid.
+
+> Liability for harm flows from the act that produced the harm. The Act does not invert that flow. A government actor's failure to deprive a citizen, where no predicate authorized deprivation, is not the cause of a harm that another actor later inflicts.
+
+**Where the predicate is present and the actor takes lawful protective action**, the action is protected — provided the actor performs duty with an abundance of care, applies the minimum-necessary calibration of §1.1.47, documents contemporaneously, and refuses to participate in any process the actor knows or should know is pretextual, fraudulent, fabricated, perjured, or constitutionally defective (§1.1.3.1, §1.1.32). Lawful protective action under predicate is not battery within the meaning of this section; it is the constitutional exercise of delegated authority that the predicate authorizes.
+
+**Where the predicate is contested**, the actor performs duty with an abundance of care by investigating, by giving the citizen the protective benefit of the §1.1.5.2 ambiguity rule (ambiguity resolves in favor of the citizen and against the government actor), by calibrating to the minimum-necessary action consistent with the contemporaneous facts, by documenting the elemental analysis contemporaneously, and where time permits by seeking judicial supervision of the deprivation before effecting it. The actor who does the foregoing is protected; the actor who skips it is not.
+
+This subsection resolves what would otherwise appear to be a symmetric exposure on protective decisions. There is no symmetric exposure. There is one rule: deprivation requires a predicate; the actor's duty is to determine whether the predicate is present applying the Performed Duty standard; liability for downstream harm runs to the actor who actually caused the harm.
+
+##### 1.1.3.3 Emergency Exigency — Limited Carve-Out; Preservation of Citizen Self-Defense
+
+**The Exigency Carve-Out.** Where a **genuine, immediate exigency** presents itself — active violence in progress, active fire, immediate threat to life, medical emergency, or comparable condition — and a government actor takes action reasonably calibrated to address that exigency, the indirect-battery chain-liability rule of §1.1.3.1 does not attach to the actor's good-faith emergency action. The carve-out applies only where:
+
+- The exigency is **actual** — not pretextual, not post-hoc constructed, not statistically inferred, not demographically assumed, and not generated by the actor's own conduct;
+- The action is **proportionate** to the exigency on the facts as the actor contemporaneously knows them;
+- The exigent justification is **documented contemporaneously** in a manner that permits independent verification;
+- The action is **bounded by the duration of the exigency** — any continuing restraint, custody, or deprivation transitions to the ordinary standard the moment the exigency abates;
+- The action is **consistent with the citizen's preserved right of self-defense** as set out below.
+
+**Pretext does not invoke the carve-out.** A government actor who labels conduct as "emergency" to launder action that would not have survived ordinary due care, who manufactures or escalates a condition into a labeled emergency in order to attach the carve-out, or who applies the carve-out to action taken after the exigency has abated does not act under this subsection. Such conduct remains reachable under §1.1.3 (Battery), §1.1.32 (Pretextualism), §1.1.47 (Carceralism), and the underlying substantive provisions of this Act, including generally applicable homicide and assault statutes where physical force was used.
+
+**Preservation of citizen self-defense — the operative limit of the carve-out.** The emergency-exigency carve-out does **not** authorize the use of force by a government actor against a citizen who is, or who reasonably appears to be, exercising the right of self-defense. The right of self-defense — including the right to keep and bear arms in defense of self, family, household, other persons, and property — is preserved in full force in every circumstance, including during an active emergency, and the State's arrival at an active scene does not displace, suspend, qualify, or transfer that right.
+
+A government actor arriving at an active scene of violence does not, on arrival, know who the aggressor is and who the defender is. A citizen present at such a scene with a drawn, holstered, or otherwise visible firearm or other lawful arm may be:
+
+- The actor who initiated the violence;
+- A bystander caught in the violence and reacting to it;
+- **A citizen lawfully defending the citizen's own life, the lives of family or household members, the lives of other citizens present at the scene, or the citizen's property and rights** from the actor who initiated the violence.
+
+The arriving government actor's first duty is to **ascertain which person is the aggressor** — by looking, by communicating, by giving lawful commands proportionate to the contemporaneous facts, by observing what each person at the scene is actually doing, by listening to what citizens at the scene say, and by applying the **citizen-defender presumption** set out below — before using force against any armed citizen present.
+
+**Use of force against an apparent defender — murder, not emergency response.** A government actor who, on arrival at an active scene, uses lethal or near-lethal force against a citizen who is or reasonably appears to be defending self or others — without first ascertaining, on contemporaneously articulable facts, that the citizen is the aggressor rather than the defender — is **not** protected by the emergency-exigency carve-out of this section. Such use of force is reachable as:
+
+- **Battery under §1.1.3**, direct and indirect, including the chain-liability provisions of §1.1.3.1 against every actor who participated in producing the use of force;
+- **Murder, manslaughter, or aggravated assault under generally applicable Utah criminal law**, where the citizen was killed or seriously injured;
+- **Carceralism under §1.1.47**, where the citizen presented any of the conditions enumerated in that section and the actor failed the pre-charging inquiry duty before discharging force;
+- **Pretextualism under §1.1.32**, where "emergency" was invoked to launder force that would not have survived ordinary due care;
+- **Terrorism under §1.1.12** where the conduct, viewed in operative context, used the threat of State force against an armed citizen-defender to terrorize the broader community of armed citizens out of exercising the right of self-defense.
+
+The shooting of a citizen at an active scene **on the assumption that "an armed citizen is the threat"** is, in operative reality, the killing of a defender by the State. The Act treats it as such. The State's arrival is not a transfer of the right of self-defense from the citizen to the State; it is the arrival of an additional party at the scene who, like every other party at the scene, must establish — through ordinary inquiry — what the contemporaneous facts actually are before using force.
+
+**The Citizen-Defender Presumption.** Within the meaning of this Act, a citizen present at the scene of active violence is **presumed to be a defender or a bystander, not an aggressor**, until contemporaneously articulable facts identify the citizen as the actor who initiated or is presently continuing the violence. The presumption:
+
+- Operates in favor of the citizen's life and against the State's use of force, consistent with §1.1.5.2 (ambiguities resolve in favor of the citizen and against the government actor);
+- Is not rebutted by the citizen's possession of a firearm or other lawful arm — possession of an arm in defense of self or others is the constitutional exercise of the right, not evidence of aggression;
+- Is not rebutted by the citizen's demographic, dress, posture, expressive conduct, or proximity to the scene;
+- Is rebutted only by contemporaneously articulable facts identifying the citizen as the actor who initiated the violence — including direct observation of the citizen initiating force, credible identification of the citizen as the aggressor by another person at the scene, or comparable contemporaneous evidence.
+
+The presumption is operative in real time at the scene, not retrospectively in litigation. A government actor who fires on a citizen without first establishing that the presumption is rebutted has fired on a presumed defender, and the legal consequence follows accordingly.
+
+**Citizens Are Not Required to Surrender Self-Defense to the State.** Nothing in this Act, and nothing in the doctrine of any court, may be construed to require a citizen to surrender the citizen's right of self-defense upon the arrival of a government actor at an active scene. A citizen who, on the actor's arrival, is in the act of repelling an aggressor must be given the opportunity to disengage on the citizen's own terms — by lowering or holstering the arm at the citizen's own pace, by identifying the actual aggressor to the actor, by demonstrating the lawful basis for the citizen's posture, and by transitioning the defense to the State only if and when the citizen so chooses on the citizen's own informed assessment of safety. A government actor who, on arrival, treats the lawful defender as a suspect — who orders the defender to drop the arm under threat of lethal force without first communicating, observing, and ascertaining — has imposed on the citizen a duty the Constitution does not authorize.
+
+**Duty to Look, to Ask, to Listen, to Identify — Before Force.** The government actor's first duty on arrival at an active scene is **to look, to ask, to listen, and to identify** — not to shoot. Where the actual aggressor is identifiable on contemporaneous facts, the actor may use lawful proportionate force to neutralize the aggressor consistent with generally applicable law and the Performed Duty with an Abundance of Care standard set out in the Statement of Intent. Where the actual aggressor is not yet identifiable, the actor's duty is to investigate, to communicate, and to give every citizen present the benefit of the citizen-defender presumption, until the aggressor is identified on contemporaneously articulable facts.
+
+The exigency of an active scene does not abolish the inquiry duty. It compresses the inquiry into the time the actor actually has, and it requires the actor to perform the inquiry as effectively as the contemporaneous conditions permit — not to skip it. An actor who skips the inquiry and fires on the presumption that "the armed citizen is the threat" has not acted under exigency; the actor has imported a presumption against the citizen that the Constitution forbids.
+
+**Classification:** Battery by a government actor — whether direct or indirect — is a **Class 2 felony** (or higher, depending on severity). Cumulative charges under §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), §1.1.8 (Obstruction of a Private Citizen), §1.1.12 (Terrorism), §1.1.13 (Official Intimidation), §1.1.32 (Pretextualism), §1.1.33 (Proceduralism), §1.1.46 (Judicial Imposter), §16.3 (Issuance and Enforcement of Repugnant Instruments), §17.9F (Property Punishment Without Conviction), and §1.1.47 (Carceralism) are available where the elements are met.
 
 #### 1.1.4 Infraction (Government Context)
 
@@ -381,7 +462,7 @@ Any statute, ordinance, regulation, rule, policy, practice, order, license condi
   - Regulatory or enforcement action calibrated to drive a citizen out of business or into financial distress
   - Seizure or impoundment of vehicles, tools, equipment, inventory, or premises essential to a citizen's livelihood
 
-**Construction:** For purposes of this section, "evil" means **any unjust law, regulation, enforcement action, or treatment of any person or entity**, and the term shall be construed broadly in favor of the citizen consistent with Section 1.1.5.2.
+**Construction:** For purposes of this section, "evil" means **any unjust law, regulation, enforcement action, or treatment of any person or entity, and any act, omission, instrument, order, policy, practice, or proceeding that is unconstitutional under the United States Constitution, the constitution of any state, or the rights protected under Section 1.1.5** — including any government conduct that abrogates, converts into a privilege, prices out, criminalizes, licenses away, or otherwise nullifies a protected right in operative reality, regardless of whether a court has previously so held. The term shall be construed broadly in favor of the citizen consistent with Section 1.1.5.2, and any ambiguity as to whether a given act is "evil" within the meaning of this section shall be resolved against the government actor.
 
 **Classification:** Cabalism is a **Class 2 felony**, with the penalty enhancements of Section 5.6 available, including for sustained coordination, repeated acts, or significant impact on the affected citizens or entities.
 
@@ -2271,6 +2352,143 @@ This subsection and §1.1.25 are **parallel cross-branch offenses**. §1.1.25 re
 - **The Seventh Amendment** — preserving the right of trial by jury in civil actions at common law
 - **The Utah Constitution** — Article V on separation of powers; Article VIII on the judicial branch
 - ***SEC v. Jarkesy*, 144 S. Ct. 2117 (2024)** — recognizing the Seventh Amendment right to jury trial in agency-prosecuted civil-penalty actions
+
+#### 1.1.47 Carceralism (Criminalization of Citizens in Crisis)
+
+**Carceralism** under this title is the conduct of a government actor who resorts to criminal charge, arrest, citation, detention, eviction, removal, custody, or other carceral or coercive response against a citizen without first having performed the pre-charging crisis-inquiry and resolution duty set out in this section, where the citizen's conduct is reasonably attributable to an underlying condition the government has a duty and a present means to address.
+
+The premise is operative under the Statement of Intent — particularly the **Standard of Lawful Action: Performed Duty with an Abundance of Care** — and under §1.1.25 (Constitutional Premise), §1.1.27 (Statism), and §1.1.45 (Non-Republican Government Act): **government does not exist to criminalize the citizens it was constituted to serve; it exists to address the conditions from which the citizen's distress arises.** A government that responds to citizen crisis with carceral process before it responds with actual help is, within the meaning of this Act, operating in a non-republican form, and the actor who effects that response is reachable under this section.
+
+**Most crimes that come into contact with government actors arise from conditions human beings get into and cannot escape alone — homelessness, hunger, untreated medical or mental-health condition, chronic pain, financial collapse, family crisis, untreated constitutional grievance.** The criminal-first response to such conditions does not resolve them; it compounds them, transfers the cost to the citizen, and produces the public violence, political violence, and erosion of trust in government that the criminal law was supposed to prevent. The carceral-first practice is itself the source of the disorder it claims to address.
+
+##### A Citizen's Threat or Outburst Against a Government Actor — Not Per Se Terrorism
+
+A citizen's expression of anger, distress, frustration, raised voice, profanity, threat (express or implied), or other emotionally charged conduct directed at a government actor is **not, by itself**, sufficient to justify a charge of:
+
+- Terrorism — whether under generally applicable law or under any analog of §1.1.12 applied against citizens
+- Threats against a public official
+- Disorderly conduct
+- Criminal trespass
+- Resisting, impeding, or obstructing
+- Disturbing the peace
+- Assault on an officer where no actual or imminent physical contact occurred
+- Any other offense that turns on the citizen's expressive or emotional conduct toward the actor
+
+— where the citizen's conduct is reasonably attributable to any of the conditions enumerated below. **The duty in such circumstances is to investigate the condition and to address it. The duty is not to charge.**
+
+##### Conditions Triggering the Pre-Charging Inquiry Duty
+
+The government actor's pre-charging inquiry duty under this section attaches where the citizen, at the time of the conduct or contact, presents any of the following — alone or in combination — as reasonably observable to a person of ordinary attention:
+
+- **Hunger or food insecurity** — visible signs of inadequate nutrition, recent food deprivation, or explicit statement of hunger
+- **Disorientation** — visible signs of confusion, exhaustion, sleep deprivation, mental-health crisis, neurological event, intoxication that is itself a medical condition rather than a culpable choice, or any other state in which the citizen is not in ordinary cognitive control
+- **Lack of income or acute financial crisis** — recent job loss, exhausted savings, inability to meet basic obligations, garnishment, asset loss, looming foreclosure or eviction, debt-collection pressure, or any other acute financial condition
+- **Homelessness or housing crisis** — absence of stable shelter, imminent loss of housing, sleeping in a vehicle or other inadequate location, pending eviction, or removal from a temporary placement
+- **Lack of medical assistance** — untreated medical condition, untreated mental-health condition, untreated chronic pain, denied or interrupted medication, loss of insurance, or inability to access care for any reason
+- **Chronic pain** — physical or psychological pain that the citizen has been unable to obtain treatment for through ordinary channels
+- **Constitutional grievance** — an assertion by the citizen that the citizen's constitutional rights are being violated, that government has acted unlawfully against the citizen, or that the citizen has **no remaining lawful remedy in operative reality**.
+
+  A "lawful remedy" within the meaning of this section is one the citizen can **in fact access and use** in the citizen's actual circumstances — not a remedy that exists only on paper. A citizen who could, in theory, file a case, file a complaint, file an administrative appeal, or otherwise invoke a forum, but who **cannot in fact do so without being driven into the very crises this section is designed to recognize**, does not have a remedy within the meaning of this Act.
+
+  **The test is the cost of pursuing the remedy — not the risk of losing on the merits.** A citizen who could afford to file and prosecute a case retains the right to lose on the law or the facts, and is not denied reasonable access by that risk. The question this section asks is the opposite: whether the **act of pursuing the remedy itself, independent of any judgment**, would force the citizen into any of the following — each of which, on its own, defeats reasonable access:
+
+  - **Financial insecurity caused by the case itself** — costs of filing, costs of service, costs of counsel the citizen needs but cannot afford on the available terms, costs of transcripts and records, costs of expert witnesses where required, costs of transportation to and from proceedings, lost wages from time taken off work to attend, or any other cost of pursuing the remedy that the citizen cannot reasonably bear given the citizen's actual income, assets, debts, and obligations. The risk of an adverse judgment is not part of this test; the cost of bringing the case at all is.
+  - **Housing crisis caused by the case itself** — where pursuing the remedy would force the citizen to choose between filing or service fees and rent or mortgage, between attending proceedings and maintaining the citizen's housing, between counsel costs and shelter, or otherwise compromise the citizen's ability to remain housed.
+  - **Hunger crisis caused by the case itself** — where pursuing the remedy would force the citizen to choose between the cost of the case and the cost of food, medication, or other immediate necessities of subsistence.
+  - **Family crisis caused by the case itself** — where pursuing the remedy would force the citizen to lose childcare the citizen depends on, to be absent from minor children or dependent adults during essential caregiving hours, to choose between the case and a family medical emergency, or otherwise to disrupt the family unit in ways the citizen cannot replace.
+  - **Medical crisis caused by the case itself** — where pursuing the remedy would force the citizen to forgo medication, medical or mental-health treatment, therapy, or transportation to medical providers; or would otherwise require the citizen to choose between the cost of the case and the cost of necessary care.
+  - **Loss of income or employment caused by the case itself** — where pursuing the remedy would require time off work the citizen cannot take without loss of employment, loss of shift, loss of contract, loss of standing with an employer the citizen cannot afford to lose, or any other interruption of income the citizen depends on.
+
+  Where pursuing the nominal remedy would, in the act of being pursued, cause any of the foregoing crises, the citizen does **not** have reasonable access to that remedy within the meaning of this section, and the actor's deflection to that remedy does not satisfy the duty under this section.
+
+  A remedy is also not within reasonable access where the citizen cannot in fact use it by reason of **untreated medical or mental-health condition, illiteracy, language barrier, intellectual disability, displacement, custody, ongoing retaliation by the actor or the agency, or any other condition that reduces the nominal remedy to one the citizen cannot in fact use** in the citizen's actual circumstances.
+
+  Consistent with §1.1.5.3 (Practical Means of Exercising a Right), a right to seek redress that the citizen has no practical means of exercising is not a right; it is a permission held by those who can afford it and withheld from those who cannot. This Act treats the practical means of pursuing a remedy as part of the remedy itself.
+
+  An actor who, in response to a citizen presenting a constitutional grievance, directs the citizen to "take it up with the court," "file a complaint," "hire a lawyer," "use the administrative process," or any analogous deflection — without first determining whether the citizen can in fact use the remedy directed to **without incurring any of the crises above** — has not addressed the citizen's grievance. The actor has confirmed it.
+
+- **Family crisis** — recent loss of a family member, separation from children, intimate-partner violence (as victim), caregiver burnout, or any other acute family condition
+- **Service-connected condition** — known or apparent service-connected condition, including PTSD, traumatic brain injury, chronic pain, moral injury, or unresolved VA-system grievance, consistent with the prioritization owed to veterans elsewhere in this Act
+- **Any combination** of the foregoing
+
+##### The Pre-Charging Inquiry and Resolution Duty
+
+Upon observation of, or report of, any of the foregoing conditions, the government actor has an **immediate, non-delegable, non-discretionary duty** to:
+
+1. **Stop any contemplated carceral or coercive response** for which the underlying conduct is the citizen's expressive or emotional act, and stand down any escalation;
+2. **Investigate the citizen's actual condition**, in person, in the language the citizen uses, with whatever time is reasonably required — door to door where the conduct occurred in or near a residence, on the scene where the conduct occurred in public — applying the **Performed Duty with an Abundance of Care** standard;
+3. **Determine the underlying issue** producing the citizen's conduct: what the citizen needs that the citizen does not presently have;
+4. **Connect the citizen, in real time, to the available government, charitable, or private resource** that addresses the underlying issue — including emergency lodging, food, water, medical care, mental-health crisis response, addiction support, veteran services, legal counsel, or the citizen's chosen advocate. Resource referral handed across a counter is not connection within the meaning of this section; the duty contemplates accompanied transition to the resource where the citizen is unable to navigate it alone;
+5. **Resolve the issue** through the actual provision of help, or, where complete resolution is not immediately possible, **take meaningful action toward resolution and continue the engagement until the citizen is stabilized**;
+6. **Document the foregoing contemporaneously**, so that the actor's discharge of the duty is verifiable in real time and not reconstructable after the fact.
+
+**A criminal charge, citation, arrest, eviction, removal, custody, or other carceral or coercive response against a citizen whose conduct is reasonably attributable to any of the foregoing conditions is not justified, and is itself reachable under this section, where the actor has not first performed the inquiry and resolution steps above.**
+
+##### Right of Self-Defense — Retained
+
+Nothing in this section limits or qualifies the government actor's right of self-defense, which every human being possesses against actual or imminent physical violence. Where a citizen presents an **actual or imminent threat of physical harm** to the actor or to another person, the actor may use lawful proportionate force to repel that threat, consistent with generally applicable self-defense law and with the proportionality requirements of this Act.
+
+The self-defense right does **not** authorize:
+
+- Carceral or coercive response after the threat has abated;
+- Treatment of expressive conduct — verbal threats, raised voice, profanity, gesture, or other non-violent expression — as if it were imminent physical violence;
+- Use of force against a citizen presenting any condition in the inquiry-trigger list above, where ordinary investigation, de-escalation, and resource-connection would address the citizen's conduct;
+- Any act of authority calculated or reasonably likely to provoke the citizen into the very physical conduct the actor would then claim to defend against.
+
+##### Acts of Power That Instigate Violence — Prohibited
+
+A government actor may not perform any **act of power** — including arrest, removal, citation, search, seizure, eviction, custody, restraint, display of weapon, order to disperse, or any analogous exercise of state coercion — that is calculated or reasonably likely to instigate violence by the citizen, escalate the citizen's distress, or cause harm to the citizen, **until the citizen's immediate underlying issue has been investigated and at minimum addressed under the duty set out above**.
+
+The criminalization of a citizen already in distress, before the actor has performed the inquiry and resolution required by this section, is itself the act that provokes the violence the criminal law later claims to punish. This Act treats the actor who effects that criminalization, and the agency that institutionalizes the practice, as the operative cause of the resulting public harm.
+
+##### Republican-Form Requirement
+
+A government that responds to citizen crisis with carceral process before it responds with actual help is **not operating in the republican form** guaranteed by Article IV, Section 4 of the United States Constitution. The hasty issuance of criminal-trespass, public-nuisance, disorderly-conduct, vagrancy, loitering, or analogous charges against citizens whose underlying condition the government has the duty and the means to address — homelessness, hunger, untreated medical or mental-health condition, chronic pain, financial crisis, constitutional grievance — is reachable under §1.1.45 (Non-Republican Government Act) cumulatively with this section.
+
+A government whose first contact with a citizen in distress is a criminal charge has converted public office into a mechanism for processing human beings into the carceral system. Whatever the surrounding institutional architecture may technically be called on paper, the operative form is not republican. The Act treats that operative form as itself unconstitutional and reaches it as such.
+
+##### Elements
+
+- The actor is a government actor
+- The actor effected, directed, approved, or materially contributed to a carceral or coercive response against a citizen
+- The citizen, at the time of the conduct or contact, presented one or more of the conditions enumerated in this section
+- The actor knew, or with ordinary attention to the citizen's observable condition would have known, of the citizen's condition
+- The actor failed to perform the pre-charging inquiry and resolution steps required by this section
+- The carceral or coercive response was not necessary to address an actual or imminent threat of physical violence within the meaning of the self-defense rule above
+
+##### Classification
+
+- Carceralism under this section is a **Class 1 felony**
+- Where the carceralism resulted in the citizen's **death**, suicide consistent with Section 12.1, **serious bodily injury**, **child-separation**, **loss of housing**, or **loss of livelihood**, the offense is elevated to a **capital offense**
+- Where the carceralism is part of a **sustained institutional practice** within an agency or jurisdiction, the offense is elevated to a **capital offense**, and the agency itself is reachable under §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), and §1.1.45 (Non-Republican Government Act)
+- Penalty enhancements under Section 5.6 apply — particularly the psychological-harm, family-welfare-anxiety, self-welfare-anxiety, and suicidal-ideation enhancements
+- May be charged cumulatively with §1.1.3 (Battery, including the indirect-process provisions of §1.1.3.1), §1.1.8 (Obstruction of a Private Citizen), §1.1.12 (Terrorism), §1.1.13 (Official Intimidation), §1.1.27 (Statism), §1.1.30 (Authoritarianism), §1.1.32 (Pretextualism), §1.1.33 (Proceduralism), §1.1.45 (Non-Republican Government Act), §17.9F (Property Punishment Without Conviction), and any other applicable provision
+
+##### Defenses Limited
+
+- The fact that the citizen's conduct **technically met the elements** of an underlying offense — trespass, disorderly conduct, threats, public-nuisance, loitering, or any other offense — is **not a defense** where the citizen presented a condition listed in this section and the actor failed to perform the inquiry and resolution steps. The Act does not regard the elemental fit of an underlying offense as sufficient to justify carceral response in the face of an unaddressed citizen crisis.
+- A claim that the actor "did not have time," "had a call to respond to," or "could not be expected to address every citizen's crisis" is **not a defense**. The duty is non-delegable and time-flexible. The actor's institutional pressure is the agency's problem, not the citizen's, and the agency that has not staffed for the inquiry-and-resolution duty is itself reachable under this section.
+- A claim that the resource needed to resolve the citizen's underlying issue "was not available" is **not a defense** unless the actor first attempted, contemporaneously and documentably, to connect the citizen to whatever resource was available — including emergency lodging, food, water, medical care, mental-health crisis response, addiction support, veteran services, legal counsel, or the citizen's chosen advocate.
+- A claim that the citizen "refused help" is **not a defense** unless the actor first offered the help in good faith, in the citizen's language, in a form the citizen could understand, and without the help being conditioned on the citizen submitting to a carceral or coercive process the citizen had a right to refuse.
+- A claim that the citizen's expressive or emotional conduct "was threatening" is **not a defense** absent an actual or imminent threat of physical violence within the meaning of the self-defense rule. The citizen's right to express anger, distress, and constitutional grievance to a government actor is not, by itself, a basis for carceral response.
+- A claim that "this is how we always do it" is **not a defense** (consistent with §1.1.20 Incompetence in Office and the Statement of Intent — institutional habit does not legitimize constitutional excess).
+- Internal policy is **not a defense** (consistent with §2.5.1 and §1.1.10 Anarchy).
+- A claim that the actor "feared for safety" is **not a defense** absent contemporaneous, articulable, individualized facts that would have produced the same fear in a reasonable officer trained to the Performed Duty standard. Generalized institutional fear, statistical fear, or fear derived from the citizen's demographic, dress, posture, or expressive conduct does not satisfy the self-defense exception.
+
+##### Cross-References and Anchors
+
+- **Statement of Intent** — "The Standard of Lawful Action: Performed Duty with an Abundance of Care"
+- **§1.1.5** — Protected Rights, including the right to assert constitutional grievance against government
+- **§1.1.10** — Anarchy
+- **§1.1.12** — Terrorism (government-actor-as-perpetrator); this section establishes that the parallel direction (citizen-toward-actor) is not symmetrically reachable as terrorism where crisis conditions are present
+- **§1.1.13** — Official Intimidation
+- **§1.1.25** — Constitutional Premise (Legislate from the Bench)
+- **§1.1.27** — Statism
+- **§1.1.30** — Authoritarianism
+- **§1.1.32** — Pretextualism (where the carceral response was the pretext for criminalization of an unaddressed condition)
+- **§1.1.45** — Non-Republican Government Act
+- **Article IV, Section 4** of the United States Constitution — the Guarantee Clause
+- **Eighth Amendment** of the United States Constitution — the prohibition on cruel and unusual punishment, applied here to the underlying practice of criminalizing the conditions of human distress
 
 ### 1.2 Misconceptions
 

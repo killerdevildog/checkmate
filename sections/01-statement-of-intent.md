@@ -98,6 +98,33 @@ Government actors may consider some of these duties inconvenient, excessive, or 
 
 This Act gives citizens documented triggers to hold government agents accountable to the highest rank in the American system: the citizen whose rights the government exists to serve.
 
+### The Standard of Lawful Action — Performed Duty with an Abundance of Care
+
+This Act, like every criminal law, deters specific conduct. It is intended to deter, and does deter, every government act that:
+
+- Causes **actual harm** to a citizen;
+- Creates a **need for the citizen to resist**;
+- Produces **uncertainty** in any citizen whose life, liberty, property, family, or rights are at stake.
+
+That deterrence is the operative purpose of every criminal law in our system. Murder statutes deter murder, fraud statutes deter fraud, perjury statutes deter perjury, and tax statutes deter tax fraud because the persons who would otherwise commit those acts know they will be held personally accountable for them. This Act applies that same mechanism to government conduct, which — prior to enactment — was largely insulated from it. The fear that a citizen feels when standing before government power, fear that the action being taken is wrong, fear that resistance will be punished, fear that the result will be unjust and unaccountable, is the experience this Act is written to abolish. The way it abolishes that experience is by binding the government actor to the same kind of consequence that binds every other person in the system.
+
+The corollary is equally operative and equally important: **officials who perform duty with an abundance of care are protected by this Act.** The Act does not punish action. It does not punish inaction. It punishes the unlawful exercise of public power — action taken without due regard for its actual effect on the citizen, inaction maintained against duty, and the substitution of institutional convenience or pretextual cover for the actual truth and for the protection of the citizen whose rights are at stake.
+
+**Performed duty with an abundance of care is the standard of lawful action under this Act.** A government actor performs duty with an abundance of care when the actor:
+
+- **Investigates every concern brought by any citizen** — door to door, in person, by any reasonable means — treating each concern as worthy of address rather than dismissal, regardless of the citizen's standing, status, wealth, education, prior history, or political position;
+- **Explains, intelligibly and in advance, what the actor proposes to do** — in language the citizen can understand, with the basis for the proposed action, the alternatives considered, and the reasons the proposed action was chosen over those alternatives;
+- **Understands, in advance, the actual damage the proposed action will do to the citizen** — including, without limitation, fines, fees, surcharges, costs of compliance, time burden, employment effect, family effect, reputational effect, psychological harm, residual collateral consequences, and downstream effects on the citizen's exercise of other rights;
+- **Calibrates the action to the minimum necessary** to address the lawful purpose, given the harms above;
+- **Documents the foregoing contemporaneously**, so that the actor's exercise of due care is verifiable in real time and not reconstructable after the fact;
+- **Refuses to participate in any process the actor knows or should know is pretextual, fraudulent, fabricated, perjured, or constitutionally defective**, consistent with §1.1.3.1 and the constitutional premise of §1.1.25.
+
+The standard applies to action and to inaction alike. An official who declines to investigate a citizen's concern, declines to respond to a credible report, declines to act where the elements for lawful action are clearly present, or declines to address harm visible to a reasonable official has not performed duty with an abundance of care, and the failure is itself reachable under this Act on the same terms as harmful action. Lawful conduct under this Act requires the official to take the harder of the two paths — to investigate rather than dismiss, to address rather than ignore, to understand the actual cost of action rather than assume it, and to choose the minimum-harm course rather than the institutionally easiest one.
+
+The same standard adapts to genuine exigency. Under active emergency — immediate threat to life, fire, active violence, medical crisis, or comparable circumstance — the standard does not require pre-action investigation or pre-action explanation. It requires that the exigency be **actual**, not pretextual or post-hoc constructed; that the action be **proportionate** to the exigency; that the exigent justification be **documented contemporaneously**; that post-action explanation to the citizen occur as soon as the exigency permits; and that any continuing restraint, custody, or deprivation transition to the ordinary standard as soon as the exigency abates. Pretextual invocation of "emergency" to launder action that would not have survived ordinary due care is itself reachable under §1.1.32 (Pretextualism), and the underlying conduct remains reachable under the substantive offense provisions of this Act.
+
+Officials whose practice already operates within these limits will find the Act unchanged from the conduct they already perform. Officials whose practice depends on shortcutting investigation, dismissing citizen concerns, taking action without understanding its actual cost, or sheltering behind procedural cover from constitutional limits will find this Act has made that practice unsafe — which is what this Act is for.
+
 ### Why This Is the Answer
 
 #### The problem in one sentence
