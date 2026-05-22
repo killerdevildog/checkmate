@@ -262,4 +262,8 @@ Where a government actor is charged with a capital-classification offense or a C
 
 The rules of this section apply with equal force to federal officers reachable under §14.7 (Federal Officer Status Not a Shield). A federal officer charged under this Act is subject to the same pretrial release rules as any other government actor charged under this Act, and the actor's federal-officer status is not a basis for exemption from the conditions of this section.
 
+### 5.10 Oath-of-Office Violation Established Prima Facie by Violation of This Act
+
+> **Any violation of any provision of this Act by a government actor who has taken an oath of office to uphold and defend the Constitution of the United States, the Constitution of the State of Utah, or both, constitutes prima facie evidence that the actor's oath of office has been violated.** The Constitution the oath binds the actor to uphold is the same Constitution this Act enforces; violation of the Act is, on that basis, violation of the oath, with all attendant consequences under generally applicable Utah and federal law and under Section 11 of this Act. Liability under this Act does not depend on the existence, wording, or enforceability of any oath; this rule operates in addition to, not in place of, the actor's direct liability for the substantive violation.
+
 ---
