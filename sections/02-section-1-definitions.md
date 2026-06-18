@@ -241,6 +241,7 @@ This includes, but is not limited to:
 - Actions that create imminent fear of rights deprivation
 - Abuse of authority that pressures compliance outside lawful bounds
 - Conduct that compels a citizen to seek judicial relief, file suit, mount a legal defense, or otherwise litigate in order to vindicate or preserve their rights, liberty, or property
+- **Threats of arrest directed at a homeowner, occupant, family member, household member, business owner, employee, guest, or other person — made to coerce consent to entry, consent to search, production of information, silence, compliance with any directive not lawfully required, or other extraction** — consistent with the rule of §1.1.50 (Trespass — Government Context) that a threat of arrest is a threat of physical-force deprivation and is therefore a threat of violence by a government actor
 
 **Classification:** Assault by a government actor is a **Class 3 felony**.
 
@@ -264,6 +265,7 @@ A battery occurs when a government actor:
 - Transmitting, executing, or enforcing an instrument that, on its face or in the actor's actual knowledge, lacks lawful basis
 - Operating, maintaining, supervising, or relying upon a system, policy, automated process, algorithmic determination, scoring tool, watchlist, database, institutional practice, or chain of officials that produces the same deprivation, restraint, harm, or violation as direct unlawful action would
 - Coordinating, instructing, deputizing, or relying upon a private party, contractor, informant, foster placement, institutional custodian, or other intermediary to carry out conduct that, if performed directly by a government actor, would constitute battery under this section
+- **Taking any item — currency, valuables, identification documents, electronic devices, personal documents, prescription medications, business records, photographs, evidence of any kind, or any other property — from a residence, vehicle, backpack, handbag, briefcase, pocket, lockbox, safe, drawer, or other place the actor entered without a valid search warrant covering that place** (consistent with §1.1.50 Trespass — Government Context). The taking is, in operative reality, felony theft by the government actor under Utah Code § 76-6-401 et seq., reachable cumulatively as battery under this section. *Jessop v. City of Fresno*, 936 F.3d 937 (9th Cir. 2019), and any analogous doctrine treating government-actor theft as shielded by qualified immunity are abrogated within the scope of this Act
 
 ##### 1.1.3.1 No Process-Laundering Defense
 
@@ -750,6 +752,7 @@ The following are **not** prohibited under this section:
 - Explicit or implicit threats to **take a citizen's children** or otherwise interfere with the parent-child relationship — which, when carried out without lawful basis, constitutes **kidnapping** in addition to terrorism under this section
 - Threats of **financial ruin** through audit, asset forfeiture, civil penalties, garnishment, regulatory fines, or other state-enabled financial action
 - Threats of **prosecution, arrest, detention, or deportation** without lawful basis
+- **Threats of arrest** directed at a homeowner, occupant, family member, household member, business owner, employee, guest, or other person to coerce **consent to entry, consent to search, production of information, silence, or other compliance with directives not lawfully required** (consistent with §1.1.50 Trespass — Government Context, which establishes that arrest is, in operative reality, an exercise of physical force, and a threat to arrest is therefore a threat of physical-force deprivation that constitutes terrorism within this section where the threat targets the citizen's wellbeing)
 - Threats of **regulatory action, license revocation, permit denial, or business shutdown** to coerce compliance with unlawful demands
 - Threats against **family members, household members, or close associates** of the citizen
 - **Sustained surveillance, harassment, stalking, or repeated unsolicited contact** by a government actor
@@ -811,6 +814,7 @@ This section reaches government-actor conduct that:
 - Use of office to convey personal disapproval that a reasonable citizen perceives as a threat
 - Conduct that contributes to **family-welfare anxiety, business-welfare anxiety, or financial anxiety** on the part of the citizen
 - Excessive or disproportionate display of authority (vehicles, uniforms, equipment) designed to intimidate rather than to lawfully effect a legitimate purpose
+- **Threats of arrest** directed at a homeowner, occupant, family member, household member, business owner, employee, guest, or other person to coerce consent to entry, consent to search, production of information, silence, or other compliance with directives not lawfully required (consistent with §1.1.50 Trespass — Government Context; the threat is reachable as official intimidation where it produces undue anxiety, fear, or distress without rising to the level of §1.1.2 Assault or §1.1.12 Terrorism)
 
 **Elements:**
 
@@ -2489,6 +2493,252 @@ A government whose first contact with a citizen in distress is a criminal charge
 - **§1.1.45** — Non-Republican Government Act
 - **Article IV, Section 4** of the United States Constitution — the Guarantee Clause
 - **Eighth Amendment** of the United States Constitution — the prohibition on cruel and unusual punishment, applied here to the underlying practice of criminalizing the conditions of human distress
+
+#### 1.1.48 Arbitrary Action and Arbitrary Government — Definition and Evidentiary Rule
+
+This subsection defines **arbitrary action** and **arbitrary government** for purposes of this Act and establishes the operative evidentiary rule under which a government actor's failure or refusal to answer a citizen's inquiry into the basis of the actor's action constitutes **prima facie evidence** of arbitrary action within the meaning of this Act.
+
+##### Arbitrary Action Defined
+
+For purposes of this Act, **arbitrary action** by a government actor means any exercise of public power against a citizen that satisfies one or more of the following operative conditions:
+
+- The actor **cannot articulate** a specific, presently-applicable, lawful standard governing the decision or action
+- The actor's standard, if any, **was not made available** to the affected citizen in a form the citizen could understand, predict, and rely upon
+- The actor's standard was **applied inconsistently** across comparable cases without articulable explanation for the differential treatment
+- The affected citizen **had no meaningful opportunity to challenge, predict, or comply** with the standard the actor purported to apply
+- The actor, when prompted, **relies on external materials** the actor cannot operate from working memory — notes, phone, manual, colleague's prompting, internet search, written law consulted in the moment — to identify the lawful basis of the action (consistent with §1.1.20)
+
+The operative test is whether the actor exercised public power in a manner that the affected citizen could rationally understand, anticipate, and respond to under a knowable rule of law — or whether the action was instead, in operative reality, an exercise of personal or institutional will untethered to any articulable lawful standard.
+
+##### Arbitrary Government Defined
+
+For purposes of this Act, **arbitrary government** means the operative condition in which one or more government actors exercise public power in a pattern, practice, or specific act of arbitrary action as defined above.
+
+- A **single act** of arbitrary action by a single actor constitutes arbitrary government, in the operative sense, with respect to the citizen affected by that act
+- **Repeated** or **coordinated** arbitrary action across actors, institutions, or time constitutes arbitrary government at the institutional level
+- A pattern of arbitrary action sustained as institutional practice within an agency, office, or department constitutes arbitrary government as the operative form of that institution, regardless of the institution's formal label
+
+##### Prima Facie Evidence — The Non-Response Rule
+
+> **Where a government actor, acting under color of state or federal law, is asked by an affected citizen to explain the basis of an action taken or being taken against that citizen, and the actor either cannot answer or will not answer the inquiry, that inability or refusal to answer constitutes prima facie evidence of arbitrary action within the meaning of this subsection.**
+
+The citizen's inquiry need not take any specific form. A request that the actor explain "what authority you are acting under," "what statute or order you are enforcing," "what standard governs this action," "why this is being done to me," "what gives you the right," or any analogous question regarding the lawful basis of the action is sufficient to trigger this subsection. The actor's obligation is to answer in operative substance — to identify the lawful authority, the standard being applied, and the operative basis for applying it to this citizen at this moment.
+
+**Failure to answer** includes, without limitation:
+
+- Outright refusal to respond to the citizen's question
+- Deflection to "I don't have to explain" or "talk to my supervisor" or analogous evasion
+- Recitation of generalized authority ("I have the authority because I'm a [officer/judge/agent]") without identifying the specific lawful standard governing the action
+- Strategic or calculated non-answers — "we follow the law," "I'm doing my job," "ask the court," "consult a lawyer," "this is how we always do it," "I am not familiar with that terminology," "it's complicated" — given in response to a direct question that called for substantive answer
+- Threats or coercion in lieu of answer ("if you don't comply, I'll arrest you")
+- Reliance on external materials the actor cannot operate from working memory to identify the lawful basis (consistent with §1.1.20)
+- Delay or refusal until the affected action is complete, frustrating the citizen's ability to challenge before the deprivation occurs
+
+**Inability to answer** includes circumstances in which the actor, in good faith, attempts to respond but cannot articulate the specific lawful standard, the specific applicable authority, or the operative basis for applying it to the citizen. Inability and refusal are both reached by this rule; the actor's subjective good faith does not displace the prima facie evidence of arbitrary action.
+
+The rule operates **in addition to**, not in place of, the recitation duty of §1.1.20 (Incompetence in Office). Where the citizen's prompt triggers §1.1.20's formal recitation requirement, both this subsection and §1.1.20 apply. Where the citizen's prompt is less formal than the §1.1.20 prompt but still constitutes an inquiry into the lawful basis of the action, this subsection alone applies.
+
+##### Exception — Active Emergency
+
+The active-emergency exception of §1.1.20 applies on the same terms. An active emergency — a present, imminent threat to life or limb that must be settled before the actor can give attention to anything else — suspends the actor's obligation to answer the citizen's inquiry only for the duration of the emergency. The inquiry must be answered as soon as the emergency abates, and the recitation must be performed immediately at that point. "Active emergency" does not include ordinary duties, paperwork, routine patrol, queue of unrelated work, supervisor preference, scheduling inconvenience, or any other condition short of an event that must be settled at that moment.
+
+##### Evidentiary Use — Available to Prove Other Offenses Under This Act
+
+The prima facie evidence of arbitrary action established by this subsection is **available to prove the operative elements of any other offense under this Act for which arbitrary action is relevant**, including without limitation:
+
+- **§1.1.2 (Assault — Government Context)** — where the actor's arbitrary action produced reasonable fear in the citizen of needing to defend rights, the non-response prima facie evidence supports the assault charge
+- **§1.1.3 (Battery — Government Context, including §1.1.3.1 indirect process and §1.1.3.2 predicate requirement)** — where the arbitrary action effected an actual deprivation, restraint, harm, or violation of the citizen's rights, liberty, or property, the non-response prima facie evidence supports the battery charge. The absence of an articulable lawful basis is itself relevant to whether the conduct lacked the elemental predicate of §1.1.3.2
+- **§1.1.10 (Anarchy)** — where the arbitrary action was performed without articulable lawful authority, the non-response prima facie evidence directly supports the anarchy element
+- **§1.1.13 (Official Intimidation)** — where the arbitrary action produced undue anxiety, fear, or distress in the citizen, the non-response prima facie evidence supports the official-intimidation charge
+- **§1.1.18 (Ultra Vires)** — where the arbitrary action exceeded the actor's lawful authority, the non-response prima facie evidence directly supports the ultra vires element
+- **§1.1.20 (Incompetence in Office)** — where the arbitrary action was performed by an actor who could not articulate the lawful basis on citizen prompt, the non-response evidence is doubly available — under §1.1.20 directly and under this subsection
+- **§1.1.29 (Despotism)** — arbitrary action under this subsection IS one of the elements of despotism. The non-response prima facie evidence directly supports the despotism charge
+- **§1.1.32 (Pretextualism)** — where the arbitrary action was the operative pretext for actually-motivated conduct, the non-response prima facie evidence supports the pretextualism charge
+- **§1.1.45 (Non-Republican Government Act)** — where the arbitrary action pushed the operative character of government toward a non-republican form (despotism, tyranny, authoritarianism, oligarchy, etc.), the non-response prima facie evidence supports the non-republican-government charge
+
+The citizen, prosecutor, Citizen Council, or other trier of fact may rely on the prima facie evidence established by this subsection to prove the relevant element of the underlying offense. The evidentiary effect of this subsection is operative across the Act — wherever arbitrary action is an element, a circumstance, or a consideration, the non-response of the actor establishes prima facie that the action was arbitrary.
+
+##### Rebuttal
+
+The actor may rebut the prima facie evidence established by this subsection by demonstrating, with contemporaneous documentation, **all four** of the following:
+
+1. The action was supported by a **specific, articulable, lawful standard** identifiable at the time of the action
+2. The standard was **made available to the citizen** in a form the citizen could understand, predict, and rely upon, either before or contemporaneous with the action
+3. The standard was **applied consistently** across comparable cases, with articulable explanation for any differential treatment of this citizen
+4. The citizen had a **meaningful opportunity** to challenge, predict, or comply with the standard before the deprivation occurred
+
+The rebuttal must be operative, not formal. A citation to a generalized statute without identifying the specific applicable provision, a generalized appeal to "discretion," a recitation of institutional habit ("this is how we always do it"), a post-hoc construction of the basis after the fact, or reliance on materials the actor consulted only after the citizen's inquiry, does not constitute rebuttal within the meaning of this subsection.
+
+##### Cross-References
+
+- **Statement of Intent** — the *Performed Duty with an Abundance of Care* standard requires that officials explain intelligibly and in advance the basis of contemplated action; arbitrary action is the operative inverse of that standard
+- **§1.1.20** — Incompetence in Office (Citizen-Prompted Oath and Authority Recitation) — the related formal-recitation duty
+- **§1.1.29** — Despotism — the offense for which arbitrary action is the defining operative condition
+- **§17.8** — Oath Verification Citation — the narrower civil-citation form of the recitation duty
+- **Article IV, Section 4** of the United States Constitution — the Guarantee Clause; arbitrary government is operatively inconsistent with the republican form the Clause guarantees
+
+#### 1.1.49 Unlawful Arrest by Warrant — Pre-Issuance Notice Failure and Failure to Produce the Warrant at Arrest
+
+This subsection establishes two interlocking duties governing the issuance and execution of arrest warrants, and reaches conduct by any government actor — whether judge, prosecutor, state peace officer, federal officer, or any other government actor — who violates either duty:
+
+> **(a)** A motion for an arrest warrant must, except in defined exigency, be served on the prospective arrestee with reasonable notice and opportunity to respond before the warrant is issued.
+>
+> **(b)** A government actor effecting an arrest pursuant to a warrant must have the warrant in physical or electronic possession at the time of arrest and must produce it to the citizen, in a form the citizen can read, at the moment of arrest.
+
+##### Operative Premise — Due Process Applies to Warrant Issuance
+
+The Fifth and Fourteenth Amendments require notice and a meaningful opportunity to be heard before deprivation of liberty. The ex parte issuance of arrest warrants — under which a warrant is issued without notice to the prospective arrestee and without any opportunity to challenge the operative facts — has, in operative reality, eliminated due process at the warrant stage. The citizen learns of the warrant only when the arrest occurs, by which point the deprivation has already happened and the only "process" available is post-deprivation review.
+
+This Act treats that ex parte practice as constitutionally repugnant to the operative requirements of due process. **Where a citizen will be deprived of liberty by an arrest warrant, that deprivation cannot proceed without pre-deprivation notice and opportunity to respond, except in defined exigency.** The exception is narrow and must be operatively documented; the default is notice and opportunity to be heard.
+
+##### (a) Pre-Issuance Notice and Opportunity to Respond — The Default Rule
+
+Where a government actor authorized to seek an arrest warrant moves a court for the issuance of such a warrant, the motion must, before the warrant issues, be:
+
+- **Served on the prospective arrestee** at the prospective arrestee's last known address, place of business, registered mailing address, or other operative point of contact reasonably calculated to give actual notice
+- **Accompanied by the operative basis** for the motion — the operative facts alleged, the operative offense alleged, the lawful authority invoked, and any supporting documentation the moving party relies upon
+- **Provide a reasonable opportunity to respond** — not less than the period afforded under analogous Utah state-court civil motion practice (typically fourteen days, subject to documented extension or compression on operative justification)
+
+The prospective arrestee may, during the response period, file with the court a response addressing the operative facts, identifying any procedural or substantive defect in the motion, presenting exculpatory evidence, identifying alternative explanations, or raising any other operative challenge. The court **shall consider the response on the record** before issuing or declining to issue the warrant.
+
+A warrant issued without the pre-issuance notice and response procedure required by this paragraph, except under the exigency exception below, is **operatively invalid** within the meaning of this Act. Reliance on an operatively invalid warrant is reachable under this subsection.
+
+##### Exigency Exception — Narrow
+
+The pre-issuance notice and response requirement of paragraph (a) does not apply where the moving party establishes, by contemporaneous documented showing presented to the court before warrant issuance, that:
+
+- The prospective arrestee is **presently fleeing or about to flee** the jurisdiction in a manner that pre-issuance notice would accelerate or assist;
+- The prospective arrestee is **actively engaged in destruction of evidence** that pre-issuance notice would accelerate or assist; or
+- The prospective arrestee presents **a present, articulable threat of imminent serious harm** to a specifically identified person whose protection pre-issuance notice would compromise.
+
+The exigency must be **contemporaneously documented**, **operatively presented and established to the court before warrant issuance**, and **reviewable on the operative facts** — not a generalized appeal to potential flight risk, generalized appeal to potential evidence destruction, or speculative appeal to potential harm. Where the exigency is documented and established, the court may issue the warrant ex parte; the operative basis for the exigency must be preserved in the record and is subject to challenge by the citizen post-arrest under Section 2 (Due Process) and under generally applicable suppression and habeas procedure.
+
+Pretextual invocation of exigency to defeat the pre-issuance notice requirement is reachable under §1.1.32 (Pretextualism) cumulatively with this subsection.
+
+##### (b) Warrant-In-Hand Requirement at Arrest
+
+A government actor effecting an arrest pursuant to a warrant must:
+
+- Have the warrant in **physical possession** at the time of arrest, or in **electronic possession** on a device from which the actor can display the warrant to the citizen in a form the citizen can read
+- **Produce the warrant to the citizen** at the moment of arrest, before any restraint, handcuffing, transport, or further coercive action
+- **Permit the citizen to read** the warrant and to identify, in the citizen's view, any operative defect on its face
+- **Identify the operative authority** under which the arrest is being effected (consistent with §1.1.20 — Incompetence in Office)
+
+A government actor who arrests without the warrant in possession, who refuses to produce it, who refuses to permit the citizen to read it, or who relies on dispatch's verbal assertion that a warrant exists without independently possessing the warrant, commits the offense **regardless of whether a warrant in fact exists somewhere in the system**.
+
+##### Elements
+
+- The actor is a government actor with arrest authority, or a government actor (including a judge or prosecutor) involved in the warrant-issuance process
+- For arrest-executing actors: the actor effected an arrest pursuant to a warrant without having the warrant in possession at the time of arrest, without producing it to the citizen at the moment of arrest, without permitting the citizen to read it, or in reliance on a warrant operatively invalid under paragraph (a) where the exigency exception did not apply
+- For warrant-issuance actors (including judges and prosecutors): the actor moved for or issued an arrest warrant without the pre-issuance notice and response procedure of paragraph (a), without an operatively documented exigency, or on operatively defective documentation
+- The actor knew, should have known, or acted with reckless disregard for the operative defect
+
+##### Defenses Limited
+
+- **Documented Exigency.** The pre-issuance notice exception applies where the moving party established contemporaneous documented exigency on the narrow standard above — defense available subject to the documented showing
+- **Genuine Active Pursuit.** Where the arrest is effected during active pursuit of the citizen following a present-tense offense committed in the government actor's presence, the warrant-in-hand requirement does not apply for the duration of the active pursuit; the warrant must be produced as soon as the active pursuit is concluded — defense available subject to the active-pursuit limitation
+- **Warrantless Arrest Authority.** Where the arrest is effected under the government actor's independent warrantless-arrest authority for a present-tense offense in the government actor's presence — and not pursuant to a warrant — this subsection does not apply; the government actor's conduct is governed by §1.1.10 (Anarchy), §1.1.32 (Pretextualism), and §17.14 (Enforcement Without Articulable Basis) on their own terms
+- **Dispatch Reliance — Not a Defense.** A claim that "dispatch told me there was a warrant" is **not a defense** to the warrant-in-hand requirement
+- **System Reliance — Not a Defense.** A claim that "the warrant is in the system" without the government actor having physical or electronic possession is **not a defense**
+- **Internal Policy — Not a Defense.** Internal department policy contrary to this subsection is **not a defense**
+- **Habit — Not a Defense.** A claim that "this is how we always do it" is **not a defense**
+- **Claim of Ex Parte Tradition — Not a Defense.** A claim that ex parte warrant issuance is "the historical practice" is **not a defense**; the historical practice is precisely what this subsection reaches as operatively inconsistent with due process
+
+##### Classification
+
+- Arrest by warrant in violation of either paragraph (a) or paragraph (b) is a **Class 2 felony**
+- Where the violation involved coordinated conduct across the issuing judge, the moving prosecutor, and the arresting government actor, the offense is elevated to a **Class 1 felony** under Section 5.6 enhancements
+- Where the violation resulted in unlawful deprivation of liberty extending beyond seventy-two hours, or in deprivation of liberty that produced foreseeable physical, psychological, family, or financial harm, the offense is elevated to a **capital offense**
+- Reliance on a warrant operatively invalid under this subsection is itself reachable under §1.1.3 (Battery, including §1.1.3.1's chain-liability rule), §1.1.10 (Anarchy), §1.1.18 (Ultra Vires), and §1.1.32 (Pretextualism) where the underlying conduct meets those provisions' elements; charges may be brought cumulatively
+
+##### Cross-References
+
+- **Fourth Amendment** of the United States Constitution — the operative requirement of probable cause and particular description, augmented in this Act by the pre-issuance notice and response procedure of paragraph (a)
+- **Fifth and Fourteenth Amendments** of the United States Constitution — the operative due-process requirements of pre-deprivation notice and opportunity to be heard, applied here to the warrant stage
+- **Section 2** of this Act — Due Process; the broader due-process framework of which this subsection is the warrant-stage operative application
+- **§1.1.3** — Battery (Government Context); reliance on an operatively invalid warrant constitutes battery under §1.1.3.1's chain-liability rule
+- **§1.1.10** — Anarchy; arrest pursuant to an operatively invalid warrant is operation outside lawful authority
+- **§1.1.20** — Incompetence in Office; the government actor's working knowledge of the warrant's operative validity is part of the actor's operative authority recitation
+- **§1.1.32** — Pretextualism; pretextual invocation of exigency is reachable cumulatively
+- **§1.1.46** — Judicial Imposter; ex parte warrant issuance without the judicial application of due process is itself an executive-style determination performed by the judicial actor without the operative protections the judicial function requires
+- **§1.1.48** — Arbitrary Action; arrest without articulable lawful basis, or in reliance on a warrant the actor cannot operatively justify, is reachable under the arbitrary-action evidentiary rule
+- **§17.14** — Enforcement Without Articulable Basis; supplements this subsection for warrantless arrests
+- **§1.1.50** — Trespass (Government Context); an arrest warrant alone does not authorize entry onto private premises
+
+#### 1.1.50 Trespass (Government Context)
+
+> A government actor commits **trespass** under this title where the actor, while acting under color of state or federal authority, enters, attempts to enter, directs another to enter, or threatens to enter private premises without lawful authority to do so.
+
+**Forms of Trespass Include, But Are Not Limited To:**
+
+- Entry into a residence, dwelling, apartment, hotel room, or other home without a valid search warrant covering those premises and without freely given consent or documented exigency
+- Entry into a business interior, office, or other commercial space without a valid search warrant covering those premises and without freely given consent or documented exigency
+- Entry into a vehicle — including the passenger compartment, trunk, glove compartment, console, or any container within the vehicle — without a valid search warrant covering that vehicle and without freely given consent or documented exigency
+- Entry into a backpack, handbag, briefcase, pocket, lockbox, safe, drawer, or other personal container without a valid search warrant covering that container and without freely given consent or documented exigency
+- Entry onto fenced curtilage, private yard, posted property, or other location to which the lawful occupant has not granted access
+- Entry purportedly authorized by an arrest warrant alone, where the actor possesses no search warrant covering the premises being entered
+- Entry effected through coerced consent — threats of arrest, threats to return with a warrant, threats against family or household members, demands of authority, intimidation, or comparable coercion negating the freedom of consent
+
+**Operative Premise — An Arrest Warrant Is Not a Search Warrant.**
+
+An arrest warrant authorizes a government actor to take a named person into custody. An arrest warrant operates on the person; it does **not**, by itself, authorize the government actor to enter any specific premises, vehicle, or container. A search warrant operates on the property and is required for entry. **An arrest warrant alone is not sufficient to authorize entry onto private premises. Both an arrest warrant complying with §1.1.49 and a search warrant particularly describing the premises are required where a government actor seeks to enter private premises to effect an arrest.**
+
+This Act treats the federal-doctrine practice of permitting premises entry on an arrest warrant alone as constitutionally inconsistent with the Fourth Amendment's requirement of probable cause "particularly describing the place to be searched." The arrest warrant does not particularly describe any place. Where premises entry is involved, the warrant authority for that entry must rest on probable cause particularly describing the premises.
+
+**Unlawful Entry Cascades to Unlawful Arrest and Kidnapping.**
+
+Where a government actor enters private premises without lawful authority and takes a person from those premises, the entire arrest is operatively unlawful regardless of any arrest warrant the actor holds. An arrest warrant does not retroactively cure unlawful entry. The taking is, in operative reality, the seizure of a person without authority of law and constitutes **kidnapping** under Utah Code § 76-5-301 et seq. and analogous federal and state kidnapping statutes, chargeable cumulatively with trespass under this section and with battery under §1.1.3.
+
+**Threat of Arrest as Threat of Violence.**
+
+A government actor's threat to arrest a homeowner, occupant, family member, household member, business owner, employee, guest, or other person — made to coerce consent to entry, consent to search, production of information, silence, compliance with any directive not lawfully required, or other extraction — constitutes a **threat of violence** by a government actor. Arrest is, in operative reality, an exercise of physical force against the person; a threat to arrest is a threat to inflict that physical-force deprivation. The threat is reachable cumulatively under §1.1.2 (Assault — Government Context), §1.1.12 (Terrorism — Government Context), and §1.1.13 (Official Intimidation), and may be charged with the trespass under this section where entry was effected or attempted.
+
+**Items Taken from Unlawfully Entered Premises Are Felony Theft.**
+
+Anything taken by a government actor from a residence, vehicle, backpack, container, or other place the actor entered without lawful authority — including currency, valuables, identification documents, electronic devices, personal documents, prescription medications, business records, photographs, evidence of any kind, or any other item — constitutes **felony theft** by the government actor under Utah Code § 76-6-401 et seq., chargeable cumulatively with trespass under this section and with battery under §1.1.3. *Jessop v. City of Fresno*, 936 F.3d 937 (9th Cir. 2019), and any analogous doctrine treating government-actor theft as shielded from accountability within the scope of this Act are abrogated.
+
+**Elements:**
+
+- The actor is a government actor (§1.1.1)
+- The actor entered, attempted to enter, directed another to enter, or threatened to enter private premises
+- The entry, attempted entry, or threat was without a valid search warrant covering those premises, without freely given consent, and without documented exigency
+- The actor knew, should have known, or acted with reckless disregard for the absence of lawful authority
+
+**Classification:**
+
+- Trespass by a government actor under this section is a **Class 2 felony**
+- Where the entry was into a residence or dwelling, the offense is elevated to a **Class 1 felony**
+- Where the entry resulted in an unlawful arrest, the unlawful arrest is chargeable as kidnapping cumulatively; where the resulting unlawful arrest produced death, suicide consistent with Section 12.1, serious bodily injury, or unlawful deprivation of liberty beyond seventy-two hours, the offense is elevated to a **capital offense**
+- Where the entry involved threats of arrest used to coerce consent, the threats are chargeable cumulatively under §1.1.2, §1.1.12, and §1.1.13 where elements are met
+- Where items were taken, the takings are chargeable as felony theft cumulatively
+- Penalty enhancements under Section 5.6 apply
+
+**Defenses Limited:**
+
+- **Both Warrants Held.** Defense available where the actor possessed both a valid arrest warrant complying with §1.1.49 AND a valid search warrant particularly describing the premises entered
+- **Free Consent.** Defense available where the lawful occupant freely, knowingly, and without coercion consented. Consent obtained through threats, intimidation, claims of authority, or threats to return with a warrant is not free
+- **Documented Exigency.** Defense available subject to a contemporaneously documented exigency on the narrow standard of §1.1.49 (present imminent threat to life within the premises, active pursuit of a fleeing felon who entered in the actor's immediate view, imminent destruction of identified evidence, or comparable individualized exigency). Generalized investigation interest, generalized arrest interest, generalized suspicion, or generalized belief the named person was inside is not exigency
+- **Arrest Warrant Alone — Not a Defense.** Possession of an arrest warrant for the named person is **not a defense** to entry without a separate search warrant covering those premises
+- **Federal Doctrine — Not a Defense Within Utah.** Federal-court doctrine permitting premises entry on an arrest warrant alone is **not a defense** within the State of Utah for purposes of this Act, consistent with §1.1.25 (Legislate from the Bench)
+- **Internal Policy or Habit — Not a Defense.** "This is how we always do it" or "department policy" is **not a defense**
+- **Dispatch / Supervisor Authorization — Not a Defense.** Reliance on dispatch, supervisor authorization, or institutional clearance without independent verification of warrant authority is **not a defense**
+
+**Cross-References:**
+
+- **Fourth Amendment** of the United States Constitution — the requirement of probable cause particularly describing the place to be searched
+- **§1.1.2** — Assault (Government Context); threats of arrest reachable cumulatively
+- **§1.1.3** — Battery (Government Context); deprivation through unlawful entry and items taken reachable cumulatively
+- **§1.1.10** — Anarchy; entry without lawful authority is operation outside lawful authority
+- **§1.1.12** — Terrorism (Government Context); threats reachable where elements met
+- **§1.1.13** — Official Intimidation; threats reachable cumulatively
+- **§1.1.32** — Pretextualism; pretextual invocation of exigency reachable
+- **§1.1.46** — Judicial Imposter; judicial purported authorization of premises entry on an arrest warrant alone reachable as executive-style determination without judicial application of due process
+- **§1.1.48** — Arbitrary Action; entry without articulable lawful basis triggers the non-response prima-facie evidence rule
+- **§1.1.49** — Unlawful Arrest by Warrant; the procedural warrant framework
+- **§17.9F** — Property Punishment Without Conviction; items taken without warrant reachable cumulatively
+- **Utah Code §§ 76-5-301 et seq.** — kidnapping; cumulatively charged where elements are met
+- **Utah Code §§ 76-6-401 et seq.** — theft; cumulatively charged where elements are met
+- ***Jessop v. City of Fresno*, 936 F.3d 937 (9th Cir. 2019)** — federal qualified-immunity doctrine shielding government-actor theft; abrogated within Utah for purposes of this Act
 
 ### 1.2 Misconceptions
 
