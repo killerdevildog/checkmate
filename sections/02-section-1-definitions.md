@@ -2697,6 +2697,10 @@ A government actor's threat to arrest a homeowner, occupant, family member, hous
 
 Anything taken by a government actor from a residence, vehicle, backpack, container, or other place the actor entered without lawful authority — including currency, valuables, identification documents, electronic devices, personal documents, prescription medications, business records, photographs, evidence of any kind, or any other item — constitutes **felony theft** by the government actor under Utah Code § 76-6-401 et seq., chargeable cumulatively with trespass under this section and with battery under §1.1.3. *Jessop v. City of Fresno*, 936 F.3d 937 (9th Cir. 2019), and any analogous doctrine treating government-actor theft as shielded from accountability within the scope of this Act are abrogated.
 
+**No Post-Hoc Justification for Unlawful Entry.**
+
+An unlawful entry under this section is not cured by any after-the-fact justification. A government actor who enters first and justifies later — "we would have found it anyway," "the officer believed the warrant was valid," "we later got a warrant on an independent basis" — has committed the trespass at the moment of the unlawful entry, and no subsequent doctrine retroactively makes the entry lawful. The post-hoc-justification doctrines (inevitable discovery, good faith, independent source, and analogous doctrines) do not operate as a defense to trespass, kidnapping, or theft under this section. The full operative treatment of the constitutional sequence, the repugnant post-hoc-justification doctrines, and the additional offenses that sequence inversion establishes is set out in **§1.1.52 (Inversion of Constitutional Sequence — No Post-Hoc Justification)**, which governs across this Act.
+
 **Elements:**
 
 - The actor is a government actor (§1.1.1)
@@ -2735,10 +2739,280 @@ Anything taken by a government actor from a residence, vehicle, backpack, contai
 - **§1.1.46** — Judicial Imposter; judicial purported authorization of premises entry on an arrest warrant alone reachable as executive-style determination without judicial application of due process
 - **§1.1.48** — Arbitrary Action; entry without articulable lawful basis triggers the non-response prima-facie evidence rule
 - **§1.1.49** — Unlawful Arrest by Warrant; the procedural warrant framework
+- **§1.1.51** — General Warrant (Government Context); entry pursuant to a general warrant is trespass on the same terms as entry without warrant
+- **§1.1.52** — Inversion of Constitutional Sequence — No Post-Hoc Justification; the Act-wide rule that unlawful entry is not cured by after-the-fact justification
 - **§17.9F** — Property Punishment Without Conviction; items taken without warrant reachable cumulatively
 - **Utah Code §§ 76-5-301 et seq.** — kidnapping; cumulatively charged where elements are met
 - **Utah Code §§ 76-6-401 et seq.** — theft; cumulatively charged where elements are met
 - ***Jessop v. City of Fresno*, 936 F.3d 937 (9th Cir. 2019)** — federal qualified-immunity doctrine shielding government-actor theft; abrogated within Utah for purposes of this Act
+- **§1.1.51** — General Warrant (Government Context); a general warrant cannot cure the operative defects in entry, seizure, or arrest reached by §1.1.49 and §1.1.50
+
+#### 1.1.51 General Warrant (Government Context)
+
+> A government actor commits the offense of **General Warrant — Issuance, Approval, or Enforcement** under this title where the actor, in any capacity (judicial, prosecutorial, peace-officer, federal, or other), issues, signs, approves, applies for, executes, enforces, or relies on a warrant that is not specific and limited as to the items to be seized, the persons to be seized, and the places to be searched.
+
+##### General Warrant Defined
+
+For purposes of this Act, a **general warrant** is any warrant — whether titled arrest warrant, search warrant, administrative warrant, anticipatory warrant, electronic-data warrant, cellphone warrant, body-attachment warrant, capias, or any analogous instrument — that lacks operative particularity in any one or more of the following dimensions:
+
+- **Items to be seized.** The warrant does not identify, with operative specificity, the particular items the executing actor is authorized to take. Phrases such as *"and other fruits, instrumentalities, and evidence of crime,"* *"any and all evidence,"* *"any documents related to the investigation,"* *"all electronic data,"* *"all financial records,"* *"all communications,"* *"any and all messages,"* *"any communications about the alleged offense,"* *"all photographs and videos on the device,"* *"all data within a date range,"* or comparable open-ended formulations are operatively general and do not satisfy the particularity requirement — regardless of any surrounding contextual language that arguably "implies" a limit.
+- **Persons to be seized.** The warrant does not identify, with operative specificity, the particular individuals authorized to be taken into custody — by name, by precise physical description sufficient to distinguish the named person from others, and by any other operatively identifying detail. Warrants authorizing seizure of *"any person present at the location,"* *"any unknown associates,"* *"any participant in the alleged scheme,"* or comparable open-ended formulations are operatively general.
+- **Places to be searched.** The warrant does not identify, with operative specificity, the particular locations the executing actor is authorized to enter and search, **down to the smallest part of the place to be searched**. Where the contemplated search is within a residence, building, or vehicle, the warrant must identify the specific cabinets, desks, drawers, containers, electronic devices, or other operative sub-locations within the building that the warrant covers. **A warrant authorizing a search of an entire residence, building, business, or vehicle is, for purposes of this Act, an operatively general warrant.** A whole-house raid warrant is general. A "search the residence" warrant is general. Particularity must reach the specific operative sub-location of the contemplated search — *"the locked safe in the master bedroom closet,"* *"the file cabinet labeled 'Lot 13T' in the basement office,"* *"the desktop computer in the home office on the desk against the north wall"* — not merely the building containing them.
+
+The constitutional requirement of particularity is not satisfied by general identification of a building, a room, a category of person, or a category of item. The requirement reaches the operative item, the operative person, and the operative sub-location.
+
+##### Examples — Particular vs. General
+
+The distinction is operative, not theoretical. The following contrasts illustrate the operative line for the categories of warrant the modern criminal-procedure apparatus most frequently produces:
+
+**Physical premises — particular vs. general:**
+
+- *Particular:* "The locked safe located in the master bedroom closet at 123 Main Street, identified by serial number 47829, and the contents of that safe relating to the alleged real-estate fraud documented at paragraphs 14–22 of the supporting affidavit."
+- *General:* "The residence at 123 Main Street and any documents, instruments, or evidence of crime located therein." This is a whole-premises warrant. Under this Act it is operatively general regardless of any affidavit context.
+
+**Cellphone and digital data — particular vs. general:**
+
+- *Particular:* "The text message sent on March 14, 2025 at 8:47 p.m. from telephone number (XXX) XXX-XXXX to telephone number (YYY) YYY-YYYY, residing on the iPhone identified by IMEI 35XXXXXXXXXXXXX, containing the operative content described at paragraph 9 of the supporting affidavit."
+- *General:* "Any and all text messages on the cellphone relating to planning." This is operatively general. The warrant delegates to the executing officer the determination of which messages "relate to planning" — exactly the discretion *Marron v. United States* held is forbidden. Under this Act it is operatively general regardless of any contextual narrowing the issuing court purported to apply.
+- *General:* "All photographs and videos on the device dated between January 1, 2024 and December 31, 2024." Operatively general for the same reason. The date range does not particularize the operative items.
+- *General:* "Any and all communications on the device about the alleged offense." Operatively general — the determination of which communications are "about the alleged offense" is left to the officer.
+- *Particular:* "The photograph file IMG_4827.jpg, captured on the device on April 2, 2025 at 3:14 p.m., depicting the operative scene described at paragraph 11 of the supporting affidavit."
+
+**Email and cloud data — particular vs. general:**
+
+- *Particular:* "The email sent from sender@example.com to recipient@example.com on June 3, 2025 at 11:22 a.m. with subject 'Confirmation,' as identified in the supporting affidavit at paragraphs 6–8, residing in the account [account ID] hosted by [provider]."
+- *General:* "Any and all emails in the account [account ID] relating to the investigation." Operatively general.
+
+**Body / DNA / biometric — particular vs. general:**
+
+- *Particular:* "A single buccal-swab sample from the named person, to be compared to the specific DNA sample identified in the supporting affidavit at paragraph 4."
+- *General:* "Buccal swab, blood draw, hair samples, fingerprint impressions, and any other biological material from the named person." Operatively general — multiple modalities without specificity.
+
+**Persons — particular vs. general:**
+
+- *Particular:* "John Smith, date of birth January 14, 1985, residing at 123 Main Street, height 5'10", build medium, dark hair, with a tattoo on the left forearm."
+- *General:* "John Smith and any person residing at or known to associate with him." Operatively general.
+
+The operative test in every case: **does the warrant leave any meaningful discretion to the executing officer to determine what, whom, or where to search or seize?** If yes, it is general. If no — if the warrant's text alone identifies the operative item, person, and sub-location with sufficient specificity that the executing officer's role is reduced to ministerial execution — it is particular.
+
+##### Historical Foundation — The English Cases That Made the Fourth Amendment
+
+The Fourth Amendment's prohibition on general warrants traces directly to two English cases:
+
+**Wilkes v. Wood, 98 Eng. Rep. 489 (C.P. 1763)** — Lord Camden invalidated the Crown's general warrant authorizing arrest of *"any person suspected of authoring or publishing"* a pamphlet critical of King George III and seizure of *"any papers revealing [its] authorship."* Lord Camden held the general warrant violated the common law.
+
+**Entick v. Carrington, 95 Eng. Rep. 807 (C.P. 1765)** — Lord Camden invalidated a general warrant under which the Crown's agents had broken into John Entick's house, broken open locked desks and boxes, and seized printed materials. Lord Camden held the warrant was *"subversive of all the comforts of society"* on three independently sufficient grounds: (a) its general character, (b) absence of probable cause, and (c) absence of any required record of what was seized.
+
+These cases became, in the words of *Boyd v. United States*, 116 U.S. 616, 626–27 (1886), the canonical statement against general warrants and the lodestar of the American Founding generation's drafting of the Fourth Amendment.
+
+The Founders enshrined the prohibition in operative constitutional text:
+
+> "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, **and particularly describing the place to be searched, and the persons or things to be seized**."
+>
+> — U.S. Const. amend. IV (emphasis added)
+
+##### The Particularity Requirement — The Operative Doctrinal Statement
+
+The Supreme Court's foundational articulation of the operative particularity requirement is **Marron v. United States, 275 U.S. 192, 196 (1927)**:
+
+> "The requirement that warrants shall particularly describe the things to be seized **makes general searches under them impossible** and prevents the seizure of one thing under a warrant describing another. **As to what is to be taken, nothing is left to the discretion of the officer executing the warrant.**"
+
+This is the operative constitutional rule. **Nothing is left to the discretion of the officer executing the warrant.** Where any operative discretion is left to the executing officer regarding what to seize, where to search, or whom to take, the warrant is, by definition, general.
+
+The Court reaffirmed the principle in **Stanford v. Texas, 379 U.S. 476, 485–86 (1965)**, invalidating a warrant authorizing seizure of *"books, records, pamphlets, cards, receipts, lists, memoranda, pictures, recordings, and other written instruments concerning the Communist Party of Texas"* as unconstitutionally general. The Court reaffirmed in **Groh v. Ramirez, 540 U.S. 551, 557 (2004)** that particularity must appear **on the face of the warrant itself**, not merely in supporting affidavits the citizen does not have access to at the time of execution.
+
+##### The Logical Inconsistency in Supreme Court Doctrine
+
+The Supreme Court has not, however, maintained the operative coherence of *Marron's* rule. The clearest example of the doctrinal contradiction is **Andresen v. Maryland, 427 U.S. 463 (1976)**.
+
+*Andresen* upheld a warrant ending with the phrase *"together with other fruits, instrumentalities, and evidence of crime at this (time) unknown."* That language, on its face, leaves the determination of what to take to the executing officer's discretion — *"evidence of crime at this time unknown"* is, by its plain meaning, evidence the officer will identify in the moment of search. The Court reasoned that surrounding contextual language about a specific real-estate fraud investigation implicitly limited the "other fruits" formulation, and that the warrant was therefore not general.
+
+**This reasoning is operatively irreconcilable with *Marron*.** *Marron* held that *"nothing is left to the discretion of the officer executing the warrant."* *Andresen* held that "*other fruits, instrumentalities, and evidence of crime at this time unknown*" — language whose very text delegates the determination to the officer — is consistent with particularity so long as the surrounding context implies a limit. **These two holdings cannot both be true.** Either nothing is left to the officer's discretion (*Marron*) or "*other fruits ... at this time unknown*" is permissible because context limits it (*Andresen*). The contradiction has never been openly reconciled.
+
+*Andresen* is one example of a broader pattern of accumulated logical inconsistencies that, in cumulative operative effect, have hollowed the particularity requirement to the point where citizens cannot reliably predict what scope a court will treat as particular and what scope it will not:
+
+- *Marron* says "nothing is left to the discretion of the officer," but *Andresen* permits open-ended "other fruits" language whose plain text leaves the determination to the officer.
+- *Stanford v. Texas* applied a "scrupulous exactitude" standard to warrants implicating First Amendment freedoms — implying lesser exactitude for warrants implicating only Fourth Amendment freedoms — even though the Fourth Amendment's textual particularity requirement contains no tiered standard.
+- *Groh v. Ramirez* requires particularity on the warrant's face, but the modern administrative-warrant and electronic-data-warrant practice routinely permits cross-reference to affidavits and supporting documentation not produced to the citizen at execution — operatively the opposite of *Groh's* rule.
+- State supreme courts have, in the modern era, been forced to invalidate "any and all data" cellphone warrants as operatively general — *People v. Coke* (Colo. 2020), *Wheeler v. State* (Del. 2017) — precisely because federal doctrine has been incoherent enough to permit such warrants in practice. State-level pushback is itself evidence that the federal doctrine has departed from the operative constitutional text and has become so inconsistent that lower courts have to invent their own analyses to apply the Fourth Amendment in modern contexts.
+- The Court has approved warrants for entire physical premises (the residence-search warrant) and for entire categories of digital data (the cellphone-image warrant) under the same constitutional text the Founders wrote to forbid the entire-premises searches of Wilkes and Entick.
+
+**The inability of a reasonable citizen, a reasonable officer, a reasonable lawyer, or a reasonable lower-court judge to predict whether a given warrant will be treated as particular or general is itself the operative defect *Marron* identified.** Where the determination of what is and is not a general warrant becomes a matter of post-hoc contextual discretion, the particularity requirement has, in operative reality, been abandoned. The Fourth Amendment text — *"particularly describing the place to be searched, and the persons or things to be seized"* — has been replaced by judicial doctrine that does not match it.
+
+##### Repugnant Supreme Court Doctrine — Null Within Utah for Purposes of This Act
+
+> **This Act treats every Supreme Court doctrine that has, in operative effect, permitted the issuance or enforcement of a warrant not satisfying the operative particularity requirement of the Fourth Amendment text as repugnant to the Constitution within the meaning of §16 (Nullity of Government Instruments Repugnant to This Act or to Constitutional Authority) and as judicial legislation reachable under §1.1.25 (Legislate from the Bench).**
+
+Within the State of Utah, the following doctrines are operatively null for purposes of this section:
+
+- ***Andresen v. Maryland*, 427 U.S. 463 (1976)** — to the extent it permits warrants ending in "other fruits, instrumentalities, and evidence of crime" or comparable open-ended catchall formulations
+- **The tiered-exactitude implication of *Stanford v. Texas*** — the Fourth Amendment text contains no tiered standard; "scrupulous exactitude" is the operative requirement for all warrants
+- **Any modern decision permitting unparticularized electronic-data warrants, cellphone-content warrants, cloud-data warrants, or comparable digital-search instruments where the warrant does not identify, with operative specificity, the particular data to be seized** (specific text from specific person at specific time, specific file by name and timestamp, specific email by sender/recipient/subject/timestamp — not "any and all" formulations of any kind)
+- **Any modern decision permitting a "search the residence" warrant or comparable whole-premises warrant without specifying the operative sub-locations to be searched**
+- **Any other Supreme Court or federal-circuit doctrine that, in operative effect, departs from the operative *Marron* rule**
+
+The operative consequence: a government actor cannot rely on any of the above doctrines as a defense to liability under this section within Utah. The Fourth Amendment text controls. *Marron's* operative rule controls. Doctrines departing from the text do not operate within the scope of this Act.
+
+##### Operative Offense — Class 1 Felony for Judicial Issuance
+
+> A government actor in the judicial branch who issues, signs, or approves a general warrant — as defined above — commits a **Class 1 felony** under this title.
+
+The judicial role at warrant issuance is the operative point at which the particularity requirement is enforced. A judge who signs a general warrant has, in operative reality, abdicated the judicial function the Founders assigned to that role — the function of operative independent review of probable cause and particularity standing between the executive's request and the citizen's deprivation. The signing of a general warrant is, in structural terms, the conversion of the judicial office into the operative arm of executive discretion — the very condition the Fourth Amendment was written to prevent.
+
+The offense reaches issuance of:
+
+- General arrest warrants
+- General search warrants
+- General electronic-data warrants (including cellphone, computer, cloud, email, and social-media warrants)
+- General administrative warrants
+- General anticipatory warrants
+- General body-attachment warrants
+- Any other instrument operatively functioning as a warrant where the operative scope is not particular
+
+##### Operative Offense — Class 1 Felony for Execution and Enforcement
+
+> A government actor who executes, enforces, or relies upon a general warrant commits a **Class 1 felony** under this title.
+
+The executing actor is not insulated from liability by the existence of the judicial signature. An officer who knew, or with ordinary attention to the warrant's text should have known, that the warrant lacked operative particularity has the operative duty to refuse execution and to identify the defect to the issuing court. Execution of a known-general warrant, or execution with reckless disregard for the warrant's particularity, is the offense.
+
+##### Elements
+
+- The actor is a government actor (§1.1.1)
+- For judicial-issuance actors: the actor issued, signed, or approved a warrant
+- For enforcement actors: the actor executed, enforced, or relied upon a warrant
+- The warrant lacked operative particularity in at least one of (items to be seized, persons to be seized, places to be searched — including operative sub-locations within larger premises, and operative specificity within digital storage)
+- The actor knew, should have known, or acted with reckless disregard for the absence of particularity
+
+##### Defenses Limited
+
+- **Operative Particularity Demonstrated.** Defense available where the actor demonstrates, with contemporaneous documentation, that the warrant satisfied the operative particularity requirement (items identified with specificity, persons identified with operative detail, place identified down to the operative sub-location, digital data identified by specific file/timestamp/sender-recipient)
+- **Judicial Doctrine — Not a Defense Within Utah.** Reliance on Supreme Court doctrine permitting unparticularized warrants — including *Andresen v. Maryland*, the tiered-exactitude implications of *Stanford v. Texas*, the affidavit-incorporation doctrine, or any analogous federal-court doctrine — is **not a defense** within Utah, consistent with §1.1.25 (Legislate from the Bench) and §16 (Nullity of Repugnant Instruments)
+- **Institutional Habit — Not a Defense.** "This is how we have always issued / executed warrants" is **not a defense**
+- **Dispatch / Supervisor / Magistrate Authorization — Not a Defense.** Reliance on dispatch, supervisor, or the issuing magistrate's signature, without the actor's independent verification of operative particularity, is **not a defense**
+- **Active Exigency.** The exigency exception of §1.1.49 applies on the same terms — narrow, contemporaneously documented, and operatively defensible
+
+##### Classification
+
+- Issuance, approval, or enforcement of a general warrant under this section is a **Class 1 felony**
+- Where the general warrant resulted in entry into a residence or dwelling, the offense is elevated to a **capital offense** (cumulative with §1.1.50 Trespass)
+- Where the general warrant resulted in the seizure of a person, the offense is elevated to a **capital offense** and is chargeable cumulatively with kidnapping under §1.1.50 and Utah Code § 76-5-301 et seq.
+- Where the general warrant resulted in the seizure of items, the seized items are reachable as felony theft under §1.1.50 and Utah Code § 76-6-401 et seq. cumulatively with this section
+- Where the general warrant was part of a sustained institutional practice — whether by an issuing court, prosecuting office, or enforcement agency — the offense is elevated to a **capital offense** and the institution itself is reachable under §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), and §1.1.45 (Non-Republican Government Act)
+- Penalty enhancements under Section 5.6 apply
+
+##### Cross-References
+
+- **Fourth Amendment** of the United States Constitution — the textual particularity requirement; the operative constitutional rule controlling within Utah for purposes of this Act
+- ***Wilkes v. Wood*, 98 Eng. Rep. 489 (C.P. 1763)** — historical foundation invalidating Crown general warrants
+- ***Entick v. Carrington*, 95 Eng. Rep. 807 (C.P. 1765)** — historical foundation; warrants authorizing the breaking of locked desks and seizure of papers generally are "subversive of all the comforts of society"
+- ***Boyd v. United States*, 116 U.S. 616 (1886)** — *Entick* incorporated as the canonical American statement against general warrants
+- ***Marron v. United States*, 275 U.S. 192 (1927)** — the operative doctrinal rule ("nothing is left to the discretion of the officer executing the warrant"); this is the rule that controls within Utah
+- ***Stanford v. Texas*, 379 U.S. 476 (1965)** — particularity reaffirmed; the tiered-exactitude implication is rejected within Utah
+- ***Groh v. Ramirez*, 540 U.S. 551 (2004)** — particularity must appear on the warrant's face
+- ***Andresen v. Maryland*, 427 U.S. 463 (1976)** — abrogated within Utah for purposes of this Act
+- ***People v. Coke*, 461 P.3d 508 (Colo. 2020)** and ***Wheeler v. State*, 135 A.3d 282 (Del. 2017)** — state-level invalidation of "any and all" cellphone-data warrants as operatively general
+- **§1.1.25** — Legislate from the Bench; Supreme Court doctrines departing from the Fourth Amendment particularity text are themselves judicial legislation reachable under §1.1.25
+- **§1.1.48** — Arbitrary Action; a general warrant is the operative form of arbitrary action authorized by paper
+- **§1.1.49** — Unlawful Arrest by Warrant; warrant procedural framework
+- **§1.1.50** — Trespass (Government Context); entry pursuant to a general warrant is operatively trespass on the same terms as entry without warrant, and the cascade rules (kidnapping, theft, threat of violence) apply
+- **§1.1.52** — Inversion of Constitutional Sequence — No Post-Hoc Justification; a general warrant cannot be cured by after-the-fact justification of the resulting search or seizure
+- **§16** — Nullity of Government Instruments Repugnant to This Act or to Constitutional Authority; repugnant doctrines are null within Utah
+
+#### 1.1.52 Inversion of Constitutional Sequence — No Post-Hoc Justification
+
+> A government actor commits **inversion of constitutional sequence** under this title where the actor performs a search, seizure, arrest, entry, or other deprivation of a citizen's rights, liberty, or property **before** obtaining the lawful authority the Constitution requires to precede that action, and then relies on after-the-fact justification to validate the conduct.
+
+This is an Act-wide principle. It governs every provision of this Act that reaches a search, a seizure, an arrest, an entry, or any other deprivation — including §1.1.3 (Battery), §1.1.49 (Unlawful Arrest by Warrant), §1.1.50 (Trespass), §1.1.51 (General Warrant), and the role-specific offenses of Section 17.
+
+##### The Constitutional Sequence — Process Before Action
+
+The Fourth Amendment's warrant requirement is operatively a **sequence requirement**. The constitutional order requires, in order:
+
+1. **Probable cause** —
+2. **presented to a neutral magistrate** —
+3. **supported by oath or affirmation** —
+4. **particularly describing the place to be searched and the persons or things to be seized** —
+5. **and only then** may the search, seizure, entry, or arrest occur.
+
+**The process flows in one direction: process first, action follows.** The citizen's protections are loaded into the front of the sequence — they exist precisely to operate *before* the deprivation, so that the deprivation does not occur unless the lawful predicate has first been established and reviewed. A government actor who reverses the sequence — who acts first and then constructs the justification — has, in operative reality, abandoned the structural requirement that the citizen's protection arrive *before* the deprivation, not *after* it.
+
+##### The Repugnant Post-Hoc-Justification Doctrines
+
+The Supreme Court has, across the modern era, accumulated a body of doctrine permitting exactly this inversion — allowing the government to act first and justify second. The principal examples:
+
+- ***Nix v. Williams*, 467 U.S. 431 (1984)** — the **"inevitable discovery"** doctrine, under which evidence obtained without a warrant may be admitted if the State proves the evidence would have been inevitably discovered through lawful means. The doctrine operates entirely on counterfactual speculation — imagining "a world but-for the unlawful police action" — and so vests in the trial judge the discretion to admit evidence the police, in operative reality, took unlawfully.
+- ***United States v. Leon*, 468 U.S. 897 (1984)** — the **"good faith" exception**, under which evidence obtained on a warrant later determined invalid may be admitted where the executing officer relied on the warrant in objective good faith. Justice Brennan, in dissent, identified the operative defect: the Fourth Amendment "must be read to condemn not only the initial unconstitutional invasion of privacy, but also the subsequent use of any illegally obtained evidence." The good-faith exception severs that connection, letting the unconstitutional invasion stand and the illegally obtained evidence be used, on the reasoning that the officer's subjective state is dispositive.
+- ***Murray v. United States*, 487 U.S. 533 (1988)** — the **"independent source"** doctrine, under which evidence initially discovered during an unlawful entry may be admitted if the State subsequently obtains a warrant on an asserted independent basis. The doctrine turns operatively on the officers' representation that they "always intended" to seek the warrant — a representation, as commentators have observed, "normally difficult for the trial court to verify, or the defendant to rebut" — and creates the operative incentive for **confirmatory searches**: entry first, warrant after.
+- ***Hudson v. Michigan*, 547 U.S. 586 (2006)** — holding that knock-and-announce violations do not trigger exclusion of evidence obtained in the subsequent search. The constitutional violation occurs; the evidence stands. Process subordinated to outcome.
+- ***Davis v. United States*, 564 U.S. 229 (2011)** — extending good faith to evidence obtained in objectively reasonable reliance on binding appellate precedent later overruled. The citizen's deprivation stands because the officer's reliance was reasonable at the time, regardless of the underlying constitutional violation the later overruling identified.
+- Any **analogous doctrine** permitting the post-hoc construction of probable cause, post-hoc justification of warrantless conduct, post-hoc curing of warrant defects, or comparable inversion of the constitutional sequence.
+
+**These doctrines, in cumulative operative effect, are repugnant to the Fourth Amendment text and the constitutional order it establishes.** The Fourth Amendment requires that probable cause be presented to a neutral magistrate *before* the search, that the warrant issue *before* the search, that the warrant particularly describe the place and things *before* the search, and that the search proceed *within* the warrant's authority. The constitutional sequence is the operative content of the citizen's protection. A doctrine that allows the government to invert the sequence — to act first, to justify second — has not preserved the citizen's protection; it has reduced the protection to an evidentiary technicality, useful for excluding evidence at trial but operatively powerless to prevent the unlawful intrusion in the first place.
+
+##### The Logical Fallacy and the Moral Failure
+
+The logical structure of post-hoc justification is, in operative terms, the **"shoot now, ask questions later"** model of governmental conduct. It permits a government actor to: (a) act first, without the lawful instrument the Constitution requires; (b) intrude on the citizen's home, person, papers, or effects; (c) seize what the actor finds; and (d) construct an after-the-fact justification that converts the unlawful conduct into operative admissibility. This is a **logical fallacy** — the actor's after-the-fact reasoning is presented as if it could retroactively validate conduct that, at the moment it occurred, was operatively unconstitutional. The constitutional sequence does not run backward. An act unlawful at the moment it occurred does not become lawful through subsequent narrative.
+
+It is also a **moral failure**. Due process is *process*. The process the Constitution requires is the warrant process — particularized, judicially reviewed, presented before the intrusion. A government that conducts the intrusion first and justifies it afterward has not provided due process; it has provided post-hoc rationalization. The citizen who was searched, whose home was entered, whose papers were seized, whose person was restrained, was *not* protected by the Constitution at the moment the protection was supposed to operate. The doctrine that admits the resulting evidence tells the citizen, in operative effect: *the Constitution will not protect you in the moment you needed it to; only at trial, only if you have the resources to litigate it, only if the post-hoc factors line up correctly.* That is not due process. That is post-hoc rationalization presented as due process.
+
+The academic critique of these doctrines is extensive and consistent. *Nix's* corrosive effect on the Fourth Amendment is documented in the law-review literature (Jacobi & Louthen, *The Corrosive Effect of Inevitable Discovery on the Fourth Amendment*, Emory Law Faculty Scholarship). *Leon's* erosion of the warrant requirement has been described as the "withering away of the Fourth Amendment." *Murray's* independent-source doctrine has been described as "emasculat[ing] the Warrant Clause." Multiple state supreme courts have refused to follow *Leon* on state-constitutional grounds.
+
+##### Sequence Inversion as Prima Facie Evidence of Multiple Substantive Offenses
+
+> **A government actor's invocation of any post-hoc-justification doctrine — inevitable discovery, good faith, independent source, knock-and-announce excuse, reasonable reliance on later-overruled precedent, or any analogous doctrine that permits the actor to act first and justify second — is itself prima facie evidence of each of the following substantive offenses under this Act:**
+
+- **§1.1.45 Non-Republican Government Act.** A government that operates by acting first and justifying second has departed from the operative content of the republican form. A republic runs on the rule of law — articulable rules, applied in advance, with the citizen's protection arriving *before* the deprivation. A government that conducts the deprivation first and constructs the justification afterward has replaced the rule of law with the rule of officials, the structural condition Article IV, §4 of the United States Constitution forbids. Sequence inversion is prima facie evidence of non-republican government.
+
+- **§1.1.48 Arbitrary Action and Arbitrary Government.** A government actor who acts first and justifies second has, by definition, acted without an articulable, presently-applicable lawful standard at the moment of action. The "standard," in the post-hoc framework, is constructed after the fact — meaning at the moment of action there was no operatively applicable standard, no opportunity for the citizen to predict or comply, and no way to challenge the action before the deprivation occurred. Sequence inversion is the textbook case of arbitrary action, and is prima facie evidence under §1.1.48's evidentiary rule.
+
+- **§1.1.10 Anarchy and §1.1.18 Ultra Vires — Out-of-Sequence Conduct.** The Constitution establishes an operative sequence and loads the citizen's protections into the front of it. A government actor who performs the steps out of order has not performed them at all. Out-of-sequence conduct is not lawful conduct merely because each individual step might, in a different order, have been lawful. Sequence inversion is operation outside lawful authority (§1.1.10) and beyond lawful authority (§1.1.18), reachable cumulatively.
+
+- **§5.10 Oath-of-Office Violation.** Every government actor in Utah has, by Article IV §10 of the Utah Constitution, sworn to "support, obey and defend the Constitution of the United States and the Constitution of this State, and to discharge the duties of office with fidelity." Every federal officer has, by 5 U.S.C. § 3331, sworn to support and defend the Constitution of the United States. The Constitution the oath binds the actor to uphold is the same Constitution that requires the warrant *before* the search, the probable cause *before* the warrant, and the particularity *before* the entry. An actor who inverts that sequence has acted in a manner inconsistent with the constitutional duties the oath protects. Under §5.10, sequence inversion is prima facie evidence that the actor's oath of office has been violated, with the operative consequences of §5.10 attaching (forfeiture under §11.1, ineligibility under §11.2, decertification under §11.4, disbarment, and removal from professional standing).
+
+The prima facie evidence rule of this subsection operates in addition to, not in place of, the substantive offenses defined elsewhere in this Act. Where a government actor invokes a post-hoc-justification doctrine in attempted defense of conduct reached by this Act, the invocation is itself evidence supporting the cumulative charges above. **The invocation does not exonerate; it confirms.**
+
+##### Elements
+
+- The actor is a government actor (§1.1.1)
+- The actor performed a search, seizure, arrest, entry, or other deprivation of a citizen's rights, liberty, or property
+- The lawful authority the Constitution requires to precede that action (probable cause, neutral-magistrate review, particularized warrant) did not exist at the moment of the action
+- The actor relied, or attempted to rely, on after-the-fact justification to validate the conduct
+
+##### Classification
+
+- Inversion of constitutional sequence under this section is a **Class 1 felony**
+- Where the inversion produced entry into a residence or dwelling, seizure of a person, or seizure of property, the offense is chargeable cumulatively with §1.1.50 (Trespass), the kidnapping provisions of §1.1.50 and Utah Code § 76-5-301 et seq., and the theft provisions of §1.1.50 and Utah Code § 76-6-401 et seq.
+- Where the inversion was part of a sustained institutional practice, the offense is elevated to a **capital offense**, and the institution is reachable under §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), and §1.1.45 (Non-Republican Government Act)
+- Penalty enhancements under Section 5.6 apply
+
+##### Doctrines Not a Defense Within Utah
+
+Within Utah, the following are **null and inoperative as a defense** to liability under this Act, consistent with §1.1.25 (Legislate from the Bench) and §16 (Nullity of Government Instruments Repugnant to This Act or to Constitutional Authority):
+
+- **Inevitable Discovery** (*Nix v. Williams*) — "we would have found it anyway through lawful means" does not cure the unlawful intrusion. The intrusion is the offense.
+- **Good Faith** (*United States v. Leon*; *Davis v. United States*) — "the officer relied on the warrant in good faith" or "the officer relied on binding precedent" does not cure the underlying defect. The defect is the offense.
+- **Independent Source** (*Murray v. United States*) — "we later got a warrant on an independent basis" does not cure the prior unlawful entry. The prior entry is the offense.
+- **Knock-and-Announce Excuse** (*Hudson v. Michigan*) — a knock-and-announce violation is operatively unlawful entry under §1.1.50 regardless of whether the federal exclusionary rule reaches it.
+- **Any analogous post-hoc-justification doctrine** permitting the government to invert the constitutional sequence.
+
+This Act reaches the intrusion, not just the evidence. The exclusionary rule, where it survives at the federal level, governs what may be admitted in federal court; this Act governs whether the government actor's underlying conduct was a crime within Utah. The two questions are independent. A government actor whose conduct inverted the constitutional sequence is criminally liable under this Act even where the resulting evidence is admitted in some other proceeding under a federal post-hoc-justification doctrine.
+
+##### Cross-References
+
+- **Fourth Amendment** of the United States Constitution — the textual sequence requirement (probable cause, oath, particularity, then action)
+- ***Nix v. Williams*, 467 U.S. 431 (1984)** — inevitable discovery; not a defense within Utah
+- ***United States v. Leon*, 468 U.S. 897 (1984)** — good faith; not a defense within Utah
+- ***Murray v. United States*, 487 U.S. 533 (1988)** — independent source; not a defense within Utah
+- ***Hudson v. Michigan*, 547 U.S. 586 (2006)** — knock-and-announce excuse; not a defense within Utah
+- ***Davis v. United States*, 564 U.S. 229 (2011)** — good-faith reliance on overruled precedent; not a defense within Utah
+- **§1.1.10** — Anarchy; out-of-sequence conduct is operation outside lawful authority
+- **§1.1.18** — Ultra Vires; out-of-sequence conduct is action beyond lawful authority
+- **§1.1.25** — Legislate from the Bench; post-hoc-justification doctrines are judicial legislation reachable under §1.1.25
+- **§1.1.45** — Non-Republican Government Act; sequence inversion is prima facie evidence of non-republican government
+- **§1.1.48** — Arbitrary Action; sequence inversion is the textbook case of arbitrary action
+- **§1.1.49, §1.1.50, §1.1.51** — the warrant, trespass, and general-warrant offenses this section governs across
+- **§5.10** — Oath-of-Office Violation; sequence inversion is prima facie evidence of oath violation
+- **§16** — Nullity of Government Instruments Repugnant to This Act or to Constitutional Authority
 
 ### 1.2 Misconceptions
 
