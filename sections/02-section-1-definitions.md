@@ -3014,6 +3014,102 @@ This Act reaches the intrusion, not just the evidence. The exclusionary rule, wh
 - **§5.10** — Oath-of-Office Violation; sequence inversion is prima facie evidence of oath violation
 - **§16** — Nullity of Government Instruments Repugnant to This Act or to Constitutional Authority
 
+#### 1.1.53 Government Gang Activity (Government Context)
+
+> A government actor commits **government gang activity** under this title where the actor commits, attempts, conspires to commit, solicits, directs, or knowingly facilitates an offense under this Act or other criminal law **to benefit, advance, protect, or further an identifiable group of three or more government actors, the group's members, or the government institution the group operates within** — whether the group operates formally or informally.
+
+This offense imports the operative structure of Utah's criminal-street-gang law (Utah Code § 76-9-802) and applies it to government actors. The premise is direct: **the law that defines a criminal street gang does not exempt a group of government actors.** Where the benefited group is an identifiable group of three or more government actors whose activities include the commission of crimes to benefit the group or the institution, that group is, in operative reality, a criminal street gang within the meaning of the law — and this Act names it as such.
+
+##### A Single Government Actor May Be Charged
+
+> **A single government actor may be charged with government gang activity.** The offense reaches the individual actor whose conduct benefits, advances, protects, or furthers a group of three or more government actors or the institution. The "three or more" element describes the **group that is benefited** — not a requirement that three or more people be charged.
+
+The offense does not require that the benefited group, the institution, or any other member of the group be charged, prosecuted, or convicted. A single officer who fabricates evidence to protect a unit of three or more officers, a single prosecutor who buries exculpatory evidence to advance an office of three or more prosecutors, or a single clerk who alters a record to shield a group of three or more court personnel, is individually chargeable under this section. The existence of the benefited group is established by the group's operative characteristics; the individual defendant's liability is established by the defendant's own conduct benefiting that group.
+
+##### Operative Premise — The Gang Definition Does Not Exempt Government
+
+Utah Code § 76-9-802 defines a "criminal street gang" as an organization, association in fact, or group of three or more individuals, whether operated formally or informally:
+
+- that is currently in operation;
+- that has as one of the group's primary activities the commission of a criminal offense;
+- that has, as a group, an identifying name or identifying sign or symbol, or both; and
+- whose members, acting individually or in concert with other members, engage in or have engaged in a pattern of criminal gang activity.
+
+**Every one of these elements can be satisfied by a group of government actors.** Consider, for illustration, a fictional **Springvale Police Department** (a hypothetical department used here for illustration only). It is a group of more than three individuals. It is currently in operation. It has an identifying name ("Springvale Police Department"), and an identifying sign or symbol (the badge, the patch, the uniform, the marked vehicle). Where the group's activities include the commission of offenses under this Act — unlawful arrests, unlawful entries, theft during searches, fabrication of evidence, retaliation, coordinated harassment of citizens — and where the group's members engage in those offenses to benefit, protect, or advance the group or the institution, the group satisfies every operative element of a criminal street gang.
+
+**The constitutional and statutory principle is that no group is permitted to commit crimes to benefit the group.** That principle does not contain a government exemption. A group of three or more private individuals who commit crimes to benefit their group is a criminal street gang. A group of three or more government actors who commit crimes to benefit their group — or the institution they operate within — is, by the identical operative definition, a criminal street gang. **No person should be committing crimes to benefit government actors or government institutions. That is gang activity.**
+
+##### Identifiable Group — Examples
+
+The "identifiable group" element is satisfied by any operatively identifiable government group of three or more actors, including without limitation:
+
+- A **police department, sheriff's office, or other law-enforcement agency** — identified by name, badge, patch, uniform, and marked vehicle
+- A **specific unit, squad, task force, or division** within an agency — a narcotics unit, a SWAT team, a gang unit, a special-investigations division, a "crime-suppression" team
+- A **prosecutor's office** or a defined group of prosecutors within it
+- A **group of judges, court personnel, or clerks** operating in concert
+- A **regulatory agency, code-enforcement division, or licensing body** operating as a group
+- An **inter-agency group** — a fusion center, a joint task force, a multi-agency operation — that operates as an identifiable group across institutional lines
+- Any other **operatively identifiable group of three or more government actors** with a shared identifying name, sign, or symbol
+
+The group need not be a formal organizational unit. An informal group of three or more government actors who coordinate, operate in concert, or share an identifying name or symbol satisfies the element, consistent with the "whether operated formally or informally" language of Utah Code § 76-9-802.
+
+##### Pattern of Criminal Gang Activity — Government Context
+
+Consistent with Utah Code § 76-9-802, a **pattern of government gang activity** means the commission, attempt, conspiracy, or solicitation of two or more predicate offenses under this Act or other criminal law within a five-year period, where:
+
+- the predicate offenses were committed by a government actor at the direction of, or in association with, the identifiable government group; and
+- the offenses were committed with the specific intent to promote, further, or assist the group, its members, or the institution the group operates within.
+
+Predicate offenses include, without limitation, any offense under this Act — §1.1.3 (Battery), §1.1.6 (Cabalism), §1.1.7 (Government Racketeering), §1.1.8 (Obstruction of Justice), §1.1.12 (Terrorism), §1.1.13 (Official Intimidation), §1.1.14 (Malicious Prosecution), §1.1.32 (Pretextualism), §1.1.49 (Unlawful Arrest by Warrant), §1.1.50 (Trespass), §1.1.51 (General Warrant), §1.1.52 (Inversion of Constitutional Sequence) — and any generally applicable criminal offense committed to benefit the group.
+
+##### Relationship to Cabalism and Government Racketeering
+
+Government gang activity is related to but distinct from §1.1.6 (Cabalism) and §1.1.7 (Government Racketeering):
+
+- **§1.1.6 Cabalism** reaches coordinated conduct by government actors producing unjust effects; it does not require the criminal-street-gang structure (identifiable group, identifying name/sign/symbol, pattern of predicate offenses).
+- **§1.1.7 Government Racketeering** reaches the use of public office as a racketeering enterprise; it is organized around the racketeering-enterprise model.
+- **§1.1.53 Government Gang Activity** reaches the criminal-street-gang structure specifically — applying the operative elements of Utah's gang law to government groups, with the identifiable-group, identifying-symbol, and pattern-of-activity elements, and reaching the single actor whose conduct benefits the group.
+
+Where the conduct meets the elements of more than one, charges may be brought cumulatively, consistent with §1.1.1.1.
+
+##### Elements
+
+- The actor is a government actor (§1.1.1)
+- The actor committed, attempted, conspired to commit, solicited, directed, or knowingly facilitated an offense under this Act or other criminal law
+- The offense was committed to benefit, advance, protect, or further an identifiable group of three or more government actors, the group's members, or the institution the group operates within
+- The benefited group is currently in operation, whether formally or informally, and has, as a group, an identifying name, sign, or symbol, or both (badge, patch, uniform, agency name, unit name, marked vehicle, or comparable identifier)
+- The benefited group has as one of its activities the commission of offenses to benefit, advance, protect, or further the group, its members, or the institution
+- The actor acted with the specific intent to promote, further, or assist the group, its members, or the institution
+
+A single government actor satisfies these elements without any other member of the group being charged.
+
+##### Classification
+
+- Government gang activity under this section is a **Class 1 felony**
+- Where the conduct produced death, suicide consistent with Section 12.1, serious bodily injury, unlawful deprivation of liberty, or seizure of property, the offense is elevated to a **capital offense**
+- Where the identifiable group is an entire agency, department, or institution operating as a criminal street gang, the institution itself is reachable under §1.1.1.2 (Entity-Level Government Actors), §1.1.6 (Cabalism), and §1.1.7 (Government Racketeering), and the §11.4 decertification and §11 forfeiture provisions apply to the individual actors
+- Penalty enhancements under Section 5.6 apply, including the pattern, coordination, and institutional-practice enhancements
+
+##### Defenses Limited
+
+- **Lawful Group Activity — Defense Available.** Where the group's activities are lawful and the actor did not commit an offense to benefit the group or institution, this section does not apply. A police department that performs its lawful function without committing offenses to benefit the department is not a criminal street gang. The offense reaches only conduct committed to benefit a group whose activities include the commission of crimes
+- **"It's an Official Agency, Not a Gang" — Not a Defense.** A claim that the benefited group is an official government agency, and therefore cannot be a criminal street gang, is **not a defense**. The operative elements of Utah Code § 76-9-802 do not contain a government exemption. An official agency that operates as a criminal street gang — whose members commit crimes to benefit it — is a criminal street gang within the operative meaning of the law
+- **"Only One Person Was Charged" — Not a Defense.** A claim that the actor cannot be guilty of gang activity because only one person was charged is **not a defense**; a single actor whose conduct benefits a group of three or more is chargeable under this section, and the benefited group's existence is established by its operative characteristics, not by the charging of its members
+- **Institutional Habit — Not a Defense.** "This is how the department operates" is **not a defense** where the department's operation includes the commission of offenses to benefit the department
+- **Following Orders — Not a Defense.** Consistent with §5.2 (Personal Accountability), an actor cannot escape liability by pointing to the group's direction; the actor's own conduct benefiting the group is the offense
+
+##### Cross-References
+
+- **Utah Code § 76-9-802** — the criminal-street-gang definition whose operative structure this section imports and applies to government actors
+- **Utah Code § 76-9-803 et seq.** — criminal-street-gang penalties; applied to government groups under this section
+- **§1.1.1** — Government Actor
+- **§1.1.1.2** — Entity-Level Government Actors; the institution operating as a gang is reachable at the entity level
+- **§1.1.6** — Cabalism; related coordinated-conduct offense, chargeable cumulatively
+- **§1.1.7** — Government Racketeering; related enterprise offense, chargeable cumulatively
+- **§1.1.8** — Obstruction of Justice; predicate offense
+- **§5.2** — Personal Accountability; following orders is not a defense
+- **§11** — Forfeiture of State Benefits and Office; applies to individual gang-member actors on conviction
+
 ### 1.2 Misconceptions
 
 This subsection identifies common misconceptions that have shaped — and continue to shape — how the legal system treats core concepts in ways this Act explicitly rejects. Where a court, government actor, juror, council, or proceeding under this Act encounters one of these misconceptions, this subsection controls.
