@@ -205,7 +205,7 @@ Because almost everyone interacts with government eventually — and when you do
 
 ### Isn't this anti-cop / anti-judge / anti-government?
 
-No. The bill leaves every legitimate function of government untouched. It only reaches **misconduct** — and only at the level of recklessness or higher. Officials who do their job lawfully and in good faith have nothing to fear from this bill. Bad actors in any profession make the whole profession look corrupt; this bill clears the field.
+No. The bill leaves every legitimate function of government untouched. It only reaches **misconduct** — and only at the level of negligence or higher. Officials who do their job lawfully and in good faith have nothing to fear from this bill. Bad actors in any profession make the whole profession look corrupt; this bill clears the field.
 
 ### What does signing the petition actually do?
 
