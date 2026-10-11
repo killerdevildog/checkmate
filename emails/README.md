@@ -4,6 +4,7 @@ Reusable email templates for sharing **Operation Checkmate** with people you kno
 
 | Template | Audience | Use it when… |
 |---|---|---|
+| [`generic-pitch.md`](generic-pitch.md) | General outreach | A longer pitch with a customization checklist. The body uses the author's first-person voice; adapt authorship and location before reusing it. |
 | [`share-with-family.md`](share-with-family.md) | Family, friends, coworkers, neighbors | You found this project and want to spread the word. Written in a generic voice anyone can use. |
 | [`from-quaylyn.md`](from-quaylyn.md) | The author's personal network | Quaylyn (the bill's author) reaching out to people in his own network. First-person voice; do not send under your own name. |
 | [`to-representative.md`](to-representative.md) | Representatives, county commissioners, local officials | You want a public official or candidate to review Operation Checkmate and support it. |
@@ -22,6 +23,7 @@ Reusable email templates for sharing **Operation Checkmate** with people you kno
 
 ## Tips
 
+- Start with the [project overview](../README.md) and check references against the [current bill](../bill_proposal.md) before reusing a template.
 - Replace `[name]` with the recipient's name.
 - Replace `[Your name]` with yours (in the family template).
 - Subject lines are suggestions — feel free to rewrite to fit your relationship with the recipient.

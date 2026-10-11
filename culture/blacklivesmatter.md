@@ -151,7 +151,7 @@ Operation Checkmate addresses this directly:
 
 If you support this bill:
 
-1. **Read it.** Start with the [README](README.md), then [the full bill](bill_proposal.md). Or download the latest PDF from [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest) and upload it to [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI assistant, then ask: *"How would this bill apply to me as a Black [parent / driver / professional / homeowner / student / inmate / business owner], dealing with [your situation]?"*
+1. **Read it.** Start with the [README](../README.md), then [the full bill](../bill_proposal.md). Or download the latest PDF from [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest) and upload it to [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Grok](https://grok.com), [Gemini](https://gemini.google.com), or any other AI assistant, then ask: *"How would this bill apply to me as a Black [parent / driver / professional / homeowner / student / inmate / business owner], dealing with [your situation]?"*
 2. **Sign on.** Email **citizens.checkmate@gmail.com** with subject `CHECKMATE` and your **first and last name + zip code** in the body. That is an electronic signature on the petition.
 3. **Star the GitHub repo.** Free GitHub account at https://github.com/signup, then star https://github.com/killerdevildog/checkmate.
 4. **Share** with friends, family, congregation, NAACP chapter, neighborhood association, Black professionals network, or anyone else.

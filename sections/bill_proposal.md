@@ -852,7 +852,7 @@ This section applies to any person acting under **color of federal or state law*
 
 ##### 1.1.8.1 General Definition — Government Context
 
-> A government actor commits **obstruction of [justice](#d5-justice)** under this title where the actor, while acting under color of authority, fails or refuses to perform a duty, performs a duty in an extremely erroneous or corrupt manner, conceals or distorts a required act, or otherwise interferes with a proceeding, investigation, record, duty, or official function so substantially that the proceeding or performance of public duty ceases to be justice in any meaningful sense.
+> A government actor commits **obstruction of [justice](#1119-justice)** under this title where the actor, while acting under color of authority, fails or refuses to perform a duty, performs a duty in an extremely erroneous or corrupt manner, conceals or distorts a required act, or otherwise interferes with a proceeding, investigation, record, duty, or official function so substantially that the proceeding or performance of public duty ceases to be justice in any meaningful sense.
 
 **Includes, but is not limited to:**
 

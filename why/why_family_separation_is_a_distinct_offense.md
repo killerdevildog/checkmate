@@ -113,7 +113,7 @@ The operative structural reasoning for treating operative family separation as a
 
 ### 3.1 The Operative-Severity Argument
 
-The operative severity of operative family separation operatively reaches the operative range that operative existing operative offense categories operatively do not operatively capture at the operative appropriate level. As developed in [why_capital_classification_is_warranted.md](why_capital_classification_is_warranted.md) (deleted but operatively the operative principle developed) and the operative reasoning of §12 (Death of a Citizen Resulting from Violation), operative destruction of a family operatively produces operative consequences operatively reaching the operative range capital classification operatively reaches.
+The operative severity of operative family separation operatively reaches the operative range that operative existing operative offense categories operatively do not operatively capture at the operative appropriate level. As developed in the operative reasoning of [§12 — Death of a Citizen Resulting from Violation](../sections/13-section-12-death-of-a-citizen-resulting-from-violation.md), operative destruction of a family operatively produces operative consequences operatively reaching the operative range capital classification operatively reaches.
 
 The operative consequences of operative wrongful family separation are operatively documented in operative extensive empirical research:
 

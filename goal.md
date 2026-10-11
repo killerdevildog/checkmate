@@ -1,0 +1,5 @@
+# Project Goal
+
+Operation Checkmate is a citizen-authored proposal for a Utah statute and state constitutional amendment intended to make government actors personally accountable for abuses of public power. It seeks to apply constitutional and legal duties to officials, agencies, public bodies, jurors, and government contractors; remove immunity defenses for unlawful official conduct; define criminal and civil consequences for violations; and provide remedies for affected citizens.
+
+The proposal also seeks to create citizen-led enforcement through Citizen Councils empowered to investigate alleged misconduct, obtain records, initiate prosecution procedures, seek warrants, and review convictions when existing institutions do not act. Its broader stated objective is to keep government authority subject to the Constitution and the same standards of truth, law, and accountability applied to private citizens.

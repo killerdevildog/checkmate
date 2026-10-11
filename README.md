@@ -2,18 +2,34 @@
 
 > A citizen-written bill to make government officials answer to the same law as everyone else.
 
+## Start here
+
+| Looking for… | Read |
+|---|---|
+| A shorter introduction | [TLDR](TLDR.md) |
+| The assembled proposal | [Full bill](bill_proposal.md) |
+| The structure and section references | [Advanced overview](advanced_readme.md) |
+| Answers to common questions | [FAQ](faq.md) |
+| Individual sections and build instructions | [Bill section index](sections/README.md) |
+| Explanations of drafting choices | [Why essays](why/README.md) |
+| Community guides | [Community guide index](culture/README.md) |
+| Reusable outreach drafts | [Email templates](emails/README.md) |
+| How to suggest or prepare an edit | [Contributing](CONTRIBUTING.md) |
+
+This repository contains a working legislative proposal. The root `bill_proposal.md` is the assembled reading copy; edits in `sections/` can be newer than that copy. Companion essays and research notes explain or discuss the proposal and may use older section numbers. See the [section index](sections/README.md) for the current structure.
+
 ---
 
 ## Talk to an AI about this bill
 
-Want help understanding the bill or how it might apply to your situation? You can have a conversation about the entire bill with any major AI assistant in just a few steps. The PDF of the bill is well under 1 MB, which fits comfortably inside the file-upload limit of every major chat AI today.
+Want help understanding the bill? Download a PDF snapshot from the project's releases, or use the [Markdown reading copy](bill_proposal.md) with an assistant that accepts that format. Upload support and document limits depend on the service you use.
 
 **Step-by-step:**
 
 1. **Go to the latest-release page:**
    👉 [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest)
 
-2. **Scroll down to the "Assets" section** on that page. You will see a file named something like `Draft Ver 5.8.12.pdf` (the version number updates as the bill evolves). Click that file name to **download the PDF** to your computer or phone.
+2. **Look in the "Assets" section** for a PDF attachment. Download it and note the release version; a release snapshot may be older than the working Markdown draft. If there is no PDF attached, use [`bill_proposal.md`](bill_proposal.md).
 
 3. **Open an AI chat:**
    - [ChatGPT](https://chatgpt.com)
@@ -32,7 +48,7 @@ Want help understanding the bill or how it might apply to your situation? You ca
    - *"Help me draft a feedback email to the bill's author."*
    - *"Help me draft a GitHub issue suggesting an improvement."*
 
-That's it. The PDF is the entire bill — the AI will have full context for any question you ask.
+Ask the assistant to identify the section supporting its answer, then compare that answer with the draft you uploaded.
 
 ---
 
@@ -254,7 +270,7 @@ Questions, edits, or feedback on the draft are welcome at the same address with 
 **Read the bill:**
 
 - **[`bill_proposal.md`](bill_proposal.md)** — the full bill text. Long, but it's the real thing.
-- **Latest PDF snapshot:** [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest) — always points to the most recent release; download the attached PDF and upload it to any AI chat (see the *"Talk to an AI"* section above).
+- **Release snapshots:** [Latest release](https://github.com/killerdevildog/checkmate/releases/latest) — check its assets for a PDF and compare its version with the working draft.
 - **[`advanced_readme.md`](advanced_readme.md)** — a section-by-section overview with section numbers, classifications, and cross-references.
 - **[`faq.md`](faq.md)** — the long-form FAQ. Covers everything the README FAQ touches on plus the immunity architecture in depth, the Citizen Council mechanism, mens rea and due process, scope of "government actor," constitutional questions, group-specific protections, penalties, politics, comparisons to existing remedies, adaptation to other states, and common objections.
 - **Key legal definitions in Section 1** — controlling definitions of legal terms (color of law, judicial immunity, qualified immunity, justice, etc.) inside [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
@@ -262,13 +278,15 @@ Questions, edits, or feedback on the draft are welcome at the same address with 
 
 **Community-specific guides:**
 
+The [community guide index](culture/README.md) lists all guides, including the [leftist guide](culture/lefists.md) and the [veterans essay](veterans-suicide.md).
+
 - **[`culture/lgbtq.md`](culture/lgbtq.md)** — why LGBTQ+ citizens have specific reasons to support this bill, with documented patterns of government abuse the bill addresses (selective enforcement, custody/family-court targeting, workplace retaliation, police failure to protect, pre-*Lawrence* convictions, HIV criminalization, threats against children) and the corresponding bill provisions.
 - **[`culture/blacklivesmatter.md`](culture/blacklivesmatter.md)** — why Black citizens have specific reasons to support this bill, with documented cases (George Floyd, Breonna Taylor, Tamir Rice, Atatiana Jefferson, Botham Jean, Walter McMillian, Anthony Ray Hinton, the Central Park Five, *Floyd v. City of New York* stop-and-frisk litigation) and the bill provisions that reach each pattern. Also notes that the foundational *"color of law"* cases (*Classic*, *Screws*, *Monroe*) were all Black-civil-rights cases — this bill picks up where they left off.
 - **[`culture/financial_hardship.md`](culture/financial_hardship.md)** — why citizens living paycheck-to-paycheck, working multiple jobs, on disability or a fixed income, or otherwise financially unstable should support this bill. Covers how poverty has been weaponized through municipal fine schemes (DOJ Ferguson Report 2015), cash bail and pretrial detention (*ODonnell v. Harris County*), civil asset forfeiture (Tan Nguyen, Carole Hinders), driver's-license-suspension cycles, court-fee compounding (*Cain v. White*), child-support enforcement that prevents earning, towing/impound predation, eviction-court asymmetry, predatory plea bargains, and probation/parole fees — and the specific bill provisions that reach each pattern. *No lawyer, no filing fee required to engage with the Council mechanism.*
-- **[`culture/righists.md`](culture/righists.md)** — why constitutional conservatives, libertarians, Second Amendment advocates, religious-liberty defenders, federalists, and patriots should support this bill. Covers documented federal-overreach cases including Ruby Ridge (Vicki Weaver, Lon Horiuchi, *In re Neagle*), Waco/Branch Davidians, the Bundy Ranch federal-prosecution dismissal for Brady violations, LaVoy Finicum, the IRS targeting scandal (TIGTA 2013), Operation Choke Point, religious-liberty SCOTUS cases (*Hobby Lobby*, *Masterpiece Cakeshop*, *Little Sisters*, *Kennedy v. Bremerton*), the 2023 FBI Richmond memo on traditional Catholics, federal land enforcement in Utah, and ATF rule-making. Particular focus on §14.7's abrogation of *In re Neagle* — federal officer status is not a shield from Utah criminal prosecution.
+- **[`culture/righists.md`](culture/righists.md)** — why constitutional conservatives, libertarians, Second Amendment advocates, religious-liberty defenders, federalists, and patriots should support this bill. Covers documented federal-overreach cases including Ruby Ridge (Vicki Weaver, Lon Horiuchi, *In re Neagle*), Waco/Branch Davidians, the Bundy Ranch federal-prosecution dismissal for Brady violations, LaVoy Finicum, the IRS targeting scandal (TIGTA 2013), Operation Choke Point, religious-liberty SCOTUS cases (*Hobby Lobby*, *Masterpiece Cakeshop*, *Little Sisters*, *Kennedy v. Bremerton*), the 2023 FBI Richmond memo on traditional Catholics, federal land enforcement in Utah, and ATF rule-making. Particular focus on §15.7's abrogation of *In re Neagle* — federal officer status is not a shield from Utah criminal prosecution.
 - **[`culture/public_servants.md`](culture/public_servants.md)** — for police officers, deputies, federal agents, judges, prosecutors, mayors, council members, legislators, and elected officials. The argument *for* the bill from the inside: lawful, peaceful accountability mechanisms today prevent the conditions that produce unrest tomorrow. The bill targets misconduct, not lawful work; clears the bad actors who give every profession a bad name; protects dissenting council members who object on the record; and gives officials a concrete answer to constituents who have lost trust in accountability. Explicitly disavows violence and militia framings. *"Operation Checkmate is not a threat. It is a release valve."*
 
-If you'd like to write a community-specific guide for another group (veterans, parents, small-business owners, religious communities, immigrants, the disability community, etc.), please open a pull request — these guides are how the bill becomes accessible to the people it protects.
+If you'd like to write a community-specific guide for another group (parents, small-business owners, religious communities, immigrants, the disability community, etc.), please open a pull request — these guides are how the bill becomes accessible to the people it protects.
 
 **Questions, feedback, and contributions:**
 
@@ -277,6 +295,22 @@ If you'd like to write a community-specific guide for another group (veterans, p
 - **Comfortable with git?** [**Open a pull request**](https://github.com/killerdevildog/checkmate) with the specific edit you'd propose. The bill is on GitHub precisely so citizens can shape it.
 
 This bill gets better the more citizens engage with it.
+
+---
+
+## Working with this repository
+
+The [contribution guide](CONTRIBUTING.md) covers source edits, checking links, and reviewing generated output. Rebuild the section draft from the repository root with:
+
+```bash
+bash sections/build_bill.sh
+```
+
+This writes `sections/bill_proposal.md`. Review it before explicitly copying it to the root reading copy. The [section guide](sections/README.md) explains the build order and why the numbering skips Sections 6–8.
+
+For PDF export, see the [Pandoc how-to](pandoc-howto.md) and [rendering sample](testing/README.md). PDFs and `deploy/` are ignored build artifacts; reading or editing the Markdown does not require Pandoc.
+
+Other working materials include the [project goal](goal.md), [structural explanation](why-this-is-the-answer.md), [restructuring plan](restructure_plan.md), and [research index](research/README.md). Research and planning documents are separate from the bill's build inputs.
 
 ---
 

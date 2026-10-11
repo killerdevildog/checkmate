@@ -6,7 +6,7 @@ The short version:
 
 **If a private citizen would face consequences for doing it, a government actor should not escape consequences because they had a badge, robe, office, contract, agency title, or government policy behind them.**
 
-This file is the short guide. The full bill is [`bill_proposal.md`](bill_proposal.md). The latest PDF snapshot is [Draft Ver 5.8.5](https://github.com/killerdevildog/checkmate/releases/tag/v5.8.5).
+This file is the short guide. The full bill is [`bill_proposal.md`](bill_proposal.md). For PDF snapshots, check the assets on the [latest release](https://github.com/killerdevildog/checkmate/releases/latest). A release may be older than the working Markdown draft. The [section index](sections/README.md) explains the current source layout.
 
 ---
 
@@ -447,7 +447,7 @@ You can also:
 
 - Read [`bill_proposal.md`](bill_proposal.md)
 - Read [`advanced_readme.md`](advanced_readme.md)
-- Download the latest PDF from [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest) and upload it to ChatGPT / Claude / Grok / Gemini to ask how the bill applies to your situation
+- Check the [latest release](https://github.com/killerdevildog/checkmate/releases/latest) for a PDF snapshot. If you use an AI assistant to read it, compare its answers with the cited bill sections.
 - Star the GitHub repository
 - Open an issue with questions or suggested edits
 - Share the bill with people affected by government abuse
