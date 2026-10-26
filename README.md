@@ -121,12 +121,13 @@ This is a range of accountability, not a requirement that every official receive
 
 ## What must be proved
 
-The [mental-state rules in Section 3](government_accountability/04-section-3-mens-rea-criminal-and-civil.md) distinguish negligence, recklessness, intentional conduct, and malice. Those distinctions matter because the bill ties liability and punishment to both the act and the actor’s responsibility for it.
+The [mental-state rules in Section 3](government_accountability/04-section-3-mens-rea-criminal-and-civil.md) distinguish negligence, recklessness, and intentional conduct. Those distinctions matter because the bill ties liability and punishment to both the act and the actor’s responsibility for it.
 
 - **Negligence:** failing to exercise the required care and failing to perceive a substantial risk the actor should have perceived.
 - **Recklessness:** disregarding a substantial and unjustifiable risk, ignoring an obvious risk, or proceeding while aware of a possible violation, as defined in the draft.
 - **Intentional conduct:** acting purposefully or with awareness that the result is substantially certain.
-- **Malice:** intentional conduct accompanied by a motive such as retaliation, intimidation, concealment, or a desire to harm.
+
+Negligence alone is a sufficient, independent basis for liability wherever the draft reaches it. The draft does not require proof of intent or a motive before negligence-based liability attaches. This is the same standard the law already uses for driving under the influence, negligent homicide, and manslaughter — none of which require proof that the actor wanted to cause harm. A failure to exercise reasonable care is enough, and the draft applies that same standard to government conduct.
 
 The default minimum for criminal liability is **recklessness**, unless a specific offense sets a different standard. Some provisions expressly reach negligence; others require a higher mental state. Intentional and malicious conduct can increase the classification under the draft’s rules.
 

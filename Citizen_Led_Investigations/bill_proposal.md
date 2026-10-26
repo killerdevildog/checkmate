@@ -388,6 +388,14 @@ This rule is necessary because the Supreme Court has itself used conflicting des
 
 These statements cannot all be used as unrestricted grants of authority at the same time. A reasonable government actor must resolve any such conflict in favor of the written Constitution, this Act, protected rights, due process, and the limitation of government power, not in favor of broad police-power language, office convenience, or institutional habit.
 
+#### 3.1.2 Negligence Is a Valid, Independent Basis for Liability — Malice Is Not Required
+
+Negligence sits at the bottom of the mens rea ladder because it is the baseline duty every government actor already owes: the duty to exercise reasonable care and to perceive the risks a reasonable government actor in that position would perceive, as defined in Section 3.1.1. Wherever this Act classifies negligent conduct as criminally or civilly actionable, the negligence itself is sufficient. The prosecution, Council, or claimant is not required to also prove intent, recklessness, or malice.
+
+This is not a novel or lowered standard. It is the same standard the law already uses for some of the most consequential offenses on the books. Driving under the influence does not require proof that the driver intended to endanger anyone; the negligent or reckless act of operating a vehicle while impaired is itself the offense. Negligent homicide and manslaughter do not require proof of malice or a specific intent to kill; a failure to exercise reasonable care that results in death is sufficient to convict. Ordinary tort law supports civil liability for negligently caused harm without any showing of ill will. This Act applies that same, established standard to government conduct.
+
+Malice, intent, and recklessness remain available to establish liability and to elevate classification and remedies under §§ 3.2–3.5. They are not prerequisites to liability wherever negligence is the stated minimum mental state for an offense or civil claim.
+
 ### 3.2 Criminal Mens Rea
 
 For criminal enforcement under this Act, the culpability levels are:
