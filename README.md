@@ -13,7 +13,20 @@ Try these questions:
 - *“What are the strongest legal objections to this proposal?”*
 - *“Which exact sections support your answer?”*
 
+**Ask specific, document-grounded questions — don't just ask an AI assistant to summarize or render a verdict on the bill cold.** An assistant answering without the text in front of it is drawing on patterns in its training data about citizen-drafted accountability bills, qualified immunity, and government power generally — and that training data carries its own assumptions, which can run either direction, dismissive or uncritical, independent of what this bill actually says. Give it the document first, ask it to name the exact section behind each answer, and treat any claim it can't point to a section for as unverified.
+
 Compare the answers with the document you supplied. Ask the assistant to distinguish what the bill **proposes** from what existing law already allows. Check the release version: a PDF snapshot may be older than the working draft, and the source files in [sections](sections/README.md) may contain changes not yet included in the assembled reading copy.
+
+🚧 ⚠️ **Known fact: AI chatbots carry a measurable political lean — this is documented, not speculation** ⚠️ 🚧
+
+Multiple independent studies have measured political skew in mainstream AI chatbots when they're asked for a bare opinion rather than reasoning from a supplied document:
+
+- David Rozado, [*"The political preferences of LLMs"*](https://pmc.ncbi.nlm.nih.gov/articles/PMC11290627), **PLOS ONE** (2024) — ran 24 conversational LLMs through 11 political-orientation tests; most scored left-of-center, while the underlying base models (before fine-tuning) did not show the pattern.
+- Tavishi Choudhary, [*"Political Bias in Large Language Models: A Comparative Analysis of ChatGPT-4, Perplexity, Google Gemini, and Claude"*](https://doi.org/10.1109/ACCESS.2024.3523764), **IEEE Access** (2025) — found ChatGPT-4 and Claude leaning liberal, Perplexity leaning conservative, and Gemini closer to centrist.
+- [*"Language-Dependent Political Bias in AI: A Study of ChatGPT and Gemini"*](https://arxiv.org/abs/2504.06436), **arXiv** (2025) — found the direction and strength of the lean shifted depending on the language used to query the model.
+- [*The Washington Post*'s chatbot investigation, June 2026](https://katv.com/news/nation-world/popular-chatbots-show-left-wing-bias-when-answering-political-questions-washington-post) — reporters scored six major chatbots on 30 political questions; most answered left-leaning more often than right-leaning, though OpenAI, Anthropic, and Google each disputed or qualified parts of the result.
+
+The studies disagree on which model leans which direction and by how much, and the companies involved dispute some of the figures — but independent researchers keep finding *some* measurable lean, in both directions depending on the model, the language, and the topic. Treat that as a known property of the tool you're using, not a reason to distrust this bill specifically. It's exactly why the instructions above ask you to hand the assistant the actual text and make it cite sections, instead of asking it for a cold opinion.
 
 ## The idea: criminal accountability for misuse of public power
 
