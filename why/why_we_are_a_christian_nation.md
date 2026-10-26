@@ -1,4 +1,4 @@
-# Why We Are a Christian Nation
+# Why We Are a Christian Nation — A Nation of Christ, Not of Antichrist
 
 Words matter. The operative meaning of a word is found in its roots — the linguistic and conceptual material from which the word was assembled, the meanings the word's original users intended to carry, and the moral framework the word brings with it. When we ask whether the United States is a "Christian nation," the answer depends entirely on what "Christian" actually means at its roots.
 
@@ -54,7 +54,7 @@ Strikingly, *chrēstos* and *Christos* are nearly identical in sound and spellin
 
 Operative application: to call a nation Christian is to say that the operative disposition of the nation — the way its institutions deal with citizens, the way its officials carry themselves, the way its laws are designed and enforced — is *chrēstos*. **Kind. Good. Useful. Gentle.** A nation in which these are not the operative dispositions is not Christian, regardless of what the formal labels may say.
 
-### 1.6 The Cluster Together — The Operative Meaning of "Christian"
+### 1.6 The Cluster Together — The Operative Meaning of "Christian," and of Christ
 
 Read together, the root cluster *χρ-* identifies a specific moral disposition:
 
@@ -64,7 +64,7 @@ This is what "Christian" means at its roots. It is not a sectarian doctrine. It 
 
 This is the sense in which we are a Christian nation — and the sense in which we must be, if the freedoms the Founders contemplated are to be sustained.
 
-### 1.7 The Operative Inverse — What "Anti-Christian" Means at Its Roots
+### 1.7 The Operative Inverse — What "Anti-Christian" Means at Its Roots, and Why That Is Antichrist
 
 The same etymological method that identifies the operative meaning of "Christian" identifies, by direct inversion, the operative meaning of **anti-Christian**. The prefix "anti-" in Greek (ἀντί, *anti*) means "against," "opposite to," "in place of." An anti-Christian disposition is the disposition that stands against — that operates as the operative inverse of — the root cluster *χρ-* that "Christian" identifies.
 
@@ -136,7 +136,7 @@ Every right in the Bill of Rights, and every structural protection in the broade
 
 A government characterized by the opposite — by extraction, coercion, fear-as-control, governmental self-preservation prioritized over citizen welfare, formal rights on paper while operative rights are denied — cannot sustain the constitutional order. The text may remain unchanged, but the operative reality drifts further and further from what the text was written to provide.
 
-**This is what it means to say that only a Christian nation can sustain the freedoms we enjoy.** The proposition is not about establishing a state religion. It is about the operative disposition that must characterize the government if the constitutional order is to function in the way the Founders contemplated. The disposition the etymological roots of "Christian" identify is the disposition that makes the constitutional order possible.
+**This is what it means to say that only a Christian nation can sustain the freedoms we enjoy.** The proposition is not about establishing a state religion. It is about the operative disposition that must characterize the government if the constitutional order is to function in the way the Founders contemplated. The disposition the etymological roots of "Christian" identify is the disposition that makes the constitutional order possible — a nation of **Christ**, in the operative sense of §1, sustains it; a nation of **antichrist**, in the operative sense of §1.7, cannot.
 
 ---
 
@@ -262,7 +262,7 @@ The Act:
 9. **Names the umbrella offenses of authoritarianism, aristocratism, despotism, tyranny, kleptocratism, and the other named forms of non-Christian governance** (§§1.1.29–1.1.42) — making each, individually, a substantive offense against citizens. The named forms are, in every case, the operative opposites of Christian disposition.
 10. **Recognizes the citizen as the constituent sovereign** and the government as the servant — restoring the hierarchy the Founders established and that Christian disposition embodies in the operative life of the nation.
 
-Each of these provisions is a direct restoration of Christian disposition to the operative reality of government. The Act does not establish Christianity as the state religion; it does not impose Christian doctrine on citizens of other faiths or none; it does not displace the First Amendment's protections. It restores, in the operative function of state government, the disposition the etymological roots of "Christian" identify — grace, kindness, gentleness, benevolent goodness — and reaches government conduct that has departed from those values into the territory of terror, extraction, and the rule of fear.
+Each of these provisions is a direct restoration of Christian disposition to the operative reality of government. The Act does not establish Christianity as the state religion; it does not impose Christian doctrine on citizens of other faiths or none; it does not displace the First Amendment's protections. It restores, in the operative function of state government, the disposition the etymological roots of "Christian" identify — grace, kindness, gentleness, benevolent goodness — and reaches government conduct that has departed from those values into the territory of terror, extraction, and the rule of fear. It is, in every operative dimension, a restoration of the disposition of **Christ** in place of the disposition of **antichrist**.
 
 ---
 
@@ -280,7 +280,7 @@ But we are a Christian nation in the sense that the operative virtues that make 
 
 Operation Checkmate is a restoration of those virtues to the operative life of state government. It is a restoration of Christian disposition — *chrēstotēs* — to the conduct of officials toward citizens. It is a restoration of *charizomai* — granting freely, forgiving, bestowing in kindness — to the government's first response to citizens in distress. It is a restoration of *chara* — joy, gladness, confidence in the common life — that the rule of terror has displaced.
 
-This is what it means to bring back Christian values. This is what it means to be a Christian nation in the sense that matters. And this is what Operation Checkmate is for.
+This is what it means to bring back Christian values. This is what it means to be a Christian nation in the sense that matters: a nation of **Christ**, not of **antichrist**. And this is what Operation Checkmate is for.
 
 ---
 
