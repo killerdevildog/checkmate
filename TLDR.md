@@ -6,7 +6,7 @@ The short version:
 
 **If a private citizen would face consequences for doing it, a government actor should not escape consequences because they had a badge, robe, office, contract, agency title, or government policy behind them.**
 
-This file is the short guide. The full bill is [`bill_proposal.md`](bill_proposal.md). For PDF snapshots, check the assets on the [latest release](https://github.com/killerdevildog/checkmate/releases/latest). A release may be older than the working Markdown draft. The [section index](sections/README.md) explains the current source layout.
+This file is the short guide. The full bill is [`bill_proposal.md`](bill_proposal.md), the combined reading copy of both companion Acts. For PDF snapshots, check the assets on the [latest release](https://github.com/killerdevildog/checkmate/releases/latest). A release may be older than the working Markdown draft. The [Government Accountability index](government_accountability/README.md) and the [Citizen-Led Investigations index](Citizen_Led_Investigations/README.md) explain the current source layout.
 
 ---
 

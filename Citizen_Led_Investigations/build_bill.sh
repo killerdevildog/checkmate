@@ -2,6 +2,7 @@
 set -euo pipefail
 
 cd "$(dirname "$0")"
+folder="$(basename "$PWD")"
 
 manifest="manifest.txt"
 output="bill_proposal.md"
@@ -34,6 +35,6 @@ done < "$manifest"
 mv "$tmp" "$output"
 trap - EXIT
 
-echo "Generated sections/$output"
+echo "Generated $folder/$output"
 echo "Root bill_proposal.md was not changed."
-echo "Review sections/$output, then manually move or copy it to ./bill_proposal.md if you want it to replace the root bill."
+echo "Review $folder/$output, then manually move or copy it to ./bill_proposal.md if you want it to replace the root bill."

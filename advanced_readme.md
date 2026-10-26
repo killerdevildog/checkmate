@@ -6,7 +6,7 @@ A draft accountability statute for government actors — written to make those c
 
 > **Status:** Working draft. Not legal advice. Has not been reviewed by counsel.
 
-The assembled reading copy lives in **[`bill_proposal.md`](bill_proposal.md)**. The editable source files and build order are documented in the **[section index](sections/README.md)**; section edits can be newer than the assembled copy. Earlier drafts are preserved in the git history of this repository.
+The assembled reading copy lives in **[`bill_proposal.md`](bill_proposal.md)**, the combined "Operation Checkmate" document for both companion Acts. The editable source files and build order are documented in the **[Government Accountability index](government_accountability/README.md)** and the **[Citizen-Led Investigations index](Citizen_Led_Investigations/README.md)**; section edits can be newer than the assembled copy. Earlier drafts are preserved in the git history of this repository.
 
 Key terms and phrases used in the bill are now defined directly in **Section 1 (Definitions)** of [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
 
@@ -80,7 +80,7 @@ The biggest shifts:
 
 A brief tour of the substantive provisions. See [`bill_proposal.md`](bill_proposal.md) for the full text.
 
-**Numbering note:** Former Section 6 is now §5.5, former Section 7 is §5.6, and former Section 8 is §2.3. These were merged into existing sections; they are not missing files. The [section index](sections/README.md) links every current build input. This overview summarizes the proposal; consult the section text for its full elements, exceptions, classifications, and remedies.
+**Numbering note:** Former Section 6 is now §5.5, former Section 7 is §5.6, and former Section 8 is §2.3. These were merged into existing sections; they are not missing files. The [Government Accountability index](government_accountability/README.md) and the [Citizen-Led Investigations index](Citizen_Led_Investigations/README.md) link every current build input. This overview summarizes the proposal; consult the section text for its full elements, exceptions, classifications, and remedies.
 
 ### Statement of Intent
 
@@ -146,9 +146,9 @@ The "rights" covered by the Act are construed broadly — UN human-rights treati
 
 ### Additional Definitions and Due-Process Provisions
 
-[Section 1](sections/02-section-1-definitions.md) now groups the definitions under §1.1, with misconceptions under §1.2. In addition to the offenses summarized above, it includes ineffective assistance of counsel (§1.1.17), incompetence in office (§1.1.20), businesses, employees, and beneficiaries (§§1.1.21–1.1.23), judicial legislation (§1.1.25), pretextualism (§1.1.32), and carceralism (§1.1.47). The later definitions address arbitrary action (§1.1.48), arrest by warrant (§1.1.49), trespass (§1.1.50), general warrants (§1.1.51), post-hoc justification (§1.1.52), and government gang activity (§1.1.53).
+[Section 1](government_accountability/02-section-1-definitions.md) now groups the definitions under §1.1, with misconceptions under §1.2. In addition to the offenses summarized above, it includes ineffective assistance of counsel (§1.1.17), incompetence in office (§1.1.20), businesses, employees, and beneficiaries (§§1.1.21–1.1.23), judicial legislation (§1.1.25), pretextualism (§1.1.32), and carceralism (§1.1.47). The later definitions address arbitrary action (§1.1.48), arrest by warrant (§1.1.49), trespass (§1.1.50), general warrants (§1.1.51), post-hoc justification (§1.1.52), and government gang activity (§1.1.53).
 
-[Section 2](sections/03-section-2-due-process.md) also includes officers (§2.8), constitutional objections (§2.9), court access and counsel (§2.10), public defenders (§2.11), shared attorney offenses (§2.12), and training and competency requirements (§2.13). Prosecutorial duties include investigating actual innocence (§2.6.1.3); the public-defense provisions include caseload limits (§2.11.8) and parity of resources (§2.11.9).
+[Section 2](government_accountability/03-section-2-due-process.md) also includes officers (§2.8), constitutional objections (§2.9), court access and counsel (§2.10), public defenders (§2.11), shared attorney offenses (§2.12), and training and competency requirements (§2.13). Prosecutorial duties include investigating actual innocence (§2.6.1.3); the public-defense provisions include caseload limits (§2.11.8) and parity of resources (§2.11.9).
 
 ### Mens Rea, Knowing, and Defenses (Sections 3, 4, and 5)
 
@@ -160,7 +160,7 @@ The "rights" covered by the Act are construed broadly — UN human-rights treati
 - **§5.3 — Public Servant Status**. A government actor cannot invoke personal rights (free speech, expression, opinion, privacy) as a defense to official conduct; the badge constrains rather than expands rights.
 - **§5.4 — Private-capacity not a shield**. Conversely, an actor cannot escape Council jurisdiction by claiming they were off-duty when the conduct constituted a crime under generally applicable law.
 
-The rest of [Section 5](sections/06-section-5-fixing-immunity-and-accountability-gaps.md) covers personal accountability and indemnification (§5.2), equal application (§5.5), business and employee claims (§5.7), criminal limitation periods (§5.8), officials' pretrial release and employment conditions (§5.9), and oath-of-office violations (§5.10).
+The rest of [Section 5](government_accountability/06-section-5-fixing-immunity-and-accountability-gaps.md) covers personal accountability and indemnification (§5.2), equal application (§5.5), business and employee claims (§5.7), criminal limitation periods (§5.8), officials' pretrial release and employment conditions (§5.9), and oath-of-office violations (§5.10).
 
 ### Penalty Enhancements (§5.6)
 
@@ -199,7 +199,7 @@ The mechanism that makes the rest of the Act enforceable against those who contr
 - **§9.14 Logical Consistency Review (12-member unanimous Council)** — Council can require immediate judicial review of any statute, regulation, or ordinance that is logically inconsistent with the U.S. Constitution (Article VI Supremacy Clause), the Utah Constitution, or another in-force statute. Reviewing judge **must** engage on the merits in writing; cannot decline on grounds of tradition (*"it's the way it's always been done"*), stare decisis where applying it would perpetuate the inconsistency, inconvenience, or deference to the enacting legislature. Established inconsistencies are nullified and **removed from the books within 30 days**. Refusal to engage is Anarchy (§1.1.10), reckless prosecution, or Obstruction (§1.1.8) — judicial immunity does not apply
 - **§9.15 Conviction Review (18-member unanimous Council)** — Council can **nullify** a conviction (legal effect of acquittal, bars retrial), **reduce** it, **spare** the convicted from the death penalty, or extend **public forgiveness** restoring civil and political rights and barring collateral consequences. Filing takes immediate effect, subject only to the court's verification of procedural compliance (composition, unanimity, signatures under oath, conflict-of-interest exclusions). Council may not increase a sentence or class. A parallel safeguard for cases the appellate system has failed to correct; not a substitute for ordinary appeal. Refusal by the court of conviction is Anarchy / reckless prosecution / Obstruction
 
-- **§9.16 Conflicts, recusal, and substitute prosecutors** — sets out conflict grounds, notice, the substitute-prosecutor chain, Citizen Council appointment of a special prosecutor, and limits on plea agreements. See [Section 9](sections/10-section-9-activation-of-prosecution-citizen-council-and-joint-declaration.md) for the full procedure.
+- **§9.16 Conflicts, recusal, and substitute prosecutors** — sets out conflict grounds, notice, the substitute-prosecutor chain, Citizen Council appointment of a special prosecutor, and limits on plea agreements. See [Section 9](Citizen_Led_Investigations/10-section-9-activation-of-prosecution-citizen-council-and-joint-declaration.md) for the full procedure.
 
 ### Retroactive Civil Applicability and No Statute of Limitations (§10)
 
@@ -243,11 +243,11 @@ Repugnance may be determined by any court, by a unanimous 12-member Citizen Coun
 
 ### Role-Specific Public Official Offenses (§17)
 
-[Section 17](sections/18-section-17-role-specific-public-official-offenses.md) contains the remaining role-specific catalogue: general public-official offenses (Subpart A), police, sheriff, and custody offenses (Subpart B), legislative, executive, council, and regulatory offenses (Subpart D), and federal-representative and intergovernmental obstruction (Subpart E). Judicial and court-access provisions formerly in Subpart C are now in Section 2. Sections 17.26 and 17.27 refer back to Section 5 for penalties and aggravating factors.
+[Section 17](government_accountability/18-section-17-role-specific-public-official-offenses.md) contains the remaining role-specific catalogue: general public-official offenses (Subpart A), police, sheriff, and custody offenses (Subpart B), legislative, executive, council, and regulatory offenses (Subpart D), and federal-representative and intergovernmental obstruction (Subpart E). Judicial and court-access provisions formerly in Subpart C are now in Section 2. Sections 17.26 and 17.27 refer back to Section 5 for penalties and aggravating factors.
 
 ### Authorities and Explanatory Essays
 
-[Section L](sections/19-section-l-cases-cited.md) collects the bill's case authorities. The [why index](why/README.md) lists essays explaining drafting choices; these are companion documents and are not included by the bill manifest.
+[Section L](government_accountability/19-section-l-cases-cited.md) collects the bill's case authorities. The [why index](why/README.md) lists essays explaining drafting choices; these are companion documents and are not included by the bill manifest.
 
 ---
 

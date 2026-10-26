@@ -15,7 +15,7 @@ Try these questions:
 
 **Ask specific, document-grounded questions — don't just ask an AI assistant to summarize or render a verdict on the bill cold.** An assistant answering without the text in front of it is drawing on patterns in its training data about citizen-drafted accountability bills, qualified immunity, and government power generally — and that training data carries its own assumptions, which can run either direction, dismissive or uncritical, independent of what this bill actually says. Give it the document first, ask it to name the exact section behind each answer, and treat any claim it can't point to a section for as unverified.
 
-Compare the answers with the document you supplied. Ask the assistant to distinguish what the bill **proposes** from what existing law already allows. Check the release version: a PDF snapshot may be older than the working draft, and the source files in [sections](sections/README.md) may contain changes not yet included in the assembled reading copy.
+Compare the answers with the document you supplied. Ask the assistant to distinguish what the bill **proposes** from what existing law already allows. Check the release version: a PDF snapshot may be older than the working draft, and the source files in [Government Accountability](government_accountability/README.md) and [Citizen-Led Investigations](Citizen_Led_Investigations/README.md) may contain changes not yet included in the assembled reading copy.
 
 🚧 ⚠️ **Known fact: AI chatbots carry a measurable political lean — this is documented, not speculation** ⚠️ 🚧
 
@@ -46,7 +46,7 @@ Criminal accountability for official misconduct already exists in some forms. Fo
 
 **A legal limit matters:** criminalization does not automatically eliminate every form of government immunity. Separate constitutional protections can apply in criminal cases; presidential immunity for official acts is one example recognized in [*Trump v. United States*](https://www.supremecourt.gov/opinions/23pdf/23-939_e2pg.pdf). A state bill cannot simply override federal constitutional protections. The claim here is that **civil immunity does not defeat criminal liability**, not that changing an offense’s label resolves every constitutional question.
 
-The draft also proposes changes to civil immunity in [Section 5](sections/06-section-5-fixing-immunity-and-accountability-gaps.md). Those provisions are part of the full proposal. The criminal approach stands on its own distinction: a civil defense does not decide whether someone committed a crime.
+The draft also proposes changes to civil immunity in [Section 5](government_accountability/06-section-5-fixing-immunity-and-accountability-gaps.md). Those provisions are part of the full proposal. The criminal approach stands on its own distinction: a civil defense does not decide whether someone committed a crime.
 
 ## Public accountability for public power
 
@@ -71,7 +71,7 @@ The bill uses **assault** and **battery** in a specific government context. Both
 | **Assault** | Official conduct puts someone in a position where a reasonable person would believe they may need to defend their rights, liberty, or property. | **Class 3 felony** |
 | **Battery** | Official conduct actually deprives, restrains, harms, or violates someone’s rights, liberty, or property. | **Class 2 felony or higher**, depending on severity |
 
-The classifications above are the draft’s stated baselines. The mental-state rules and any applicable offense-specific provisions or enhancements must also be read. The controlling definitions are in [Section 1](sections/02-section-1-definitions.md).
+The classifications above are the draft’s stated baselines. The mental-state rules and any applicable offense-specific provisions or enhancements must also be read. The controlling definitions are in [Section 1](government_accountability/02-section-1-definitions.md).
 
 ### Assault: creating the reasonable need to defend a right
 
@@ -121,7 +121,7 @@ This is a range of accountability, not a requirement that every official receive
 
 ## What must be proved
 
-The [mental-state rules in Section 3](sections/04-section-3-mens-rea-criminal-and-civil.md) distinguish negligence, recklessness, intentional conduct, and malice. Those distinctions matter because the bill ties liability and punishment to both the act and the actor’s responsibility for it.
+The [mental-state rules in Section 3](government_accountability/04-section-3-mens-rea-criminal-and-civil.md) distinguish negligence, recklessness, intentional conduct, and malice. Those distinctions matter because the bill ties liability and punishment to both the act and the actor’s responsibility for it.
 
 - **Negligence:** failing to exercise the required care and failing to perceive a substantial risk the actor should have perceived.
 - **Recklessness:** disregarding a substantial and unjustifiable risk, ignoring an obvious risk, or proceeding while aware of a possible violation, as defined in the draft.
@@ -138,7 +138,7 @@ This gives the accountability proposal a concrete standard to assess. Readers ca
 
 ## Who and what the proposal covers
 
-The draft’s definition of **government actor** reaches the exercise of public authority across roles: police officers, judges, prosecutors, elected officials, regulators, clerks, public administrators, and other covered actors. [Section 17](sections/18-section-17-role-specific-public-official-offenses.md) adds offenses tied to particular responsibilities.
+The draft’s definition of **government actor** reaches the exercise of public authority across roles: police officers, judges, prosecutors, elected officials, regulators, clerks, public administrators, and other covered actors. [Section 17](government_accountability/18-section-17-role-specific-public-official-offenses.md) adds offenses tied to particular responsibilities.
 
 That breadth matters because a deprivation can begin in many places. An unlawful detention may involve a street encounter. A loss of property may begin with an administrative order. A coerced surrender of a right may happen in a courtroom, an inspection, or a licensing process. The proposal follows the use of power and its effect on rights.
 
@@ -150,17 +150,18 @@ This repository contains proposed legislation, not an enacted law. Read the full
 
 | Looking for… | Read |
 |---|---|
-| The assembled proposal | [Full bill](bill_proposal.md) |
-| Definitions of assault, battery, and infraction | [Section 1](sections/02-section-1-definitions.md) |
-| Mental states and proof requirements | [Section 3](sections/04-section-3-mens-rea-criminal-and-civil.md) |
-| Immunity and liability provisions | [Section 5](sections/06-section-5-fixing-immunity-and-accountability-gaps.md) |
+| The assembled proposal (both Acts, combined) | [Full bill](bill_proposal.md) |
+| Definitions of assault, battery, and infraction | [Section 1](government_accountability/02-section-1-definitions.md) |
+| Mental states and proof requirements | [Section 3](government_accountability/04-section-3-mens-rea-criminal-and-civil.md) |
+| Immunity and liability provisions | [Section 5](government_accountability/06-section-5-fixing-immunity-and-accountability-gaps.md) |
+| The citizen-enforcement mechanism (Section 9) | [Citizen-Led Investigations](Citizen_Led_Investigations/README.md) |
 | A section-by-section overview | [Advanced overview](advanced_readme.md) |
 | Answers to common questions | [FAQ](faq.md) |
-| Current source structure and build instructions | [Section index](sections/README.md) |
+| Current source structure and build instructions | [Government Accountability index](government_accountability/README.md) · [Citizen-Led Investigations index](Citizen_Led_Investigations/README.md) |
 | Explanations and community guides | [Why essays](why/README.md) · [Community guides](culture/README.md) |
 | How to propose an edit | [Contributing](CONTRIBUTING.md) |
 
-The root `bill_proposal.md` is the assembled reading copy. Source edits in `sections/` can be newer. Companion essays may use older section numbers, so check the section index when following references. Documentation edits do not require rebuilding the bill.
+The bill is two companion Acts — **Government Accountability** and **Citizen-Led Investigations** — that reference each other by section number. The root `bill_proposal.md` is the combined reading copy of both. Source edits in `government_accountability/` or `Citizen_Led_Investigations/` can be newer. Companion essays may use older section numbers, so check the section indexes when following references. Documentation edits do not require rebuilding the bill.
 
 ## Support and feedback
 

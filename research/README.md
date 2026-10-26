@@ -1,6 +1,6 @@
 # Research Notes
 
-This folder holds working analysis supporting the project. These notes are not bill source files and are not included by `sections/manifest.txt`. Their recommendations are not adopted into the draft merely by appearing here; check the [bill](../bill_proposal.md) and [section index](../sections/README.md) for the text being proposed.
+This folder holds working analysis supporting the project. These notes are not bill source files and are not included by either bill's `manifest.txt`. Their recommendations are not adopted into the draft merely by appearing here; check the [bill](../bill_proposal.md) and the section indexes ([Government Accountability](../government_accountability/README.md), [Citizen-Led Investigations](../Citizen_Led_Investigations/README.md)) for the text being proposed.
 
 ## August 2026 Utah passage research
 

@@ -2,7 +2,7 @@
 
 These essays record the reasoning behind drafting choices in Operation Checkmate. They are companion documents, not inputs to the assembled bill. Start with the [project overview](../README.md), [structural explanation](../why-this-is-the-answer.md), or [advanced overview](../advanced_readme.md).
 
-Some essays retain section numbers from earlier drafts. Use the [current section index](../sections/README.md) and [bill text](../bill_proposal.md) to locate the corresponding provisions. In particular, former Sections 6 and 7 moved into Section 5, and former Section 8 moved into Section 2.
+Some essays retain section numbers from earlier drafts. Use the current section indexes ([Government Accountability](../government_accountability/README.md), [Citizen-Led Investigations](../Citizen_Led_Investigations/README.md)) and [bill text](../bill_proposal.md) to locate the corresponding provisions. In particular, former Sections 6 and 7 moved into Section 5, and former Section 8 moved into Section 2. Sections 9, 11, and 16 now live in Citizen-Led Investigations; the rest remain in Government Accountability.
 
 ## Essay index
 

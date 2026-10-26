@@ -18,4 +18,4 @@ pandoc testing/superscript-utf-example.md \
 
 Open the PDF and check that the superscript glyphs render, the `¹ᴬ` link jumps to “Note 1A,” and the table of contents navigates correctly. Glyph coverage depends on the installed fonts; XeLaTeX alone does not supply missing glyphs. Generated PDFs and `deploy/` are ignored by Git.
 
-For bill assembly checks, see the [section guide](../sections/README.md).
+For bill assembly checks, see the section guides for [Government Accountability](../government_accountability/README.md) and [Citizen-Led Investigations](../Citizen_Led_Investigations/README.md).
