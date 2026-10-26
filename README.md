@@ -1,319 +1,158 @@
 # Operation Checkmate
 
-> A citizen-written bill to make government officials answer to the same law as everyone else.
+## Talk with AI about this bill
 
-## Start here
+Start with the bill itself. Download a PDF from the [latest release](https://github.com/killerdevildog/checkmate/releases/latest), if one is attached, or use the [Markdown reading copy](bill_proposal.md). Give that document to an AI assistant that accepts it, and ask it to explain the proposal in plain language.
+
+Try these questions:
+
+- *“Explain how this bill uses infractions, misdemeanors, and felonies to address misuse of government power.”*
+- *“What is the difference between civil immunity and immunity from criminal prosecution?”*
+- *“Explain the assault and battery definitions in Section 1, with examples.”*
+- *“How does the bill make accountability public?”*
+- *“What are the strongest legal objections to this proposal?”*
+- *“Which exact sections support your answer?”*
+
+Compare the answers with the document you supplied. Ask the assistant to distinguish what the bill **proposes** from what existing law already allows. Check the release version: a PDF snapshot may be older than the working draft, and the source files in [sections](sections/README.md) may contain changes not yet included in the assembled reading copy.
+
+## The idea: criminal accountability for misuse of public power
+
+**Operation Checkmate is a proposed Utah bill that makes defined abuses of government power punishable as infractions, misdemeanors, and felonies. Its purpose is public accountability: officials answer for unlawful conduct under law, before a court, with consequences tied to what they did.**
+
+**Criminal accountability is needed because internal investigations can be corrupted by the institution’s interest in protecting itself.** When colleagues investigate colleagues, supervisors review conduct they approved, and the agency controls the records and public explanation, a process meant to uncover abuse can become a way to conceal it. The institution accused of wrongdoing should not have the final word on whether its officials are held accountable.
+
+The central distinction is simple: **qualified immunity and the familiar judicial and prosecutorial immunities are protections against civil liability. Those civil shields do not provide immunity from criminal prosecution.** Qualified immunity concerns civil damages; the Supreme Court has also expressly distinguished judges’ and prosecutors’ civil immunity from criminal responsibility for willful violations of constitutional rights. See [*Harlow v. Fitzgerald*](https://www.law.cornell.edu/supremecourt/text/457/800) and [*Imbler v. Pachtman*](https://www.law.cornell.edu/supremecourt/text/424/409).
+
+That distinction is the strategy behind this bill. Define the prohibited conduct, assign an offense level, and require proof of the violation. An official facing a criminal charge cannot turn a civil immunity doctrine into a defense to that charge. The question becomes whether the evidence proves the offense and the required mental state.
+
+The proposal covers a range of conduct because misuse of power comes in different forms. Minor coercion can start at the infraction level. Repetition or a specified aggravating circumstance can make conduct a misdemeanor. Assault, battery, and other serious abuses carry felony classifications under the draft. The precise offense and its elements control; every disagreement with an official does not carry the same charge.
+
+**That is the “checkmate”: define misuse of power as an offense, and the ordinary civil immunity shield no longer answers the criminal case.** The officeholder must answer the allegation through the legal process, with the same requirement that criminal liability be proved beyond a reasonable doubt.
+
+Criminal accountability for official misconduct already exists in some forms. For example, [18 U.S.C. § 242](https://www.justice.gov/crt/deprivation-rights-under-color-law) criminalizes willful deprivation of federal rights under color of law. Operation Checkmate proposes a broader, detailed state framework naming prohibited conduct, setting levels of responsibility, and assigning consequences.
+
+**A legal limit matters:** criminalization does not automatically eliminate every form of government immunity. Separate constitutional protections can apply in criminal cases; presidential immunity for official acts is one example recognized in [*Trump v. United States*](https://www.supremecourt.gov/opinions/23pdf/23-939_e2pg.pdf). A state bill cannot simply override federal constitutional protections. The claim here is that **civil immunity does not defeat criminal liability**, not that changing an offense’s label resolves every constitutional question.
+
+The draft also proposes changes to civil immunity in [Section 5](sections/06-section-5-fixing-immunity-and-accountability-gaps.md). Those provisions are part of the full proposal. The criminal approach stands on its own distinction: a civil defense does not decide whether someone committed a crime.
+
+## Public accountability for public power
+
+The purpose is to end **in-house or private accountability as the final answer to conduct that meets the elements of an offense**. Misuse of public power should produce an answer the public can examine: what happened, what law applied, what evidence was presented, and what consequence followed.
+
+An internal finding that an employee followed policy does not establish that the conduct was lawful. A supervisor’s approval does not supply authority the law never granted. A private reprimand does not resolve criminal responsibility. Under the proposal, the legal question follows the conduct even when an institution would prefer to describe it as a personnel matter.
+
+A corrupted internal investigation can bury complaints, discount evidence, excuse colleagues, or relabel unlawful conduct as a minor policy issue. **Closing an internal investigation must not close the question of criminal responsibility.** Defining the conduct as an offense gives it a legal standard that the accused institution cannot settle through its own personnel decision. Prosecution brings that question before a court, where evidence must establish guilt and civil immunity cannot shield the criminal conduct. That is the proposal’s means of holding officials publicly accountable.
+
+Public accountability means an allegation can be evaluated against a stated rule. Evidence can be tested. The accused can answer. A decision can be explained and reviewed. The public has something more concrete than an assurance that an office looked into itself and considers the matter closed.
+
+The same principle applies when several offices participate. If one official initiates an unlawful deprivation, another supplies the paperwork, and another carries it out, the draft examines each person’s conduct and responsibility. Moving the act through a chain of signatures does not, under the proposal, erase the underlying harm or make every participant unreachable.
+
+The bill’s intended result is **public legal accountability for misuse of power**, with responsibility attached to the actors whose conduct satisfies the law’s requirements. Internal discipline may still serve an employment function, but it cannot substitute for deciding criminal liability. An accusation alone establishes neither guilt nor punishment; the case must still be proved.
+
+## Assault and battery: the basic definitions in this bill
+
+The bill uses **assault** and **battery** in a specific government context. Both definitions protect rights, liberty, and property. Neither is limited to a physical injury. These are the proposal’s definitions, and should be read as such rather than assumed to describe every existing assault or battery statute.
+
+| Proposed offense | Basic distinction | Draft classification |
+|---|---|---|
+| **Assault** | Official conduct puts someone in a position where a reasonable person would believe they may need to defend their rights, liberty, or property. | **Class 3 felony** |
+| **Battery** | Official conduct actually deprives, restrains, harms, or violates someone’s rights, liberty, or property. | **Class 2 felony or higher**, depending on severity |
+
+The classifications above are the draft’s stated baselines. The mental-state rules and any applicable offense-specific provisions or enhancements must also be read. The controlling definitions are in [Section 1](sections/02-section-1-definitions.md).
+
+### Assault: creating the reasonable need to defend a right
+
+Under **§1.1.2**, assault occurs when a government actor, acting under color of authority, places a citizen in a position where a reasonable person would believe they may be required to defend their rights, liberty, or property. The definition expressly includes having to defend those rights **in a court of law**.
+
+“Under color of authority” concerns the use or claimed use of official power. The conduct carries the weight of an office, badge, order, or governmental role. An official’s ability to detain, charge, regulate, remove, or otherwise act against someone gives a threat a practical force beyond an ordinary disagreement.
+
+Examples named in the draft include threats of unlawful detention, coercive commands without lawful basis, actions creating imminent fear of a rights deprivation, and abuses of authority that pressure someone to comply beyond lawful bounds. The definition also reaches conduct compelling someone to seek judicial relief or mount a legal defense to preserve their rights.
+
+Consider an official who threatens an unlawful arrest to force someone to surrender a right. The threatened arrest may never happen, but the person has already been put in the position of defending their liberty against official power. That is the kind of conduct the assault definition addresses. Whether a particular incident qualifies depends on the facts and the required mental state.
+
+The court-related language is a substantial part of the proposal. It treats the coercive use of legal proceedings as capable of threatening rights even when no physical confrontation occurs. The reader should evaluate that breadth directly: the draft reaches the pressure to defend rights, including through litigation, before an actual deprivation is completed.
+
+### Battery: carrying out the deprivation
+
+Under **§1.1.3**, battery occurs when a government actor actually deprives, restrains, harms, or violates a citizen’s rights, liberty, or property. It can happen through **direct action or an indirect process** that produces the deprivation.
+
+Direct examples include unlawful detention or imprisonment, physical force without lawful justification, enforcement beyond lawful authority, and execution of orders that violate constitutional or statutory rights. The common feature is an actual intrusion on the protected interest.
+
+Indirect battery addresses the same result produced through paperwork or institutional action. The definition names orders, warrants, judgments, holds, referrals, sign-offs, proceedings, and other intermediate means. It also addresses participation in systems or chains of officials that bring about an unlawful deprivation.
+
+For example, an official who knowingly procures an unlawful detention through false paperwork may cause the same loss of liberty as the person who physically carries it out. Under the draft, the fact that the first official worked at a desk does not by itself remove that conduct from the battery definition.
+
+Section **1.1.3.1** develops this principle: a deprivation is not made lawful merely because it passed through an order, administrative finding, automated system, or chain of officials. Responsibility still depends on participation and the applicable mental state. A signature or institutional role is not, by itself, proof of the offense.
+
+The definition also distinguishes unlawful deprivation from lawful protective action. Section **1.1.3.2** requires a factual and legal basis for protective action and describes the care required in taking it. The proposal’s rule is that authority must rest on an actual basis for the action; the possibility that something bad might happen does not supply unlimited power to deprive someone of liberty or property.
+
+**The distinction to remember:** assault addresses being put in a reasonable position of needing to defend a right; battery addresses the actual deprivation or violation. The proposal applies both concepts to the exercise of government power.
+
+## From a citation to a misdemeanor to a felony
+
+A useful plain-language description of the proposal is **citation-level infractions, misdemeanors, and felonies**. The draft’s formal term for the lowest tier is *infraction*. A citation is a way an offense may be charged or noticed, rather than a separate offense classification.
+
+Under **§1.1.4**, an infraction includes minor coercive conduct, falling short of assault or battery, that would reasonably direct or pressure someone to act contrary to their rights, liberty, or property. The draft includes utterances, gestures, and implied commands without lawful basis.
+
+For example, “move along” is evaluated in its circumstances. The draft’s example concerns a directive issued where the person is acting within their rights and no lawful basis supports the command. The point is the misuse of authority conveyed by the directive, not the words considered in isolation.
+
+The draft classifies that conduct as an **infraction**, escalating to a **Class 1 misdemeanor** on repeat occurrence by the same actor or where it forms part of a pattern. Repeated infractions may also be aggregated as assault under the provision’s terms. Other offenses specify their own misdemeanor or felony treatment.
+
+| Level | What the draft uses it to address |
+|---|---|
+| **Infraction** | Specified minor coercion and expressly covered negligent conduct. |
+| **Misdemeanor** | Specified repeated, patterned, or aggravated misconduct, including escalation under §1.1.4. |
+| **Felony** | Assault, battery, and other defined serious abuses of official power. |
+
+This is a range of accountability, not a requirement that every official receive a warning and work through each level before a serious charge is possible. Conduct meeting a felony’s elements can be charged at that level. Conversely, the existence of felony provisions does not turn every minor violation into a felony.
+
+## What must be proved
+
+The [mental-state rules in Section 3](sections/04-section-3-mens-rea-criminal-and-civil.md) distinguish negligence, recklessness, intentional conduct, and malice. Those distinctions matter because the bill ties liability and punishment to both the act and the actor’s responsibility for it.
+
+- **Negligence:** failing to exercise the required care and failing to perceive a substantial risk the actor should have perceived.
+- **Recklessness:** disregarding a substantial and unjustifiable risk, ignoring an obvious risk, or proceeding while aware of a possible violation, as defined in the draft.
+- **Intentional conduct:** acting purposefully or with awareness that the result is substantially certain.
+- **Malice:** intentional conduct accompanied by a motive such as retaliation, intimidation, concealment, or a desire to harm.
+
+The default minimum for criminal liability is **recklessness**, unless a specific offense sets a different standard. Some provisions expressly reach negligence; others require a higher mental state. Intentional and malicious conduct can increase the classification under the draft’s rules.
+
+Section **3.4** requires the prosecution to prove the offense elements and criminal mental state **beyond a reasonable doubt**. Removing a civil immunity shield does not supply missing evidence or establish guilt. The conduct still has to fit a valid offense, and the prosecution still has to prove its case.
+
+The proposal also rejects internal policy, orders from a superior, and official status as substitutes for lawful authority. An official must be able to identify why an action was permitted. “That is how our office does it” does not resolve whether the conduct deprived someone of a protected right.
+
+This gives the accountability proposal a concrete standard to assess. Readers can ask whether a definition is clear, whether the mental state is appropriate, whether the penalty matches the conduct, and whether the process protects against wrongful conviction. Those questions belong in the review of the actual bill text.
+
+## Who and what the proposal covers
+
+The draft’s definition of **government actor** reaches the exercise of public authority across roles: police officers, judges, prosecutors, elected officials, regulators, clerks, public administrators, and other covered actors. [Section 17](sections/18-section-17-role-specific-public-official-offenses.md) adds offenses tied to particular responsibilities.
+
+That breadth matters because a deprivation can begin in many places. An unlawful detention may involve a street encounter. A loss of property may begin with an administrative order. A coerced surrender of a right may happen in a courtroom, an inspection, or a licensing process. The proposal follows the use of power and its effect on rights.
+
+Its core standard is that public office carries responsibility for the power entrusted to it. The bill’s definitions, proof requirements, and classifications are intended to make that responsibility specific enough to address in a legal proceeding. Its treatment of those details is open to scrutiny and revision as part of this working proposal.
+
+## Read and review the proposal
+
+This repository contains proposed legislation, not an enacted law. Read the full text before deciding what to support or change. The README introduces the central argument; the operative sections contain the detailed rules, exceptions, classifications, and remedies.
 
 | Looking for… | Read |
 |---|---|
-| A shorter introduction | [TLDR](TLDR.md) |
 | The assembled proposal | [Full bill](bill_proposal.md) |
-| The structure and section references | [Advanced overview](advanced_readme.md) |
+| Definitions of assault, battery, and infraction | [Section 1](sections/02-section-1-definitions.md) |
+| Mental states and proof requirements | [Section 3](sections/04-section-3-mens-rea-criminal-and-civil.md) |
+| Immunity and liability provisions | [Section 5](sections/06-section-5-fixing-immunity-and-accountability-gaps.md) |
+| A section-by-section overview | [Advanced overview](advanced_readme.md) |
 | Answers to common questions | [FAQ](faq.md) |
-| Individual sections and build instructions | [Bill section index](sections/README.md) |
-| Explanations of drafting choices | [Why essays](why/README.md) |
-| Community guides | [Community guide index](culture/README.md) |
-| Reusable outreach drafts | [Email templates](emails/README.md) |
-| How to suggest or prepare an edit | [Contributing](CONTRIBUTING.md) |
+| Current source structure and build instructions | [Section index](sections/README.md) |
+| Explanations and community guides | [Why essays](why/README.md) · [Community guides](culture/README.md) |
+| How to propose an edit | [Contributing](CONTRIBUTING.md) |
 
-This repository contains a working legislative proposal. The root `bill_proposal.md` is the assembled reading copy; edits in `sections/` can be newer than that copy. Companion essays and research notes explain or discuss the proposal and may use older section numbers. See the [section index](sections/README.md) for the current structure.
+The root `bill_proposal.md` is the assembled reading copy. Source edits in `sections/` can be newer. Companion essays may use older section numbers, so check the section index when following references. Documentation edits do not require rebuilding the bill.
 
----
+## Support and feedback
 
-## Talk to an AI about this bill
+To sign the petition in support of Operation Checkmate, email **citizens.checkmate@gmail.com** with subject **`CHECKMATE`** and include your **first and last name and ZIP code**. Your submission counts as an electronic signature supporting the petition. Aggregated counts may be published; your full identity will not be published without separate, explicit consent.
 
-Want help understanding the bill? Download a PDF snapshot from the project's releases, or use the [Markdown reading copy](bill_proposal.md) with an assistant that accepts that format. Upload support and document limits depend on the service you use.
+Questions, criticism, and suggested wording are welcome at the same address. You can also [open a GitHub issue](https://github.com/killerdevildog/checkmate/issues) or propose an edit using the [contribution guide](CONTRIBUTING.md). For specific feedback, identify the section and explain what you would change and why.
 
-**Step-by-step:**
-
-1. **Go to the latest-release page:**
-   👉 [https://github.com/killerdevildog/checkmate/releases/latest](https://github.com/killerdevildog/checkmate/releases/latest)
-
-2. **Look in the "Assets" section** for a PDF attachment. Download it and note the release version; a release snapshot may be older than the working Markdown draft. If there is no PDF attached, use [`bill_proposal.md`](bill_proposal.md).
-
-3. **Open an AI chat:**
-   - [ChatGPT](https://chatgpt.com)
-   - [Claude](https://claude.ai)
-   - [Grok](https://grok.com)
-   - [Gemini](https://gemini.google.com)
-   - or any other AI assistant that accepts file uploads
-
-4. **Upload the PDF** as your first message. Most chat AIs have a paperclip icon (or "Attach"/"Upload" button) next to the message box — click that and select the PDF you just downloaded. On phones, you can drag-and-drop or use the share button.
-
-5. **Ask anything.** For example:
-   - *"Explain this bill to me in plain language."*
-   - *"Apply this bill to my situation: [describe what happened to you]."*
-   - *"What does the bill say about [specific topic, like 'qualified immunity' or 'public defenders']?"*
-   - *"What are the strongest objections to this bill, and how does it answer them?"*
-   - *"Help me draft a feedback email to the bill's author."*
-   - *"Help me draft a GitHub issue suggesting an improvement."*
-
-Ask the assistant to identify the section supporting its answer, then compare that answer with the draft you uploaded.
-
----
-
-## In one paragraph
-
-When someone in government — a judge, a cop, a prosecutor, a politician, a school official, a code inspector — uses their power to harm a citizen, **they should face real consequences**. Not just policy reviews. Not just paid leave. Real civil and criminal accountability, the same way you or I would face it if we broke the law. **Operation Checkmate** closes the gap that currently lets officials act outside the law — sometimes maliciously — without ever being held accountable. And it gives ordinary citizens, not the political class, the means to enforce that accountability.
-
----
-
-## Why this matters to you
-
-You don't have to be in trouble with the law for this to matter. Almost everyone interacts with the government at some point — a custody dispute, a traffic stop, a permit, a tax audit, a child-protective-services visit, a school discipline issue, a small-business inspection. The people on the other side of those interactions currently have very limited consequences if they treat you unfairly, dishonestly, or maliciously.
-
-A few real-world examples this bill addresses:
-
-- **A judge approves taking your child** without a real hearing — currently they're protected by "judicial immunity." This bill makes them personally liable.
-- **A judge threatens you with contempt** — *"if you don't shut up I'll hold you in contempt"* — when you're trying to assert a right, correct the record, or make a record for appeal. Currently shielded by judicial immunity. This bill ends that immunity and makes the threat itself reachable as **Official Intimidation**.
-- **A prosecutor or judge maneuvers you into incriminating yourself at trial** — through coercive rulings, pressured testimony, or proceedings structured so your right to remain silent collapses under pressure. The right against self-incrimination is one of the expressly protected rights in the bill, and courtroom coercion is reachable as **Assault** or **Battery** against your rights.
-- **A police officer threatens you** to make you do something you have a right not to do. Today they often face nothing. This bill makes that a felony.
-- **A cop pulls you over without a legitimate reason** — fishing for something to charge you with. Today the worst they typically face is the evidence being suppressed in court. This bill makes a stop without lawful basis personally liable under **Anarchy** (a government actor acting completely outside the law).
-- **A cop searches your car or your home looking for "something" to charge you with** — no specific suspicion, just a fishing expedition. This bill names the predicate-less search what it is: acting outside the law, plus a violation of your right to be secure against unreasonable searches.
-- **A prosecutor refuses to charge their friend** or fellow official for a real crime. Currently that's "prosecutorial discretion." This bill makes that obstruction of justice — at the same severity as the crime they refused to prosecute.
-- **A small group of officials coordinate** to ruin a citizen who won't go along with them. There's almost no recourse today. This bill calls that "cabalism" — a serious felony.
-- **An out-of-state lobbyist with foreign money** writes the laws that affect your life. Currently legal. This bill makes that a felony for both the lobbyist and the politician who acts on it.
-- **A juror votes to convict someone they secretly believe is innocent**, knowing the conviction can't be appealed because no record was kept of the reasoning. This bill requires every convicting juror to write down their reasoning on every piece of evidence — so the truly innocent have a real chance to appeal on the facts.
-
----
-
-## What's new about this bill
-
-The short version: this bill removes immunity for unlawful public power, creates Citizen Councils so citizens can force accountability when institutions refuse, makes juries and prosecutors answer to truth, protects recording and constitutional objections, and names modern forms of official abuse like retaliation-by-process, complaint blocking, poverty enforcement, revenue schemes, wrongful-conviction chains, and algorithmic authority abuse.
-
-For the full feature-by-feature breakdown, see **[`advanced_readme.md`](advanced_readme.md)**.
-
----
-
-## Why it's called "Checkmate"
-
-The name comes from one idea: **put every wrong action by government in check**. The founders of this country and of Utah set up checks and balances. Over time, those checks have stopped working — power has consolidated, accountability has been displaced, and the citizen has been pushed from the center of the system to its margin. This bill is meant to **restore the checks and balances** the founders set in place — and through them, restore a respectful society where everyone, public servant and private citizen alike, is bound to the same standard of truth and conduct.
-
-The name is also a catchy one — and the chess metaphor it borrows from is unusually exact. On a chess board, **checkmate** is the position in which the *king* — the highest-ranking piece, the one the whole game is organized around — has been placed in check, **and has no lawful move left to escape it**. The king is not removed by trickery, not assassinated, not overthrown. The king is brought to a stop by the lawful rules of the game, openly and in full view of both players. The match ends because the king is finally, demonstrably, bound by the rules like every other piece on the board.
-
-That is precisely the posture this bill puts the third regime of authority in. Officials who have spent generations acting like sovereigns — judges shielded by absolute judicial immunity, prosecutors shielded by absolute prosecutorial immunity, officers shielded by qualified immunity, agencies shielded by sovereign immunity — are not removed from the board by this bill. They are simply, finally, bound by the same rules that already bind every other piece on it. The citizen makes the move. The rules of the game do the rest. **Checkmate.**
-
----
-
-## Statement of Intent
-
-**Operation Checkmate is intended to enforce the Constitution as a whole, in full force at all times, against every government actor — regardless of office, party, or opinion.**
-
-The Constitution is not a menu. It is not a list of provisions that government actors may invoke when convenient and set aside when inconvenient. It is not a body of guarantees that operate only when an official chooses to honor them, only during certain hours, only at certain levels of government, only in certain political climates, only when the budget allows, only when public attention is elsewhere. The Constitution is a **single integrated instrument under which government itself was constituted**, and it operates **24 hours a day, 365 days a year, against every government actor in every office**, whether the official finds it convenient or not, whether the official agrees with it or not, whether the official's particular opinion of a clause is generous or grudging or hostile. **The Constitution does not bend to the opinion of the person occupying the office. The person occupying the office is bound by the Constitution.**
-
-The conduct this Act addresses is not a series of unrelated misconduct categories. It is, in every case, a single underlying pattern: government actors selecting which constitutional protections apply, when, to whom, and under what circumstances — treating the Constitution as a tool of governmental convenience rather than as the binding architecture under which government itself was constituted. The Act exists to end that selection.
-
-### The architecture this Act is built to restore
-
-America runs on three regimes of authority, and only two of them have a real disciplinary code. The **military** is disciplined under the **Uniform Code of Military Justice** — a comprehensive criminal code specific to the exercise of military power, in which the foundational principle is that **rank does not exempt anyone from the law**. A captain who falsifies a report answers for it. A colonel who abuses a subordinate answers for it. **Citizens** are disciplined under the **ordinary criminal code** — Utah's Title 76, every state's penal title. Citizens who steal go to court. Citizens who fabricate evidence go to court. Both regimes are policed in real time, with real consequences.
-
-The third regime — **the civilian government itself, when it exercises power over citizens stateside** — has no parallel. The closest analogues are 42 U.S.C. § 1983 and a thin patchwork of state misconduct statutes, all hollowed out by the immunity doctrines (qualified immunity, judicial immunity, prosecutorial immunity, sovereign immunity) and by the practical reality that prosecutors do not charge their own. The result is a structural asymmetry in which the same conduct, done by an ordinary citizen, leads to prosecution within days; done by a government official, leads to no consequence at all. **Operation Checkmate is the disciplinary code the third regime never received.** It does not invent new principles. It applies, to the civilian government, the principle that the military has lived under for decades and that citizens have lived under for centuries: rank does not exempt anyone from the rules.
-
-America is divided in significant part because of this asymmetry. When citizens on opposite sides of every political fight all conclude that the system does not apply the law to itself, they stop trusting each other — because the only thing they have in common is the experience of being failed by the same broken architecture. **The bill heals that division by closing the architecture that created it**, not by asking Americans to agree on policy, culture, identity, party, or any current fight. It asks for one thing: that the same rules apply to everyone, regardless of office. When the rules apply equally, the people who have been fighting each other discover that they were never each other's actual problem. The architecture was.
-
-### What this Act is intended to enforce
-
-The Act is intended to enforce, in operative reality, the foundational constitutional principles set out below. Each is cross-referenced to the operative bill provisions that enforce it.
-
-#### A republican form of government in every state
-
-The United States Constitution guarantees to every state a **republican form of government** — Article IV, Section 4, the "Guarantee Clause." A republic, in the constitutional sense, is a form of government in which:
-
-1. **All legitimate political power flows from the citizens** — not from any monarch, hereditary class, faction, or self-perpetuating institution;
-2. **The government operates under written law that applies equally to citizens and officials alike** — no person stands above the law by virtue of office held;
-3. **Public officials are temporary stewards of power held in trust for the public** — not a permanent governing class, not an aristocracy, not a hereditary or class-based body;
-4. **The architecture of government is designed to prevent the concentration of power** in any single branch, faction, family, or institution.
-
-The Act enforces this guarantee through §1.1.30 (Authoritarianism), §1.1.31 (Aristocratism), §1.1.6 (Cabalism), §1.1.25 (Legislate from the Bench), and the §11.4 automatic-decertification provisions — collectively reaching the conduct that has converted what the Constitution guarantees as a republic into something else: a closed governing class, a managerial state, a hereditary network of officeholders, an institutional arrangement that operates against the citizens it was designed to serve.
-
-#### Protection of citizens' rights from government
-
-The Act recognizes the foundational principle that the **rights of citizens exist prior to government**. The Declaration of Independence's natural-rights framing ("endowed by their Creator with certain unalienable Rights") and the Ninth Amendment's affirmation ("The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people") together establish that **government does not grant rights**. Government is constituted by citizens for the purpose of protecting rights citizens already had before the government existed.
-
-The Act enforces this principle through §1.1.5 (Protected Rights, defined with the broadest possible scope), §1.1.3 (Battery against rights), §1.1.10 (Anarchy), the §1.1.26–§1.1.43 umbrella offenses, and the role-specific offenses of Section 17.
-
-#### Government may limit rights only to prevent actual harm to other citizens
-
-Government may lawfully limit the exercise of a right **only when the right's exercise actually harms another citizen** — meaning concrete, particularized harm to an identified person's life, liberty, property, family, or other right. **Government may not limit rights for purposes of government authority, government convenience, government efficiency, government revenue, government image, government secrecy, government scheduling, government workload, government budget, government preference, or any other reason that does not reduce to concrete harm to other citizens.**
-
-This Act reaches limitation of rights for governmental rather than other-citizen-protective purposes under §1.1.5.2 (Rule of Construction — ambiguities favor the citizen), §1.1.5.3 (Practical Means of Exercising a Right), §1.1.10 (Anarchy), §1.1.18 (Ultra Vires), §1.1.27 (Statism), §1.1.42 (Censorism), and the role-specific offenses of Section 17.
-
-#### No titles of nobility — direct or indirect
-
-The United States Constitution forbids the granting of titles of nobility, twice — **Article I, Section 9, Clause 8** ("No Title of Nobility shall be granted by the United States") and **Article I, Section 10, Clause 1** ("No State shall ... grant any Title of Nobility"). The Founders understood from direct historical experience that hereditary or class-based governmental privilege is incompatible with a republic.
-
-**The modern immunity architecture — qualified immunity, judicial immunity, prosecutorial immunity, sovereign immunity — has created, in operative reality, a form of nobility by indirect grant.** Officials hold permanent personal status that exempts them from the laws applicable to ordinary citizens, and that status circulates among a defined social and professional class. The result is a class of citizens "above the law" — exactly the constitutional condition the Title of Nobility Clauses were written to forbid.
-
-The Act enforces this prohibition through §5.1 (abrogation of the immunity doctrines), §1.1.31 (Aristocratism — operating public office as a noble class is a substantive criminal offense), and §1.1.25 (Legislate from the Bench — the doctrinal mechanism by which the immunity doctrines were judicially invented is itself a substantive criminal offense). Together, these provisions enforce the Title of Nobility Clauses' guarantee — direct and indirect — that no person stands above another by birth, by family, by class, or by office held.
-
-#### Constitutional rights as guarantees, not promises
-
-The Act treats the constitutional protections owed to citizens — particularly the **First, Second, Fourth, Fifth, and Ninth Amendment rights**, and their Utah-constitutional analogues — as **guarantees, not as promises subject to government discretion**. A right that government may limit at convenience, at scheduling preference, at policy preference, or at agency budget priority is not a right; it is a permission.
-
-The Act operationalizes the guarantee by:
-
-- Defining the **violation of protected rights** as a substantive criminal offense (§1.1.3 Battery; the substantive umbrella offenses of Section 1; the role-specific offenses of Section 17);
-- Defining the **practical means of exercising a right** as part of the right itself, not separate privileges the government may withhold (§1.1.5.3);
-- **Abrogating the immunity doctrines** that, in practice, hollowed out the federal civil rights statutes that were supposed to enforce the same rights (§5.1);
-- Providing **citizen-driven enforcement** through Citizen Councils (Section 9) — so that the political failure of executive or legislative branches to enforce the guarantee does not, by itself, end the guarantee;
-- Making the **bypass of guarantees** through emergency, procedural, or formalistic means itself a substantive offense (§17.24 Emergency Power Abuse, §17.24F Public Health Emergency Authority Abuse, §1.1.33 Proceduralism, §1.1.35 Formalism, §1.1.32 Pretextualism).
-
-#### Government has no right of self-preservation; citizens have the duty to preserve the constitutional order
-
-The Act rejects, as a foundational matter, the proposition that **government has an inherent right to self-preservation** that may override citizen rights or authorize government conduct that would otherwise be unlawful. The constitutional order rests on the opposite proposition:
-
-> *"Sovereignty itself is, of course, not subject to law, for it is the author and source of law; but in our system, while sovereign powers are delegated to the agencies of government, sovereignty itself remains with the people, by whom and for whom all government exists and acts."*
->
-> — *Yick Wo v. Hopkins*, 118 U.S. 356, 370 (1886)
-
-> *"The Constitution of the United States is a law for rulers and people, equally in war and in peace, and covers with the shield of its protection all classes of men, at all times, and under all circumstances. No doctrine, involving more pernicious consequences, was ever invented by the wit of man than that any of its provisions can be suspended during any of the great exigencies of government."*
->
-> — *Ex parte Milligan*, 71 U.S. (4 Wall.) 2, 120–21 (1866)
-
-> *"That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it."*
->
-> — Declaration of Independence (1776)
-
-Sovereignty rests with the citizens, not with the officials who happen to occupy offices at any given time. **The duty to preserve the constitutional order rests with the citizens, not with the government.** Government has no inherent right to suspend rights, exempt itself from accountability, or otherwise override the constitutional architecture in the name of its own continuity, convenience, or self-perpetuation.
-
-A government that suspends rights to preserve itself against an unpopular ruling, an unfavorable election, an angry electorate, a critical press, a whistleblower disclosure, or any other lawful exercise of citizen sovereignty has converted itself from a republic into one of the **non-republican forms of government** the Constitution was specifically written to forbid:
-
-- A **dictatorship** — where sovereignty rests in a single ruler or small ruling group rather than in the citizens, and the ruler's continuity overrides the rights of the governed;
-- An **authoritarian regime** — where political power is concentrated in a single party, faction, or institution that operates above the law and suppresses opposition to maintain its position;
-- A **totalitarian regime** — where the state asserts total control over public and private life, treating citizens as instruments of the state's purposes rather than as the source of the state's authority;
-- A **communist regime in its historical totalitarian form** (the Soviet model, the Chinese Cultural Revolution, the Cambodian Khmer Rouge, the North Korean system) — where the ruling party stands above the law, where citizens have no enforceable rights against the state, where political dissent is criminalized as a threat to the regime's continuity, and where the survival of the governing apparatus is treated as paramount over the lives, liberty, and rights of citizens;
-- A **fascist regime** — where nationalist authoritarianism merges with state economic and social control, where dissent is suppressed as betrayal, and where the leader and the state are treated as inseparable;
-- A **police state** — where surveillance, repression, and selective enforcement become the operative instruments by which the government maintains itself against citizen accountability;
-- An **oligarchy** — where rule is held by a small class of officials, families, or institutions that perpetuate themselves at the expense of citizen participation, regardless of the form the surrounding constitution may take on paper;
-- A **kleptocracy** — where public office is operated as a personal or factional theft enterprise, with the government's continued operation serving primarily to extract value from citizens;
-- A **despotism** or **tyranny** — where authority is exercised arbitrarily, without articulable standards, without accountability to the citizens affected, often by a single ruler or a small ruling group; and
-- An **absolute monarchy** — where hereditary or appointed rulers hold sovereignty above any law, accountable to nothing outside themselves.
-
-**Whatever label is given to such a government, it is not a republic.** The Constitution's Article IV, Section 4 guarantee to every state of a republican form of government is, in operative reality, a guarantee against every one of these forms. The forms differ in their organizing principles — single-ruler, single-party, hereditary class, military faction, religious authority, oligarchic network — but they share the structural feature that makes each of them non-republican: **sovereignty rests with the government, not with the citizens.** The Act treats that structural feature as the operative threshold of constitutional repugnance under Article IV, Section 4, and it reaches government conduct effecting that transition under §1.1.30 (Authoritarianism), §1.1.29 (Despotism), §1.1.31 (Aristocratism), §1.1.40 (Kleptocratism), and the related substantive offenses of Section 1.
-
-**The citizen's right to be governed by a republic — operative under this Act.** Article IV, Section 4's guarantee is, under this Act, an **individually enforceable right of every citizen**. A citizen has a right to be governed by a republic — by a government in which sovereignty rests with the people, in which the same law applies equally to officials and citizens, in which public officials are temporary stewards of power held in trust for the public — **not by a dictatorship, a totalitarian regime, a communist regime, a fascist regime, a police state, an oligarchy, a kleptocracy, a despotism, an absolute monarchy, or any other non-republican form** of government, regardless of what the surrounding institutional architecture may technically be called on paper.
-
-**Any single act, function, decision, order, regulation, doctrine, custom, or practice of government that pushes the operative character of the government toward any of these non-republican forms is, by that movement, unconstitutional under this Act**, and reachable as a substantive offense under the cross-referenced provisions of Section 1. The principle does not require a wholesale transformation of the government before the right is violated. Each act that moves the government in the direction of any non-republican form is, by that act, an infringement of the citizen's Article IV, Section 4 right — and the citizen need not wait for the transformation to complete before invoking this Act to challenge the conduct.
-
-This Act expressly rejects any judicial doctrine — including the "political question" doctrine as applied to Guarantee Clause claims (cf. *Luther v. Borden*, 48 U.S. (7 How.) 1 (1849), and its progeny), restrictive standing doctrines applied to citizens raising Guarantee Clause challenges, abstention doctrines, or any other judicially-constructed barrier — that operates to deny citizens the right to bring claims under Article IV, Section 4. Such doctrines, where applied to defeat claims under this Act, are themselves reachable as substantive offenses under §1.1.25 (Legislate from the Bench); the doctrines themselves are null and void as repugnant instruments under §16 within the State of Utah for any claim arising under this Act; and a Citizen Council may file a Joint Declaration of Logical Consistency Review under §9.14 to challenge any such doctrine directly.
-
-**The citizen does not have to prove the government has already become a dictatorship before the Act applies. The citizen has to prove only that the government's conduct is moving in that direction.** That is the operative threshold of an Article IV, Section 4 violation under this Act, and it is the threshold at which the bill's substantive provisions attach.
-
-The Act reaches government conduct premised on self-preservation against the lawful exercise of citizen rights through §1.1.10 (Anarchy), §1.1.18 (Ultra Vires), §1.1.30 (Authoritarianism), §1.1.42 (Censorism) where the self-preservation was effected by suppressing citizen speech, §1.1.41 (Propagandism) where it was effected by misleading citizens about the conduct, and §17.24 / §17.24F where emergency authority was invoked to defeat citizen accountability.
-
-### The chess metaphor — and the inversion this Act restores
-
-The name **Operation Checkmate** captures the bill's posture with unusual precision. *Checkmate* is the position in which the **king** — the highest-ranking piece on the board, the one the whole game is organized around — has been placed in check, **and has no lawful move left to escape it**. The king is not removed by trickery, assassinated, or overthrown. The king is brought to a stop by the lawful rules of the game, openly and in full view of both players. The match ends because the king is finally, demonstrably, bound by the rules like every other piece on the board.
-
-That is precisely the posture this bill places officials in. Judges shielded by absolute judicial immunity, prosecutors shielded by absolute prosecutorial immunity, officers shielded by qualified immunity, agencies shielded by sovereign immunity — none of them are removed from the board by this bill. They are simply, finally, bound by the same rules that already bind every other piece on it. **The citizen makes the move. The rules of the constitutional order do the rest.**
-
-**The government is at the mercy of the citizens, not the citizens at the mercy of the government.** That is the constitutional inversion this Act is intended to restore.
-
----
-
-## FAQ
-
-The short answers to the most common questions are below. The **[full FAQ lives in `faq.md`](faq.md)** — a long-form companion covering the immunity architecture, the Citizen Council mechanism, mens rea and due process, scope and coverage, constitutional questions, group-specific protections (small business, employees, parents, journalists, whistleblowers, immigrants), penalties, politics, comparisons to existing remedies, the model-bill ambition for other states, and the common objections. If your question isn't answered below, it's almost certainly in [`faq.md`](faq.md).
-
-### Why should I care if I'm not in trouble with the law?
-
-Because almost everyone interacts with government eventually — and when you do, you need to know the people on the other side are accountable. Today, the most powerful officials are the ones with the strongest legal shields. This flips that: power and accountability go together.
-
-### Isn't this anti-cop / anti-judge / anti-government?
-
-No. The bill leaves every legitimate function of government untouched. It only reaches **misconduct** — and only at the level of recklessness or higher. Officials who do their job lawfully and in good faith have nothing to fear from this bill. Bad actors in any profession make the whole profession look corrupt; this bill clears the field.
-
-### What does signing the petition actually do?
-
-It demonstrates citizen support. The more first names and zip codes the bill receives, the harder it is for elected officials in Utah to ignore the demand for it. **This is the part where you matter most.**
-
-### Won't politicians just block this?
-
-Possibly. That's exactly why grassroots support matters — and why the bill's mechanisms are designed not to require the political class's cooperation to function. Citizen Councils don't need a politician's permission. The bill explicitly addresses the corruption that would block it.
-
-### Is this a "sovereign citizen" thing?
-
-**No. Emphatically not. This Act is the opposite of sovereign-citizen ideology and explicitly rejects every premise of that movement.**
-
-The "sovereign citizen" movement is a loose collection of fringe groups holding the belief that ordinary citizens are not subject to most or all government law — that they can opt out of taxation, licensing, traffic laws, and court jurisdiction through pseudo-legal theories (UCC filings, "strawman" theories, special name-formatting rules, "Affidavits of Truth," and various paperwork they claim overrides ordinary law). The FBI has classified some segments of the movement as a domestic-terrorism concern because of recurring violent confrontations with law enforcement during encounters in which adherents refused to recognize the authority of officers, judges, or courts. **Sovereign-citizen ideology is, in plain terms, anti-law.**
-
-Operation Checkmate is **pro-law**. Citizens remain fully subject to the law, including this Act. The Act's premise is that the law applies to *everyone* — including officials currently exempted by the immunity architecture — and the entire architecture this Act creates operates within the constitutional order. Citizen Councils convene under defined statutory procedures. Charges follow defined mens rea standards. Prosecutions follow ordinary due-process protections. Appeals follow ordinary appellate procedure. Nothing in this Act authorizes citizens to refuse lawful taxes, ignore traffic laws, refuse to identify to officers, disregard lawful court orders, or take any extra-legal action of any kind. The Act explicitly disavows violence, militia framings, and extra-constitutional conduct in its own text.
-
-It is true, as a matter of bedrock American constitutional law dating back to *Marbury v. Madison*, that **a statute, ordinance, regulation, or order that is genuinely unconstitutional is not, in the strict legal sense, enforceable**. This Act addresses that through **constitutional means** — Section 16 (Nullity of Government Instruments Repugnant to This Act or to Constitutional Authority) declares repugnant instruments null through orderly judicial process, and gives citizens a defined statutory pathway to challenge them. That is the critical distinction between this Act and sovereign-citizen ideology. **The Act addresses unconstitutional government conduct *through* the constitutional order — legislation, judicial review, citizen mechanisms grounded in statute. Sovereign-citizen ideology, by contrast, claims the right to *unilaterally declare* which laws apply to the individual, with no orderly process and no recognition of the constitutional order itself. Those two postures are not adjacent. They are opposites.**
-
-**Any framing of Operation Checkmate as a sovereign-citizen, militia, "constitutional sheriff," or anti-government project misrepresents it.** This Act exists to *strengthen* the rule of law, not to weaken it; to *restore* the constitutional checks the founders built, not to abolish them; to bind *everyone* equally to the law, not to exempt anyone — citizen or official — from it. For the full treatment of this question, see [`faq.md`](faq.md).
-
-### More questions?
-
-The full FAQ — including the immunity question in depth, the Citizen Council mechanism, mens rea and due process, scope of "government actor," constitutional and federalism questions, group-specific protections, penalties and classifications, the politics, comparisons to §1983 / Title 76 / consent decrees / UCMJ, adaptation to other states, and common objections — is in **[`faq.md`](faq.md)**.
-
----
-
-## How to sign on
-
-If you support **Operation Checkmate**, send an email:
-
-- **Email:** citizens.checkmate@gmail.com
-- **Subject:** `CHECKMATE`
-- **Body:** include your **First and Last Name** and **Zip Code**
-
-Your name + zip code submission counts as an electronic signature in support of this petition. Aggregated counts (by zip code, county, or state) may be published. Your full identity will not be published without your separate, explicit consent.
-
-Questions, edits, or feedback on the draft are welcome at the same address with the same subject line.
-
----
-
-## Read the bill — and tell us what you think
-
-> **Don't take this README's word for any of it.** This is a citizen-written bill, and the only way to evaluate what you'd actually be supporting — or to push back on anything you'd change — is to read the actual text.
-
-**Read the bill:**
-
-- **[`bill_proposal.md`](bill_proposal.md)** — the full bill text. Long, but it's the real thing.
-- **Release snapshots:** [Latest release](https://github.com/killerdevildog/checkmate/releases/latest) — check its assets for a PDF and compare its version with the working draft.
-- **[`advanced_readme.md`](advanced_readme.md)** — a section-by-section overview with section numbers, classifications, and cross-references.
-- **[`faq.md`](faq.md)** — the long-form FAQ. Covers everything the README FAQ touches on plus the immunity architecture in depth, the Citizen Council mechanism, mens rea and due process, scope of "government actor," constitutional questions, group-specific protections, penalties, politics, comparisons to existing remedies, adaptation to other states, and common objections.
-- **Key legal definitions in Section 1** — controlling definitions of legal terms (color of law, judicial immunity, qualified immunity, justice, etc.) inside [`bill_proposal.md`](bill_proposal.md), with full case authorities listed in **Section L**.
-- **[GitHub Releases](https://github.com/killerdevildog/checkmate/releases)** — milestone PDF snapshots for distribution and review.
-
-**Community-specific guides:**
-
-The [community guide index](culture/README.md) lists all guides, including the [leftist guide](culture/lefists.md) and the [veterans essay](veterans-suicide.md).
-
-- **[`culture/lgbtq.md`](culture/lgbtq.md)** — why LGBTQ+ citizens have specific reasons to support this bill, with documented patterns of government abuse the bill addresses (selective enforcement, custody/family-court targeting, workplace retaliation, police failure to protect, pre-*Lawrence* convictions, HIV criminalization, threats against children) and the corresponding bill provisions.
-- **[`culture/blacklivesmatter.md`](culture/blacklivesmatter.md)** — why Black citizens have specific reasons to support this bill, with documented cases (George Floyd, Breonna Taylor, Tamir Rice, Atatiana Jefferson, Botham Jean, Walter McMillian, Anthony Ray Hinton, the Central Park Five, *Floyd v. City of New York* stop-and-frisk litigation) and the bill provisions that reach each pattern. Also notes that the foundational *"color of law"* cases (*Classic*, *Screws*, *Monroe*) were all Black-civil-rights cases — this bill picks up where they left off.
-- **[`culture/financial_hardship.md`](culture/financial_hardship.md)** — why citizens living paycheck-to-paycheck, working multiple jobs, on disability or a fixed income, or otherwise financially unstable should support this bill. Covers how poverty has been weaponized through municipal fine schemes (DOJ Ferguson Report 2015), cash bail and pretrial detention (*ODonnell v. Harris County*), civil asset forfeiture (Tan Nguyen, Carole Hinders), driver's-license-suspension cycles, court-fee compounding (*Cain v. White*), child-support enforcement that prevents earning, towing/impound predation, eviction-court asymmetry, predatory plea bargains, and probation/parole fees — and the specific bill provisions that reach each pattern. *No lawyer, no filing fee required to engage with the Council mechanism.*
-- **[`culture/righists.md`](culture/righists.md)** — why constitutional conservatives, libertarians, Second Amendment advocates, religious-liberty defenders, federalists, and patriots should support this bill. Covers documented federal-overreach cases including Ruby Ridge (Vicki Weaver, Lon Horiuchi, *In re Neagle*), Waco/Branch Davidians, the Bundy Ranch federal-prosecution dismissal for Brady violations, LaVoy Finicum, the IRS targeting scandal (TIGTA 2013), Operation Choke Point, religious-liberty SCOTUS cases (*Hobby Lobby*, *Masterpiece Cakeshop*, *Little Sisters*, *Kennedy v. Bremerton*), the 2023 FBI Richmond memo on traditional Catholics, federal land enforcement in Utah, and ATF rule-making. Particular focus on §15.7's abrogation of *In re Neagle* — federal officer status is not a shield from Utah criminal prosecution.
-- **[`culture/public_servants.md`](culture/public_servants.md)** — for police officers, deputies, federal agents, judges, prosecutors, mayors, council members, legislators, and elected officials. The argument *for* the bill from the inside: lawful, peaceful accountability mechanisms today prevent the conditions that produce unrest tomorrow. The bill targets misconduct, not lawful work; clears the bad actors who give every profession a bad name; protects dissenting council members who object on the record; and gives officials a concrete answer to constituents who have lost trust in accountability. Explicitly disavows violence and militia framings. *"Operation Checkmate is not a threat. It is a release valve."*
-
-If you'd like to write a community-specific guide for another group (parents, small-business owners, religious communities, immigrants, the disability community, etc.), please open a pull request — these guides are how the bill becomes accessible to the people it protects.
-
-**Questions, feedback, and contributions:**
-
-- **Need help understanding any part of the bill?** Just ask. Email **citizens.checkmate@gmail.com** with subject `CHECKMATE`. No question is too basic — the goal is for every citizen who wants to read this to be able to.
-- **Spot something you'd change, or have a suggestion?** [**File an issue on GitHub**](https://github.com/killerdevildog/checkmate/issues) — for questions, suggestions, criticism, or anything else.
-- **Comfortable with git?** [**Open a pull request**](https://github.com/killerdevildog/checkmate) with the specific edit you'd propose. The bill is on GitHub precisely so citizens can shape it.
-
-This bill gets better the more citizens engage with it.
-
----
-
-## Working with this repository
-
-The [contribution guide](CONTRIBUTING.md) covers source edits, checking links, and reviewing generated output. Rebuild the section draft from the repository root with:
-
-```bash
-bash sections/build_bill.sh
-```
-
-This writes `sections/bill_proposal.md`. Review it before explicitly copying it to the root reading copy. The [section guide](sections/README.md) explains the build order and why the numbering skips Sections 6–8.
-
-For PDF export, see the [Pandoc how-to](pandoc-howto.md) and [rendering sample](testing/README.md). PDFs and `deploy/` are ignored build artifacts; reading or editing the Markdown does not require Pandoc.
-
-Other working materials include the [project goal](goal.md), [structural explanation](why-this-is-the-answer.md), [restructuring plan](restructure_plan.md), and [research index](research/README.md). Research and planning documents are separate from the bill's build inputs.
-
----
-
-## Disclaimer
-
-This is a draft of proposed legislation, written by citizens. It is not legal advice.
+*This is a citizen-written legislative draft. It is not legal advice.*
