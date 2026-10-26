@@ -1,0 +1,534 @@
+[
+  {
+    "name": "Adam",
+    "era": "Genesis tradition",
+    "kind": "Scriptural analogy",
+    "evidence": "Genesis presents humanity as bearing the divine image and Adam as a responsible moral agent.",
+    "connection": "The dignity-first reading offers a theological premise for protected rights (§1.1.5): persons have worth before an office grants them anything.",
+    "qualification": "No political platform or recorded position on government liability can be attributed to Adam. This is an interpretation of a creation narrative.",
+    "sources": [
+      {
+        "title": "Genesis 1:26–27; 2:15–17",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis%201%3A26-27%3B2%3A15-17&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Eve",
+    "era": "Genesis tradition",
+    "kind": "Scriptural analogy",
+    "evidence": "Genesis includes female humanity in the divine-image account and names Eve as the mother of the living.",
+    "connection": "A shared-dignity interpretation supports extending the bill’s protections to women on equal terms (§1.1.5).",
+    "qualification": "The text records no legislative program by Eve. This entry is symbolic, not evidence that she endorsed a political institution.",
+    "sources": [
+      {
+        "title": "Genesis 1:27; 3:20",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis%201%3A27%3B3%3A20&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Enoch",
+    "era": "Latter-day Saint scriptural tradition",
+    "kind": "Scriptural analogy",
+    "evidence": "Moses 7 portrays Enoch’s Zion as a community without poverty and depicts his grief over human suffering.",
+    "connection": "This supplies an ethical argument for measuring government by people’s welfare, relevant to poverty-based enforcement (§17.9C) and humane custody (§2.8.4).",
+    "qualification": "This particular portrayal is from Latter-day Saint scripture. It is not an independently verified ancient legislative record or common to every Enoch tradition.",
+    "sources": [
+      {
+        "title": "Moses 7:18–19, 41–44",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng"
+      }
+    ]
+  },
+  {
+    "name": "Abraham",
+    "era": "Genesis tradition",
+    "kind": "Scriptural principle",
+    "evidence": "Abraham challenges the proposed destruction of righteous people together with the wicked.",
+    "connection": "The objection supports individualized responsibility and protection of innocence (§§3.2, 3.4), including when officials themselves are accused.",
+    "qualification": "A plea in a theological narrative does not establish a modern evidentiary formula or endorsement of the bill’s penalties.",
+    "sources": [
+      {
+        "title": "Genesis 18:23–32",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis%2018%3A23-32&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Moses",
+    "era": "Torah tradition",
+    "kind": "Scriptural principle",
+    "evidence": "The Mosaic legal texts forbid false reports, partial judgment, bribery, oppression of strangers, and killing the innocent.",
+    "connection": "These prohibitions give a religious argument for impartial adjudication and honest evidence (§§2.6–2.7; §17.4).",
+    "qualification": "The Torah also contains status distinctions and punishments unlike modern equal-rights law. Select principles, not its entire legal order, are the parallel.",
+    "sources": [
+      {
+        "title": "Exodus 23:1–9",
+        "url": "https://www.biblegateway.com/passage/?search=Exodus%2023%3A1-9&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Jethro",
+    "era": "Exodus tradition",
+    "kind": "Scriptural principle",
+    "evidence": "Jethro advises Moses to select capable, truthful judges who reject dishonest gain and to distribute the work of judgment.",
+    "connection": "Competence and independence from corrupt incentives fit judicial duties and training (§§2.7, 2.13).",
+    "qualification": "Delegated judges under Moses are not citizen prosecution councils, and this is a scriptural account rather than a modern administrative study.",
+    "sources": [
+      {
+        "title": "Exodus 18:17–26",
+        "url": "https://www.biblegateway.com/passage/?search=Exodus%2018%3A17-26&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Shiphrah",
+    "era": "Exodus tradition",
+    "kind": "Scriptural example",
+    "evidence": "Exodus identifies Shiphrah as one of the midwives who refused Pharaoh’s order to kill male infants.",
+    "connection": "Her narrated refusal supports the principle that a superior’s command cannot excuse an obviously wrongful act (§3.7).",
+    "qualification": "The story concerns refusal to kill; it does not support disregarding lawful duties or establish a general enforcement mechanism.",
+    "sources": [
+      {
+        "title": "Exodus 1:15–21",
+        "url": "https://www.biblegateway.com/passage/?search=Exodus%201%3A15-21&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Puah",
+    "era": "Exodus tradition",
+    "kind": "Scriptural example",
+    "evidence": "Exodus separately names Puah among the midwives who would not carry out Pharaoh’s lethal command.",
+    "connection": "Her narrated conduct likewise supports personal responsibility despite official orders (§3.7).",
+    "qualification": "Puah is a distinct named person in the text, but no separate political teaching or verified biography should be invented for her.",
+    "sources": [
+      {
+        "title": "Exodus 1:15–21",
+        "url": "https://www.biblegateway.com/passage/?search=Exodus%201%3A15-21&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Samuel",
+    "era": "Hebrew Bible tradition",
+    "kind": "Scriptural principle",
+    "evidence": "Samuel publicly invites accusations of theft, oppression, or bribery and offers restitution for any proved wrong.",
+    "connection": "Public answerability and repair provide a close ethical analogue to personal accountability and citizen complaints (§5.2; §17.9A).",
+    "qualification": "A leader’s public accounting is not equivalent to the bill’s criminal procedures; the narrative does not establish guilt without proof.",
+    "sources": [
+      {
+        "title": "1 Samuel 12:1–5",
+        "url": "https://www.biblegateway.com/passage/?search=1%20Samuel%2012%3A1-5&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Nathan",
+    "era": "Hebrew Bible tradition",
+    "kind": "Scriptural example",
+    "evidence": "Nathan confronts King David over taking Uriah’s wife and arranging Uriah’s death.",
+    "connection": "The narrative’s force is that kingship does not make an abuse morally innocent, supporting accountability for officeholders (§5.1).",
+    "qualification": "Prophetic judgment is not a model for bypassing legal defense or trial; the narrative’s punishments cannot simply be imported into modern law.",
+    "sources": [
+      {
+        "title": "2 Samuel 12:1–14",
+        "url": "https://www.biblegateway.com/passage/?search=2%20Samuel%2012%3A1-14&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Elijah",
+    "era": "Hebrew Bible tradition",
+    "kind": "Scriptural example",
+    "evidence": "Elijah confronts Ahab after Naboth is falsely accused, killed, and deprived of his vineyard.",
+    "connection": "The episode links manipulated legal process and wrongful property seizure, relevant to fabricated charges and property abuse (§17.2B; §17.9F).",
+    "qualification": "This is a prophetic narrative about monarchy, not documentary support for the bill’s precise civil or criminal rules.",
+    "sources": [
+      {
+        "title": "1 Kings 21",
+        "url": "https://www.biblegateway.com/passage/?search=1%20Kings%2021&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Amos",
+    "era": "Eighth-century BCE prophetic tradition",
+    "kind": "Scriptural principle",
+    "evidence": "Amos condemns bribes, the trampling of poor people, and denial of justice at the city gate.",
+    "connection": "His critique supports scrutiny of corrupt adjudication and poverty-based coercion (§§17.9C, 17.9E).",
+    "qualification": "Prophetic denunciation supplies a moral standard, not evidence that every disputed government action is criminal.",
+    "sources": [
+      {
+        "title": "Amos 5:10–15, 21–24",
+        "url": "https://www.biblegateway.com/passage/?search=Amos%205%3A10-15%2C21-24&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Micah",
+    "era": "Eighth-century BCE prophetic tradition",
+    "kind": "Scriptural principle",
+    "evidence": "Micah condemns leaders who despise justice and judges who act for payment.",
+    "connection": "The passage supports treating public judgment as a duty rather than a commodity (§2.7; §17.6).",
+    "qualification": "Religious condemnation does not supply modern offense elements or authorize conviction on rhetoric alone.",
+    "sources": [
+      {
+        "title": "Micah 3:9–12; 6:8",
+        "url": "https://www.biblegateway.com/passage/?search=Micah%203%3A9-12%3B6%3A8&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Isaiah",
+    "era": "Isaianic prophetic tradition",
+    "kind": "Scriptural principle",
+    "evidence": "Isaiah condemns unjust decrees and administrative rules that deprive the poor, widows, and orphans of justice.",
+    "connection": "This is a direct moral challenge to abuse accomplished through official paperwork (§17.9H) rather than open violence.",
+    "qualification": "The book has a complex compositional history; the inference concerns the received prophetic text, not a verified modern policy position.",
+    "sources": [
+      {
+        "title": "Isaiah 10:1–2",
+        "url": "https://www.biblegateway.com/passage/?search=Isaiah%2010%3A1-2&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Jesus of Nazareth",
+    "era": "First-century Christianity",
+    "kind": "Textual principle",
+    "evidence": "In Mark, Jesus contrasts rulers who dominate others with leadership expressed through service.",
+    "connection": "The servant model supports the bill’s premise that office creates duties toward people (§5.3), rather than personal entitlement.",
+    "qualification": "Christian teaching also requires mercy and restraint. This passage cannot substantiate automatic approval of severe penalties or any particular prosecution structure.",
+    "sources": [
+      {
+        "title": "Mark 10:42–45",
+        "url": "https://www.biblegateway.com/passage/?search=Mark%2010%3A42-45&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "Paul of Tarsus",
+    "era": "First-century Christianity",
+    "kind": "Textual example",
+    "evidence": "Acts depicts Paul objecting to public punishment without trial and invoking legal protections against examination by scourging.",
+    "connection": "The episodes support procedural protection against state coercion (§2) and the right to question an official’s legal basis.",
+    "qualification": "Acts is a narrative source; Roman citizenship protections were unequal and much narrower than universal modern rights.",
+    "sources": [
+      {
+        "title": "Acts 16:35–39; 22:25–29",
+        "url": "https://www.biblegateway.com/passage/?search=Acts%2016%3A35-39%3B22%3A25-29&version=KJV"
+      }
+    ]
+  },
+  {
+    "name": "King Benjamin",
+    "era": "Book of Mormon tradition",
+    "kind": "Scriptural principle",
+    "evidence": "Benjamin describes personal service to his people and rejects the notion that kingship makes him inherently better than them.",
+    "connection": "The parallel is public service without personal superiority (§§5.2–5.3).",
+    "qualification": "This is a Latter-day Saint scriptural model of kingship, not independently established history or evidence for particular offense classifications.",
+    "sources": [
+      {
+        "title": "Mosiah 2:10–18, 26–27",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng"
+      }
+    ]
+  },
+  {
+    "name": "Mosiah II",
+    "era": "Book of Mormon tradition",
+    "kind": "Scriptural institutional analogy",
+    "evidence": "Mosiah 29 proposes judges, accountability for judges who misjudge, and judgment according to the people’s voice.",
+    "connection": "This is a closer textual analogue to citizen participation and review of officials (§9) than a generic appeal to righteous kings.",
+    "qualification": "The chapter also warns that a people’s majority can choose wrongly. Its judicial design is not identical to the bill’s councils.",
+    "sources": [
+      {
+        "title": "Mosiah 29:25–32",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/29?lang=eng"
+      }
+    ]
+  },
+  {
+    "name": "Alma the Younger",
+    "era": "Book of Mormon tradition",
+    "kind": "Scriptural example",
+    "evidence": "Alma gives up the judgment seat to devote himself to teaching after describing pride, inequality, and persecution.",
+    "connection": "The account connects legitimate leadership with concern for people harmed by unequal power (§1.1.5).",
+    "qualification": "Relinquishing an office and preaching are not proof of support for expanding criminal penalties or citizen prosecutorial authority.",
+    "sources": [
+      {
+        "title": "Alma 4:8–20",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/4?lang=eng"
+      }
+    ]
+  },
+  {
+    "name": "Captain Moroni",
+    "era": "Book of Mormon tradition",
+    "kind": "Qualified scriptural analogy",
+    "evidence": "Alma depicts Moroni rallying people around religion, peace, freedom, and family through the title of liberty.",
+    "connection": "The stated objects resemble the bill’s protected interests (§1.1.5) and opposition to domination.",
+    "qualification": "The same chapter includes coercive wartime punishment. It cannot be used as an uncomplicated endorsement of peaceful modern due process or compulsory loyalty.",
+    "sources": [
+      {
+        "title": "Alma 46:12–20, 35",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=eng"
+      }
+    ]
+  },
+  {
+    "name": "Hammurabi",
+    "era": "Eighteenth century BCE; Babylonia",
+    "kind": "Limited legal precedent",
+    "evidence": "Provision 5 of the collection associated with Hammurabi imposes consequences on a judge who improperly changes a judgment, including removal from office.",
+    "connection": "The narrow parallel is that judicial office need not exclude personal consequences for adjudicative misconduct (§§2.7, 5.1).",
+    "qualification": "The translation and legal interpretation require care. The collection uses unequal status-based penalties and brutal punishments; it is not a charter of universal due process.",
+    "sources": [
+      {
+        "title": "Code of Hammurabi, provision 5",
+        "url": "https://avalon.law.yale.edu/ancient/hamcode.asp"
+      }
+    ]
+  },
+  {
+    "name": "Cyrus the Great",
+    "era": "Sixth century BCE; Achaemenid Persia",
+    "kind": "Qualified historical parallel",
+    "evidence": "The Cyrus Cylinder presents a royal policy of restoring cults and returning displaced communities and their divine images.",
+    "connection": "A restrained analogy supports protection against arbitrary displacement and religious coercion (§1.1.5).",
+    "qualification": "The British Museum expressly rejects calling the cylinder a modern human-rights charter. It is a royal legitimating inscription, not evidence for citizen control of kings.",
+    "sources": [
+      {
+        "title": "British Museum, Cyrus Cylinder collection record",
+        "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+      }
+    ]
+  },
+  {
+    "name": "Alexander the Great",
+    "era": "356–323 BCE; Macedonian empire",
+    "kind": "Qualified historical parallel",
+    "evidence": "Arrian reports Alexander punishing commanders accused of abusing subject populations, and reports that Heracon was initially acquitted before another accusation led to punishment.",
+    "connection": "The limited point is official accountability for mistreating people under one’s power (§§5.2, 17.10).",
+    "qualification": "Arrian wrote centuries later. Alexander’s conquest, autocracy, and executions are substantial counterweights; these episodes do not establish support for constitutional government or the bill as a whole.",
+    "sources": [
+      {
+        "title": "Arrian, Anabasis 6.27.3–5, translated at Livius",
+        "url": "https://www.livius.org/sources/content/arrian/anabasis/administrative-measures/"
+      }
+    ]
+  },
+  {
+    "name": "Solon",
+    "era": "Sixth century BCE; Athens",
+    "kind": "Reported institutional precedent",
+    "evidence": "The Athenian Constitution credits Solon with ending loans secured on the debtor’s person, allowing redress for injured others, and providing appeal to popular courts.",
+    "connection": "These are concrete antecedents for accessible remedies, checks on officials, and opposition to poverty-based captivity (§2.10; §17.9C).",
+    "qualification": "The account is later than Solon, and Athenian participation excluded much of the population. Popular courts were not the proposed Citizen Councils.",
+    "sources": [
+      {
+        "title": "Aristotle or his school, Athenian Constitution 9",
+        "url": "https://classics.mit.edu/Aristotle/athenian_const.1.1.html"
+      }
+    ]
+  },
+  {
+    "name": "Socrates",
+    "era": "469–399 BCE; Athens",
+    "kind": "Reported ethical example",
+    "evidence": "In Plato’s Apology, Socrates says he refused the Thirty’s command to help seize Leon of Salamis for execution.",
+    "connection": "This is a strong ethical example for personal refusal of an unjust official order (§3.7).",
+    "qualification": "The source is Plato’s literary account of Socrates’ defense. Refusing a wrongful order does not imply rejection of every lawful command or support for the bill’s machinery.",
+    "sources": [
+      {
+        "title": "Plato, Apology 32c–e",
+        "url": "https://classics.mit.edu/Plato/apology.html"
+      }
+    ]
+  },
+  {
+    "name": "Plato",
+    "era": "Fourth century BCE; Athens",
+    "kind": "Textual principle with major limits",
+    "evidence": "Laws IV describes the preservation of a state through the subordination of rulers to law.",
+    "connection": "That provides an argument against government by an officeholder’s unchecked will (§2.1).",
+    "qualification": "Other Platonic proposals are hierarchical and coercive. This principle cannot honestly turn Plato into a modern liberal democrat or defender of all the bill’s liberties.",
+    "sources": [
+      {
+        "title": "Laws IV, especially 715c–d",
+        "url": "https://classics.mit.edu/Plato/laws.4.iv.html"
+      }
+    ]
+  },
+  {
+    "name": "Aristotle",
+    "era": "384–322 BCE; Greek philosophy",
+    "kind": "Textual principle with major limits",
+    "evidence": "Politics III argues for law’s authority and describes rulers as its guardians and servants.",
+    "connection": "This supports the distinction between lawful office and personal domination (§§2.1, 5.3).",
+    "qualification": "Aristotle also defended hierarchy and natural slavery. His restricted citizen body is incompatible with a claim that he already endorsed universal equal rights.",
+    "sources": [
+      {
+        "title": "Politics III.16",
+        "url": "https://classics.mit.edu/Aristotle/politics.3.three.html"
+      }
+    ]
+  },
+  {
+    "name": "Pericles",
+    "era": "Fifth century BCE; Athens",
+    "kind": "Reported civic principle",
+    "evidence": "The funeral speech presented by Thucydides praises equal justice in private disputes and public service based on merit rather than class privilege.",
+    "connection": "The stated ideals support impartial adjudication and competent service (§§2.7, 2.13).",
+    "qualification": "Thucydides is the intermediary. Athenian slavery, exclusion, and empire limit any inference from the speech to universal rights or modern accountability.",
+    "sources": [
+      {
+        "title": "Thucydides, History II.37, University of Minnesota translation",
+        "url": "https://hrlibrary.umn.edu/education/thucydides.html"
+      }
+    ]
+  },
+  {
+    "name": "Cicero",
+    "era": "106–43 BCE; Roman Republic",
+    "kind": "Textual public-duty principle",
+    "evidence": "On Duties distinguishes justice from injury and treats public administration as a trust directed to the advantage of those governed.",
+    "connection": "The fiduciary conception supplies a direct ethical argument for officials’ duties to citizens (§5.3; §17.18).",
+    "qualification": "The source’s public-duty principle is narrower than endorsing every action of Cicero’s career or every proposed criminal classification.",
+    "sources": [
+      {
+        "title": "De Officiis I, especially 20–23 and 85",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0048%3Abook%3D1"
+      }
+    ]
+  },
+  {
+    "name": "Seneca",
+    "era": "First century CE; Roman Stoicism",
+    "kind": "Textual restraint principle",
+    "evidence": "On Clemency urges a ruler with power to punish to practice moderation rather than cruelty.",
+    "connection": "This is useful for restraining coercive officials and for demanding proportional treatment of accused officials themselves (§§2, 3).",
+    "qualification": "The work counsels an emperor, not citizen government. Its argument for restraint could oppose the draft’s extensive severe and capital classifications.",
+    "sources": [
+      {
+        "title": "De Clementia I; II.3",
+        "url": "https://www.ancienttexts.org/library/latinlibrary/sen.clem.html"
+      }
+    ]
+  },
+  {
+    "name": "Epictetus",
+    "era": "First–second century CE; Stoic teaching",
+    "kind": "Ethical analogy",
+    "evidence": "Discourses I.13 rebukes a master’s contempt for a servant by invoking their shared divine kinship.",
+    "connection": "The equal moral standing of persons challenges the idea that rank licenses degrading treatment (§1.1.5; §5.3).",
+    "qualification": "Stoic moral kinship is not a legal program abolishing status distinctions, and the passage supplies no modern enforcement procedure.",
+    "sources": [
+      {
+        "title": "Discourses I.13, recorded by Arrian",
+        "url": "https://classics.mit.edu/Epictetus/discourses.1.one.html"
+      }
+    ]
+  },
+  {
+    "name": "Marcus Aurelius",
+    "era": "121–180 CE; Roman emperor",
+    "kind": "Textual ideal with institutional limits",
+    "evidence": "Meditations I.14 praises equal law, freedom of speech, and government that respects the governed.",
+    "connection": "Those professed ideals support equal treatment and protection of criticism (§1.1.5; §17.9G).",
+    "qualification": "An emperor’s private moral ideals are not evidence that his empire realized them or that he supported prosecution by independent citizen councils.",
+    "sources": [
+      {
+        "title": "Meditations I.14",
+        "url": "https://classics.mit.edu/Antoninus/meditations.1.one.html"
+      }
+    ]
+  },
+  {
+    "name": "Confucius",
+    "era": "Sixth–fifth century BCE; Chinese tradition",
+    "kind": "Textual legitimacy principle",
+    "evidence": "Analects 12.7 makes the people’s trust indispensable to government, even when other resources must be surrendered.",
+    "connection": "The inference is that public authority must earn trust through faithful conduct rather than demand it solely by title (§5.3).",
+    "qualification": "The Analects is a transmitted collection, and Confucian role hierarchy is not identical to equal political participation or modern criminal liability.",
+    "sources": [
+      {
+        "title": "Analects 12.7",
+        "url": "https://ctext.org/analects/yan-yuan"
+      }
+    ]
+  },
+  {
+    "name": "Mencius",
+    "era": "Fourth century BCE; Chinese philosophy",
+    "kind": "Textual people-first principle",
+    "evidence": "Mencius ranks the people above the altars of state and the ruler.",
+    "connection": "That ordering supports judging public power by the welfare and rights of people (§1.1.5; §5.3).",
+    "qualification": "This is a theory of legitimate rulership, not direct advocacy of the proposed councils, procedural rules, or penalty schedule.",
+    "sources": [
+      {
+        "title": "Mengzi, Jin Xin II.14",
+        "url": "https://ctext.org/text.pl?if=en&node=1854&remap=gb"
+      }
+    ]
+  },
+  {
+    "name": "Mozi",
+    "era": "Fifth century BCE; Mohist tradition",
+    "kind": "Textual consistency principle",
+    "evidence": "The Mohist criticism of offensive war asks why conduct condemned as individual injury becomes celebrated when rulers inflict it on a large scale.",
+    "connection": "This is a sharp analogue to applying moral standards consistently across private and official conduct (§5.5).",
+    "qualification": "The Mozi is a composite school text; Mohist discipline and political organization differ from modern individual-rights institutions.",
+    "sources": [
+      {
+        "title": "Mozi, Condemnation of Offensive War I",
+        "url": "https://ctext.org/mozi/condemnation-of-offensive-war-i"
+      }
+    ]
+  },
+  {
+    "name": "Laozi",
+    "era": "Traditional attribution; early Chinese Daoism",
+    "kind": "Qualified textual analogy",
+    "evidence": "The Dao De Jing warns that intrusive governing and proliferating prohibitions can worsen the conditions they purport to cure.",
+    "connection": "This supplies a caution against regulatory domination and state-created hardship (§17.23; §17.9C).",
+    "qualification": "The author’s identity and dating are uncertain. The same skepticism would challenge an expansive new criminal code, so the affinity is explicitly limited.",
+    "sources": [
+      {
+        "title": "Dao De Jing 57, 74–75",
+        "url": "https://ctext.org/dao-de-jing"
+      }
+    ]
+  },
+  {
+    "name": "Ashoka",
+    "era": "Third century BCE; Mauryan India",
+    "kind": "Direct administrative precedent",
+    "evidence": "Ashoka’s edicts instruct judicial officers to prevent unjust imprisonment and harsh treatment, and provide a stay before execution.",
+    "connection": "This is unusually concrete support for enforceable duties of humane custody and careful adjudication (§§2.7–2.8).",
+    "qualification": "The inscriptions express royal policy, not proof of uniform practice. They retain monarchy and capital punishment rather than the bill’s citizen-enforcement model.",
+    "sources": [
+      {
+        "title": "Separate Rock Edict I; Pillar Edict IV, Dhammika translation",
+        "url": "https://accesstoinsight.org/lib/authors/dhammika/wheel386.html"
+      }
+    ]
+  },
+  {
+    "name": "Gautama Buddha",
+    "era": "Early Buddhist tradition",
+    "kind": "Textual ethical principle",
+    "evidence": "Dhammapada 129–130 grounds restraint in recognition that others fear violence and value their lives as one does oneself.",
+    "connection": "That moral symmetry supports constraints on official violence (§1.1.3) and humane custody (§2.8).",
+    "qualification": "These are teachings preserved in Buddhist scripture, not a detailed legislative proposal. They also require serious scrutiny of the draft’s punitive severity.",
+    "sources": [
+      {
+        "title": "Dhammapada, chapter 10, verses 129–130",
+        "url": "https://accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html"
+      }
+    ]
+  }
+]
