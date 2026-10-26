@@ -28,6 +28,12 @@ Multiple independent studies have measured political skew in mainstream AI chatb
 
 The studies disagree on which model leans which direction and by how much, and the companies involved dispute some of the figures — but independent researchers keep finding *some* measurable lean, in both directions depending on the model, the language, and the topic. Treat that as a known property of the tool you're using, not a reason to distrust this bill specifically. It's exactly why the instructions above ask you to hand the assistant the actual text and make it cite sections, instead of asking it for a cold opinion.
 
+📱💰 **Use a capable AI model, not just whatever free chatbot is in front of you** 💰📱
+
+This document is long and dense — hundreds of pages of interlocking, cross-referenced sections. 🆓⚠️ A free or lightweight model can run out of room to actually hold the whole document, skim instead of read, and fill the gaps with a pattern-matched guess instead of the real text — then hand you a confident-sounding but **misleading** answer. 💳✅ A paid, flagship-tier model — a paid tier of Claude (Sonnet or above), a paid tier of ChatGPT, or another top-tier assistant — is far more likely to actually process the full document and ground its answers in the real sections.
+
+🧾 If getting accurate answers about this bill matters to you, it's worth paying for access to a model capable of reading all of it. Either way: follow the instructions above — hand it the actual text, and make it cite the section behind every claim. 📖✅
+
 ## The idea: criminal accountability for misuse of public power
 
 **Operation Checkmate is a proposed Utah bill that makes defined abuses of government power punishable as infractions, misdemeanors, and felonies. Its purpose is public accountability: officials answer for unlawful conduct under law, before a court, with consequences tied to what they did.**
