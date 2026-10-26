@@ -295,3 +295,5 @@ I am Christian. The Act is drafted from the conviction that the only right way t
 The Act is, in operative effect, a structural rejection of antichrist disposition in government — of the coercion, extraction, and fear-based governance the etymology of "Christian" identifies as its inverse — and a restoration of the disposition the constitutional order requires. The framing is not sectarian. It is definitional. A government that operates by grace is Christian; a government that operates by coercion, extraction, and fear is antichrist; and the operative test the Act applies is the only one the word itself supports.
 
 We are a Christian nation in this sense. We must be, if we are to remain a free one. And Operation Checkmate exists to ensure that, in the operative reality of state government within the State of Utah, we do — by reaching, criminalizing, and ending the specific practices of antichrist governance, and by restoring the disposition of Christ to the conduct of government toward the citizens it was instituted to serve.
+
+-Authored By Quaylyn Rimer
